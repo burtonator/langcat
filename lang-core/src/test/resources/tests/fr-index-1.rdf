@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="http://www.loiclemeur.com/france/">
+<title>Loic Le Meur blog [FR]</title>
+<link>http://www.loiclemeur.com/france/</link>
+<description>Les media traditionnels diffusent des messages. Les blogs démarrent des discussions.</description>
+<dc:language>en-us</dc:language>
+<dc:creator></dc:creator>
+<dc:date>2005-01-05T18:56:51+01:00</dc:date>
+<admin:generatorAgent rdf:resource="http://www.typepad.com/?v=1.5.1" />
+
+
+<items>
+<rdf:Seq><rdf:li rdf:resource="http://www.loiclemeur.com/france/2005/01/le_blog_bouscul.html" />
+<rdf:li rdf:resource="http://www.loiclemeur.com/france/2005/01/les_affaires_en.html" />
+<rdf:li rdf:resource="http://www.loiclemeur.com/france/2005/01/cela_recommence.html" />
+<rdf:li rdf:resource="http://www.loiclemeur.com/france/2005/01/le_grand_jeu_de.html" />
+<rdf:li rdf:resource="http://www.loiclemeur.com/france/2005/01/f233licitations.html" />
+<rdf:li rdf:resource="http://www.loiclemeur.com/france/2005/01/laudience_des_b.html" />
+<rdf:li rdf:resource="http://www.loiclemeur.com/france/2005/01/team_pda_france.html" />
+<rdf:li rdf:resource="http://www.loiclemeur.com/france/2005/01/linvitation_pou.html" />
+<rdf:li rdf:resource="http://www.loiclemeur.com/france/2005/01/relance_soir233.html" />
+<rdf:li rdf:resource="http://www.loiclemeur.com/france/2005/01/sadek_chekroun_.html" />
+<rdf:li rdf:resource="http://www.loiclemeur.com/france/2005/01/ces_politiques_.html" />
+<rdf:li rdf:resource="http://www.loiclemeur.com/france/2005/01/ne_mentez_surto.html" />
+<rdf:li rdf:resource="http://www.loiclemeur.com/france/2005/01/ce_quil_ne_faut.html" />
+<rdf:li rdf:resource="http://www.loiclemeur.com/france/2005/01/les_avis_des_bl.html" />
+<rdf:li rdf:resource="http://www.loiclemeur.com/france/2005/01/le_rle_des_nouv.html" />
+<rdf:li rdf:resource="http://www.loiclemeur.com/france/2005/01/les_adolescents.html" />
+<rdf:li rdf:resource="http://www.loiclemeur.com/france/2005/01/30_minutes_de_d.html" />
+<rdf:li rdf:resource="http://www.loiclemeur.com/france/2005/01/une_manire_orig.html" />
+<rdf:li rdf:resource="http://www.loiclemeur.com/france/2005/01/onevoice_lance_.html" />
+<rdf:li rdf:resource="http://www.loiclemeur.com/france/2005/01/soire_clics_dor.html" />
+<rdf:li rdf:resource="http://www.loiclemeur.com/france/2005/01/les_marques_et_.html" />
+<rdf:li rdf:resource="http://www.loiclemeur.com/france/2005/01/dan_gillmor_lan.html" />
+<rdf:li rdf:resource="http://www.loiclemeur.com/france/2005/01/m233dias_en_cri.html" />
+<rdf:li rdf:resource="http://www.loiclemeur.com/france/2005/01/nouvelle_ann233.html" />
+<rdf:li rdf:resource="http://www.loiclemeur.com/france/2005/01/michel_moine_la.html" />
+<rdf:li rdf:resource="http://www.loiclemeur.com/france/2005/01/dons_pour_lasie.html" />
+<rdf:li rdf:resource="http://www.loiclemeur.com/france/2004/12/tsunamie_asie_u.html" />
+<rdf:li rdf:resource="http://www.loiclemeur.com/france/2004/12/lancement_de_bl.html" />
+<rdf:li rdf:resource="http://www.loiclemeur.com/france/2004/12/st233phane_233t.html" />
+<rdf:li rdf:resource="http://www.loiclemeur.com/france/2004/12/les_blogs_polit.html" />
+</rdf:Seq>
+</items>
+
+</channel>
+
+<item rdf:about="http://www.loiclemeur.com/france/2005/01/le_blog_bouscul.html">
+<title>Le blog bouscule les m&amp;#233;dias traditionnels </title>
+<link>http://www.loiclemeur.com/france/2005/01/le_blog_bouscul.html</link>
+<description> Article du Figaro aujourd&apos;hui... sur les blogs et les m&amp;#233;dias......</description>
+<content:encoded><![CDATA[<p>
+<a href="http://www.lefigaro.fr/eco-medias/20050105.FIG0277.html">Article du Figaro</a> aujourd'hui... sur les blogs et les m&#233;dias...
+</p>]]></content:encoded>
+
+<dc:subject>Presse</dc:subject>
+
+<dc:creator>Loïc Le Meur</dc:creator>
+<dc:date>2005-01-05T18:56:51+01:00</dc:date>
+</item>
+<item rdf:about="http://www.loiclemeur.com/france/2005/01/les_affaires_en.html">
+<title>Les affaires entrent dans la blogosph&amp;#232;re</title>
+<link>http://www.loiclemeur.com/france/2005/01/les_affaires_en.html</link>
+<description> D&amp;#233;sol&amp;#233; de ne pas bloguer plus aujourd&apos;hui je saute d&apos;un rendez-vous &amp;#224; l&apos;autre. Tiens voici un article de Lib&amp;#233;ration aujourd&apos;hui sur le business des blogs....</description>
+<content:encoded><![CDATA[<p>
+D&#233;sol&#233; de ne pas bloguer plus aujourd'hui je saute d'un rendez-vous &#224; l'autre. Tiens voici un article de Lib&#233;ration aujourd'hui sur le<a href="http://www.liberation.fr/page.php?Article=265926&#38;AG"> business des blogs.</a>
+</p>]]></content:encoded>
+
+<dc:subject>Presse</dc:subject>
+
+<dc:creator>Loïc Le Meur</dc:creator>
+<dc:date>2005-01-05T18:47:45+01:00</dc:date>
+</item>
+<item rdf:about="http://www.loiclemeur.com/france/2005/01/cela_recommence.html">
+<title>Cela recommence</title>
+<link>http://www.loiclemeur.com/france/2005/01/cela_recommence.html</link>
+<description> Lors de la premi&amp;#232;re &amp;#233;dition nous avions r&amp;#233;serv&amp;#233; une salle pour 50, nous avons &amp;#233;t&amp;#233; 100. Pour la deuxi&amp;#232;me &amp;#233;dition, nous avons r&amp;#233;serv&amp;#233; une salle pour 150 &amp;#224; 200 et je vous parie que nous allons d&amp;#233;passer ce chiffre......</description>
+<content:encoded><![CDATA[<p>
+Lors de la premi&#232;re &#233;dition nous avions r&#233;serv&#233; une salle pour 50, nous avons &#233;t&#233; 100. Pour la <a href="http://www.socialtext.net/loicwiki/index.cgi?les_coulisses_du_blog_2_blogs_et_entreprise">deuxi&#232;me &#233;dition</a>, nous avons r&#233;serv&#233; une salle pour 150 &#224; 200 et je vous parie que nous allons d&#233;passer ce chiffre... C'est incroyable ! Merci &#224; tous pour votre int&#233;r&#234;t.
+</p><p>
+Je vous annonce le th&#232;me de la troisi&#232;me &#233;dition en f&#233;vrier: blogs et politique.
+</p>]]></content:encoded>
+
+<dc:subject>Les coulisses des blogs</dc:subject>
+
+<dc:creator>Loïc Le Meur</dc:creator>
+<dc:date>2005-01-05T02:03:29+01:00</dc:date>
+</item>
+<item rdf:about="http://www.loiclemeur.com/france/2005/01/le_grand_jeu_de.html">
+<title>Le grand jeu des Clics d&apos;or 2005: qui est qui?</title>
+<link>http://www.loiclemeur.com/france/2005/01/le_grand_jeu_de.html</link>
+<description> Bon tout le monde m&apos;a encore pris pour un demeur&amp;#233; ce soir &amp;#224; mobloguer autant mais voici donc le grand jeu de la soir&amp;#233;e: dans les commentaires, si vous r&amp;#233;ussissez &amp;#224; retrouver qui est qui sur les photos, je...</description>
+<content:encoded><![CDATA[<p>
+Bon tout le monde m'a encore pris pour un demeur&#233; ce soir &#224; <a href="http://www.loiclemeur.com/moblog/">mobloguer</a> autant mais voici donc le grand jeu de la soir&#233;e: dans les commentaires, si vous r&#233;ussissez &#224; retrouver qui est qui sur les photos, je vous offre... toute ma gratitude ! Merci encore aux Clics d'or pour cette soir&#233;e, sympa de vous revoir tous.
+</p><p>
+<a href="http://www.loiclemeur.com/france/images/_photos_uncategorized_photo382.jpg" onclick="window.open('http://www.loiclemeur.com/france/images/_photos_uncategorized_photo382.jpg','popup','width=500,height=375,scrollbars=no,resizable=yes,toolbar=no,directories=no,location=no,menubar=no,status=yes,left=0,top=0');return false"><img src="http://www.loiclemeur.com/france/images/_photos_uncategorized_photo382-tm.jpg" height="100" width="133" border="1" hspace="4" vspace="4" alt=" Photos Uncategorized Photo382" /></a><a href="http://www.loiclemeur.com/france/images/_photos_uncategorized_photo381.jpg" onclick="window.open('http://www.loiclemeur.com/france/images/_photos_uncategorized_photo381.jpg','popup','width=500,height=375,scrollbars=no,resizable=yes,toolbar=no,directories=no,location=no,menubar=no,status=yes,left=0,top=0');return false"><img src="http://www.loiclemeur.com/france/images/_photos_uncategorized_photo381-tm.jpg" height="100" width="133" border="1" hspace="4" vspace="4" alt=" Photos Uncategorized Photo381" /></a><a href="http://www.loiclemeur.com/france/images/_photos_uncategorized_photo380.jpg" onclick="window.open('http://www.loiclemeur.com/france/images/_photos_uncategorized_photo380.jpg','popup','width=500,height=375,scrollbars=no,resizable=yes,toolbar=no,directories=no,location=no,menubar=no,status=yes,left=0,top=0');return false"><img src="http://www.loiclemeur.com/france/images/_photos_uncategorized_photo380-tm.jpg" height="100" width="133" border="1" hspace="4" vspace="4" alt=" Photos Uncategorized Photo380" /></a>
+<br />1 - 2 - 3
+</p><p>
+<a href="http://www.loiclemeur.com/france/images/_photos_uncategorized_photo378.jpg" onclick="window.open('http://www.loiclemeur.com/france/images/_photos_uncategorized_photo378.jpg','popup','width=500,height=375,scrollbars=no,resizable=yes,toolbar=no,directories=no,location=no,menubar=no,status=yes,left=0,top=0');return false"><img src="http://www.loiclemeur.com/france/images/_photos_uncategorized_photo378-tm.jpg" height="100" width="133" border="1" hspace="4" vspace="4" alt=" Photos Uncategorized Photo378" /></a><a href="http://www.loiclemeur.com/france/images/_photos_uncategorized_photo377.jpg" onclick="window.open('http://www.loiclemeur.com/france/images/_photos_uncategorized_photo377.jpg','popup','width=500,height=375,scrollbars=no,resizable=yes,toolbar=no,directories=no,location=no,menubar=no,status=yes,left=0,top=0');return false"><img src="http://www.loiclemeur.com/france/images/_photos_uncategorized_photo377-tm.jpg" height="100" width="133" border="1" hspace="4" vspace="4" alt=" Photos Uncategorized Photo377" /></a><a href="http://www.loiclemeur.com/france/images/_photos_uncategorized_photo376.jpg" onclick="window.open('http://www.loiclemeur.com/france/images/_photos_uncategorized_photo376.jpg','popup','width=500,height=375,scrollbars=no,resizable=yes,toolbar=no,directories=no,location=no,menubar=no,status=yes,left=0,top=0');return false"><img src="http://www.loiclemeur.com/france/images/_photos_uncategorized_photo376-tm.jpg" height="100" width="133" border="1" hspace="4" vspace="4" alt=" Photos Uncategorized Photo376" /></a>
+<br />4 - 5 - 6
+<br /><a href="http://www.loiclemeur.com/france/images/_photos_uncategorized_photo375.jpg" onclick="window.open('http://www.loiclemeur.com/france/images/_photos_uncategorized_photo375.jpg','popup','width=500,height=375,scrollbars=no,resizable=yes,toolbar=no,directories=no,location=no,menubar=no,status=yes,left=0,top=0');return false"><img src="http://www.loiclemeur.com/france/images/_photos_uncategorized_photo375-tm.jpg" height="100" width="133" border="1" hspace="4" vspace="4" alt=" Photos Uncategorized Photo375" /></a><a href="http://www.loiclemeur.com/france/images/_photos_uncategorized_photo373.jpg" onclick="window.open('http://www.loiclemeur.com/france/images/_photos_uncategorized_photo373.jpg','popup','width=500,height=375,scrollbars=no,resizable=yes,toolbar=no,directories=no,location=no,menubar=no,status=yes,left=0,top=0');return false"><img src="http://www.loiclemeur.com/france/images/_photos_uncategorized_photo373-tm.jpg" height="100" width="133" border="1" hspace="4" vspace="4" alt=" Photos Uncategorized Photo373" /></a><a href="http://www.loiclemeur.com/france/images/_photos_uncategorized_photo371.jpg" onclick="window.open('http://www.loiclemeur.com/france/images/_photos_uncategorized_photo371.jpg','popup','width=500,height=375,scrollbars=no,resizable=yes,toolbar=no,directories=no,location=no,menubar=no,status=yes,left=0,top=0');return false"><img src="http://www.loiclemeur.com/france/images/_photos_uncategorized_photo371-tm.jpg" height="100" width="133" border="1" hspace="4" vspace="4" alt=" Photos Uncategorized Photo371" /></a>
+</p><p>
+7 - 8 - 9
+</p><p>
+<a href="http://www.loiclemeur.com/france/images/_photos_uncategorized_photo370.jpg" onclick="window.open('http://www.loiclemeur.com/france/images/_photos_uncategorized_photo370.jpg','popup','width=500,height=375,scrollbars=no,resizable=yes,toolbar=no,directories=no,location=no,menubar=no,status=yes,left=0,top=0');return false"><img src="http://www.loiclemeur.com/france/images/_photos_uncategorized_photo370-tm.jpg" height="100" width="133" border="1" hspace="4" vspace="4" alt=" Photos Uncategorized Photo370" /></a><a href="http://www.loiclemeur.com/france/images/_photos_uncategorized_photo368.jpg" onclick="window.open('http://www.loiclemeur.com/france/images/_photos_uncategorized_photo368.jpg','popup','width=500,height=375,scrollbars=no,resizable=yes,toolbar=no,directories=no,location=no,menubar=no,status=yes,left=0,top=0');return false"><img src="http://www.loiclemeur.com/france/images/_photos_uncategorized_photo368-tm.jpg" height="100" width="133" border="1" hspace="4" vspace="4" alt=" Photos Uncategorized Photo368" /></a><a href="http://www.loiclemeur.com/france/images/_photos_uncategorized_photo365.jpg" onclick="window.open('http://www.loiclemeur.com/france/images/_photos_uncategorized_photo365.jpg','popup','width=500,height=375,scrollbars=no,resizable=yes,toolbar=no,directories=no,location=no,menubar=no,status=yes,left=0,top=0');return false"><img src="http://www.loiclemeur.com/france/images/_photos_uncategorized_photo365-tm.jpg" height="100" width="133" border="1" hspace="4" vspace="4" alt=" Photos Uncategorized Photo365" /></a>
+</p><p>
+10 - 11 - 12
+</p><p>
+<a href="http://www.loiclemeur.com/france/images/_photos_uncategorized_photo363.jpg" onclick="window.open('http://www.loiclemeur.com/france/images/_photos_uncategorized_photo363.jpg','popup','width=500,height=375,scrollbars=no,resizable=yes,toolbar=no,directories=no,location=no,menubar=no,status=yes,left=0,top=0');return false"><img src="http://www.loiclemeur.com/france/images/_photos_uncategorized_photo363-tm.jpg" height="100" width="133" border="1" hspace="4" vspace="4" alt=" Photos Uncategorized Photo363" /></a><a href="http://www.loiclemeur.com/france/images/_photos_uncategorized_photo364.jpg" onclick="window.open('http://www.loiclemeur.com/france/images/_photos_uncategorized_photo364.jpg','popup','width=500,height=375,scrollbars=no,resizable=yes,toolbar=no,directories=no,location=no,menubar=no,status=yes,left=0,top=0');return false"><img src="http://www.loiclemeur.com/france/images/_photos_uncategorized_photo364-tm.jpg" height="100" width="133" border="1" hspace="4" vspace="4" alt=" Photos Uncategorized Photo364" /></a><a href="http://www.loiclemeur.com/france/images/_photos_uncategorized_photo362.jpg" onclick="window.open('http://www.loiclemeur.com/france/images/_photos_uncategorized_photo362.jpg','popup','width=500,height=375,scrollbars=no,resizable=yes,toolbar=no,directories=no,location=no,menubar=no,status=yes,left=0,top=0');return false"><img src="http://www.loiclemeur.com/france/images/_photos_uncategorized_photo362-tm.jpg" height="100" width="133" border="1" hspace="4" vspace="4" alt=" Photos Uncategorized Photo362" /></a>
+</p><p>
+13 - 14 - 15
+</p><p>
+<a href="http://www.loiclemeur.com/france/images/_photos_uncategorized_photo361.jpg" onclick="window.open('http://www.loiclemeur.com/france/images/_photos_uncategorized_photo361.jpg','popup','width=500,height=375,scrollbars=no,resizable=yes,toolbar=no,directories=no,location=no,menubar=no,status=yes,left=0,top=0');return false"><img src="http://www.loiclemeur.com/france/images/_photos_uncategorized_photo361-tm.jpg" height="100" width="133" border="1" hspace="4" vspace="4" alt=" Photos Uncategorized Photo361" /></a><a href="http://www.loiclemeur.com/france/images/_photos_uncategorized_photo358.jpg" onclick="window.open('http://www.loiclemeur.com/france/images/_photos_uncategorized_photo358.jpg','popup','width=500,height=375,scrollbars=no,resizable=yes,toolbar=no,directories=no,location=no,menubar=no,status=yes,left=0,top=0');return false"><img src="http://www.loiclemeur.com/france/images/_photos_uncategorized_photo358-tm.jpg" height="100" width="133" border="1" hspace="4" vspace="4" alt=" Photos Uncategorized Photo358" /></a><a href="http://www.loiclemeur.com/france/images/_photos_uncategorized_photo357.jpg" onclick="window.open('http://www.loiclemeur.com/france/images/_photos_uncategorized_photo357.jpg','popup','width=500,height=375,scrollbars=no,resizable=yes,toolbar=no,directories=no,location=no,menubar=no,status=yes,left=0,top=0');return false"><img src="http://www.loiclemeur.com/france/images/_photos_uncategorized_photo357-tm.jpg" height="100" width="133" border="1" hspace="4" vspace="4" alt=" Photos Uncategorized Photo357" /></a>
+</p><p>
+16 - 17 - 18
+</p><p>
+<a href="http://www.loiclemeur.com/france/images/_photos_uncategorized_photo356.jpg" onclick="window.open('http://www.loiclemeur.com/france/images/_photos_uncategorized_photo356.jpg','popup','width=500,height=375,scrollbars=no,resizable=yes,toolbar=no,directories=no,location=no,menubar=no,status=yes,left=0,top=0');return false"><img src="http://www.loiclemeur.com/france/images/_photos_uncategorized_photo356-tm.jpg" height="100" width="133" border="1" hspace="4" vspace="4" alt=" Photos Uncategorized Photo356" /></a><a href="http://www.loiclemeur.com/france/images/_photos_uncategorized_photo355.jpg" onclick="window.open('http://www.loiclemeur.com/france/images/_photos_uncategorized_photo355.jpg','popup','width=500,height=375,scrollbars=no,resizable=yes,toolbar=no,directories=no,location=no,menubar=no,status=yes,left=0,top=0');return false"><img src="http://www.loiclemeur.com/france/images/_photos_uncategorized_photo355-tm.jpg" height="100" width="133" border="1" hspace="4" vspace="4" alt=" Photos Uncategorized Photo355" /></a><a href="http://www.loiclemeur.com/france/images/_photos_uncategorized_photo353.jpg" onclick="window.open('http://www.loiclemeur.com/france/images/_photos_uncategorized_photo353.jpg','popup','width=500,height=375,scrollbars=no,resizable=yes,toolbar=no,directories=no,location=no,menubar=no,status=yes,left=0,top=0');return false"><img src="http://www.loiclemeur.com/france/images/_photos_uncategorized_photo353-tm.jpg" height="100" width="133" border="1" hspace="4" vspace="4" alt=" Photos Uncategorized Photo353" /></a>
+</p><p>
+19 - 20 - 21
+</p><p>
+<a href="http://www.loiclemeur.com/france/images/_photos_uncategorized_photo351.jpg" onclick="window.open('http://www.loiclemeur.com/france/images/_photos_uncategorized_photo351.jpg','popup','width=500,height=375,scrollbars=no,resizable=yes,toolbar=no,directories=no,location=no,menubar=no,status=yes,left=0,top=0');return false"><img src="http://www.loiclemeur.com/france/images/_photos_uncategorized_photo351-tm.jpg" height="100" width="133" border="1" hspace="4" vspace="4" alt=" Photos Uncategorized Photo351" /></a><a href="http://www.loiclemeur.com/france/images/_photos_uncategorized_photo349.jpg" onclick="window.open('http://www.loiclemeur.com/france/images/_photos_uncategorized_photo349.jpg','popup','width=500,height=375,scrollbars=no,resizable=yes,toolbar=no,directories=no,location=no,menubar=no,status=yes,left=0,top=0');return false"><img src="http://www.loiclemeur.com/france/images/_photos_uncategorized_photo349-tm.jpg" height="100" width="133" border="1" hspace="4" vspace="4" alt=" Photos Uncategorized Photo349" /></a><a href="http://www.loiclemeur.com/france/images/_photos_uncategorized_photo348.jpg" onclick="window.open('http://www.loiclemeur.com/france/images/_photos_uncategorized_photo348.jpg','popup','width=500,height=375,scrollbars=no,resizable=yes,toolbar=no,directories=no,location=no,menubar=no,status=yes,left=0,top=0');return false"><img src="http://www.loiclemeur.com/france/images/_photos_uncategorized_photo348-tm.jpg" height="100" width="133" border="1" hspace="4" vspace="4" alt=" Photos Uncategorized Photo348" /></a>
+</p><p>
+22 - 23 - 24
+</p>]]></content:encoded>
+
+
+<dc:creator>Loïc Le Meur</dc:creator>
+<dc:date>2005-01-05T01:38:04+01:00</dc:date>
+</item>
+<item rdf:about="http://www.loiclemeur.com/france/2005/01/f233licitations.html">
+<title>F&amp;#233;licitations aux gagnants blogs des Clics d&apos;Or</title>
+<link>http://www.loiclemeur.com/france/2005/01/f233licitations.html</link>
+<description> Bravo &amp;#224; monputeaux.com et &amp;#224; aeiou, les deux vainqueurs du concours de blogdes Clics d&apos;Or....</description>
+<content:encoded><![CDATA[<p>
+Bravo &#224; <a href="http://www.monputeaux.com/">monputeaux.com</a> et &#224; <a href="http://www.fluctuat.net/blog/">aeiou</a>, les deux vainqueurs du concours de blogdes Clics d'Or.
+</p>]]></content:encoded>
+
+
+<dc:creator>Loïc Le Meur</dc:creator>
+<dc:date>2005-01-05T01:25:26+01:00</dc:date>
+</item>
+<item rdf:about="http://www.loiclemeur.com/france/2005/01/laudience_des_b.html">
+<title>L&apos;audience des blogs explose aux Etats-Unis</title>
+<link>http://www.loiclemeur.com/france/2005/01/laudience_des_b.html</link>
+<description> Incroyable statistiques r&amp;#233;v&amp;#233;l&amp;#233;es ce soir par 18h.com sur l&apos;audience des blogs aux Etats-Unis, bas&amp;#233;es sur une &amp;#233;tude de Pew Internet....</description>
+<content:encoded><![CDATA[<p>
+Incroyable statistiques <a href="http://www.lexpansion.com/art/2673.80902.0.html">r&#233;v&#233;l&#233;es ce soir par 18h.com</a> sur l'audience des blogs aux Etats-Unis, bas&#233;es sur une <a href="http://www.pewinternet.org/pdfs/PIP_blogging_data.pdf">&#233;tude</a> de <a href="http://www.pewinternet.org/">Pew Internet.</a>
+</p>]]></content:encoded>
+
+<dc:subject>à propos des blogs</dc:subject>
+
+<dc:creator>Loïc Le Meur</dc:creator>
+<dc:date>2005-01-04T19:32:43+01:00</dc:date>
+</item>
+<item rdf:about="http://www.loiclemeur.com/france/2005/01/team_pda_france.html">
+<title>Team PDA France sous Movable Type</title>
+<link>http://www.loiclemeur.com/france/2005/01/team_pda_france.html</link>
+<description> Merci &amp;#224; toute l&apos;&amp;#233;quipe de PDA France (j&apos;ai ins&amp;#233;r&amp;#233; des captures d&apos;&amp;#233;crans au hasard de ceux de Kurna et Nicolas (qui l&apos;a eu pour No&amp;#235;l) d&apos;avoir choisi Movable Type pour leurs blogs. Je viens de mettre &amp;#224; jour le...</description>
+<content:encoded><![CDATA[<p>
+<a href="http://www.loiclemeur.com/france/images/Capture008-1.jpg" onclick="window.open('http://www.loiclemeur.com/france/images/Capture008-1.jpg','popup','width=493,height=222,scrollbars=no,resizable=yes,toolbar=no,directories=no,location=no,menubar=no,status=yes,left=0,top=0');return false"><img src="http://www.loiclemeur.com/france/images/Capture008-1-tm.jpg" height="100" width="222" border="1" hspace="4" vspace="4" alt="Capture008-1" /></a>
+<br />Merci &#224; toute l'&#233;quipe de <a href="http://www.pdafrance.com/">PDA France</a> (j'ai ins&#233;r&#233; des captures d'&#233;crans au hasard de ceux de <a href="http://www.teampdafrance.com/blognot/">Kurna</a> et <a href="http://www.teampdafrance.com/nicolas/">Nicolas</a> (qui l'a eu <a href="http://www.teampdafrance.com/nicolas/archives/2004/12/encore_un_cadea_1.html">pour No&#235;l</a>) d'avoir choisi <a href="http://www.movabletype.org/sitefr">Movable Type</a> pour leurs blogs. Je viens de mettre &#224; jour le wiki sur lequel j'essaie de regrouper <a href="http://www.socialtext.net/loicwiki/index.cgi?movable_type_blogs_en_france">les blogs Movable Type francophones</a>, n'hesitez pas &#224; rajouter les votres.
+</p><p>
+<a href="http://www.loiclemeur.com/france/images/Capture006-1.jpg" onclick="window.open('http://www.loiclemeur.com/france/images/Capture006-1.jpg','popup','width=781,height=706,scrollbars=no,resizable=yes,toolbar=no,directories=no,location=no,menubar=no,status=yes,left=0,top=0');return false"><img src="http://www.loiclemeur.com/france/images/Capture006-1-tm.jpg" height="154" width="169" border="1" hspace="4" vspace="4" alt="Capture006-1" /></a><a href="http://www.loiclemeur.com/france/images/Capture007-1.jpg" onclick="window.open('http://www.loiclemeur.com/france/images/Capture007-1.jpg','popup','width=781,height=706,scrollbars=no,resizable=yes,toolbar=no,directories=no,location=no,menubar=no,status=yes,left=0,top=0');return false"><img src="http://www.loiclemeur.com/france/images/Capture007-1-tm.jpg" height="154" width="168" border="1" hspace="4" vspace="4" alt="Capture007-1" /></a>
+</p><p>
+Tous les <a href="http://www.teampdafrance.com/">blogs de l'&#233;quipe de PDA France</a> sont ici:
+<br /><a href="http://www.teampdafrance.com/blognot/">Blognot</a>
+<br /><a href="http://www.teampdafrance.com/nicolas/">Nicolas</a>
+<br /><a href="http://www.teampdafrance.com/nghia/">Nghia</a>
+<br /><a href="http://www.teampdafrance.com/mathieu/blog">Mathieu</a>
+<br /><a href="http://www.teampdafrance.com/jb">Jahnpoljak</a>
+<br /><a href="http://www.teampdafrance.com/gregmail">Gregmail</a>
+<br /><a href="http://www.teampdafrance.com/nonokawa">Nonokawa</a>
+<br /><a href="http://www.teampdafrance.com/blogbuster/">Blogbuster</a>
+<br /><a href="http://www.teampdafrance.com/denver">Denver</a>
+<br />L'installation a probablement &#233;t&#233; faite avant notre lancement de <a href="http://www.movabletype.org/sitefr">MT</a> en Fran&#231;ais.
+</p><p>
+Rappel: Movable Type est gratuit en utilisation personnelle sans support.
+</p>]]></content:encoded>
+
+<dc:subject>Movable Type</dc:subject>
+
+<dc:creator>Loïc Le Meur</dc:creator>
+<dc:date>2005-01-04T16:03:29+01:00</dc:date>
+</item>
+<item rdf:about="http://www.loiclemeur.com/france/2005/01/linvitation_pou.html">
+<title>L&apos;invitation pour les Clics d&apos;or</title>
+<link>http://www.loiclemeur.com/france/2005/01/linvitation_pou.html</link>
+<description> Bon, je crois que je ne suis pas du tout sens&amp;#233; bloguer l&apos;invitation mais surtout ne le d&amp;#238;tes &amp;#224; personne. Il vous suffit donc normalement d&apos;imprimer cette invitation (cliquez pour l&apos;agrandir) et d&apos;envoyer un email de confirmation &amp;#224; contact@clicsdor.com...</description>
+<content:encoded><![CDATA[<p>
+Bon, je crois que je ne suis pas du tout sens&#233; bloguer l'invitation mais surtout ne le d&#238;tes &#224; personne. Il vous suffit donc normalement d'imprimer cette invitation (cliquez pour l'agrandir) et d'envoyer un email de confirmation &#224; contact@clicsdor.com pour nous rejoindre. Mais bon, je ne vous l'ai pas donn&#233;e :-)
+</p><p>
+<strong>Attention si vous n'avez pas de confirmation de leur part par email (comme c'est pr&#233;cis&#233; sur l'invitation), je ne pense pas que vous pourrez entrer mais vous pouvez toujours essayer...</strong>
+</p><p>
+<a href="http://www.loiclemeur.com/france/images/Capture005-1.jpg" onclick="window.open('http://www.loiclemeur.com/france/images/Capture005-1.jpg','popup','width=702,height=558,scrollbars=no,resizable=yes,toolbar=no,directories=no,location=no,menubar=no,status=yes,left=0,top=0');return false"><img src="http://www.loiclemeur.com/france/images/Capture005-1-tm.jpg" height="283" width="354" border="1" hspace="4" vspace="4" alt="Capture005-1" /></a>
+</p>]]></content:encoded>
+
+
+<dc:creator>Loïc Le Meur</dc:creator>
+<dc:date>2005-01-04T15:07:13+01:00</dc:date>
+</item>
+<item rdf:about="http://www.loiclemeur.com/france/2005/01/relance_soir233.html">
+<title>Relance soir&amp;#233;e Clics d&apos;Or ce soir 19h30</title>
+<link>http://www.loiclemeur.com/france/2005/01/relance_soir233.html</link>
+<description> Une petite relance car cela me ferait plaisir de vous voir ce soir &amp;#224; la soir&amp;#233;e des clics d&apos;or, lors de laquelle j&apos;aurai le plaisir de remettre deux prix &amp;#224; deux blogueurs s&amp;#233;lectionn&amp;#233;s par le Jury (rappel, TypePad est...</description>
+<content:encoded><![CDATA[<p>
+<a href="http://www.loiclemeur.com/france/images/Capture001-3.jpg" onclick="window.open('http://www.loiclemeur.com/france/images/Capture001-3.jpg','popup','width=262,height=78,scrollbars=no,resizable=yes,toolbar=no,directories=no,location=no,menubar=no,status=yes,left=0,top=0');return false"><img src="http://www.loiclemeur.com/france/images/Capture001-3-tm.jpg" height="100" width="335" border="1" hspace="4" vspace="4" alt="Capture001-3" /></a><a href="http://www.loiclemeur.com/france/images/Capture001-3.jpg" onclick="window.open('http://www.loiclemeur.com/france/images/Capture001-3.jpg','popup','width=262,height=78,scrollbars=no,resizable=yes,toolbar=no,directories=no,location=no,menubar=no,status=yes,left=0,top=0');return false">
+<br /></a>
+</p><p>
+Une petite relance car cela me ferait plaisir de vous voir ce soir &#224; la soir&#233;e des clics d'or, lors de laquelle j'aurai le plaisir de remettre deux prix &#224; deux blogueurs s&#233;lectionn&#233;s par le Jury (rappel, TypePad est sponsor, nous ne sommes pas intervenus dans le Jury qui a d&#233;cid&#233; seul des gagnants).
+</p><p>
+Donc si vous avez votre invitation &#224; ce soir, sinon vous pouvez envoyer un email &#224; contact@clicsdor.com
+</p><p>
+Mieux: appelez de la part de TypePad et de ma part le 01 53 63 20 67 ou le 06 89 98 92 40, l'organisation devrait (j'esp&#232;re) bien vous accueillir pour nous rejoindre ce soir Salle Gaveau, 45, rue de la Bo&#233;tie, 75008 Paris. A toute &#224; l'heure.
+</p>]]></content:encoded>
+
+
+<dc:creator>Loïc Le Meur</dc:creator>
+<dc:date>2005-01-04T14:55:08+01:00</dc:date>
+</item>
+<item rdf:about="http://www.loiclemeur.com/france/2005/01/sadek_chekroun_.html">
+<title>Sadek Chekroun, dirigeant de Kelkoo, affirme que Kelkoo n&apos;a rien à voir avec les faux blogs</title>
+<link>http://www.loiclemeur.com/france/2005/01/sadek_chekroun_.html</link>
+<description> Plusieurs blogueurs ont repéré ces jours-ci des blogs créant des liens vers des produits Kelkoo ressemblant à de faux-blogs à l&apos;initiative de Kelkoo. J&apos;ai passé un coup de fil ce matin à mon ami Sadek, dirigeant de Kelkoo, qui...</description>
+<content:encoded><![CDATA[<p>
+Plusieurs blogueurs ont <a href="http://www.loiclemeur.com/france/2005/01/ce_quil_ne_faut.html">repéré ces jours-ci des blogs</a> créant des liens vers des produits Kelkoo ressemblant à de faux-blogs à l'initiative de Kelkoo.
+</p><p>
+J'ai passé un coup de fil ce matin à mon ami Sadek, dirigeant de Kelkoo, qui affirme de manière catégorique que ces blogs n'ont pas été créés par l'équipe de Kelkoo, qu'ils nuisent à l'image de Kelkoo et qu'il fait en ce moment tout son possible pour tenter d'identifier la sources. Il s'agit visiblement de personnes souhaitant nuire à l'image de Kelkoo et bien entendu très difficiles à identifier, une des limites des blogs... 
+</p><p>
+Merci à Sadek pour cette clarification.
+</p>]]></content:encoded>
+
+
+<dc:creator>Loïc Le Meur</dc:creator>
+<dc:date>2005-01-04T10:18:39+01:00</dc:date>
+</item>
+<item rdf:about="http://www.loiclemeur.com/france/2005/01/ces_politiques_.html">
+<title>Ces politiques convertis au blog</title>
+<link>http://www.loiclemeur.com/france/2005/01/ces_politiques_.html</link>
+<description> Article sur les blogs et la politique dans Le Parisien de Nathalie Segaunes qui dresse en particulier les portraits des blogs de DSK, Alain Juppé et Julien Dray....</description>
+<content:encoded><![CDATA[<p>
+<a href="http://www.leparisien.com/home/info/politique/article.htm?articleid=245951929">Article sur les blogs et la politique dans Le Parisien de Nathalie Segaune</a>s qui dresse en particulier les portraits des blogs de <a href="http://dsk.typepad.com">DSK</a>, <a href="http://www.al1jup.com">Alain Juppé</a> et <a href="http://iledefrance.skyblog.com">Julien Dray.</a>
+</p>]]></content:encoded>
+
+<dc:subject>Blogs et politique</dc:subject>
+<dc:subject>Presse</dc:subject>
+
+<dc:creator>Loïc Le Meur</dc:creator>
+<dc:date>2005-01-04T09:28:59+01:00</dc:date>
+</item>
+<item rdf:about="http://www.loiclemeur.com/france/2005/01/ne_mentez_surto.html">
+<title>Ne mentez surtout pas sur votre blog</title>
+<link>http://www.loiclemeur.com/france/2005/01/ne_mentez_surto.html</link>
+<description> &quot;Si vous mentez sur un blog [...]&amp;#160;la r&amp;#233;action n&amp;#233;gative sera si grande, que quelle que soit votre intention initiale, elle sera surpass&amp;#233;e et &amp;#233;cras&amp;#233;e comme un insecte sous votre chaussure [interpr&amp;#233;tation de l&apos;auteur]. Vous vous battez contre des forces...</description>
+<content:encoded><![CDATA[<p>
+"Si vous mentez sur un blog [...]&#160;la r&#233;action n&#233;gative sera si grande, que quelle que soit votre intention initiale, elle sera surpass&#233;e et &#233;cras&#233;e comme un insecte sous votre chaussure [interpr&#233;tation de l'auteur]. Vous vous battez contre des forces tr&#232;s puissantes car il s'agit des opinions de personnes r&#233;elles"
+</p><p>
+Steve Hayden, vice Chairman d'Ogilvy.
+</p><p>
+Boing Boing a rep&#233;r&#233; cet extrait <a href="http://www.boingboing.net/2005/01/03/fortune_on_blogs_and.html">de l'article mythique de Fortune</a> cette semaine dont j'avais d&#233;j&#224; parl&#233;, les blogs font la couverture de Fortune et une des tendances les plus importantes de 2005.
+</p>]]></content:encoded>
+
+<dc:subject>Blogs, entreprises et marques</dc:subject>
+<dc:subject>à propos des blogs</dc:subject>
+
+<dc:creator>Loïc Le Meur</dc:creator>
+<dc:date>2005-01-03T21:52:10+01:00</dc:date>
+</item>
+<item rdf:about="http://www.loiclemeur.com/france/2005/01/ce_quil_ne_faut.html">
+<title>Ce qu&apos;il ne faut pas faire</title>
+<link>http://www.loiclemeur.com/france/2005/01/ce_quil_ne_faut.html</link>
+<description> Si vous êtes une marque ou un site de commerce électronique: des blogs bidons qui sont ici. Mise à jour: Kelkoo n&apos;a rien à voir avec cette initiative qui nuit à son image et cherche à identifier les auteurs....</description>
+<content:encoded><![CDATA[<p>
+<span style="text-decoration:line-through;">Si vous êtes une marque ou un site de commerce électronique: des </span><a href="http://blog.benoud.com/index.php/2005/01/03/4-kelkoo-le-deplorable">blogs bidons</a><span style="text-decoration:line-through;"> qui </span><a href="http://www.neokraft.net/blog/2004/12/29/563-les-droles-de-pratique-de-kelkoo">sont ici.</a>
+</p><p>
+Mise à jour: Kelkoo <a href="http://www.loiclemeur.com/france/2005/01/ce_quil_ne_faut.html">n'a rien à voir</a> avec cette initiative qui nuit à son image et cherche à identifier les auteurs.
+</p>]]></content:encoded>
+
+<dc:subject>Blogs, entreprises et marques</dc:subject>
+
+<dc:creator>Loïc Le Meur</dc:creator>
+<dc:date>2005-01-03T21:06:44+01:00</dc:date>
+</item>
+<item rdf:about="http://www.loiclemeur.com/france/2005/01/les_avis_des_bl.html">
+<title>Les avis des blogueurs sur les marques suite...</title>
+<link>http://www.loiclemeur.com/france/2005/01/les_avis_des_bl.html</link>
+<description> Adrien s&apos;interroge sur Bouygues Telecom...</description>
+<content:encoded><![CDATA[<p>
+Adrien <a href="http://www.adrienoleary.com/weblog/2004/12/ca_sert_rien_dt.html">s'interroge</a> sur Bouygues Telecom
+</p>]]></content:encoded>
+
+<dc:subject>Blogs, entreprises et marques</dc:subject>
+
+<dc:creator>Loïc Le Meur</dc:creator>
+<dc:date>2005-01-03T20:22:56+01:00</dc:date>
+</item>
+<item rdf:about="http://www.loiclemeur.com/france/2005/01/le_rle_des_nouv.html">
+<title>Le rôle des nouvelles technologies dans le séisme</title>
+<link>http://www.loiclemeur.com/france/2005/01/le_rle_des_nouv.html</link>
+<description> Article de l&apos;AFP repris par exemple par Yahoo News France qui parle des nouvelles technologies (SMS et blogs) dans les situations de crise. L&apos;article parle aussi de l&apos;outil de recherche Technorati, qui référence plus de 5 millions de blogs,...</description>
+<content:encoded><![CDATA[<p>
+Article de l'AFP repris par exemple <a href="http://fr.news.yahoo.com/050103/1/47dtc.html">par Yahoo News France</a> qui parle des nouvelles technologies (SMS et blogs) dans les situations de crise.
+</p><p>
+L'article parle aussi de l'outil de recherche Technorati, qui référence plus de 5 millions de blogs, et permet de suivre en temps réel ce que les blogueurs <a href="http://www.technorati.com/cosmos/search.html?url=tsunami">disent de la catastrophe</a> et de <a href="http://www.technorati.com/live/breakingnews.html">l'actualité</a> en général.
+</p><p>
+Aveux: je fais partie de "l'advisory board" et suis un des investisseurs de Technorati depuis le tout début de cette incroyable aventure il y a un an et demi.
+</p>]]></content:encoded>
+
+<dc:subject>Presse</dc:subject>
+<dc:subject>à propos des blogs</dc:subject>
+
+<dc:creator>Loïc Le Meur</dc:creator>
+<dc:date>2005-01-03T17:10:25+01:00</dc:date>
+</item>
+<item rdf:about="http://www.loiclemeur.com/france/2005/01/les_adolescents.html">
+<title>Les adolescents et les blogs </title>
+<link>http://www.loiclemeur.com/france/2005/01/les_adolescents.html</link>
+<description> Un article dans Le Monde de L&apos;Education de Janvier sur les blogs, par Julie Chupin qui n&apos;est malheureusement pas disponible en ligne....</description>
+<content:encoded><![CDATA[<p>
+Un article dans Le Monde de L'Education de Janvier sur les blogs, par Julie Chupin qui n'est malheureusement pas disponible en ligne. 
+</p>]]></content:encoded>
+
+<dc:subject>Presse</dc:subject>
+
+<dc:creator>Loïc Le Meur</dc:creator>
+<dc:date>2005-01-03T15:19:07+01:00</dc:date>
+</item>
+<item rdf:about="http://www.loiclemeur.com/france/2005/01/30_minutes_de_d.html">
+<title>30 minutes de direct à 13h aujourd&apos;hui</title>
+<link>http://www.loiclemeur.com/france/2005/01/30_minutes_de_d.html</link>
+<description> Je serai en direct et pour 30 minutes sur Le Mouv&apos; - Radio France, invité de Ludovic Piedtenu à 13h, dans quelques minutes... Il y a un flux sur le site de la radio sinon FM 92.1 à Paris....</description>
+<content:encoded><![CDATA[<p>
+Je serai en direct et pour 30 minutes sur <a href="http://www.lemouv.com/">Le Mouv</a>' - Radio France, invité de Ludovic Piedtenu à 13h, dans quelques minutes... Il y a un flux sur le site de la radio sinon FM 92.1 à Paris.
+</p>]]></content:encoded>
+
+<dc:subject>Presse</dc:subject>
+
+<dc:creator>Loïc Le Meur</dc:creator>
+<dc:date>2005-01-03T12:45:34+01:00</dc:date>
+</item>
+<item rdf:about="http://www.loiclemeur.com/france/2005/01/une_manire_orig.html">
+<title>Une manière originale de vendre sur votre blog</title>
+<link>http://www.loiclemeur.com/france/2005/01/une_manire_orig.html</link>
+<description> au fil de l&apos;eau vend ses créations (bijoux par exemple) sur son blog et a en particulier eu l&apos;idée d&apos;ajouter très simplement un panier paypal aux albums photo TypePad et hop un catalogue de commercie électronique est créé. Du...</description>
+<content:encoded><![CDATA[<p>
+<a href="http://www.loiclemeur.com/france/images/_photos_boucles_doreillesearrings_bococardes_vert_et_rouge.jpg" onclick="window.open('http://www.loiclemeur.com/france/images/_photos_boucles_doreillesearrings_bococardes_vert_et_rouge.jpg','popup','width=500,height=375,scrollbars=no,resizable=yes,toolbar=no,directories=no,location=no,menubar=no,status=yes,left=0,top=0');return false"><img src="http://www.loiclemeur.com/france/images/_photos_boucles_doreillesearrings_bococardes_vert_et_rouge-tm.jpg" height="261" width="347" border="1" hspace="4" vspace="4" alt=" Photos Boucles Doreillesearrings Bococardes Vert Et Rouge" /></a>
+<br /><a href="http://mido.blogs.com/">au fil de l'eau</a> vend ses créations (bijoux par exemple) sur son blog et a en particulier eu l'idée d'ajouter très simplement un <a href="http://mido.blogs.com/photos/boucles_doreillesearrings/bo_old_transp4.html">panier paypal aux albums photo TypePad</a> et hop un catalogue de commercie électronique est créé. Du coup, mon épouse vient de recevoir ses nouvelles <a href="http://mido.blogs.com/photos/boucles_doreillesearrings/bococardes_vert_et_rouge.html">boucles d'oreilles</a>. 
+</p>]]></content:encoded>
+
+<dc:subject>Blogs et génération de revenus</dc:subject>
+<dc:subject>Typepad</dc:subject>
+<dc:subject>à propos des blogs</dc:subject>
+
+<dc:creator>Loïc Le Meur</dc:creator>
+<dc:date>2005-01-03T12:11:13+01:00</dc:date>
+</item>
+<item rdf:about="http://www.loiclemeur.com/france/2005/01/onevoice_lance_.html">
+<title>OneVoice lance son blog pour régler le conflit palestinien</title>
+<link>http://www.loiclemeur.com/france/2005/01/onevoice_lance_.html</link>
+<description> One Voice est une association à but non lucratif lancée par l&apos;entrepreneur social Daniel Lubetzky pour aider à résoudre le conflit palestinien: &quot;OneVoice est une initiative globale destinée à amplifier la voix du peuple et de donner le pouvoir...</description>
+<content:encoded><![CDATA[<p>
+<a href="http://www.silentnolonger.org/">One Voice</a> est une association à but non lucratif lancée par l'entrepreneur social Daniel Lubetzky pour aider à résoudre le conflit palestinien:
+</p><p>
+"OneVoice est une initiative globale destinée à amplifier la voix du peuple et de donner le pouvoir aux Israeliens et Palestiniens sur le terrain pour parvenir à un consensus sur les problèmes les plus importants pour parvenir à une résolution du conflit". <a href="http://www.silentnolonger.org/wps/portal/_s.155/420">FAQ</a>.
+</p><p>
+Daniel et son équipe viennent de lancer le <a href="http://blog.onevoicemovement.org/">blog de OneVoice.</a>
+</p>]]></content:encoded>
+
+<dc:subject>Entrepreneurs sociaux</dc:subject>
+<dc:subject>Monde</dc:subject>
+<dc:subject>Politique</dc:subject>
+
+<dc:creator>Loïc Le Meur</dc:creator>
+<dc:date>2005-01-03T11:46:28+01:00</dc:date>
+</item>
+<item rdf:about="http://www.loiclemeur.com/france/2005/01/soire_clics_dor.html">
+<title>Soirée clics d&apos;or remise des prix demain soir mardi</title>
+<link>http://www.loiclemeur.com/france/2005/01/soire_clics_dor.html</link>
+<description> Demain soir mardi à 19h30, remise des prix des Clics d&apos;or et du concours de blogs. Si vous souhaitez vous joindre à la soirée, il faut envoyer un email à contact@clicsdor.com en précisant nom, prénom et société. J&apos;espère vous...</description>
+<content:encoded><![CDATA[<p>
+<a href="http://www.loiclemeur.com/france/images/Capture001-3.jpg" onclick="window.open('http://www.loiclemeur.com/france/images/Capture001-3.jpg','popup','width=262,height=78,scrollbars=no,resizable=yes,toolbar=no,directories=no,location=no,menubar=no,status=yes,left=0,top=0');return false"><img src="http://www.loiclemeur.com/france/images/Capture001-3-tm.jpg" height="100" width="335" border="1" hspace="4" vspace="4" alt="Capture001-3" /></a>
+</p><p>
+Demain soir mardi à 19h30, <a href="https://www.clicdor.com/index.php">remise des prix des Clics d'or </a>et du concours de blogs. Si vous souhaitez vous joindre à la soirée, il faut envoyer un email à contact@clicsdor.com en précisant nom, prénom et société.
+</p><p>
+J'espère vous y voir nombreux. Je n'ai aucune idée ni de la composition du jury blogs, ni des gagnants, surprise !
+</p><p>
+Une fois votre invitation confirmée, rendez-vous mardi 4 à 19h30:
+</p><p>
+Salle GAVEAU
+<br />45, Rue de la Boétie
+<br />75.008 Paris
+<br />M° : Mirosmesnil
+</p>]]></content:encoded>
+
+<dc:subject>à propos des blogs</dc:subject>
+
+<dc:creator>Loïc Le Meur</dc:creator>
+<dc:date>2005-01-03T11:18:51+01:00</dc:date>
+</item>
+<item rdf:about="http://www.loiclemeur.com/france/2005/01/les_marques_et_.html">
+<title>Les marques et les blogs: Rodrigo n&apos;a pas la langue dans sa poche</title>
+<link>http://www.loiclemeur.com/france/2005/01/les_marques_et_.html</link>
+<description><![CDATA[ Je lis le blog de Rodrigo ce soir et je tombe sur cette note: &quot;Amazon France a besoin d'un nouveau leader&quot;, et celle-ci dans laquelle il raconte qu'il voyage beaucoup et qu'il vient de laisser tomber Air France pour...]]></description>
+<content:encoded><![CDATA[<p>
+Je lis le blog de Rodrigo ce soir et je tombe sur cette note: &quot;<a href="http://rodrigo.typepad.com/english/2004/12/amazonfr_needs_.html%23comments">Amazon France a besoin d'un nouveau leader</a>&quot;, et <a href="http://rodrigo.typepad.com/english/2005/01/have_a_great_20.html">celle-ci</a> dans laquelle il raconte qu'il voyage beaucoup et qu'il vient de laisser tomber <a href="http://www.airfrance.fr/cgi-bin/AF/FR/fr/local/home/home/homepage.jsp?BV_SessionID=@@@@0289235013.1104714199@@@@&amp;BV_EngineID=cccdadddgfdekdhcefecekedfnfdfok.0">Air France</a> pour British Airways (meilleurs prix, meilleur service, meilleurs sièges, meilleure bouffe) dit-il... 
+</p>
+
+<p>
+Rodrigo ne mâche pas ses mots.
+</p>
+
+<p>
+C'est marrant, en 2004 j'étais <a href="http://www.airfrance.fr/cgi-bin/AF/FR/fr/local/voyageurfrequent/frequenceplus/voyageurs_frequence_plus.htm?BV_SessionID=@@@@0828078580.1104713908@@@@&amp;BV_EngineID=ccchadddhgfkkehcefecekedflkdgmn.0">Fréquence Plus</a> Rouge du fait de ma &quot;fidélité&quot; en 2003. J'ai complètement basculé sur <a href="http://www.united.com/">United Airlines</a> et atteint le plus haut de leur programme de fidélité en 2004, <a href="http://www.united.com/page/middlepage/0,6823,1168,00.html">1K</a>. Pourquoi ? Les tarifs sont plus bas sur San Francisco et avec 1K j'obtiens en 2005 six surclassements d'économie en business valables sur tous leurs vols et pas mal d'autres avantages. 
+</p>
+
+<p>
+Ce qui m'étonne c'est que je suis passé de voyages très fréquents dans le monde entier sur Air France en 2003 à presque aucun en 2004 sans la moindre réaction de Fréquence Plus, pas le moindre email &quot;que s'est-il passé&quot; par exemple et je suis sûr que c'est la même chose pour Rodrigo alors qu'au fond, j'aime bien Air France et utiliser des miles au départ de la France c'est quand même plus pratique que sur une compagnie américaine... Je reviendrai volontiers chez Air France quand leur programme de fidélité sera supérieur à celui de United.
+</p>
+
+<p>
+La bonne nouvelle ? Les chefs de produit des grandes marques vont désormais pouvoir suivre en temps réel ce que leurs clients <a href="http://www.technorati.com/cosmos/search.html?rank=&amp;url=http%3A%2F%2Fwww.airfrance.com">pensent</a>&nbsp; pas besoin de questionnaire de satisfaction.
+</p>]]></content:encoded>
+
+<dc:subject>Blogs, entreprises et marques</dc:subject>
+
+<dc:creator>Loïc Le Meur</dc:creator>
+<dc:date>2005-01-03T02:13:02+01:00</dc:date>
+</item>
+<item rdf:about="http://www.loiclemeur.com/france/2005/01/dan_gillmor_lan.html">
+<title>Dan Gillmor lance son nouveau blog</title>
+<link>http://www.loiclemeur.com/france/2005/01/dan_gillmor_lan.html</link>
+<description> Dan Gillmor, que l&apos;on ne pr&amp;#233;sente plus (vous ne connaissez toujours pas ? lisez son livre) vient de lancer son nouveau blog et s&apos;applique &amp;#224; lui m&amp;#234;me les principes de son livre. Apr&amp;#232;s avoir quitt&amp;#233; son job de journaliste...</description>
+<content:encoded><![CDATA[<p>
+<a href="http://dangillmor.typepad.com/">Dan Gillmor</a>, que l'on ne pr&#233;sente plus (vous ne connaissez toujours pas ? lisez son <a href="http://www.amazon.com/exec/obidos/ASIN/0596007337/loiclemeursbl-20">livre</a>) vient de lancer son nouveau blog et s'applique &#224; lui m&#234;me les principes de son livre. Apr&#232;s avoir quitt&#233; son job de journaliste au San Jose Mercury News, il lance sa propre entreprise, de journaliste citoyen.
+</p>]]></content:encoded>
+
+<dc:subject>Blogs et journalisme</dc:subject>
+
+<dc:creator>Loïc Le Meur</dc:creator>
+<dc:date>2005-01-03T00:58:00+01:00</dc:date>
+</item>
+<item rdf:about="http://www.loiclemeur.com/france/2005/01/m233dias_en_cri.html">
+<title>M&amp;#233;dias en crise</title>
+<link>http://www.loiclemeur.com/france/2005/01/m233dias_en_cri.html</link>
+<description> Int&amp;#233;ressant article du Monde diplomatique qui revient sur la baisse de l&apos;audience et des revenus de la presse et l&apos;explique par deux raisons majeures, l&apos;&amp;#233;mergence des gratuits et l&apos;Internet. Les blogs y sont &amp;#233;voqu&amp;#233;s: &quot;Leur succ&amp;#232;s est tel qu&amp;#8217;on...</description>
+<content:encoded><![CDATA[<p>
+<a href="http://www.monde-diplomatique.fr/2005/01/RAMONET/11796">Int&#233;ressant article</a> du Monde diplomatique qui revient sur la baisse de l'audience et des revenus de la presse et l'explique par deux raisons majeures, l'&#233;mergence des gratuits et l'Internet. Les blogs y sont &#233;voqu&#233;s:
+</p><p>
+<em>"</em><em>Leur succ&#232;s est tel qu&#8217;on en trouve d&#233;sormais dans la plupart des journaux en ligne. Cet engouement montre que beaucoup de lecteurs pr&#233;f&#232;rent la subjectivit&#233; et la partialit&#233; assum&#233;es des bloggers &#224; la fausse objectivit&#233; et &#224; l&#8217;impartialit&#233; hypocrite d&#8217;une certaine presse."</em>
+</p>]]></content:encoded>
+
+<dc:subject>Blogs et journalisme</dc:subject>
+
+<dc:creator>Loïc Le Meur</dc:creator>
+<dc:date>2005-01-03T00:13:35+01:00</dc:date>
+</item>
+<item rdf:about="http://www.loiclemeur.com/france/2005/01/nouvelle_ann233.html">
+<title>Nouvelle ann&amp;#233;e</title>
+<link>http://www.loiclemeur.com/france/2005/01/nouvelle_ann233.html</link>
+<description> Bon je n&apos;ai pas trouv&amp;#233; plus original que de vous souhaiter une bonne ann&amp;#233;e, j&apos;ai cherch&amp;#233; mais j&apos;ai &amp;#233;chou&amp;#233;. Hauts les coeurs, 2005 sera une ann&amp;#233;e extraordinaire, comme on me le reproche souvent je suis un &amp;#233;ternel optimiste. Excellente...</description>
+<content:encoded><![CDATA[<p>
+Bon je n'ai pas trouv&#233; plus original que de vous souhaiter une bonne ann&#233;e, j'ai cherch&#233; mais j'ai &#233;chou&#233;. Hauts les coeurs, 2005 sera une ann&#233;e extraordinaire, comme on me le reproche souvent je suis un &#233;ternel optimiste. Excellente ann&#233;e &#224; tous. <span style="text-decoration:line-through;">Il y a des fois ou je me demande s'il ne faut pas juste nous souhaiter de pouvoir rester en vie avec tout ce qu'il se passe dans le monde.</span>
+</p>]]></content:encoded>
+
+
+<dc:creator>Loïc Le Meur</dc:creator>
+<dc:date>2005-01-02T23:56:20+01:00</dc:date>
+</item>
+<item rdf:about="http://www.loiclemeur.com/france/2005/01/michel_moine_la.html">
+<title>Michel Moine lance son blog</title>
+<link>http://www.loiclemeur.com/france/2005/01/michel_moine_la.html</link>
+<description> Merci Christophe de m&apos;avoir signal&amp;#233; le blog de Michel Moine, maire PS d&apos;Aubusson (23). Bienvenue, Monsieur le Maire !...</description>
+<content:encoded><![CDATA[<p>
+Merci <a href="http://www.monputeaux.com/">Christophe</a> de m'avoir signal&#233; le blog de <a href="http://www.michel-moine.fr/">Michel Moine</a>, maire PS d'Aubusson (23). Bienvenue, Monsieur le Maire ! 
+</p>]]></content:encoded>
+
+<dc:subject>Blogs et politique</dc:subject>
+
+<dc:creator>Loïc Le Meur</dc:creator>
+<dc:date>2005-01-02T22:36:13+01:00</dc:date>
+</item>
+<item rdf:about="http://www.loiclemeur.com/france/2005/01/dons_pour_lasie.html">
+<title>Dons pour l&apos;Asie: donnez 1 euro, 2 euros seront envoy&amp;#233;s</title>
+<link>http://www.loiclemeur.com/france/2005/01/dons_pour_lasie.html</link>
+<description> Une excellente initiative des trois op&amp;#233;rateurs mobiles, vous pouvez envoyer 1 euro par SMS pour soutenir l&apos;Asie en envoyant le mot &quot;Don Asie&quot;: -au 80222 pour la Croix Rouge -au 80333 pour le Secours Populaire -au 80444 pour le...</description>
+<content:encoded><![CDATA[<p>
+Une <a href="http://news.tf1.fr/news/multimedia/0,,3194414,00.html">excellente</a> <a href="http://www.orange.fr/0/visiteur/PV">initiative</a> des trois op&#233;rateurs mobiles, vous pouvez envoyer 1 euro par SMS pour soutenir l'Asie en envoyant le mot "Don Asie":
+<br />-au 80222 pour la Croix Rouge
+<br />-au 80333 pour le Secours Populaire
+<br />-au 80444 pour le Secours Catholique
+</p><p>
+Bien entendu, vous pouvez envoyer un SMS &#224; ces num&#233;ros et faire un don quel que soit votre op&#233;rateur mobile.
+</p><p>
+Orange s'engage &#224; reversez la totalit&#233; de sommes factur&#233;es et du 2 au 10 Janvier, <span style="text-decoration:underline;"><strong>France T&#233;l&#233;com s'engage &#224; verser 1 euro suppl&#233;mentaire pour chaque don re&#231;u</strong></span>.
+</p><p>
+F&#233;licitations &#224; France T&#233;l&#233;com pour cette op&#233;ration, je m'empresse d'envoyer plusieurs SMS en plus d'autres formes de dons bien entendu avec des sommes plus importantes et vous sugg&#232;re d'en faire de m&#234;me.
+</p><p>
+<a href="http://www.loiclemeur.com/france/2004/12/pour_aider_un_t.html">D'autres m&#233;thodes de donner pour l'Asie</a>.
+</p>]]></content:encoded>
+
+
+<dc:creator>Loïc Le Meur</dc:creator>
+<dc:date>2005-01-02T20:36:01+01:00</dc:date>
+</item>
+<item rdf:about="http://www.loiclemeur.com/france/2004/12/tsunamie_asie_u.html">
+<title>Tsunamie Asie un blog francophone d&apos;information sur le Tsunami</title>
+<link>http://www.loiclemeur.com/france/2004/12/tsunamie_asie_u.html</link>
+<description> Cr&amp;#233;ation aujourd&apos;hui de Tsunamie Asie, un blog francophone sur le Tsunami, qui devient bien entendu mon blog de la semaine. Bravo pour l&apos;initiative !...</description>
+<content:encoded><![CDATA[<p>
+Cr&#233;ation aujourd'hui de <a href="http://leuilom.blogs.com/tsunami/">Tsunamie Asie, un blog francophone sur le Tsunami</a>, qui devient bien entendu mon blog de la semaine.
+</p><p>
+Bravo pour l'initiative ! 
+</p>]]></content:encoded>
+
+<dc:subject>Le blog de la semaine</dc:subject>
+
+<dc:creator>Loïc Le Meur</dc:creator>
+<dc:date>2004-12-31T20:29:14+01:00</dc:date>
+</item>
+<item rdf:about="http://www.loiclemeur.com/france/2004/12/lancement_de_bl.html">
+<title>Lancement de Blogueurs Sans Fronti&amp;#232;res</title>
+<link>http://www.loiclemeur.com/france/2004/12/lancement_de_bl.html</link>
+<description> Blogueurs Sans Fronti&amp;#232;res (en anglais pour l&apos;instant) est enti&amp;#232;rement d&amp;#233;di&amp;#233; aux associations caritatives et en ce moment se propose de r&amp;#233;colter des donations pour les reverser aux organisations intervenant pour le d&amp;#233;sastre du Tsunami. La liste des donateurs s&apos;allonge....</description>
+<content:encoded><![CDATA[<p>
+<a href="http://www.b19s.org/">Blogueurs Sans Fronti&#232;re</a>s (en anglais pour l'instant) est enti&#232;rement d&#233;di&#233; aux associations caritatives et en ce moment se propose de r&#233;colter des donations pour les reverser aux organisations intervenant pour le d&#233;sastre du Tsunami. La<a href="http://www.b19s.org/heroes"> liste des donateurs </a>s'allonge.
+</p><p>
+Encore tr&#232;s am&#233;ricain comme initiative, mais cela va changer je pense.
+</p>]]></content:encoded>
+
+
+<dc:creator>Loïc Le Meur</dc:creator>
+<dc:date>2004-12-31T17:41:39+01:00</dc:date>
+</item>
+<item rdf:about="http://www.loiclemeur.com/france/2004/12/st233phane_233t.html">
+<title>St&amp;#233;phane &amp;#233;tait sur place </title>
+<link>http://www.loiclemeur.com/france/2004/12/st233phane_233t.html</link>
+<description> St&amp;#233;phane y &amp;#233;tait et a blogu&amp;#233; minute par minute le d&amp;#233;sastre, du coup il est devenu reporter le temps d&apos;un journal sur TF1 et au 20h sur France 2, merci Sam....</description>
+<content:encoded><![CDATA[<p>
+<a href="http://www.loiclemeur.com/france/images/_stephanetourdumonde_2.jpg" onclick="window.open('http://www.loiclemeur.com/france/images/_stephanetourdumonde_2.jpg','popup','width=768,height=1024,scrollbars=no,resizable=yes,toolbar=no,directories=no,location=no,menubar=no,status=yes,left=0,top=0');return false"><img src="http://www.loiclemeur.com/france/images/_stephanetourdumonde_2-tm.jpg" height="225" width="168" border="1" hspace="4" vspace="4" alt=" Stephanetourdumonde 2" /></a>
+</p><p>
+St&#233;phane y &#233;tait et a <a href="http://www.blog-qui-tue.com/stephanetourdumonde/index.php?pagenum=7">blogu&#233; minute par minute</a> le d&#233;sastre, du coup il est devenu reporter le temps d'un journal sur TF1 et au 20h sur France 2, merci Sam.
+</p>]]></content:encoded>
+
+
+<dc:creator>Loïc Le Meur</dc:creator>
+<dc:date>2004-12-31T17:31:27+01:00</dc:date>
+</item>
+<item rdf:about="http://www.loiclemeur.com/france/2004/12/les_blogs_polit.html">
+<title>Les blogs politiques sur Europe 1</title>
+<link>http://www.loiclemeur.com/france/2004/12/les_blogs_polit.html</link>
+<description> Au journal de 8h ce matin sur Europe 1, un sujet sur les blogs et leur utilisation en politique (disponible chez Guillaume). Merci à Fabien Namias pour cette interview par téléphone de Cabarete......</description>
+<content:encoded><![CDATA[<p>
+Au journal de 8h ce matin sur Europe 1, un sujet sur les blogs et leur utilisation en politique (<a href="http://prplanet.typepad.com/grg/files/track_30_12_2004_10_20_50.wav">disponible chez Guillaume</a>). Merci à Fabien Namias pour cette interview par téléphone de Cabarete... 
+</p>]]></content:encoded>
+
+<dc:subject>Presse</dc:subject>
+
+<dc:creator>Loïc Le Meur</dc:creator>
+<dc:date>2004-12-30T14:45:51+01:00</dc:date>
+</item>
+
+
+</rdf:RDF>

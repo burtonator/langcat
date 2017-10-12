@@ -1,0 +1,1143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet href="http://www.blogger.com/styles/atom.css" type="text/css"?>
+
+<feed version="0.3" xml:lang="es-CL" xmlns="http://purl.org/atom/ns#">
+<link href="http://www.blogger.com/atom/5634593" rel="service.post" title="Minneapolis Psychoadventures ;)" type="application/atom+xml"/>
+<link href="http://www.blogger.com/atom/5634593" rel="service.feed" title="Minneapolis Psychoadventures ;)" type="application/atom+xml"/>
+<title mode="escaped" type="text/html">Minneapolis Psychoadventures ;)</title>
+<tagline mode="escaped" type="text/html">Una idea para contarles lo que me va pasando, sin enviar miles de correos todas las veces</tagline>
+<link href="http://tcanales.blogspot.com" rel="alternate" title="Minneapolis Psychoadventures ;)" type="text/html"/>
+<id>tag:blogger.com,1999:blog-5634593</id>
+<modified>2004-10-17T16:46:19Z</modified>
+<generator url="http://www.blogger.com/" version="5.15" xml:lang="en-US">Blogger</generator>
+<info mode="xml" type="text/html" xml:lang="en-US">
+<div xmlns="http://www.w3.org/1999/xhtml">This is an Atom formatted XML site feed. It is intended to be viewed in a Newsreader or syndicated to another site. Please visit the <a href="http://help.blogger.com/bin/answer.py?answer=697">Blogger Help</a> for more info.</div>
+</info>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="http://www.blogger.com/atom/5634593/109803156047321289" rel="service.edit" title="Juaaa...Yaliin!!!! que gusto tenerte por estos lad..." type="application/atom+xml"/>
+<author>
+<name/>
+</author>
+<issued>2004-10-17T11:35:00-05:00</issued>
+<modified>2004-10-17T16:46:00Z</modified>
+<created>2004-10-17T16:46:00Z</created>
+<link href="http://tcanales.blogspot.com/2004/10/juaaa.html" rel="alternate" title="Juaaa...Yaliin!!!! que gusto tenerte por estos lad..." type="text/html"/>
+<id>tag:blogger.com,1999:blog-5634593.post-109803156047321289</id>
+<title mode="escaped" type="text/html">Juaaa...Yaliin!!!! que gusto tenerte por estos lad...</title>
+<summary type="application/xhtml+xml" xml:base="http://tcanales.blogspot.com" xml:space="preserve">
+<div xmlns="http://www.w3.org/1999/xhtml">Juaaa...Yaliin!!!! que gusto tenerte por estos lados...bienvenida a este embeleco virtual, use todas las herramientas que quiera, comente, aporte, abuchee, lo que quiera :)
+
+Les cuento...sigo con mi proyecto de GNU, encontre otra buena compilacion, el GNU WIN II, pero eso no les excusa de aportar!
+
+En el mismo afan, estoy usando Knoppix, una distribucion de Linux basado en Debian que se carga</div>
+</summary>
+</entry>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="http://www.blogger.com/atom/5634593/109772316088005903" rel="service.edit" title="Proyecto &quot;Free-ro(o)m&quot;" type="application/atom+xml"/>
+<author>
+<name/>
+</author>
+<issued>2004-10-13T21:46:00-05:00</issued>
+<modified>2004-10-14T03:06:00Z</modified>
+<created>2004-10-14T03:06:00Z</created>
+<link href="http://tcanales.blogspot.com/2004/10/proyecto-free-room.html" rel="alternate" title="Proyecto &quot;Free-ro(o)m&quot;" type="text/html"/>
+<id>tag:blogger.com,1999:blog-5634593.post-109772316088005903</id>
+<title mode="escaped" type="text/html">Proyecto "Free-ro(o)m"</title>
+<summary type="application/xhtml+xml" xml:base="http://tcanales.blogspot.com" xml:space="preserve">
+<div xmlns="http://www.w3.org/1999/xhtml">A aportar, aportar, que el mundo se va a acabar!!
+
+Les cuento: en uno de los ramos, tengo que hacer un proyecto que sea un aporte a la labor docente, poniendo recursos a disposicion del que los quiera ocupar. Como soy metia en papa en esto de los bits y los bytes, se me ocurrio la idea de hacer un CD como el OpenCD, pero mas especifico a ofimatica, utilidades de planificacion, herramientas</div>
+</summary>
+</entry>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="http://www.blogger.com/atom/5634593/109760996094846792" rel="service.edit" title="Este otoño esta maravilloso....hoy sali temprano a..." type="application/atom+xml"/>
+<author>
+<name/>
+</author>
+<issued>2004-10-12T14:39:20-05:00</issued>
+<modified>2004-10-12T19:39:20Z</modified>
+<created>2004-10-12T19:39:20Z</created>
+<link href="http://tcanales.blogspot.com/2004/10/este-otoo-esta-maravilloso.html" rel="alternate" title="Este otoño esta maravilloso....hoy sali temprano a..." type="text/html"/>
+<id>tag:blogger.com,1999:blog-5634593.post-109760996094846792</id>
+<title mode="escaped" type="text/html">Este otoño esta maravilloso....hoy sali temprano a...</title>
+<summary type="application/xhtml+xml" xml:base="http://tcanales.blogspot.com" xml:space="preserve">
+<div xmlns="http://www.w3.org/1999/xhtml">Este otoño esta maravilloso....hoy sali temprano a sacar fotos...colores ocre, verde, rojo y dorado...por toodos lados...fascinante...</div>
+</summary>
+</entry>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="http://www.blogger.com/atom/5634593/109742399726787033" rel="service.edit" title="No tengo idea como se llama esta flor, pero me cay..." type="application/atom+xml"/>
+<author>
+<name/>
+</author>
+<issued>2004-10-10T10:59:57-05:00</issued>
+<modified>2004-10-10T15:59:57Z</modified>
+<created>2004-10-10T15:59:57Z</created>
+<link href="http://tcanales.blogspot.com/2004/10/no-tengo-idea-como-se-llama-esta-flor.html" rel="alternate" title="No tengo idea como se llama esta flor, pero me cay..." type="text/html"/>
+<id>tag:blogger.com,1999:blog-5634593.post-109742399726787033</id>
+<title mode="escaped" type="text/html">No tengo idea como se llama esta flor, pero me cay...</title>
+<summary type="application/xhtml+xml" xml:base="http://tcanales.blogspot.com" xml:space="preserve">
+<div xmlns="http://www.w3.org/1999/xhtml">No tengo idea como se llama esta flor, pero me cayo bien y le saque una foto...</div>
+</summary>
+</entry>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="http://www.blogger.com/atom/5634593/109735314649554644" rel="service.edit" title="Tengo bicicleta nueva!" type="application/atom+xml"/>
+<author>
+<name/>
+</author>
+<issued>2004-10-09T15:10:06-05:00</issued>
+<modified>2004-10-09T20:19:06Z</modified>
+<created>2004-10-09T20:19:06Z</created>
+<link href="http://tcanales.blogspot.com/2004/10/tengo-bicicleta-nueva.html" rel="alternate" title="Tengo bicicleta nueva!" type="text/html"/>
+<id>tag:blogger.com,1999:blog-5634593.post-109735314649554644</id>
+<title mode="escaped" type="text/html">Tengo bicicleta nueva!</title>
+<summary type="application/xhtml+xml" xml:base="http://tcanales.blogspot.com" xml:space="preserve">
+<div xmlns="http://www.w3.org/1999/xhtml">la mejor que he tenido y yo creo que la mejor que tendre por muuucho tiempo...
+
+
+</div>
+</summary>
+</entry>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="http://www.blogger.com/atom/5634593/109724391089574562" rel="service.edit" title="el viejo Al" type="application/atom+xml"/>
+<author>
+<name/>
+</author>
+<issued>2004-10-08T08:47:30-05:00</issued>
+<modified>2004-10-08T13:58:30Z</modified>
+<created>2004-10-08T13:58:30Z</created>
+<link href="http://tcanales.blogspot.com/2004/10/el-viejo-al.html" rel="alternate" title="el viejo Al" type="text/html"/>
+<id>tag:blogger.com,1999:blog-5634593.post-109724391089574562</id>
+<title mode="escaped" type="text/html">el viejo Al</title>
+<summary type="application/xhtml+xml" xml:base="http://tcanales.blogspot.com" xml:space="preserve">
+<div xmlns="http://www.w3.org/1999/xhtml">lamentablemente...el viejo Al, el perrito que esta en la foto de la semana, murio de un severo ataque al corazon el dia de ayer...o7 de octubre del 2004, a la edad de quien sabe cuantos.
+
+Estabamos preocupadas, porque estaba bajando mucho de peso, no se acordaba para que tenia que salir al patio y no respondia cuando se le llamaba...esta loco este Al, pensabamos...pero no era eso...iba en bajada</div>
+</summary>
+</entry>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="http://www.blogger.com/atom/5634593/109708609963117245" rel="service.edit" title="1. Toy resfriada...por primera vez en USA...espero..." type="application/atom+xml"/>
+<author>
+<name/>
+</author>
+<issued>2004-10-06T13:02:19-05:00</issued>
+<modified>2004-10-06T18:08:19Z</modified>
+<created>2004-10-06T18:08:19Z</created>
+<link href="http://tcanales.blogspot.com/2004/10/1.html" rel="alternate" title="1. Toy resfriada...por primera vez en USA...espero..." type="text/html"/>
+<id>tag:blogger.com,1999:blog-5634593.post-109708609963117245</id>
+<title mode="escaped" type="text/html">1. Toy resfriada...por primera vez en USA...espero...</title>
+<summary type="application/xhtml+xml" xml:base="http://tcanales.blogspot.com" xml:space="preserve">
+<div xmlns="http://www.w3.org/1999/xhtml">1. Toy resfriada...por primera vez en USA...espero que se vaya luego, porque no me cae nada bien andar a media maquina.
+
+2. El gatito chico (spike lee) ha desarrollado una nueva costumbre...chupar...en la noche, pooobre de la oreja que este al aire, porque el la agarra freneticamente y la chupa, como si fuera a sacar leche de ahi, amasa con las manos y ronronea como contratado....se puede quedar</div>
+</summary>
+</entry>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="http://www.blogger.com/atom/5634593/109694528540197222" rel="service.edit" title="encontre la pda" type="application/atom+xml"/>
+<author>
+<name/>
+</author>
+<issued>2004-10-04T21:54:25-05:00</issued>
+<modified>2004-10-05T03:01:25Z</modified>
+<created>2004-10-05T03:01:25Z</created>
+<link href="http://tcanales.blogspot.com/2004/10/encontre-la-pda_109694528540197222.html" rel="alternate" title="encontre la pda" type="text/html"/>
+<id>tag:blogger.com,1999:blog-5634593.post-109694528540197222</id>
+<title mode="escaped" type="text/html">encontre la pda</title>
+<summary type="application/xhtml+xml" xml:base="http://tcanales.blogspot.com" xml:space="preserve">
+<div xmlns="http://www.w3.org/1999/xhtml">fiiuuuffff....pa los que sabian...hace dos meses que tenia perdida mi palm
+
+ahora la encontre...lo malo es que estando tanto tiempo sin carga, se reseteo y se le borraron todas las aplicaciones que le habia instalado, los documentos y las configuraciones...
+
+a empezar de nuevo se ha dicho...hasta le tengo que instalar el teclado de nuevo, pero en fin....me gusta el tonteo.
+</div>
+</summary>
+</entry>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="http://www.blogger.com/atom/5634593/109675729831350574" rel="service.edit" title="Have a drink&#10;Smoke a cigarrete&#10;Fuck a stranger&#10;..." type="application/atom+xml"/>
+<author>
+<name/>
+</author>
+<issued>2004-10-02T17:38:18-05:00</issued>
+<modified>2004-10-02T22:48:18Z</modified>
+<created>2004-10-02T22:48:18Z</created>
+<link href="http://tcanales.blogspot.com/2004/10/have-drink-smoke-cigarrete-fuck.html" rel="alternate" title="Have a drink&#10;Smoke a cigarrete&#10;Fuck a stranger&#10;..." type="text/html"/>
+<id>tag:blogger.com,1999:blog-5634593.post-109675729831350574</id>
+<title mode="escaped" type="text/html">Have a drink&#13;
+Smoke a cigarrete&#13;
+Fuck a stranger&#13;
+...</title>
+<summary type="application/xhtml+xml" xml:base="http://tcanales.blogspot.com" xml:space="preserve">
+<div xmlns="http://www.w3.org/1999/xhtml">Have a drink
+Smoke a cigarrete
+Fuck a stranger
+Eat a Twinkie
+
+esa era la frase de guerra de uno de los comediantes que vi anoche, en un local donde fuimos una patota re grande a celebrar un cumpleaños.  Primero a comer, a un fresh mex, luego este local y luego a un "club" (no se pasan a llamar ni pubs ni discos aca, en general) que se llama jetset.
+
+Lo pase re bien...aunque entendi la gran</div>
+</summary>
+</entry>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="http://www.blogger.com/atom/5634593/109666711258009307" rel="service.edit" title="Abogaadoss..." type="application/atom+xml"/>
+<author>
+<name/>
+</author>
+<issued>2004-10-01T16:42:58-05:00</issued>
+<modified>2004-10-07T20:50:58Z</modified>
+<created>2004-10-01T21:45:12Z</created>
+<link href="http://tcanales.blogspot.com/2004/10/abogaadoss.html" rel="alternate" title="Abogaadoss..." type="text/html"/>
+<id>tag:blogger.com,1999:blog-5634593.post-109666711258009307</id>
+<title mode="escaped" type="text/html">Abogaadoss...</title>
+<summary type="application/xhtml+xml" xml:base="http://tcanales.blogspot.com" xml:space="preserve">
+<div xmlns="http://www.w3.org/1999/xhtml">Este es un texto que me llego, proclamando ser de los juicios orales en copiapo...pero tiene varias versiones en distintos idiomas y distintos contextos, asi que se los dejo porque es chistoso. Imaginense la solemnidad de un juicio con estas preg/resp....jejeje
+
+
+1.- "Y bien, Doctor, ¿no es cierto que cuando una
+persona muere durante el  sueño, no se entera hasta la
+mañana siguiente?"
+
+2.-</div>
+</summary>
+</entry>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="http://www.blogger.com/atom/5634593/109656035509079386" rel="service.edit" title="...me ilusionaste, bro!...&#10;me voy a portar bien, ..." type="application/atom+xml"/>
+<author>
+<name/>
+</author>
+<issued>2004-09-30T11:04:55-05:00</issued>
+<modified>2004-09-30T16:05:55Z</modified>
+<created>2004-09-30T16:05:55Z</created>
+<link href="http://tcanales.blogspot.com/2004/09/blog-post.html" rel="alternate" title="...me ilusionaste, bro!...&#10;me voy a portar bien, ..." type="text/html"/>
+<id>tag:blogger.com,1999:blog-5634593.post-109656035509079386</id>
+<title mode="escaped" type="text/html">...me ilusionaste, bro!...&#13;
+me voy a portar bien, ...</title>
+<summary type="application/xhtml+xml" xml:base="http://tcanales.blogspot.com" xml:space="preserve">
+<div xmlns="http://www.w3.org/1999/xhtml">...me ilusionaste, bro!...
+me voy a portar bien, para sea verdad
+
+te kro
+</div>
+</summary>
+</entry>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="http://www.blogger.com/atom/5634593/109655535294035189" rel="service.edit" title="Minnesota nice" type="application/atom+xml"/>
+<author>
+<name/>
+</author>
+<issued>2004-09-30T09:35:32-05:00</issued>
+<modified>2004-09-30T14:42:32Z</modified>
+<created>2004-09-30T14:42:32Z</created>
+<link href="http://tcanales.blogspot.com/2004/09/minnesota-nice.html" rel="alternate" title="Minnesota nice" type="text/html"/>
+<id>tag:blogger.com,1999:blog-5634593.post-109655535294035189</id>
+<title mode="escaped" type="text/html">Minnesota nice</title>
+<summary type="application/xhtml+xml" xml:base="http://tcanales.blogspot.com" xml:space="preserve">
+<div xmlns="http://www.w3.org/1999/xhtml">uhmm....creo haber comentado esto antes, pero se me esta haciendo patente ahora mismo...los gringos les dicen a los minnesotanos, los minnesota nice...porque son extremadamente amables, no dicen cuando algo no les gusta...de hecho tienen su propio codigo...dicen "i don't mind of": por ejemplo, si les preguntas si les gustan las aceitunas en la ensalada, te dicen i don't mind olives in the</div>
+</summary>
+</entry>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="http://www.blogger.com/atom/5634593/109631479968967529" rel="service.edit" title="Pinochet: &quot;No me acuerdo de la Operación Cóndor&quot;" type="application/atom+xml"/>
+<author>
+<name/>
+</author>
+<issued>2004-09-27T14:53:40-05:00</issued>
+<modified>2004-10-14T14:25:40Z</modified>
+<created>2004-09-27T19:53:19Z</created>
+<link href="http://tcanales.blogspot.com/2004/09/pinochet-no-me-acuerdo-de-la-operacin.html" rel="alternate" title="Pinochet: &quot;No me acuerdo de la Operación Cóndor&quot;" type="text/html"/>
+<id>tag:blogger.com,1999:blog-5634593.post-109631479968967529</id>
+<title mode="escaped" type="text/html">Pinochet: "No me acuerdo de la Operación Cóndor"</title>
+<summary type="application/xhtml+xml" xml:base="http://tcanales.blogspot.com" xml:space="preserve">
+<div xmlns="http://www.w3.org/1999/xhtml">Terra :: Actualidad
+
+El ex gobernante aseguró al magistrado que no estaba al tanto del caso. "No me informaban de cosas chicas". "A veces recuerdo bien, a veces nada. No estoy normal, tengo altas y bajas", dijo. Consultado si recuerda la existencia de un denominado Plan Cóndor u Operación Cóndor, el general (r) respondió: “no, no me acuerdo. Y no era problema mío. (Terra.cl)
+
+
+
+le falla la</div>
+</summary>
+</entry>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="http://www.blogger.com/atom/5634593/109589470907422884" rel="service.edit" title="WINAMP.COM | Plug-ins" type="application/atom+xml"/>
+<author>
+<name/>
+</author>
+<issued>2004-09-22T18:11:49-05:00</issued>
+<modified>2004-09-22T23:11:49Z</modified>
+<created>2004-09-22T23:11:49Z</created>
+<link href="http://tcanales.blogspot.com/2004/09/winampcom-plug-ins.html" rel="alternate" title="WINAMP.COM | Plug-ins" type="text/html"/>
+<id>tag:blogger.com,1999:blog-5634593.post-109589470907422884</id>
+<title mode="escaped" type="text/html">WINAMP.COM | Plug-ins</title>
+<summary type="application/xhtml+xml" xml:base="http://tcanales.blogspot.com" xml:space="preserve">
+<div xmlns="http://www.w3.org/1999/xhtml">WINAMP.COM | Plug-ins
+
+Soy feliz....mp3sisticamente hablando...me gustaba el musicmatch jukebox basicamente porque desplegaba la portada del album de la cancion de estaba tocando, mas las gracias del supertagging y las varias formas de ordenar la biblioteca de canciones...
+El winamp me servia para correr el plugin listen-to (para que uds supieran que es lo que escuchaba, que a todo esto esta</div>
+</summary>
+</entry>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="http://www.blogger.com/atom/5634593/109577947640042120" rel="service.edit" title="Cuestionario para personas de origen Chileno residentes en el extranjeroll" type="application/atom+xml"/>
+<author>
+<name/>
+</author>
+<issued>2004-09-21T10:11:16-05:00</issued>
+<modified>2004-09-21T15:11:16Z</modified>
+<created>2004-09-21T15:11:16Z</created>
+<link href="http://tcanales.blogspot.com/2004/09/cuestionario-para-personas-de-origen.html" rel="alternate" title="Cuestionario para personas de origen Chileno residentes en el extranjeroll" type="text/html"/>
+<id>tag:blogger.com,1999:blog-5634593.post-109577947640042120</id>
+<title mode="escaped" type="text/html">Cuestionario para personas de origen Chileno residentes en el extranjeroll</title>
+<summary type="application/xhtml+xml" xml:base="http://tcanales.blogspot.com" xml:space="preserve">
+<div xmlns="http://www.w3.org/1999/xhtml">Cuestionario para personas de origen Chileno residentes en el extranjero
+
+En la fiesta chilena del 18, hablaron de este cuestionario....no cuesta nada llenarlo y capaz que sirva pa algo, digo yo...por lo menos pregunta acerca de la posibilidad de votar en el pais de residencia y de recuperar la nacionalidad chilena si es que un@ la ha perdido...
+
+Pooonte tuuu....</div>
+</summary>
+</entry>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="http://www.blogger.com/atom/5634593/109571306074173960" rel="service.edit" title="y sigamos comiendo mote con huesillo...&#10;&#10;muajaja..." type="application/atom+xml"/>
+<author>
+<name/>
+</author>
+<issued>2004-09-20T15:43:20-05:00</issued>
+<modified>2004-09-20T20:44:20Z</modified>
+<created>2004-09-20T20:44:20Z</created>
+<link href="http://tcanales.blogspot.com/2004/09/y-sigamos-comiendo-mote-con-huesillo.html" rel="alternate" title="y sigamos comiendo mote con huesillo...&#10;&#10;muajaja..." type="text/html"/>
+<id>tag:blogger.com,1999:blog-5634593.post-109571306074173960</id>
+<title mode="escaped" type="text/html">y sigamos comiendo mote con huesillo...&#13;
+&#13;
+muajaja...</title>
+<summary type="application/xhtml+xml" xml:base="http://tcanales.blogspot.com" xml:space="preserve">
+<div xmlns="http://www.w3.org/1999/xhtml">y sigamos comiendo mote con huesillo...
+
+muajajajaja....
+
+
+</div>
+</summary>
+</entry>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="http://www.blogger.com/atom/5634593/109563374031858662" rel="service.edit" title="Los nombres de las guaguas" type="application/atom+xml"/>
+<author>
+<name/>
+</author>
+<issued>2004-09-19T17:40:20-05:00</issued>
+<modified>2004-09-19T22:42:20Z</modified>
+<created>2004-09-19T22:42:20Z</created>
+<link href="http://tcanales.blogspot.com/2004/09/los-nombres-de-las-guaguas.html" rel="alternate" title="Los nombres de las guaguas" type="text/html"/>
+<id>tag:blogger.com,1999:blog-5634593.post-109563374031858662</id>
+<title mode="escaped" type="text/html">Los nombres de las guaguas</title>
+<summary type="application/xhtml+xml" xml:base="http://tcanales.blogspot.com" xml:space="preserve">
+<div xmlns="http://www.w3.org/1999/xhtml">
+Estos son los culpables, por si no los ubicaban.
+</div>
+</summary>
+</entry>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="http://www.blogger.com/atom/5634593/109556365122265949" rel="service.edit" title="18 again" type="application/atom+xml"/>
+<author>
+<name/>
+</author>
+<issued>2004-09-18T22:04:26-05:00</issued>
+<modified>2004-09-19T03:16:26Z</modified>
+<created>2004-09-19T03:14:11Z</created>
+<link href="http://tcanales.blogspot.com/2004/09/18-again.html" rel="alternate" title="18 again" type="text/html"/>
+<id>tag:blogger.com,1999:blog-5634593.post-109556365122265949</id>
+<title mode="escaped" type="text/html">18 again</title>
+<summary type="application/xhtml+xml" xml:base="http://tcanales.blogspot.com" xml:space="preserve">
+<div xmlns="http://www.w3.org/1999/xhtml">yap! el segundo anho de fiestas patrias...de nuevo en la fiesta de chilenos de minnesota. No sep...pare que la negue, pero fue harto menos notoria que el anho pasado...es que igual en 2003 re100 llevaba un mes aca.
+
+Aca en la casa hice mote con huesillo..nooo esh maalo. Y en la fiesta me comi una empanada que taba bastante wena como para ser hecha con carne molida (tenia aceitunas sin carozo).</div>
+</summary>
+</entry>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="http://www.blogger.com/atom/5634593/109503199153671886" rel="service.edit" title="Novedades" type="application/atom+xml"/>
+<author>
+<name/>
+</author>
+<issued>2004-09-12T18:23:33-05:00</issued>
+<modified>2004-09-13T16:04:33Z</modified>
+<created>2004-09-12T23:33:11Z</created>
+<link href="http://tcanales.blogspot.com/2004/09/novedades.html" rel="alternate" title="Novedades" type="text/html"/>
+<id>tag:blogger.com,1999:blog-5634593.post-109503199153671886</id>
+<title mode="escaped" type="text/html">Novedades</title>
+<summary type="application/xhtml+xml" xml:base="http://tcanales.blogspot.com" xml:space="preserve">
+<div xmlns="http://www.w3.org/1999/xhtml">EEEEEeeehhhh
+
+1. Ayer fui a ver un concierto de Norah Jones....taba emocionadisima! primera vez que iba a un evento musical de tales caracteristicas.
+El telonero estaba bien, simpatico el cabro. Luego aparecio por las pantallas gigantes, Hank Hill...diciendo que conocia personalmente a la señorita Jones y que, al margen de cantar canciones melosas, era de muy mal genio, asi que habia que apagar</div>
+</summary>
+</entry>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="http://www.blogger.com/atom/5634593/109485714323706005" rel="service.edit" title="Minolta DiMAGE Z1" type="application/atom+xml"/>
+<author>
+<name/>
+</author>
+<issued>2004-09-10T17:59:03-05:00</issued>
+<modified>2004-09-10T22:59:03Z</modified>
+<created>2004-09-10T22:59:03Z</created>
+<link href="http://tcanales.blogspot.com/2004/09/minolta-dimage-z1.html" rel="alternate" title="Minolta DiMAGE Z1" type="text/html"/>
+<id>tag:blogger.com,1999:blog-5634593.post-109485714323706005</id>
+<title mode="escaped" type="text/html">Minolta DiMAGE Z1</title>
+<summary type="application/xhtml+xml" xml:base="http://tcanales.blogspot.com" xml:space="preserve">
+<div xmlns="http://www.w3.org/1999/xhtml">Steves Digicams - Minolta DiMAGE Z1 - QuickTime VR
+
+- Ha llegado camara nuevaaaa!!
+- Para quieeeennnn???
+- No seee, pero llego a mi pueeertaaaaaaa!!!! 
+
+
+Esta joyita me tiene loca...tiene unos menuses bacanosos...hace hasta masaje cabritossssss...Zoom Optico de 10x y digital de 4, super macro, configuraciones pal mundo, opciones que jamas sabre como ocupar JAJajajaja
+
+no esh maloooo....</div>
+</summary>
+</entry>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="http://www.blogger.com/atom/5634593/109473976541764208" rel="service.edit" title="Primeros dias de clases" type="application/atom+xml"/>
+<author>
+<name/>
+</author>
+<issued>2004-09-09T09:11:45-05:00</issued>
+<modified>2004-09-09T14:22:45Z</modified>
+<created>2004-09-09T14:22:45Z</created>
+<link href="http://tcanales.blogspot.com/2004/09/primeros-dias-de-clases.html" rel="alternate" title="Primeros dias de clases" type="text/html"/>
+<id>tag:blogger.com,1999:blog-5634593.post-109473976541764208</id>
+<title mode="escaped" type="text/html">Primeros dias de clases</title>
+<summary type="application/xhtml+xml" xml:base="http://tcanales.blogspot.com" xml:space="preserve">
+<div xmlns="http://www.w3.org/1999/xhtml">Yap....
+Como casi siempre sucede...bote un ramo y tome otro....un ramo que se trataba de relaciones colaborativas entre familia y escuela por uno que se trata de la sociologia de las organizaciones formales en educacion. Asi que viene a quedar:
+
+Lunes: Organizaciones formales en educacion (05:00 - 07:40)
+Martes: Metodologia de la investigacion (11.15 - 12.30) y Estadistica (04.40 -</div>
+</summary>
+</entry>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="http://www.blogger.com/atom/5634593/109439610867409483" rel="service.edit" title="Fotolog" type="application/atom+xml"/>
+<author>
+<name/>
+</author>
+<issued>2004-09-05T09:48:08-05:00</issued>
+<modified>2004-09-05T14:55:08Z</modified>
+<created>2004-09-05T14:55:08Z</created>
+<link href="http://tcanales.blogspot.com/2004/09/fotolog.html" rel="alternate" title="Fotolog" type="text/html"/>
+<id>tag:blogger.com,1999:blog-5634593.post-109439610867409483</id>
+<title mode="escaped" type="text/html">Fotolog</title>
+<summary type="application/xhtml+xml" xml:base="http://tcanales.blogspot.com" xml:space="preserve">
+<div xmlns="http://www.w3.org/1999/xhtml">Estaba revisando algunos fotologs regalones y en un post me encontre con este...lo encontre notablisimo!!
+
+De muestra, un par de imagenes y textos que me gustaron mucho, mucho.
+
+ 08/19/04
+  Soy un poco de todos los que me han salpicado con sus vidas y frutos. Soy un resumen a medio terminar o un escrito dispuesto a crecer más... Un conglomerado de sensaciones y afectos que conforman,</div>
+</summary>
+</entry>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="http://www.blogger.com/atom/5634593/109439495825491351" rel="service.edit" title="Minnesota State Fair 2004" type="application/atom+xml"/>
+<author>
+<name/>
+</author>
+<issued>2004-09-05T09:35:58-05:00</issued>
+<modified>2004-09-05T14:35:58Z</modified>
+<created>2004-09-05T14:35:58Z</created>
+<link href="http://tcanales.blogspot.com/2004/09/minnesota-state-fair-2004.html" rel="alternate" title="Minnesota State Fair 2004" type="text/html"/>
+<id>tag:blogger.com,1999:blog-5634593.post-109439495825491351</id>
+<title mode="escaped" type="text/html">Minnesota State Fair 2004</title>
+<summary type="application/xhtml+xml" xml:base="http://tcanales.blogspot.com" xml:space="preserve">
+<div xmlns="http://www.w3.org/1999/xhtml">Minnesota State Fair Online 2004 | Fun Fair Photo Gallery
+
+Jeeeehaaaaa
+
+jajaja....fui a una solemne y estereotipicamente gringa feria estatal. Aunque no vi al cerdo mas grande, vi las mejores manzanas, peras y mejores queques/pasteles de la feria, todos con sus correspondientes cintas.
+Era una mezcla de lo estereotipicamente gringo, con lo que yo creia que era tipico de chile no mas (pero</div>
+</summary>
+</entry>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="http://www.blogger.com/atom/5634593/109431810102314593" rel="service.edit" title="    psico, nunca contestaste a mi pregunta   sobre..." type="application/atom+xml"/>
+<author>
+<name/>
+</author>
+<issued>2004-09-04T13:02:01-05:00</issued>
+<modified>2004-09-04T17:15:01Z</modified>
+<created>2004-09-04T17:15:01Z</created>
+<link href="http://tcanales.blogspot.com/2004/09/psico-nunca-contestaste-mi-pregunta.html" rel="alternate" title="    psico, nunca contestaste a mi pregunta   sobre..." type="text/html"/>
+<id>tag:blogger.com,1999:blog-5634593.post-109431810102314593</id>
+<title mode="escaped" type="text/html">    psico, nunca contestaste a mi pregunta   sobre...</title>
+<summary type="application/xhtml+xml" xml:base="http://tcanales.blogspot.com" xml:space="preserve">
+<div xmlns="http://www.w3.org/1999/xhtml">    psico, nunca contestaste a mi pregunta   sobre pq habias llegado a la conclusión de que en dios habia que creer    ahhh...claro...el punto para mi fue el convencimiento que todos tenemos algo bueno dentro...por lo tanto no me parecia tan descabellado pensar que podia haber una union de todo lo bueno    y que esa union de todo lo bueno, dado que estaba en todos nosotros, era un punto comun   y</div>
+</summary>
+</entry>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="http://www.blogger.com/atom/5634593/109380034882931096" rel="service.edit" title="&#10;" type="application/atom+xml"/>
+<author>
+<name/>
+</author>
+<issued>2004-08-29T12:24:48-05:00</issued>
+<modified>2004-08-29T17:25:48Z</modified>
+<created>2004-08-29T17:25:48Z</created>
+<link href="http://tcanales.blogspot.com/2004/08/blog-post.html" rel="alternate" title="&#10;" type="text/html"/>
+<id>tag:blogger.com,1999:blog-5634593.post-109380034882931096</id>
+<title mode="escaped" type="text/html">&#13;
+</title>
+<summary type="application/xhtml+xml" xml:base="http://tcanales.blogspot.com" xml:space="preserve">
+<div xmlns="http://www.w3.org/1999/xhtml">
+</div>
+</summary>
+</entry>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="http://www.blogger.com/atom/5634593/109328555177967393" rel="service.edit" title="wireless" type="application/atom+xml"/>
+<author>
+<name/>
+</author>
+<issued>2004-08-23T13:24:51-05:00</issued>
+<modified>2004-08-23T18:25:51Z</modified>
+<created>2004-08-23T18:25:51Z</created>
+<link href="http://tcanales.blogspot.com/2004/08/wireless.html" rel="alternate" title="wireless" type="text/html"/>
+<id>tag:blogger.com,1999:blog-5634593.post-109328555177967393</id>
+<title mode="escaped" type="text/html">wireless</title>
+<summary type="application/xhtml+xml" xml:base="http://tcanales.blogspot.com" xml:space="preserve">
+<div xmlns="http://www.w3.org/1999/xhtml">pude setear wireless en la casa!! ahora me puedo pasear con el laptop adonde se me plazca...hasta les puedo mostrar la casa completa por webcam
+
+jajajaja....que bien!!
+me congratulo ;)
+</div>
+</summary>
+</entry>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="http://www.blogger.com/atom/5634593/109302680975077978" rel="service.edit" title="Actualizacion" type="application/atom+xml"/>
+<author>
+<name/>
+</author>
+<issued>2004-08-20T12:10:29-05:00</issued>
+<modified>2004-08-20T18:33:29Z</modified>
+<created>2004-08-20T18:33:29Z</created>
+<link href="http://tcanales.blogspot.com/2004/08/actualizacion.html" rel="alternate" title="Actualizacion" type="text/html"/>
+<id>tag:blogger.com,1999:blog-5634593.post-109302680975077978</id>
+<title mode="escaped" type="text/html">Actualizacion</title>
+<summary type="application/xhtml+xml" xml:base="http://tcanales.blogspot.com" xml:space="preserve">
+<div xmlns="http://www.w3.org/1999/xhtml">Ok, ante la presión de las masas, jajajaa...me he decidido a escribir...
+
+Y dice...
+
+Miami no me gusto nada ....la onda del sol y la caloree no son para mi. Don Francisco no andaba en las calles y nadie me pregunto por el. Nadie hablaba un inglés decente, pero tampoco nadie interactuaba en español como idioma primario....freak. Un auto espectacular estacionado delante de otro más podridamente</div>
+</summary>
+</entry>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="http://www.blogger.com/atom/5634593/109225118120162412" rel="service.edit" title="De vuelta" type="application/atom+xml"/>
+<author>
+<name/>
+</author>
+<issued>2004-08-11T14:03:21-05:00</issued>
+<modified>2004-08-11T19:06:21Z</modified>
+<created>2004-08-11T19:06:21Z</created>
+<link href="http://tcanales.blogspot.com/2004/08/de-vuelta.html" rel="alternate" title="De vuelta" type="text/html"/>
+<id>tag:blogger.com,1999:blog-5634593.post-109225118120162412</id>
+<title mode="escaped" type="text/html">De vuelta</title>
+<summary type="application/xhtml+xml" xml:base="http://tcanales.blogspot.com" xml:space="preserve">
+<div xmlns="http://www.w3.org/1999/xhtml">ta daaaa....
+de vuelta en mpls..."se me le habia olvidado" postear, pero es que estoy media loquita todavia...habitacionalmente hablando, estoy entre tongoy y los vilos, porque aun no me he podido encontrar con la persona que tiene mi llave, asi que estoy pechando hospedaje :P
+
+ta todo bien...parece que es verdad que me traje el frio de alla, porque los ultimos dos dias han estado tan frios</div>
+</summary>
+</entry>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="http://www.blogger.com/atom/5634593/109179372013991254" rel="service.edit" title="En el aeropuerto" type="application/atom+xml"/>
+<author>
+<name/>
+</author>
+<issued>2004-08-06T06:59:00-05:00</issued>
+<modified>2004-08-06T12:02:00Z</modified>
+<created>2004-08-06T12:02:00Z</created>
+<link href="http://tcanales.blogspot.com/2004/08/en-el-aeropuerto.html" rel="alternate" title="En el aeropuerto" type="text/html"/>
+<id>tag:blogger.com,1999:blog-5634593.post-109179372013991254</id>
+<title mode="escaped" type="text/html">En el aeropuerto</title>
+<summary type="application/xhtml+xml" xml:base="http://tcanales.blogspot.com" xml:space="preserve">
+<div xmlns="http://www.w3.org/1999/xhtml">Heheheh....como entraria a ser tradicion, posteo en el cubiculo de internet del aeropuerto....me devuelvo a US hoy, para llegar a Miami, donde se anuncian tormentas electricas y no se que cuestiones mas...umpf! creo que me estoy llevando el mal tiempo conmigo...shhh pero que se le pase el cariño por mi!!!
+
+Un abrazo cariñoso a todos...
+ossso migratorio ;)
+</div>
+</summary>
+</entry>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="http://www.blogger.com/atom/5634593/109128946634687644" rel="service.edit" title="Me voy el 06 de agosto" type="application/atom+xml"/>
+<author>
+<name/>
+</author>
+<issued>2004-07-31T10:52:46-05:00</issued>
+<modified>2004-07-31T15:57:46Z</modified>
+<created>2004-07-31T15:57:46Z</created>
+<link href="http://tcanales.blogspot.com/2004/07/me-voy-el-06-de-agosto.html" rel="alternate" title="Me voy el 06 de agosto" type="text/html"/>
+<id>tag:blogger.com,1999:blog-5634593.post-109128946634687644</id>
+<title mode="escaped" type="text/html">Me voy el 06 de agosto</title>
+<summary type="application/xhtml+xml" xml:base="http://tcanales.blogspot.com" xml:space="preserve">
+<div xmlns="http://www.w3.org/1999/xhtml">ya mis amig@s...lamento si no nos alcanzamos a ver, o si nos vimos poco...pero el "deber" me llama...me voy a US el dia 06 de agosto a las 3.30 de la madrugada (noche del jueves 05, pa facilitarles las cosas).
+
+Declararé que fue muy reconfortante sentirme perteneciente de nuevo..a la gente, al entorno, a la cultura y al lenguaje...me voy renovada, contextualizada y sobretodo ALIMENTADA...(que</div>
+</summary>
+</entry>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="http://www.blogger.com/atom/5634593/109087189560945789" rel="service.edit" title="Nosotras que no somos como las demas" type="application/atom+xml"/>
+<author>
+<name/>
+</author>
+<issued>2004-07-26T14:33:15-05:00</issued>
+<modified>2004-07-26T19:58:15Z</modified>
+<created>2004-07-26T19:58:15Z</created>
+<link href="http://tcanales.blogspot.com/2004/07/nosotras-que-no-somos-como-las-demas.html" rel="alternate" title="Nosotras que no somos como las demas" type="text/html"/>
+<id>tag:blogger.com,1999:blog-5634593.post-109087189560945789</id>
+<title mode="escaped" type="text/html">Nosotras que no somos como las demas</title>
+<summary type="application/xhtml+xml" xml:base="http://tcanales.blogspot.com" xml:space="preserve">
+<div xmlns="http://www.w3.org/1999/xhtml">En cualquier momento de la historia los intentos de cuestionar las formas tradicionales de hacer y pensar son recibidos con desprecio y/o animadversión. Es normal que en los momentos de cambio cultural las conductas que no se adecúan a las expectativas tradicionales puedan crear confusión e incomodidad. Aunque las conexiones entre los roles que adoptamos y nuestra identidad sexual -lo que sentimos</div>
+</summary>
+</entry>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="http://www.blogger.com/atom/5634593/109078400436327412" rel="service.edit" title="&quot;En el principio de los tiempos los hombres utiliz..." type="application/atom+xml"/>
+<author>
+<name/>
+</author>
+<issued>2004-07-25T14:19:24-05:00</issued>
+<modified>2004-07-25T19:33:24Z</modified>
+<created>2004-07-25T19:33:24Z</created>
+<link href="http://tcanales.blogspot.com/2004/07/en-el-principio-de-los-tiempos-los.html" rel="alternate" title="&quot;En el principio de los tiempos los hombres utiliz..." type="text/html"/>
+<id>tag:blogger.com,1999:blog-5634593.post-109078400436327412</id>
+<title mode="escaped" type="text/html">"En el principio de los tiempos los hombres utiliz...</title>
+<summary type="application/xhtml+xml" xml:base="http://tcanales.blogspot.com" xml:space="preserve">
+<div xmlns="http://www.w3.org/1999/xhtml">"En el principio de los tiempos los hombres utilizaban armas de piedra, que se quebraban con facilidad; pasados los siglos las sustituyeron por utensilios de hierro, que si bien eran mucho menos resquebradizos, presentaban la desventaja de oxidarse rápidamente. Y entonces un herrero se le ocurrió la feliz idea de crear una aleación de metales que llamó acero. Pero el acero, para llegar a serlo,</div>
+</summary>
+</entry>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="http://www.blogger.com/atom/5634593/109056227574155012" rel="service.edit" title="y sucede que estoy orgullosa de mi familia...cada ..." type="application/atom+xml"/>
+<author>
+<name/>
+</author>
+<issued>2004-07-23T00:52:55-05:00</issued>
+<modified>2004-07-23T05:57:55Z</modified>
+<created>2004-07-23T05:57:55Z</created>
+<link href="http://tcanales.blogspot.com/2004/07/y-sucede-que-estoy-orgullosa-de-mi.html" rel="alternate" title="y sucede que estoy orgullosa de mi familia...cada ..." type="text/html"/>
+<id>tag:blogger.com,1999:blog-5634593.post-109056227574155012</id>
+<title mode="escaped" type="text/html">y sucede que estoy orgullosa de mi familia...cada ...</title>
+<summary type="application/xhtml+xml" xml:base="http://tcanales.blogspot.com" xml:space="preserve">
+<div xmlns="http://www.w3.org/1999/xhtml">y sucede que estoy orgullosa de mi familia...cada uno de ellos como individuo y de todos nosotros como una unidad mas grande e irrepetible.
+ 
+ 
+ </div>
+</summary>
+</entry>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="http://www.blogger.com/atom/5634593/108932113349048482" rel="service.edit" title="TheOpenCD" type="application/atom+xml"/>
+<author>
+<name/>
+</author>
+<issued>2004-07-08T16:12:04-05:00</issued>
+<modified>2004-07-08T21:19:04Z</modified>
+<created>2004-07-08T21:12:13Z</created>
+<link href="http://tcanales.blogspot.com/2004/07/theopencd.html" rel="alternate" title="TheOpenCD" type="text/html"/>
+<id>tag:blogger.com,1999:blog-5634593.post-108932113349048482</id>
+<title mode="escaped" type="text/html">TheOpenCD</title>
+<summary type="application/xhtml+xml" xml:base="http://tcanales.blogspot.com" xml:space="preserve">
+<div xmlns="http://www.w3.org/1999/xhtml">TheOpenCD
+
+Ya muchachada, a prepararse para el Software Freedom Day...bajense este CD con puras aplicaciones libres y mu wenas...
+
+
+
+gracias, celentano por el dato, te lo robe impunemente !! :P</div>
+</summary>
+</entry>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="http://www.blogger.com/atom/5634593/108869498848155343" rel="service.edit" title="Saddam Hussein" type="application/atom+xml"/>
+<author>
+<name/>
+</author>
+<issued>2004-07-01T10:11:47-05:00</issued>
+<modified>2004-07-01T20:58:47Z</modified>
+<created>2004-07-01T15:16:28Z</created>
+<link href="http://tcanales.blogspot.com/2004/07/saddam-hussein.html" rel="alternate" title="Saddam Hussein" type="text/html"/>
+<id>tag:blogger.com,1999:blog-5634593.post-108869498848155343</id>
+<title mode="escaped" type="text/html">Saddam Hussein</title>
+<summary type="application/xhtml+xml" xml:base="http://tcanales.blogspot.com" xml:space="preserve">
+<div xmlns="http://www.w3.org/1999/xhtml">"Soy Saddam Hussein, presidente de Irak," dijo el mandatario derrocado con la invasión estadounidense.
+
+Hussein se rehusó a reconocer su culpabilidad por la invasión y la ocupación de Kuwait en 1990. "Lo hice por el pueblo iraquí ¿Cómo puede defender a esos perros?," dijo al juez en referencia a los kuwaitíes.
+
+El juez lo reprendió por esas palabras y le recordó que estaba en una corte.</div>
+</summary>
+</entry>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="http://www.blogger.com/atom/5634593/108809453153429592" rel="service.edit" title="A talca los boletoss" type="application/atom+xml"/>
+<author>
+<name/>
+</author>
+<issued>2004-06-24T11:27:51-05:00</issued>
+<modified>2004-06-24T16:28:51Z</modified>
+<created>2004-06-24T16:28:51Z</created>
+<link href="http://tcanales.blogspot.com/2004/06/talca-los-boletoss.html" rel="alternate" title="A talca los boletoss" type="text/html"/>
+<id>tag:blogger.com,1999:blog-5634593.post-108809453153429592</id>
+<title mode="escaped" type="text/html">A talca los boletoss</title>
+<summary type="application/xhtml+xml" xml:base="http://tcanales.blogspot.com" xml:space="preserve">
+<div xmlns="http://www.w3.org/1999/xhtml">YA GENTE
+
+martes y miercoles de nuevo a talca cityyy....
+pidan hora!
+</div>
+</summary>
+</entry>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="http://www.blogger.com/atom/5634593/108775860458215696" rel="service.edit" title="Fedorizada" type="application/atom+xml"/>
+<author>
+<name/>
+</author>
+<issued>2004-06-20T14:07:04-05:00</issued>
+<modified>2004-06-20T19:10:04Z</modified>
+<created>2004-06-20T19:10:04Z</created>
+<link href="http://tcanales.blogspot.com/2004/06/fedorizada.html" rel="alternate" title="Fedorizada" type="text/html"/>
+<id>tag:blogger.com,1999:blog-5634593.post-108775860458215696</id>
+<title mode="escaped" type="text/html">Fedorizada</title>
+<summary type="application/xhtml+xml" xml:base="http://tcanales.blogspot.com" xml:space="preserve">
+<div xmlns="http://www.w3.org/1999/xhtml">eeeEEEEhhhHHHHH
+
+tengo fedora en mi tankecitooo!!
+Me entrenare, para poder manejarme lo mejor posible en el OS y poder pasar a una vida informatica libre....
+aahhhh
+
+
+gracias Fabiancillo, gran amigazo!!!
+
+(lo de la foto de la semana, hace tiempo que no la cambio, pero es porque el servidor no me esta dejando hostear las fotos :S)
+
+</div>
+</summary>
+</entry>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="http://www.blogger.com/atom/5634593/108742250871893950" rel="service.edit" title="Nuevos detalles demostrarían que vídeo del&#10;decapi..." type="application/atom+xml"/>
+<author>
+<name/>
+</author>
+<issued>2004-06-16T16:48:28-05:00</issued>
+<modified>2004-06-16T21:48:28Z</modified>
+<created>2004-06-16T21:48:28Z</created>
+<link href="http://tcanales.blogspot.com/2004/06/nuevos-detalles-demostraran-que-vdeo.html" rel="alternate" title="Nuevos detalles demostrarían que vídeo del&#10;decapi..." type="text/html"/>
+<id>tag:blogger.com,1999:blog-5634593.post-108742250871893950</id>
+<title mode="escaped" type="text/html">Nuevos detalles demostrarían que vídeo del&#13;
+decapi...</title>
+<summary type="application/xhtml+xml" xml:base="http://tcanales.blogspot.com" xml:space="preserve">
+<div xmlns="http://www.w3.org/1999/xhtml">Nuevos detalles demostrarían que vídeo del
+decapitado en Iraq fue un montaje de la CIA
+
+zonaimpacto</div>
+</summary>
+</entry>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="http://www.blogger.com/atom/5634593/108715316526252657" rel="service.edit" title="Chilevision" type="application/atom+xml"/>
+<author>
+<name/>
+</author>
+<issued>2004-06-13T13:47:53-05:00</issued>
+<modified>2004-06-13T19:51:53Z</modified>
+<created>2004-06-13T18:59:25Z</created>
+<link href="http://tcanales.blogspot.com/2004/06/chilevision_13.html" rel="alternate" title="Chilevision" type="text/html"/>
+<id>tag:blogger.com,1999:blog-5634593.post-108715316526252657</id>
+<title mode="escaped" type="text/html">Chilevision</title>
+<summary type="application/xhtml+xml" xml:base="http://tcanales.blogspot.com" xml:space="preserve">
+<div xmlns="http://www.w3.org/1999/xhtml">Woooo....prendimos la tele cerca de la una de la tarde en CHV...y estaban dando una serie muyy, muuuy izquierdosa...que me sorprendio. El escuchar que "Pinochet le robo el poder a Allende" alerto mucho mi atencion. Casi ni creia que estaba en Chile.
+
+Me fascine mirando, y hablaban de conexiones notables entre los crimenes de prats, letelier y berrios. Que entre 71 y 74 el jefe de la CIA era Bush</div>
+</summary>
+</entry>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="http://www.blogger.com/atom/5634593/108700826296822989" rel="service.edit" title="Illegal Download" type="application/atom+xml"/>
+<author>
+<name/>
+</author>
+<issued>2004-06-11T21:44:22-05:00</issued>
+<modified>2004-06-12T02:44:22Z</modified>
+<created>2004-06-12T02:44:22Z</created>
+<link href="http://tcanales.blogspot.com/2004/06/illegal-download.html" rel="alternate" title="Illegal Download" type="text/html"/>
+<id>tag:blogger.com,1999:blog-5634593.post-108700826296822989</id>
+<title mode="escaped" type="text/html">Illegal Download</title>
+<summary type="application/xhtml+xml" xml:base="http://tcanales.blogspot.com" xml:space="preserve">
+<div xmlns="http://www.w3.org/1999/xhtml">Illegal Download
+
+para que otros sientan el apuro que senti yo cdo recibi mi mail...jajajaa</div>
+</summary>
+</entry>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="http://www.blogger.com/atom/5634593/108674076076258842" rel="service.edit" title="Todos a votaar" type="application/atom+xml"/>
+<author>
+<name/>
+</author>
+<issued>2004-06-08T19:24:00-05:00</issued>
+<modified>2004-06-09T00:26:00Z</modified>
+<created>2004-06-09T00:26:00Z</created>
+<link href="http://tcanales.blogspot.com/2004/06/todos-votaar.html" rel="alternate" title="Todos a votaar" type="text/html"/>
+<id>tag:blogger.com,1999:blog-5634593.post-108674076076258842</id>
+<title mode="escaped" type="text/html">Todos a votaar</title>
+<summary type="application/xhtml+xml" xml:base="http://tcanales.blogspot.com" xml:space="preserve">
+<div xmlns="http://www.w3.org/1999/xhtml">
+
+ya lolos, hagan click en este bannercito y luego otro click en la barra blanca que aparece abajo de la pagina que dice votar por chilehub el inmortal...
+
+estaran cooperando para que nos ganemos un lindo dominio .com
+de pasada estan invitados a registrarse y participar en el foro!
+
+:P</div>
+</summary>
+</entry>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="http://www.blogger.com/atom/5634593/108672562236839739" rel="service.edit" title="JUAAAAaaaa" type="application/atom+xml"/>
+<author>
+<name/>
+</author>
+<issued>2004-06-08T15:10:42-05:00</issued>
+<modified>2004-06-08T20:13:42Z</modified>
+<created>2004-06-08T20:13:42Z</created>
+<link href="http://tcanales.blogspot.com/2004/06/juaaaaaaaa.html" rel="alternate" title="JUAAAAaaaa" type="text/html"/>
+<id>tag:blogger.com,1999:blog-5634593.post-108672562236839739</id>
+<title mode="escaped" type="text/html">JUAAAAaaaa</title>
+<summary type="application/xhtml+xml" xml:base="http://tcanales.blogspot.com" xml:space="preserve">
+<div xmlns="http://www.w3.org/1999/xhtml">listo! se destapó la olla! ahora puedo hablar!
+
+jajaja....weno, para todos los que no sabían, estoy en Chile. Anoche tuve el gusto de estar con mis muy queridos alumnos...no todos, pero si unos poquitos que me hicieron acordarme el por qué tengo que volver luego a Talca.
+
+Llegué el lunes de la semana pasada, de sorpresa para todos -incluida mi familia- y ha sido muy weeenooo...
+
+Los que sean</div>
+</summary>
+</entry>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="http://www.blogger.com/atom/5634593/108577684617408865" rel="service.edit" title="toy en la casa de la myriam...esta tarde la sammy ..." type="application/atom+xml"/>
+<author>
+<name/>
+</author>
+<issued>2004-05-28T15:39:46-05:00</issued>
+<modified>2004-05-28T20:40:46Z</modified>
+<created>2004-05-28T20:40:46Z</created>
+<link href="http://tcanales.blogspot.com/2004/05/blog-post.html" rel="alternate" title="toy en la casa de la myriam...esta tarde la sammy ..." type="text/html"/>
+<id>tag:blogger.com,1999:blog-5634593.post-108577684617408865</id>
+<title mode="escaped" type="text/html">toy en la casa de la myriam...esta tarde la sammy ...</title>
+<summary type="application/xhtml+xml" xml:base="http://tcanales.blogspot.com" xml:space="preserve">
+<div xmlns="http://www.w3.org/1999/xhtml">toy en la casa de la myriam...esta tarde la sammy hace una presentacion...la vamos a ir a ver...creo que hay planes de ir a wisonsin...a la casa de la familia de jack...donde hay bike trials en el bosque :P.
+
+Si no me aparezco, sera porque ando de viaje :)
+
+Ah! y me consequi mi cuarto personaje en el comite...toy daa ;)
+</div>
+</summary>
+</entry>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="http://www.blogger.com/atom/5634593/108542994197432508" rel="service.edit" title="jojojoo! que estoy floja pa escribir!!!&#10;&#10;jua jua..." type="application/atom+xml"/>
+<author>
+<name/>
+</author>
+<issued>2004-05-24T15:14:55-05:00</issued>
+<modified>2004-05-24T20:26:55Z</modified>
+<created>2004-05-24T20:19:01Z</created>
+<link href="http://tcanales.blogspot.com/2004/05/jojojoo-que-estoy-floja-pa-escribir.html" rel="alternate" title="jojojoo! que estoy floja pa escribir!!!&#10;&#10;jua jua..." type="text/html"/>
+<id>tag:blogger.com,1999:blog-5634593.post-108542994197432508</id>
+<title mode="escaped" type="text/html">jojojoo! que estoy floja pa escribir!!!&#13;
+&#13;
+jua jua...</title>
+<summary type="application/xhtml+xml" xml:base="http://tcanales.blogspot.com" xml:space="preserve">
+<div xmlns="http://www.w3.org/1999/xhtml">jojojoo! que estoy floja pa escribir!!!
+
+jua juaaa....me invadio la desenergizacion de los equinos femeninos.
+
+Toy bien! flojeando, saliendo con amigos, perdiendo el tiempo. Estoy postulando a trabajos, aun no se si me salen, empezando a mirar partes donde vivir el proximo anho (aunke por si las moscas siempre puedo vivir en un estudio del edificio del Jack, marido de la Myriam)
+
+En los</div>
+</summary>
+</entry>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="http://www.blogger.com/atom/5634593/108482361818901021" rel="service.edit" title="Mi programa de doctorado, First draft" type="application/atom+xml"/>
+<author>
+<name/>
+</author>
+<issued>2004-05-17T14:32:38-05:00</issued>
+<modified>2004-05-17T19:53:38Z</modified>
+<created>2004-05-17T19:53:38Z</created>
+<link href="http://tcanales.blogspot.com/2004/05/mi-programa-de-doctorado-first-draft.html" rel="alternate" title="Mi programa de doctorado, First draft" type="text/html"/>
+<id>tag:blogger.com,1999:blog-5634593.post-108482361818901021</id>
+<title mode="escaped" type="text/html">Mi programa de doctorado, First draft</title>
+<summary type="application/xhtml+xml" xml:base="http://tcanales.blogspot.com" xml:space="preserve">
+<div xmlns="http://www.w3.org/1999/xhtml"/>
+</summary>
+</entry>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="http://www.blogger.com/atom/5634593/108464736301206849" rel="service.edit" title="yap...anoche me salio un carretitz rapido con la m..." type="application/atom+xml"/>
+<author>
+<name/>
+</author>
+<issued>2004-05-15T13:53:03-05:00</issued>
+<modified>2004-05-15T18:56:03Z</modified>
+<created>2004-05-15T18:56:03Z</created>
+<link href="http://tcanales.blogspot.com/2004/05/yap.html" rel="alternate" title="yap...anoche me salio un carretitz rapido con la m..." type="text/html"/>
+<id>tag:blogger.com,1999:blog-5634593.post-108464736301206849</id>
+<title mode="escaped" type="text/html">yap...anoche me salio un carretitz rapido con la m...</title>
+<summary type="application/xhtml+xml" xml:base="http://tcanales.blogspot.com" xml:space="preserve">
+<div xmlns="http://www.w3.org/1999/xhtml">yap...anoche me salio un carretitz rapido con la manada chilena. Hoy en la tarde salgo de nuevo con ellos, quiza el fds lo pase donde la Myiriam.
+
+He estado intentando ver el asunto de mi programa de doctorado y va mas o menos bien.
+Un amigo chileno se ofrecio a ayudarme a encontrar una pieza pal proximo anho, lo que es lindo, pa poder moverme mas facil y tener mas criterios de donde irme.</div>
+</summary>
+</entry>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="http://www.blogger.com/atom/5634593/108438135403770373" rel="service.edit" title="Who's your mommy?" type="application/atom+xml"/>
+<author>
+<name/>
+</author>
+<issued>2004-05-12T12:01:34-05:00</issued>
+<modified>2004-05-12T17:02:34Z</modified>
+<created>2004-05-12T17:02:34Z</created>
+<link href="http://tcanales.blogspot.com/2004/05/whos-your-mommy.html" rel="alternate" title="Who's your mommy?" type="text/html"/>
+<id>tag:blogger.com,1999:blog-5634593.post-108438135403770373</id>
+<title mode="escaped" type="text/html">Who's your mommy?</title>
+<summary type="application/xhtml+xml" xml:base="http://tcanales.blogspot.com" xml:space="preserve">
+<div xmlns="http://www.w3.org/1999/xhtml">JAJAJA...otro semestre al bolsillo
+
+Oseare un rato, antes de pensar en como me consigo plata pa sobrevivir.</div>
+</summary>
+</entry>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="http://www.blogger.com/atom/5634593/108420598575754644" rel="service.edit" title="ultimo aprete" type="application/atom+xml"/>
+<author>
+<name/>
+</author>
+<issued>2004-05-10T11:18:45-05:00</issued>
+<modified>2004-05-10T16:19:45Z</modified>
+<created>2004-05-10T16:19:45Z</created>
+<link href="http://tcanales.blogspot.com/2004/05/ultimo-aprete.html" rel="alternate" title="ultimo aprete" type="text/html"/>
+<id>tag:blogger.com,1999:blog-5634593.post-108420598575754644</id>
+<title mode="escaped" type="text/html">ultimo aprete</title>
+<summary type="application/xhtml+xml" xml:base="http://tcanales.blogspot.com" xml:space="preserve">
+<div xmlns="http://www.w3.org/1999/xhtml">ya casi, casi!!
+
+prueba en la tarde y entrega manhana en la manhana....
+
+vamos que se pueeeeedeeeeeeeeeeeeeeeeeeeeeeeeeeeeee</div>
+</summary>
+</entry>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="http://www.blogger.com/atom/5634593/108415181690283662" rel="service.edit" title="AAahh vieron que me quedo lindo?" type="application/atom+xml"/>
+<author>
+<name/>
+</author>
+<issued>2004-05-09T20:16:56-05:00</issued>
+<modified>2004-05-10T01:16:56Z</modified>
+<created>2004-05-10T01:16:56Z</created>
+<link href="http://tcanales.blogspot.com/2004/05/aaahh-vieron-que-me-quedo-lindo.html" rel="alternate" title="AAahh vieron que me quedo lindo?" type="text/html"/>
+<id>tag:blogger.com,1999:blog-5634593.post-108415181690283662</id>
+<title mode="escaped" type="text/html">AAahh vieron que me quedo lindo?</title>
+<summary type="application/xhtml+xml" xml:base="http://tcanales.blogspot.com" xml:space="preserve">
+<div xmlns="http://www.w3.org/1999/xhtml">JAJAJAJ aplique un nuevo template al blog.
+El mejor aporte es que ahora pueden comentar bajo cada post.
+Busquen! busquen!</div>
+</summary>
+</entry>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="http://www.blogger.com/atom/5634593/108414761497750779" rel="service.edit" title="uh....&#10;&#10;estaba yo en el edificio donde siempre m..." type="application/atom+xml"/>
+<author>
+<name/>
+</author>
+<issued>2004-05-09T19:06:11-05:00</issued>
+<modified>2004-05-10T16:04:11Z</modified>
+<created>2004-05-10T00:06:54Z</created>
+<link href="http://tcanales.blogspot.com/2004/05/uh.html" rel="alternate" title="uh....&#10;&#10;estaba yo en el edificio donde siempre m..." type="text/html"/>
+<id>tag:blogger.com,1999:blog-5634593.post-108414761497750779</id>
+<title mode="escaped" type="text/html">uh....&#13;
+&#13;
+estaba yo en el edificio donde siempre m...</title>
+<summary type="application/xhtml+xml" xml:base="http://tcanales.blogspot.com" xml:space="preserve">
+<div xmlns="http://www.w3.org/1999/xhtml">uh....
+
+estaba yo en el edificio donde siempre me voy para conectarme a internet...y un atractivo personaje se me acerco y me dijo...
+
+lola...lo siento, pero te tienes que ir de aca, tienes que bajar al subterraneo, tenemos alerta de tornado...
+
+yapo...baje al segundo subterraneo...sin dejar de estar conectada, por supuesto...espere un poco ahi, mirando el pronostico del tiempo por inet y la</div>
+</summary>
+</entry>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="http://www.blogger.com/atom/5634593/108405833508052964" rel="service.edit" title="Origen del dia de la madre" type="application/atom+xml"/>
+<author>
+<name/>
+</author>
+<issued>2004-05-08T18:18:55-05:00</issued>
+<modified>2004-05-08T23:22:10Z</modified>
+<created>2004-05-08T23:22:10Z</created>
+<link href="http://tcanales.blogspot.com/2004/05/origen-del-dia-de-la-madre.html" rel="alternate" title="Origen del dia de la madre" type="text/html"/>
+<id>tag:blogger.com,1999:blog-5634593.post-108405833508052964</id>
+<title mode="escaped" type="text/html">Origen del dia de la madre</title>
+<summary type="application/xhtml+xml" xml:base="http://tcanales.blogspot.com" xml:space="preserve">
+<div xmlns="http://www.w3.org/1999/xhtml">Mother’s Day: May 9 
+  
+The first Mother’s Day observance was a church service in 1908 requested by Anna Jarvis, of Philadelphia, to honor her deceased mother. Jarvis, at an early age, had heard her mother express hope that a day to commemorate all mothers would be established. Her mother had also expressed the sentiment that there were many days dedicated to men but none for mothers. Two years</div>
+</summary>
+</entry>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="http://www.blogger.com/atom/5634593/108402989317516542" rel="service.edit" title="WAAA" type="application/atom+xml"/>
+<author>
+<name/>
+</author>
+<issued>2004-05-08T10:24:53-05:00</issued>
+<modified>2004-05-08T15:28:08Z</modified>
+<created>2004-05-08T15:28:08Z</created>
+<link href="http://tcanales.blogspot.com/2004/05/waaa.html" rel="alternate" title="WAAA" type="text/html"/>
+<id>tag:blogger.com,1999:blog-5634593.post-108402989317516542</id>
+<title mode="escaped" type="text/html">WAAA</title>
+<summary type="application/xhtml+xml" xml:base="http://tcanales.blogspot.com" xml:space="preserve">
+<div xmlns="http://www.w3.org/1999/xhtml">anoche tuve mi primer suenho en ingles!!!!!
+
+fue una seccion  de un suenho mucho mas grande y complejo que tuve...pero en un momento, habia una companhera de curso tomando desayuno en mi casa (que no era en thno, era en otra parte) y me dijo que se iba a ir a la playa, que estaba a no se cuantas millas de ahi...[tons en el suenho hice lo que siempre hago cdo escucho millas....intento ver cuantos</div>
+</summary>
+</entry>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="http://www.blogger.com/atom/5634593/108372743846308893" rel="service.edit" title="me kea okitiiiitooooo" type="application/atom+xml"/>
+<author>
+<name/>
+</author>
+<issued>2004-05-04T22:23:58-05:00</issued>
+<modified>2004-05-05T03:27:09Z</modified>
+<created>2004-05-05T03:27:09Z</created>
+<link href="http://tcanales.blogspot.com/2004/05/me-kea-okitiiiitooooo.html" rel="alternate" title="me kea okitiiiitooooo" type="text/html"/>
+<id>tag:blogger.com,1999:blog-5634593.post-108372743846308893</id>
+<title mode="escaped" type="text/html">me kea okitiiiitooooo</title>
+<summary type="application/xhtml+xml" xml:base="http://tcanales.blogspot.com" xml:space="preserve">
+<div xmlns="http://www.w3.org/1999/xhtml">el siguiente martes 11 ya voy a estar de vacaciones!!!!
+
+me quedan 3 entregas y un examen.
+
+(tenganme paciencia :P)</div>
+</summary>
+</entry>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="http://www.blogger.com/atom/5634593/108326952840639018" rel="service.edit" title="Important information about illegal file sharing" type="application/atom+xml"/>
+<author>
+<name/>
+</author>
+<issued>2004-04-29T15:12:08-05:00</issued>
+<modified>2004-04-30T03:27:32Z</modified>
+<created>2004-04-29T20:15:14Z</created>
+<link href="http://tcanales.blogspot.com/2004/04/important-information-about-illegal.html" rel="alternate" title="Important information about illegal file sharing" type="text/html"/>
+<id>tag:blogger.com,1999:blog-5634593.post-108326952840639018</id>
+<title mode="escaped" type="text/html">Important information about illegal file sharing</title>
+<summary type="application/xhtml+xml" xml:base="http://tcanales.blogspot.com" xml:space="preserve">
+<div xmlns="http://www.w3.org/1999/xhtml">Dear Students:
+
+Yesterday (April 28), the Recording Industry Association of America  
+filed a lawsuit against two unnamed individuals who use the University  
+of Minnesota computer network. The lawsuit alleges that the unnamed  
+defendants illegally downloaded or shared copyrighted materials. The  
+University is not named in the complaint.
+
+The RIAA has begun a series of lawsuits against</div>
+</summary>
+</entry>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="http://www.blogger.com/atom/5634593/108311278836735244" rel="service.edit" title="uhmmm toy viendo American Idol y....me he dado cue..." type="application/atom+xml"/>
+<author>
+<name/>
+</author>
+<issued>2004-04-27T19:39:48-05:00</issued>
+<modified>2004-04-28T00:42:52Z</modified>
+<created>2004-04-28T00:42:52Z</created>
+<link href="http://tcanales.blogspot.com/2004/04/uhmmm-toy-viendo-american-idol-y.html" rel="alternate" title="uhmmm toy viendo American Idol y....me he dado cue..." type="text/html"/>
+<id>tag:blogger.com,1999:blog-5634593.post-108311278836735244</id>
+<title mode="escaped" type="text/html">uhmmm toy viendo American Idol y....me he dado cue...</title>
+<summary type="application/xhtml+xml" xml:base="http://tcanales.blogspot.com" xml:space="preserve">
+<div xmlns="http://www.w3.org/1999/xhtml">uhmmm toy viendo American Idol y....me he dado cuenta que los cantantes de reality chilenos no eran los peores...jajaja...los de aca son haaarto maalos.
+</div>
+</summary>
+</entry>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="http://www.blogger.com/atom/5634593/108294192076410335" rel="service.edit" title="TV Satelital para elevar el nivel de los ninhos mas pobres" type="application/atom+xml"/>
+<author>
+<name/>
+</author>
+<issued>2004-04-25T20:12:00-05:00</issued>
+<modified>2004-04-26T01:15:03Z</modified>
+<created>2004-04-26T01:15:03Z</created>
+<link href="http://tcanales.blogspot.com/2004/04/tv-satelital-para-elevar-el-nivel-de.html" rel="alternate" title="TV Satelital para elevar el nivel de los ninhos mas pobres" type="text/html"/>
+<id>tag:blogger.com,1999:blog-5634593.post-108294192076410335</id>
+<title mode="escaped" type="text/html">TV Satelital para elevar el nivel de los ninhos mas pobres</title>
+<summary type="application/xhtml+xml" xml:base="http://tcanales.blogspot.com" xml:space="preserve">
+<div xmlns="http://www.w3.org/1999/xhtml">lun.com - Diario Las �ltimas Noticias
+
+0_o  .... tiene del anho que le pidan....
+
+</div>
+</summary>
+</entry>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="http://www.blogger.com/atom/5634593/108287160770772653" rel="service.edit" title="My playlist" type="application/atom+xml"/>
+<author>
+<name/>
+</author>
+<issued>2004-04-25T00:40:07-05:00</issued>
+<modified>2004-04-25T05:43:09Z</modified>
+<created>2004-04-25T05:43:09Z</created>
+<link href="http://tcanales.blogspot.com/2004/04/my-playlist.html" rel="alternate" title="My playlist" type="text/html"/>
+<id>tag:blogger.com,1999:blog-5634593.post-108287160770772653</id>
+<title mode="escaped" type="text/html">My playlist</title>
+<summary mode="escaped" type="text/html" xml:base="http://tcanales.blogspot.com" xml:space="preserve">Lo que quiero (las tenia, pero se me perdieron)...&#13;
+Mecano - Me cuesta tanto olvidarte&#13;
+Ella Baila Sola - Por ti&#13;
+La oreja de van gogh - Adios&#13;
+Ana Torroja - Partir&#13;
+Rosana - Si tu no estas aqui&#13;
+Rosana - Contigo&#13;
+&#13;
+&#13;
+Lo que tengo (no necesariamente me gustan, pero estan sonando fuerte)...&#13;
+Red Hot Chili Peppers - Under the bridge&#13;
+Javiera &amp; Los Imposibles - Corte en tramite&#13;
+Rosana - De los</summary>
+</entry>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="http://www.blogger.com/atom/5634593/108256736721739844" rel="service.edit" title="Ayer fui a ver &quot;Sabado, una pelicula en tiempo rea..." type="application/atom+xml"/>
+<author>
+<name/>
+</author>
+<issued>2004-04-21T12:09:27-05:00</issued>
+<modified>2004-04-21T17:12:25Z</modified>
+<created>2004-04-21T17:12:25Z</created>
+<link href="http://tcanales.blogspot.com/2004/04/ayer-fui-ver-sabado-una-pelicula-en.html" rel="alternate" title="Ayer fui a ver &quot;Sabado, una pelicula en tiempo rea..." type="text/html"/>
+<id>tag:blogger.com,1999:blog-5634593.post-108256736721739844</id>
+<title mode="escaped" type="text/html">Ayer fui a ver "Sabado, una pelicula en tiempo rea...</title>
+<summary type="application/xhtml+xml" xml:base="http://tcanales.blogspot.com" xml:space="preserve">
+<div xmlns="http://www.w3.org/1999/xhtml">Ayer fui a ver "Sabado, una pelicula en tiempo real" en un festival de cine que se esta haciendo aca cerca... era una de dos peliculas chilenas, la otra era los debutantes. Les transcribo textualmente lo que dice el comentario de esta ultima:
+
+"Since Chile's twenty-six year military dictatorship under Agausto (sic) Pinochet ended in 1989, the very catholic, socially conservative, and long and</div>
+</summary>
+</entry>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="http://www.blogger.com/atom/5634593/108242056680146289" rel="service.edit" title="uhmmm...cache que estoy baneada solo de la etherne..." type="application/atom+xml"/>
+<author>
+<name/>
+</author>
+<issued>2004-04-19T19:22:46-05:00</issued>
+<modified>2004-04-20T00:25:43Z</modified>
+<created>2004-04-20T00:25:43Z</created>
+<link href="http://tcanales.blogspot.com/2004/04/uhmmm.html" rel="alternate" title="uhmmm...cache que estoy baneada solo de la etherne..." type="text/html"/>
+<id>tag:blogger.com,1999:blog-5634593.post-108242056680146289</id>
+<title mode="escaped" type="text/html">uhmmm...cache que estoy baneada solo de la etherne...</title>
+<summary type="application/xhtml+xml" xml:base="http://tcanales.blogspot.com" xml:space="preserve">
+<div xmlns="http://www.w3.org/1999/xhtml">uhmmm...cache que estoy baneada solo de la ethernet...ahora estoy conectada por wi-fi en una clase y anoche me conecte por telefono con la conexion de la universidad.
+
+Aun asi, tos wachos perros no dan senhales de vida...capaz que me van a dejar pasar mis dos semanas de deprivacion en soledad, y me van a llamar solo en el ultimo dia.
+
+who knows.</div>
+</summary>
+</entry>
+<entry xmlns="http://purl.org/atom/ns#">
+<link href="http://www.blogger.com/atom/5634593/108214488619675434" rel="service.edit" title="Vale la pena ir a misa?" type="application/atom+xml"/>
+<author>
+<name/>
+</author>
+<issued>2004-04-16T14:48:06-05:00</issued>
+<modified>2004-04-16T19:50:59Z</modified>
+<created>2004-04-16T19:50:59Z</created>
+<link href="http://tcanales.blogspot.com/2004/04/vale-la-pena-ir-misa.html" rel="alternate" title="Vale la pena ir a misa?" type="text/html"/>
+<id>tag:blogger.com,1999:blog-5634593.post-108214488619675434</id>
+<title mode="escaped" type="text/html">Vale la pena ir a misa?</title>
+<summary type="application/xhtml+xml" xml:base="http://tcanales.blogspot.com" xml:space="preserve">
+<div xmlns="http://www.w3.org/1999/xhtml">Jaime Bayly - Vale la pena ir a misa?</div>
+</summary>
+</entry>
+</feed>

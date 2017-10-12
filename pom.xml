@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+    <version>1.0-LATEST-1</version>
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.github.burtonator</groupId>
+    <artifactId>langcat</artifactId>
+    <packaging>pom</packaging>
+
+    <properties>
+
+        <project.updatePolicy>never</project.updatePolicy>
+        <artemis.framework.version>6.5.254</artemis.framework.version>
+
+    </properties>
+
+    <prerequisites>
+        <maven>2.2.1</maven>
+    </prerequisites>
+
+    <modules>
+        <module>lang-core</module>
+    </modules>
+
+    <scm>
+
+        <connection>scm:git:https://github.com/burtonator/langcat.git</connection>
+        <developerConnection>scm:git:https://github.com/burtonator/langcat.git</developerConnection>
+        <url>https://github.com/burtonator/langcat</url>
+
+    </scm>
+
+    <distributionManagement>
+
+    </distributionManagement>
+
+    <repositories>
+        
+        <repository>
+            <id>spinn3r-public</id>
+            <url>http://public.maven.spinn3r.com/</url>
+        </repository>
+
+    </repositories>
+
+    <build>
+
+        <extensions>
+
+            <extension>
+                <groupId>org.apache.maven.wagon</groupId>
+                <artifactId>wagon-ssh</artifactId>
+                <version>2.8</version>
+            </extension>
+
+            <extension>
+                <groupId>org.apache.maven.wagon</groupId>
+                <artifactId>wagon-ssh-external</artifactId>
+                <version>2.8</version>
+            </extension>
+        </extensions>
+
+        <plugins>
+
+
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.5</version>
+                <configuration>
+                    <source>1.8</source>
+                    <target>1.8</target>
+                    <!--<compilerArgs>-->
+                    <!--<arg>-Xlint:all</arg>-->
+                    <!--<arg>-Werror</arg>-->
+                    <!--</compilerArgs>-->
+                    <showWarnings>true</showWarnings>
+                    <showDeprecation>true</showDeprecation>
+                </configuration>
+            </plugin>
+            
+        </plugins>
+
+    </build>
+
+</project>
+
+
+

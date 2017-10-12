@@ -1,0 +1,1919 @@
+https://ig.wikipedia.org/wiki/Wikipedia
+
+Wikipedia bula encyclopedia nola na Internet. Dika Nupedia, Jimmy Wales bula otu
+madu bidoro ya, ha na Larry Sanger. Na 15 Jenụwarị, na afo 2001, ha hapuru
+Wikipedia bido Nupedia, nwere he nile nola n'ebee tinye na Nupedia nke ndi
+bekee.
+
+Wikipedia (IPA: /ˌwikiˈpiːdi.ə/ or /ˌwɪkiˈpiːdi.ə/ (Audio (U.S.) (help·info)))
+is a multilingual, web-based, free content encyclopedia project. Wikipedia is
+written collaboratively by volunteers; its articles can be edited by anyone with
+access to the web site. The name is a portmanteau of the words wiki (a type of
+collaborative website) and encyclopedia. Its primary servers are in Tampa,
+Florida, with additional servers in Amsterdam and Seoul.
+
+Wikipedia was launched as the English Wikipedia on 15 Jenụwarị 2001, as a
+complement to Nupedia, an expert-written and now defunct encyclopedia. The
+project is now operated by the Wikimedia Foundation, a non-profit organization
+created by Jimmy Wales who is the co-founder of Wikipedia. Wikipedia has over
+six million articles in 250 languages, including more than 1.6 million in the
+English edition. It has steadily risen in popularity since its inception. and
+currently ranks among the eleven most-visited websites worldwide.
+
+Ndi na ekweghi ekwe ajụọla ajụjụ nke gbasara eziokwu nke ederede. The site has
+also been criticized for its susceptibility to vandalism, uneven quality,
+systemic bias and inconsistencies, and for favoring consensus over credentials
+in its editorial process. Wikipedia's content policies and sub-projects set up
+by contributors seek to address these concerns. Two scholarly studies have
+concluded that vandalism is generally short-lived and that Wikipedia is roughly
+as accurate as other encyclopedias.
+
+Authors may edit anonymously; in such cases, their IP address is recorded as the
+author name. Past edits to Wikipedia articles are retained, and remain viewable
+through "edit history" pages sorted chronologically, making it possible to see
+former versions of any page at any time.
+
+Changes to Wikipedia are made available immediately on the Web, without formal
+peer review. Wikipedia's philosophy is that unmoderated collaboration among
+well-meaning, informed editors will gradually improve the encyclopedia in its
+breadth, depth and accuracy, and that, given enough time, the truth will win out
+and even subtle errors will be caught and corrected. Thus, Wikipedia allows
+almost anyone to edit, except for users banned for persistent malfeasance after
+a lengthy arbitration process. Similarly, almost every article can be edited;
+editing is sometimes temporarily disabled for a small number of articles due to
+persistent vandalism or unresolved disputes among contributors. Wikipedia has
+not declared any of its articles "complete" or "finished".
+
+As a general encyclopedia, Wikipedia seeks to describe as wide a range of topics
+as possible. It covers the subjects customarily found in traditional
+encyclopedias, as well as many cultural and technical topics often absent from
+such works or confined to subject-specialized references. In addition to the
+roughly exponential growth in number of articles, the average length of each
+article has increased steadily, as has the number of "featured articles"
+recognized for their high quality. However, significant gaps in the project's
+coverage remain, and many articles are not well-referenced in a manner
+consistent with Wikipedia's editorial policy.
+
+One notable strength of Wikipedia is its timeliness. Traditionally, new editions
+of encyclopedias were released every few decades, as their information became
+noticeably obsolete. The idea of continuous revision, in which the entire
+encyclopedia revised and reprinted every few years, replaced this and is now
+employed by most encyclopedias. Wikipedia takes continuous revision to its
+ultimate limit — almost all articles may undergo revision at any time, allowing
+the project to incorporate current events. For example, the article on the 2004
+Indian Ocean earthquake in the English-language edition was cited frequently by
+the press in the days following the event.
+
+Decisions on the content and editorial processes of Wikipedia are made largely
+through consensus decision-making and, occasionally, by voting; Jimmy Wales and
+the Wikimedia Foundation retain final judgement. Wikipedia has several policies
+and guidelines, also developed through consensus, that guide activity on the
+project, covering behavioural, content-related and legal issues. One of the most
+important states that articles must be written from a "neutral point of view",
+presenting all noteworthy perspectives on an issue along with the evidence
+supporting them — thus, rather than aspiring to determine the objective truth of
+their subjects, articles attempt to describe them impartially from all
+significant viewpoints. Individual edits that contain libelous statements,
+copyright violations, and other content that could incur legal liability or be
+otherwise detrimental to Wikipedia are permanently hidden from view using a
+process called "Oversight".
+
+Contributions to Wikipedia are covered by the GNU Free Documentation License
+(GFDL), one of the many copyleft licenses that permit the redistribution,
+creation of derivative works, and commercial use of content. This license allows
+Wikipedia's editors to retain copyright of their work, but allows others to
+build upon that work and republish it, as long as the original author is
+credited and the derivative work is likewise covered by the GFDL. This license
+ensures that Wikipedia can be edited freely; each author's contributions are
+recorded for posterity in a database. Larry Sanger has said that having the GFDL
+as a "guarantee of freedom is a strong motivation to work on a free
+encyclopedia".
+
+Wikipedia also contains images and other media that were not created by its
+editors, but are in the public domain. Other content on Wikipedia is released
+under different copyleft terms or licenses compatible with the GFDL, such as
+Creative Commons licenses. Still other items such as corporate logos, song
+samples, or copyrighted news photos are presented with a claim of fair use under
+the United States copyright law. The Wikimedia Commons, a media repository and
+sister project in which many of Wikipedia's images are stored, also allows other
+copyleft licenses, but does not accept fair use images. Contributors may choose
+to multi-license their contributions under both the GFDL and the public domain,
+or the GFDL and other licenses, allowing third parties to use the content under
+any of these licenses.
+
+Wikipedia's open license fosters other innovative uses and presentations of its
+content. A spoken version is available for some articles in the Ogg Vorbis
+format, as the more widely used MP3 format is covered by software patents which
+encumber redistribution under a free license. Stand-alone versions of Wikipedia
+such as Lexipedia are available for handheld devices. SOS Children distributes
+the encyclopedia on a CD (2006 Wikipedia CD Selection). Published copies of
+selected Wikipedia articles are also available via PediaPress, a print on demand
+service. A project within Wikipedia is working on "Wikipedia 1.0", a collection
+of Wikipedia articles that have been verified for accuracy and are ready for
+printing or burning to CDs. The German Wikipedia has been distributed on DVD;
+print and digital versions of the English edition are being planned.
+
+Wikipedia began as a complementary project for Nupedia, a free online
+encyclopedia project whose articles were written by experts and reviewed by a
+formal process. Nupedia was founded on 9 Eprel 2008, under the ownership of
+Bomis, Inc, a web portal company. Its principal figures were Jimmy Wales, Bomis
+CEO, and Larry Sanger, editor-in-chief for Nupedia and later Wikipedia. Nupedia
+was licensed initially under its own Nupedia Open Content License, switching to
+the GFDL before Wikipedia's founding at the urging of Richard Stallman.
+
+On 29 Jenụwarị 2005, Larry Sanger proposed on the Nupedia mailing list to create
+a wiki as a "feeder" project for Nupedia. Wikipedia was formally launched on 15
+Jenụwarị 2001, as a single English-language edition at
+http://www.wikipedia.com/, and announced by Sanger on the Nupedia mailing list.
+Wikipedia's policy of "neutral point-of-view" was codified in its initial
+months, and was similar to Nupedia's earlier "nonbiased" policy. Otherwise,
+there were relatively few rules initially and Wikipedia operated independently
+of Nupedia. Wikipedia gained early contributors from Nupedia, Slashdot postings,
+and search engine indexing. It grew to approximately 20,000 articles, and 18
+language editions, by the end of 2001. It grew to 26 language editions by the
+end of 2002, 46 by the end of 2003, and 161 by the end of 2004. Nupedia and
+Wikipedia coexisted until the former's servers went down, permanently, in 2003,
+and its text was incorporated into Wikipedia. Larry Sanger and Jimmy Wales are
+both the co-founders of Wikipedia.
+
+Wales and Sanger attribute the concept of using a wiki to Ward Cunningham's
+WikiWikiWeb or Portland Pattern Repository.Àtụ:Citation needed Although Wales is
+credited with defining the goal of making a publicly-editable encyclopedia,
+Sanger is usually credited with the strategy of using a wiki to reach that goal.
+
+Citing fears of commercial advertising and lack of control in a perceived
+English-centric Wikipedia, users of the Spanish Wikipedia forked from Wikipedia
+to create the Enciclopedia Libre in Febrụwarị 2002. Later that year, Wales
+announced that Wikipedia would not display advertisements, and its website was
+moved to wikipedia.org. Various other projects have since forked from Wikipedia
+for editorial reasons. Wikinfo does not require neutral point of view and allows
+original research. New Wikipedia-inspired projects — such as Citizendium,
+Scholarpedia and Amapedia — have been started to address perceived limitations
+of Wikipedia, such as its policies on peer review, original research and
+commercial advertising.
+
+The Wikimedia Foundation was created from Wikipedia and Nupedia on 20 Juun 2003.
+
+The Wikimedia Foundation applied to the United States Patent and Trademark
+Office to trademark Wikipedia® on 17 Septemba 2004. The mark was granted
+registration status on 10 Jenụwarị 2006. Trademark protection was accorded by
+Japan on 16 Disemba 2004 and in the European Union on 20 Jenụwarị 2005.
+Technically a service mark, the scope of the mark is for: "Provision of
+information in the field of general encyclopedic knowledge via the Internet".
+There are plans to license the usage of the Wikipedia trademark for some
+products, such as books or DVDs.
+
+As of 2007, English Wikipedia had over 1.6 million articles, making it the
+largest encyclopedia ever assembled, eclipsing even the Yongle Encyclopedia
+(1407), which held the record for nearly 600 years.
+
+During Disemba 2005, about 27,000 users made at least five edits to Wikipedia;
+of these, 17,000 worked on the English edition. Maintenance tasks are performed
+by a group of volunteers; these include developers, who work on the MediaWiki
+software, and other trusted users with various permission levels including
+"steward", "bureaucrat" and "administrator". Stewards and bureaucrats are able
+to promote or demote users to different permission levels. Administrators are
+the largest group of specially privileged users, and have the ability to delete
+pages, prevent articles from being edited, or block users from editing.
+Administrators are, however, required to follow community policy when exercising
+these powers. These permissions are normally granted by community consensus;
+stewards are elected at irregular intervals. Vandalism or the minor infraction
+of policies may result in a warning or temporary block, while long-term or
+permanent blocks for prolonged and serious infractions are given by<citation
+need> (or in the name of) Jimmy Wales or, on the English-language edition, an
+elected "Arbitration Committee".
+
+Wikipedia is funded through the Wikimedia Foundation. Its 4th Quarter 2005 costs
+were $321,000 USD, with hardware making up almost 60% of the budget. The
+Wikimedia Foundation currently relies primarily on private donations, and holds
+regular fundraisers; the Jenụwarị 2007 fundraiser raised just over $1 million.
+
+The operation of Wikipedia depends on MediaWiki, a custom-made, open source wiki
+software platform written in PHP and built upon the MySQL database. The software
+incorporates modern programming features, such as a macro language, variables, a
+transclusion system for templates, and URL redirection. MediaWiki is licensed
+under the GNU General Public License and used by all Wikimedia projects, as well
+as many other wiki projects. Originally, Wikipedia ran on UseModWiki written in
+Perl by Clifford Adams (Phase I), which initially required CamelCase for article
+hyperlinks; the present double brackets were incorporated later. Starting in
+Jenụwarị 2002 (Phase II), Wikipedia began running on a PHP wiki engine with a
+MySQL database; this software was custom-made for Wikipedia by Magnus Manske.
+The Phase II software was repeatedly modified to accommodate the exponentially
+increasing demand. In Julaị 2002 (Phase III), Wikipedia shifted to the
+third-generation software, MediaWiki, originally written by Lee Daniel Crocker.
+
+Wikipedia runs on dedicated clusters of Linux servers in Florida and in four
+other locations. Wikipedia employed a single server until 2004, when the server
+setup was expanded into a distributed multitier architecture. In Jenụwarị 2005,
+the project ran on 39 dedicated servers located in Florida. This configuration
+included a single master database server running MySQL, multiple slave database
+servers, 21 web servers running the Apache HTTP Server, and seven Squid cache
+servers. By Septemba 2005, its server cluster had grown to around 100 servers in
+four locations around the world.
+
+Page requests are first passed to a front-end layer of Squid caching servers.
+Requests that cannot be served from the Squid cache are sent to load-balancing
+servers running the Perlbal software, which in turn pass the request to one of
+the Apache web servers for page-rendering from the database. The web servers
+deliver pages as requested, performing page rendering for all the language
+editions of Wikipedia. To increase speed further, rendered pages for anonymous
+users are cached in a filesystem until invalidated, allowing page rendering to
+be skipped entirely for most common page accesses. To further accelerate
+response times, Wikimedia is building a global network of caching servers,
+beginning with three caching servers in France. Two larger clusters in the
+Netherlands and Korea now handle much of Wikipedia's traffic load.
+
+Wikipedia has been described as "an effort to create and distribute a free
+encyclopedia of the highest possible quality to every single person on the
+planet in their own language". There are presently 250 language editions of
+Wikipedia; of these, the top 14 have over 100,000 articles and the top 131 have
+over 1,000 articles. According to Alexa Internet's audience measurement service,
+the English subdomain (en.wikipedia.org) receives approximately 55% of
+Wikipedia's cumulative traffic, with the remaining 45% split among the other
+languages. The various language editions are held to global policies such as
+"neutral point of view," though they may diverge on subtler points of policy and
+practice.
+
+The editing of the language editions is not coordinated, and articles of one
+edition need not match their counterparts in another edition. Multilingual
+editors of sufficient fluency are encouraged to manually translate articles;
+automated translation of articles is explicitly disallowed. Translated articles
+represent only a small portion of articles in most editions. Articles available
+in more than one language offer "InterWiki" links in their left margins, which
+link to the counterpart articles in other editions. Images and other non-verbal
+media are shared among the various language editions through the Wikimedia
+Commons repository.
+
+Wikipedia appeals to the authority of peer-reviewed publications rather than the
+personal authority of experts. Wikipedia does not require that its contributors
+give their legal names or provide other information to establish their identity.
+Although some contributors are authorities in their field, Wikipedia requires
+that even their contributions be supported by published sources. A drawback of
+this citation-only approach is that readers may be unable to judge the
+credibility of a cited source.
+
+Wikipedia tries to address the problem of systemic bias, and to deal with
+zealous editors who seek to influence the presentation of an article in a biased
+way, by insisting on a neutral point of view. The English-language Wikipedia has
+introduced a scale against which the quality of articles is judged; other
+editions have also adopted this. Roughly 1200 have passed a rigorous set of
+criteria to reach the highest rank, "featured article" status; such articles are
+intended to provide a thorough, well-written coverage of their topic, and be
+supported by many references to peer-reviewed publications.
+
+Studies suggest that Wikipedia provides a good starting point for research, but
+sometimes suffers from significant omissions and inaccuracies. But an
+investigation by Nature comparing Wikipedia to the Encyclopædia Britannica
+suggested a near similar level of accuracy in terms of its natural science
+articles; however, Encyclopædia Britannica, Inc., described this study as
+"fatally flawed", to which Nature later responded, stating that its study was
+perfectly neutral. Other studies have concluded that Wikipedia's coverage of
+history is significantly broader and deeper than that of Encarta, while being
+just as accurate, and that obvious vandalism is usually reverted quickly. In a
+study of Wikipedia as a community, economics PhD student Andrea Ciffolilli
+argued that the low transaction costs of participating in wiki software create a
+catalyst for collaborative development, and that a "creative construction"
+approach encourages participation. Wikipedia has been viewed as a social
+experiment; founder Jimmy Wales has stated that it is not intended as one,
+though that is a consequence.
+
+Wikipedia has been accused of exhibiting systemic bias and inconsistency;
+critics argue that Wikipedia's open nature, and favouring consensus over
+credentials in its editorial process, makes it unauthoritative, and that a lack
+of proper sources for much of the information makes it unreliable, although the
+converse of the same argument can also be argued. Some commentators suggest that
+Wikipedia is usually reliable, but that it is not always clear how much. The
+project's preference for consensus over credentials has been labelled
+"anti-elitism". Editors of traditional reference works such as the Encyclopædia
+Britannica have questioned the project's utility and status as an encyclopedia.
+Many university lecturers discourage students from citing any encyclopedia in
+academic work, preferring primary sources; some specifically prohibit Wikipedia
+citations. Founder Jimmy Wales stresses that encyclopedias of any type are not
+usually appropriate as primary sources, and should not be relied upon as
+authoritative. Technology writer Bill Thompson commented that the debate was
+possibly "symptomatic of much learning about information which is happening in
+society today."
+
+Concerns have also been raised regarding the lack of accountability that results
+from users' anonymity, and that it is vulnerable to vandalism and Internet
+trolls. For example, false information was introduced into the biography of John
+Seigenthaler, Sr. and remained undetected for four months.
+
+Wikipedia's community has been described as "cult-like", although not always
+with entirely negative connotations, and criticised for failing to accommodate
+inexperienced users. The addition of political spin to articles by organizations
+including the U.S. House of Representatives and special interest groups has been
+noted, and organizations such as Microsoft have offered financial incentives to
+work on certain articles. Wikipedia has been parodied by its critics, notably by
+Stephen Colbert in The Colbert Report.
+
+In 2007 the Wikipedia article on then-Montana senator Conrad Burns was edited by
+his own staff, causing political scandal among his own constituents.
+
+Wikipedia's content policies and sub-projects set up by contributors seek to
+address these concerns. Several scholarly studies have concluded that vandalism
+is generally short-lived, and that Wikipedia is roughly as accurate as other
+online encyclopedias.
+
+Wikipedia won two major awards in Mee 2004. The first was a Golden Nica for
+Digital Communities of the annual Prix Ars Electronica contest; this came with a
+€10,000 (£6,588; $12,700) grant and an invitation to present at the PAE
+Cyberarts Festival in Austria later that year. The second was a Judges' Webby
+Award for the "community" category. Wikipedia was also nominated for a "Best
+Practices" Webby. In Septemba 2004, the Japanese Wikipedia was awarded a Web
+Creation Award from the Japan Advertisers Association. This award, normally
+given to individuals for great contributions to the Web in Japanese, was
+accepted by a long-standing contributor on behalf of the project.
+
+In a 2006 Multiscope research study, the Dutch Wikipedia was rated the third
+best Dutch language site, after Google and Gmail, with a score of 8.1. On 26
+Jenụwarị 2007, Wikipedia was also awarded the fourth highest brand ranking by
+the readers of brandchannel.com, receiving 15% of the votes in answer to the
+question "Which brand had the most impact on our lives in 2006?" Founder Jimmy
+Wales was named one of the 100 most influential people in the world by TIME
+Magazine in 2006. In 2006, the Russian Wikipedia won the "Science and education"
+category of the "Runet Prize" (Russian: Премия Рунета) award, supervised by the
+Russian government agency FAPMC.
+
+Wikipedia's content has been mirrored and forked by hundreds of sites including
+database dumps. Its content has also been used in academic studies, books and
+conferences. and used in court cases. The Canadian Parliament website refers to
+Wikipedia's article on same-sex marriage in the "related links" section of its
+"further reading" list for Civil Marriage Act. The encyclopedia's assertions are
+increasingly used as a source by organizations such as the U.S. Federal Courts
+and the World Intellectual Property Office — though mainly for supporting
+information rather than information decisive to a case. Wikipedia has also been
+used as a source in journalism, sometimes without attribution; several reporters
+have been dismissed for plagiarizing from Wikipedia.
+
+Wikipedia maintains a (non-comprehensive) list of notable uses of the
+encyclopedia as a source.
+
+With increased usage and awareness, there have been an increasing number of
+references to Wikipedia in popular culture. Many parody Wikipedia's openness,
+with characters vandalizing or modifying the online encyclopedia project's
+articles. Uncyclopedia is the largest such website; its Main Page claims that it
+is the "content-free encyclopedia that anyone can edit," parodying the English
+Wikipedia's welcome message on its Àtụ:Srlink.
+
+In the episode "Wikiality" of The Colbert Report, host Stephen Colbert has
+instigated his viewers to vandalize articles in humorous ways, once doing so on
+the Wikipedia article on elephants. "Weird Al" Yankovic's character in his video
+'White & Nerdy' is seen vandalising the entry for the Atlantic record label with
+the exclamation "You suck!," after they rescinded permission for a parody.
+
+In a recent episode of American Dad (entitled Black Mystery Month), protagonists
+Stan Smith and Steve Smith fail to reveal to the world that George Washington
+Carver wasn't the person who invented peanut butter, then create a Wikipedia
+page entitled "The Truth About Peanut Butter" to inform the world, citing that
+it is the one place you can put crazy information out with no evidence and still
+have millions of people believe it to be true.
+
+Wikipedia has spawned several sister projects. The first, "In Memoriam: 11
+Septemba Wiki", created in Ọktoba 2002, detailed the 11 Septemba 2001 attacks;
+this project was closed in Ọktoba 2006. Wiktionary, a dictionary project, was
+launched in Disemba 2002; Wikiquote, a collection of quotations, a week after
+Wikimedia launched, and Wikibooks, a collection of collaboratively-written free
+books, the next month. Wikimedia has since started a number of other projects.
+
+A similar non-wiki project, the GNUpedia project, co-existed with Nupedia early
+in its history; however, it has been retired and its creator, free-software
+figure Richard Stallman, has lent his support to Wikipedia.
+
+Other websites centered around collaborative knowledge base development have
+drawn inspiration from or inspired Wikipedia. Some, such as Susning.nu,
+Enciclopedia Libre, and WikiZnanie likewise employ no formal review process,
+whereas others use more traditional peer review, such as the expert-written
+Stanford Encyclopedia of Philosophy, h2g2 and Everything2.
+
+
+
+https://ig.wikipedia.org/wiki/Naigeria
+
+Naíjíríà (Naigeria, Naịjiria), nke ana kpo Njíkötá Óchíchìiwù Naíjíríà na olu
+bekee, bu otu obodo no n'ime Afrika, Odi n'akuku odida anyanwu Afrika ana-akpo
+West Africa. Obu kwa obodo ndị Igbo, ma ndi Hausa na ndi Yoruba nakwa otutu ndi
+ozo di iche iche. Obodo a na-akpo Republic du Benin no na aka-ekpe Naijiria.
+Chad na Cameroon no kwa n'aka-nri ya. Na elu ya no obodo ana-kpo Niger. Okpuru
+ya ruru ebe mmiri a na-akpobu Bight of Biafra nke a gbanwere Gulf of Guinea di.
+Ebe ahu bukwa ebe mmiri ana-akpo Bight of Biafra di tupu a kpowa ya Bight of
+Bonny. Na 1991, ebugara isi obodo ya n' Abuja. Isi obodo ya dibu na Lagos nke di
+na ndida anyanwu (Western Nigeria). Abuja buzi isi obodo no n'etiti Naijiria.
+
+Akuko mbido Naijiria hiri nne ma dikwa ogologo. Ihe egwuputara n'ala bu ihe na
+egosi ebe mmadu si, gosiri na mmadu bidoro biwe nebe a site na-afo mgbe ochie bu
+9000 BC., Ebe Mmiri a na-akpo River Benue-Benue-Cross River bu ebe echere na ndi
+a na akpo ndi Bantu bi bu,Bantu/Bantu Migrants. Ndi a sitekwara ebea wee gbasaa
+rue n'Etiti Afrika central Africa nakwa ndida Afrika southern Africa n'igwe site
+na 1st millenium BC rue 2nd millenium AD.
+
+1 Ọktoba, N'onwa Oktoba Ọktoba afo nke 1960, ndi bekee bu ndi hapuru ala ha bu
+United Kingdom wee bia na ala ebe ha bidoro kpowa Naijiria, nyeghachiri ndi
+Naijiria ala ha. Naijiria ugbua nweziri ngalaba ochichi okpuru obodo di 36, 36
+states nakwa Isi Obodo- bu Federal Capital Territory- Abuja. Naijiria
+nweghachikwara ochichi a na akpo Demokrasi Democracy n'afo 1999, mgbe ndi Soja
+Military chigoro afo iri na isii. Site n'afo 1966 rue 1999 ndi soja ala Naijiria
+bu ndi na achi Naijiri (ma oburu na ewepu ochichi Shehu Shagari, nke na eteghi
+aka, nke akporosecond repiblic 1979-1983). Ndi Soja a na-eweghara ochichi n'ike.
+Ha chikwara site na coup d'etats/counter-coups site n'afo 1966-1979 na
+1983-1998.
+
+Àtụ:Member states of the African Union Àtụ:D8 nations Àtụ:G15 Àtụ:OPEC Àtụ:OIC
+Àtụ:Community of Sahel-Saharan States Àtụ:Niger-Congo-speaking Àtụ:Commonwealth
+of Nations
+
+
+
+https://ig.wikipedia.org/wiki/Wiki
+
+A wiki (Àtụ:Pron-en Àtụ:Respell) is a website that allows the easy creation and
+editing of any number of interlinked web pages via a web browser using a
+simplified markup language or a WYSIWYG text editor. Wikis are typically powered
+by wiki software and are often used to create collaborative websites, to power
+community websites, for personal note taking, in corporate intranets, and in
+knowledge management systems.
+
+Wikis may exist to serve a specific purpose, and in such cases, users use their
+editorial rights to remove material that is considered "off topic". Such is the
+case of the collaborative encyclopedia Wikipedia. In contrast, open purpose
+wikis accept content without firm rules as to how the content should be
+organized.
+
+Ward Cunningham, the developer of the first wiki software, WikiWikiWeb,
+originally described it as "the simplest online database that could possibly
+work." "Wiki" (Àtụ:Pron or Àtụ:IPA-all) is a Hawaiian word for "fast". "Wiki"
+has been backronymed by some to "What I Know Is".
+
+WikiWikiWeb was the first wiki. Ward Cunningham started developing WikiWikiWeb
+in 1994, and installed it on the Internet domain c2.com on 25 Maachị 1995. It
+was named by Cunningham, who remembered a Honolulu International Airport counter
+employee telling him to take the "Wiki Wiki" shuttle bus that runs between the
+airport's terminals. According to Cunningham, "I chose wiki-wiki as an
+alliterative substitute for 'quick' and thereby avoided naming this stuff
+quick-web."
+
+Cunningham was in part inspired by Apple's HyperCard. Apple had designed a
+system allowing users to create virtual "card stacks" supporting links among the
+various cards. Cunningham developed Vannevar Bush's ideas by allowing users to
+"comment on and change one another's text".
+
+Despite Cunningham's usage of the term, the origins of the name wiki in commerce
+can be traced to the first U.S. Trademark on the name "wiki", which was filed a
+year before Ward Cunningham started developing WikiWikiWeb in 1994 by a company
+called WikiDigs in Van Nuys, California on 12 Julaị 1993. The original trademark
+for "wiki" was used to describe a form of non-metal caps used for collecting and
+trading. However, the mark became abandoned by Disemba 1994 because of a failure
+to use the mark in commerce, opening the way to widespread adoption of the term
+in the computer industry.
+
+In the early 2000s, wikis were increasingly adopted in enterprise as
+collaborative software. Common uses included project communication, intranets,
+and documentation, initially for technical users. Today some companies use wikis
+as their only collaborative software and as a replacement for static intranets,
+and some schools and universities use wikis to enhance group learning. There may
+be greater use of wikis behind firewalls than on the public Internet.
+
+Àtụ:Refimprovesect Ward Cunningham, and co-author Bo Leuf, in their book The
+Wiki Way: Quick Collaboration on the Web described the essence of the Wiki
+concept as follows:
+
+A wiki enables documents to be written collaboratively, in a simple markup
+language using a web browser. A single page in a wiki website is referred to as
+a "wiki page", while the entire collection of pages, which are usually well
+interconnected by hyperlinks, is "the wiki". A wiki is essentially a database
+for creating, browsing, and searching through information.
+
+A defining characteristic of wiki technology is the ease with which pages can be
+created and updated. Generally, there is no review before modifications are
+accepted. Many wikis are open to alteration by the general public without
+requiring them to register user accounts. Sometimes logging in for a session is
+recommended, to create a "wiki-signature" cookie for signing edits
+automatically. Many edits, however, can be made in real-time and appear almost
+instantly online. This can facilitate abuse of the system. Private wiki servers
+require user authentication to edit pages, and sometimes even to read them.
+
+There are many different ways in which wikis have users edit the content.
+Ordinarily, the structure and formatting of wiki pages are specified with a
+simplified markup language, sometimes known as "wikitext". For example, starting
+a line of text with an asterisk ("*") is often used to enter it in a bulleted
+list. The style and syntax of wikitexts can vary greatly among wiki
+implementations, some of which also allow HTML tags. The reason for taking this
+approach is that HTML, with its many cryptic tags, is not very legible, making
+it hard to edit. Wikis therefore favour plain text editing, with fewer and
+simpler conventions than HTML, for indicating style and structure. Although
+limiting access to HTML and cascading style sheets (CSS) of wikis limits user
+ability to alter the structure and formatting of wiki content, there are some
+benefits. Limited access to CSS promotes consistency in the look and feel and
+having JavaScript disabled prevents a user from implementing code, which may
+limit access for other users.
+
+Increasingly, wikis are making "WYSIWYG" ("What You See Is What You Get")
+editing available to users, usually by means of JavaScript or an ActiveX control
+that translates graphically entered formatting instructions, such as "bold" and
+"italics", into the corresponding HTML tags or wikitext. In those
+implementations, the markup of a newly edited, marked-up version of the page is
+generated and submitted to the server transparently, and the user is shielded
+from this technical detail. However, WYSIWYG controls do not always provide all
+of the features available in wikitext.
+
+Most wikis keep a record of changes made to wiki pages; often every version of
+the page is stored. This means that authors can revert to an older version of
+the page, should it be necessary because a mistake has been made or the page has
+been vandalized. Many implementations (for example MediaWiki) allow users to
+supply an "edit summary" when they edit a page. This is a short piece of text
+(usually one line) summarizing the changes. It is not inserted into the article,
+but is stored along with that revision of the page, allowing users to explain
+what has been done and why; this is similar to a log message when committing
+changes to a revision control system.
+
+Within the text of most pages there are usually a large number of hypertext
+links to other pages. This form of non-linear navigation is more "native" to
+wiki than structured/formalized navigation schemes. That said, users can also
+create any number of index or table of contents pages, with hierarchical
+categorization or whatever form of organization they like. These may be
+challenging to maintain by hand, as multiple authors create and delete pages in
+an ad hoc manner. Wikis generally provide one or more ways to categorize or tag
+pages to support the maintenance of such index pages.
+
+Most wikis have a backlink feature, which displays all pages that link to a
+given page.
+
+Links are created using a specific syntax, the so-called "link pattern" (also
+see CURIE). Originally, most wikis used CamelCase to name pages and create
+links. These are produced by capitalizing words in a phrase and removing the
+spaces between them (the word "CamelCase" is itself an example). While CamelCase
+makes linking very easy, it also leads to links which are written in a form that
+deviates from the standard spelling. CamelCase-based wikis are instantly
+recognizable because they have many links with names such as "TableOfContents"
+and "BeginnerQuestions." It is possible for a wiki to render the visible anchor
+for such links "pretty" by reinserting spaces, and possibly also reverting to
+lower case. However, this reprocessing of the link to improve the readability of
+the anchor is limited by the loss of capitalization information caused by
+CamelCase reversal. For example, "RichardWagner" should be rendered as "Richard
+Wagner," whereas "PopularMusic" should be rendered as "popular music." There is
+no easy way to determine which capital letters should remain capitalized. As a
+result, many wikis now have "free linking" using brackets, and some disable
+CamelCase by default.
+
+Wikis are generally designed with the philosophy of making it easy to correct
+mistakes, rather than making it difficult to make them. Thus, while wikis are
+very open, they provide a means to verify the validity of recent additions to
+the body of pages. The most prominent, on almost every wiki, is the "Recent
+Changes" page—a specific list numbering recent edits, or a list of edits made
+within a given time frame. Some wikis can filter the list to remove minor edits
+and edits made by automatic importing scripts ("bots").
+
+From the change log, other functions are accessible in most wikis: the revision
+history shows previous page versions and the diff feature highlights the changes
+between two revisions. Using the revision history, an editor can view and
+restore a previous version of the article. The diff feature can be used to
+decide whether or not this is necessary. A regular wiki user can view the diff
+of an edit listed on the "Recent Changes" page and, if it is an unacceptable
+edit, consult the history, restoring a previous revision; this process is more
+or less streamlined, depending on the wiki software used.
+
+In case unacceptable edits are missed on the "recent changes" page, some wiki
+engines provide additional content control. It can be monitored to ensure that a
+page, or a set of pages, keeps its quality. A person willing to maintain pages
+will be warned of modifications to the pages, allowing him or her to verify the
+validity of new editions quickly.
+
+Most wikis offer at least a title search, and sometimes a full-text search. The
+scalability of the search depends on whether the wiki engine uses a database.
+Indexed database access is necessary for high speed searches on large wikis.
+Alternatively, external search engines such as Google can sometimes be used on
+wikis with limited searching functions in order to obtain more precise results.
+However, a search engine's indexes can be very out of date (days, weeks or
+months) for many websites.
+
+Wiki software is a type of collaborative software that runs a wiki system,
+allowing web pages to be created and edited using a common web browser. It is
+usually implemented as an application server that runs on one or more web
+servers. The content is stored in a file system, and changes to the content are
+stored in a relational database management system. Alternatively, personal wikis
+run as a standalone application on a single computer. For example: WikidPad.
+
+Critics of publicly editable wiki systems argue that these systems could be
+easily tampered with, while proponents argue that the community of users can
+catch malicious content and correct it. Lars Aronsson, a data systems
+specialist, summarizes the controversy as follows:
+
+The open philosophy of most wikis, allowing anyone to edit content, does not
+ensure that every editor is well-meaning. Vandalism can be a major problem. In
+larger wiki sites, such as those run by the Wikimedia Foundation, vandalism can
+go unnoticed for a period of time. Wikis by their very nature are susceptible to
+intentional disruption, known as "trolling". Wikis tend to take a soft security
+approach to the problem of vandalism; making damage easy to undo rather than
+attempting to prevent damage. Larger wikis often employ sophisticated methods,
+such as bots that automatically identify and revert vandalism and JavaScript
+enhancements that show characters that have been added in each edit. In this way
+vandalism can be limited to just "minor vandalism" or "sneaky vandalism", where
+the characters added/eliminated are so few that bots do not identify them and
+users do not pay much attention to them.
+
+The amount of vandalism a wiki receives depends on how open the wiki is. For
+instance, some wikis allow unregistered users, identified by their IP addresses,
+to edit content, whilst others limit this function to just registered users.
+Most wikis allow anonymous editing without an account, but give registered users
+additional editing functions; on most wikis, becoming a registered user is a
+short and simple process. Some wikis require an additional waiting period before
+gaining access to certain tools. For example, on the English Wikipedia,
+registered users can only rename pages if their account is at least four days
+old. Other wikis such as the Portuguese Wikipedia use an editing requirement
+instead of a time requirement, granting extra tools after the user has made a
+certain number of edits to prove their trustworthiness and usefulness as an
+editor. Basically, "closed up" wikis are more secure and reliable but grow
+slowly, whilst more open wikis grow at a steady rate but result in being an easy
+target for vandalism. A clear example of this would be that of Wikipedia and
+Citizendium. The first is extremely open, allowing anyone with a computer and
+internet access to edit it, making it grow rapidly, whilst the latter requires
+the users' real name and a biography of themselves, affecting the growth of the
+wiki but creating an almost "vandalism-free" ambiance.
+
+Many wiki communities are private, particularly within enterprises. They are
+often used as internal documentation for in-house systems and applications.
+
+There also exist WikiNodes which are pages on wikis that describe related wikis.
+They are usually organized as neighbors and delegates. A neighbor wiki is simply
+a wiki that may discuss similar content or may otherwise be of interest. A
+delegate wiki is a wiki that agrees to have certain content delegated to that
+wiki.
+
+One way of finding a wiki on a specific subject is to follow the wiki-node
+network from wiki to wiki; another is to take a Wiki "bus tour", for example:
+Àtụ:Srlink. Domain names containing "wiki" are growing in popularity to support
+specific niches.
+
+For those interested in creating their own wiki, there are publicly available
+"wiki farms", some of which can also make private, password-protected wikis.
+PBwiki, Socialtext, Wetpaint, and Wikia are popular examples of such services.
+For more information, see List of wiki farms. Note that free wiki farms
+generally contain advertising on every page.
+
+The English-language Wikipedia has the largest user base among wikis on the
+World Wide Web and ranks in the top 10 among all Web sites in terms of traffic.
+Other large wikis include the WikiWikiWeb, Memory Alpha, Wikivoyage, World66 and
+Susning.nu, a Swedish-language knowledge base.
+
+There are also numerous small-scale educational communities using the Wiki
+software or variants. Wikidot's 'Philosophical Investigations' is one of the
+better known.
+
+In an Eprel 2009 article for the London Times Higher academic newspaper, the
+philosopher Martin Cohen predicted that this 'bottom-up' model would in due
+course supersede the ambitious "libraries of All Knowledge' like Wikipedia and
+Citizendium.
+
+
+
+https://ig.wikipedia.org/wiki/M%C3%A1du
+
+Mádu bu òdùdù enyï anúmanụ àlà nwẹrẹ ómárí káchárá anumanu nke níle. Na asụsụ
+Latin há kpòrò madu Homo Sapien bú "onye ómárí" ma "onye ma ihe". Há bu ndi nọr
+na òdùdù nke Homo nke énwè nẹ jé na úkwú abụo na Hominidae, umunna énwè úkwú.
+Máná ọ di mgbe "Human" na asụsụ bekee na kárá genus nke Homo.
+
+Madu nwèrè ọvúrù kachara a ka, nke nweríkí nwe ómárí nke nché échìchè, asụsụ,
+ómárí onwé, na Í nweríkí bì nsogbu. Ọ dị Í nwé íshí nka, tírí ya na ahú kwụrụ
+ọtọ na élú nke nyéré íke Í me ka áká rü, mèrè ka madu gáfe na ihü òdùdù enyï nke
+ndi ozọr na Í jí ihe ọrü a rü. DNA Mitochondrial na ánumanu ichie di nà àlà zịrị
+na madu ndi ohüru shì Afrika na afọr 200,000 gárá agá. Nwéré madu gbásaa na uwa
+nílé ma ha dighị na Antarktika, madu bu òdùdù enyï nke uwà na uwà. Na Önwa ise
+nke 2010, mádu rùrù nke há sí bu ijeri 6.8.
+
+Há sị madu chọrọ Í má na Í nwe àgbà na uwà há, né tú ọtù ha shi é kọwa na í rü
+na élú ihe àlà shí ọbià, ílúnílú, ihe mmuö na éféfé. Ihe nọr na íshí ha nke
+nchọnchó mèrè ka ha ganírú na Í kw ihe orü na Í rümarü, nke na da na umunna;
+madu bu ótụ anúmanụ nke nwéré ómárí Í fụnwu ọkụ, Í shí ihe orị, Í tí uwé, na
+technonzu ndi ozọr.
+
+
+
+https://ig.wikipedia.org/wiki/%E1%BB%8Cm%C3%BAm%C3%BA-%C3%B3n%C3%BA%E1%BB%8Dg%E1%BB%A5g%E1%BB%A5
+
+Ọmúmú-ónúọgụgụ (búrú Mathematics na asụsụ bekee) omúmú màkà mà, ụdị, ámá, na ihe
+gbanwe. Ndi ọmúmúónúọgụgụ nà kpàchányá Í lé ihe nṇòmi, màkà Í rütá ihe bụ
+ezíbȯté ihe dị na ùwà. Ọmúmú-ónúọgụgụ dị mkpà Í bì ihe né mé na ùwà; ȯ bụ ihe
+mèrè kà ndi ozor á búghị ndi ọmúmú-ónúọgụgụ na mú ya. Na úbọchị tá, orü di
+ímérímé jịrị ọmúmú-ónúọgụgụ à rü. Orü, obiạ, ọrü-órü, na Í ruu ihe né jí
+ọmúmú-ónúọgụgụ Í rü. Ha na kpó ndi na rü nchéchichè nka onye ọmúmú-ónúọgụgụ
+
+Ọ dị nlụlítá ụkà nke ndi ọmúmú-ónúọgụgụ náa jü màkà ihe ọmúmú-ónúọgụgụ dí kà
+ónúọgụgụ di nà àlà mgbé mádu ánóghị ya. Onye ọmúmú-ónúọgụgụ Benjamin Peirce si
+ọmúmú-ónúọgụgụ bụ "obiạ nke ha nè jị ẹ rü ihe di mkpà". Albert Einstein, nà áká
+ozor, sị na "otụ íwú ọmúmú-ónúọgụgụ kwùrù ihe bu ùwà nke ányí na hü, ọ dígí
+ézíbóté; na mgbe ha gi bu ézíbóté, ha gágị à bụ ihe bu ùwà nke ányí na hü."
+
+
+
+https://ig.wikipedia.org/wiki/New_York_City
+
+New York bu ama ukwu kárírí ívu mádu na Njikota Obodo Amerika, na etítì ama sárá
+nke New York, nke bu ótụ na ùwà kárírí madu. Bu ama oganiru, New York nwèrè íké
+na áhiá ùwà nílé, nká, oménàlà, ndọùwé, ọtúihe, ómúmú, na mmemmé. Ka onye jídéré
+Íshí Ọtú Mbà, ọ di kwà mkpà na ihe ne me na ùwà. Ha na kpo ámá nke New York City
+ma ọ bu City of New York Í me ka ya na nkeji obodo New York gị dị ichè, nke ọ
+nọr.
+
+Dí nà ébé ugbọ na bía di na ikpele mmiri nke Atlantic nke Olile owuwa Nkeji
+Obodo, ama nke nwèrè nkeji ise: The Bronx, Brooklyn, Manhattan, Queens, na Élú
+mmiri Staten. Ha kàrà àkà na 2008 sí na ama nke nwèrè mádu gáfè nde 8.3, na nke
+àlà gbárá gburụ gbúrụ nke mile 305 (790 km2), New York City bu ébé mádu nọkọtàrà
+ká ama ndi ozor na Nkeji Obodo. Ama sárá nke New York nwèkwàrà mádu ká ébé ndi
+ozor na mgbà áhù, nwé mád ha kà àkà nde 19.1 na gbụrụ gbúrụ mile 6,720 (17,400
+km2). Na nke ozor, nke Njikota Kà Àkà Gbúrù nwéré ama sárá New York nwèrè mádu
+rúrú nde 22.2 na afọr 2009 nke ỌgúMádu kàrà àkà, na nke kárírí kwa na Njikota
+Obodo.
+
+
+
+https://ig.wikipedia.org/wiki/Physics
+
+Physics bu ihe nmuta eji a muzutara ihe chi kezutara na uwa. Obi nmetuta ya
+gbara mbara, ka o metuluelu nkpulu nke npedebe di ka electrons na subatomic
+particles nke ndi ozo we metulue ihe di ukwu ka kpakpando na galaxies na oba
+nbudebe. Ihe nchu na physics bu i kedozue ihe nile nke chi kezutara na uwa na
+otu ama. Otu e site a mara ije nke anwa di na mathematics na echezute logic. Ka
+anyi nyote otu nke a: Na physics, e nwe ife a kporo electromagnetism. Onye jide
+magnet were nodu igwe nso, o ga nute force ga soro ya. O ga kwute kwaa ya nso, o
+ga nyoputa na force soro ya ga elite kwaa enu. O masiri Physicists i chotara otu
+ozuzu force soro igwe na magnet zuputara, ka o si bulu na ndi oge ochie chotara
+na(Maka Magnetism nkiti)
+
+F = q [ ( v × B ) ] . {\displaystyle \mathbf {F} =q[(\mathbf {v} \times \mathbf
+{B} )].}
+
+Otu equation nke a si putara bu na force F bu nke jikote igwe na magnet, q [ v ×
+B ] {\displaystyle q[\mathbf {v} \times \mathbf {B} ]} guzute oke turu igwe na B
+bu oke turu magnet. Nime otu nkpulu equation nke a, e nwe ike i nwoputa kwaa otu
+physics site e kedote ihe di iche iche, maka na q bu nke egi a guzute electric
+charge na v bu nke eji a guzute oso n'ije nke charge ji a gba. Ihe soro zi nke
+anwa bu na magnetisim na electricity soro onwe ha.
+
+Classical Mechanics buru otu physics nke ezi ya bidoputara na oge ochie. Ndi
+ezigbo ukwu nwoke kwachigara ya na nke nbido buru ndi otu Isaac Newton, William
+Rowan Hamilton, Joseph Lagrange na ndi ozo, ma na ezigbote nna ya(nke classical
+mechanics) buru Issac Newton. Oo Nya nwa biguzutara obi nzutara equations e ji a
+zutara classical mechanics. Otutu ihe n'ime classical mechanics di ka:
+
+Ihe soro ya bu na F bu force, m buru mass na v buru velocity. Nya buru na Force
+na kwaga ihe soro acceleration d ( m v ) d t {\displaystyle {\frac {d(m\mathbf
+{v} )}{dt}}} e so. Nke a buru nke bu Newtons 2nd law of motion na o bu kwa
+nkpuru Classical Mechanics. Ihe nile ha zugutara na classical mechanics kwesiri
+soro Iwu Newton nke abuo ma Oo bughi ezi ihe nsoro ya. E sitere na Iwu nke abuo,
+ti zubata ozuzu momentum buru p = m v {\displaystyle p=mv} na ozuzu energy buru
+∫ F ⋅ d x {\displaystyle \int \mathbf {F} \cdot d\mathbf {x} } , ha zuta ihe
+nile noro n'ime obi classical mechanics. Classical mechanics nwere ike nzugutara
+i zuguta otu ije kpapando na planets lue oke nke obele di ka ugbo ana na
+football, mana na oke nine putasi ya otu anwa, o zughi ezu.
+
+Statistical Mechanics buru physics e ji a zugutara ngbakote ihe rikpo nne, luelu
+otu ha ga enwe ike i guzuta ya ka oburu ka o buru na probability density flow na
+kwachiga ya, nke a ka o ji buru na statistical mechanics putara na physics nke
+ndi ozo di kali na nkpuru. Otu ora ma kali Statistical mechanics buru
+Thermodynamics ma na ezi ama ya buru na Thermodynamics sitere na statistical
+mechanics were puta. Ndi umu nwoke nke ukwu guzuputara nguzuputara na
+statistical mechanics buru ndi otu Ludwig Boltzmann, Albert Einstein, Peter
+Debye na ndi ozo. Nkpuru ihe chizutara na statistical mechanics soro Boltzmann
+Equation:
+
+ebe k {\displaystyle k}  = 1.3806505(24) × 10−23 J Kelvin|K−1 bu Boltzmann
+constant na ogugu onu nke e buru log noro na equation. Nkowa ya buru na S,
+entropy putara na oke ozuzu(system) obuna soro otu microstates di iche iche ya
+ra lute na phase space. Microstate buru otu oke ozuzu nwere ike i soro. Di ka,
+mmadu na a ga ije, o nwere ike i ga uzo nke aka nni, o nwe kwaa ike i ga na uzo
+aka ekpe ma o bu na enwere ihe di ka aja no chie ya uzo, na nke anwa, microstate
+a bulu i ga uzo aka nni na i ga na uzo aka ekpe na ha gbara onu ogugu ra lute
+lue onwe ha. Ma na obu na o nwe aja nochie nwoke anwa uzo, ha ma enwe zi
+microstate nke nje uzo aka ekpe. Ha ma sie na entropy nke uzo aka nni kali
+entropy nke uzo aka ekpe. Obu na e welu nkpuru ikuku ka o nochie nwoke anwa na
+ga ije, onye nwe ike i nyoputa na nkpulu ikuku ga cho kali ngabanye na
+microstate ra kali na ibu. Otu ha zukedotara equation nke Boltzmann na physics
+buru i nyotara na:
+
+∂ S ∂ t > 0 {\displaystyle {\frac {\partial {\mathbf {S} }}{\partial {\mathbf
+{t} }}}>0}
+
+Ebe t bu ogugu oge,T buru Temperature na E buru Energy. Na equation nke a ka iwu
+thermodynamics nke abuo(2nd law of thermodynamics) site were puta, ebe ya
+abuzughi oke equation agusozue statistical mechanics. Nke anwa buru
+
+d E = − T ∂ S + P ∂ V + μ ∂ N {\displaystyle d\mathbf {E} =-\mathbf {T} \partial
+\mathbf {S} +\mathbf {P} \partial \mathbf {V} +\mathbf {\mu } \partial \mathbf
+{N} }
+
+Nke ofu buru na T ga gbadata ma oburu na entropy a gbalite(ma obu na system
+gbachiri a gbachi). Nke ibuo buru na entropy kwesiri i gbalite(ma obu na system
+gbachire a gbachi). P buru Pressure, V buru volume, μ {\displaystyle \mu } buru
+chemical potential na N buru onu ogugu nkpuru ya(particle). Obu na V na N no odu
+na ofu ebe, Nya ga buru na ife di oku na chokali i gbatute oyi, nke anwa buru
+Thermodynamics nke onye obuna masiri.
+
+Quantum Mechanics buru ezi nguzuchita nke soro ihe chi kezutara na uwa. Umunna
+zubiputara quantum mechanics soro na ndi otu Albert Einstein, Max Planck, Niels
+Bohr, Erwin Schrodinger, Werner Heisenberg na ndi ozo. Isi mbiputa nke quantum
+mechanics noro na ihe gbasara izu blackbody radiation.
+
+
+
+https://ig.wikipedia.org/wiki/Dominika
+
+Dominika (asụsụ France: Dominique, asụsụ English: Dominica) ézíbóté áhà ya bu
+Àkù-ñkịtị nke Dominika, bu òbòdò àgwè na Ògbu miri Karibbean. Na odida olilé
+anyanwu ya bu Guadeloupe, na owuwa nleda anyanwu ya bu Martinik. Ívụ bu mgbárí
+kilometers 754 na ébé kárírí na élú àlà ya bu Morne Diablotins nwéré ogologo
+rúrú meters 1,447. Ha sị Àkù-ñkịtị nke Dominika wèrè madu ruru 72,500. Ishiochie
+ya bu Roseau.
+
+Há gùrù Dominika "Nature Isle of the Caribbean" (nwa Àlà na mmiri nke Karibbean)
+maka àlà ha si é mésoghị. O bu àlà na mmiri nke kárírí bu nwátà na ébé ha na kpo
+Antilles Ntạ maka àlà katu náa kéwári e kéwárí na álá ókú àlà, o zịrị na àlà
+maka ó nwèrè mmiri nkechi ókú. Obodo na mmiri nkeá nwèrè óhiá ugwu ukwu di ndù
+ndù, búrú úlọ akwukwo ndù, anumanu, na anú élú di ntakírí na uwà. Ámá nke
+énweghi mmiri na ifufe di na odida anyanwu mmiri, mànà ézù di na etíti àlà nke.
+Nnùnù omeka Sisserou (madu mara ya ka Mpaghara Amazon), nnùnù àla nka, bu ihe
+nor na okoloto obodo nke. Àkù Dominika lìlì na ndi madu na báta maka nlénle na
+ikú ubi.
+
+Christopher Columbus gùrù àlà mmiri nke shí ubochi o hùrù ya, Sundai (Dominica
+na asụsụ Latin), Önwa iri na otụ 3, 1493. Na afọ nari shí mgbe Columbus bàrà,
+Dominika nòrò onwé ya na ndi Carib nòrò nga mgbe ndi Europe kúfùrù ha na obodo
+mmiri gbara Dominika gburu gbúrù. France mèchàrà nweré áká Dominika nyé Njikota
+Ochíchìézè na 1763. Njikota Ochíchìézè mecha tinyé ochíchì na kú Dominika ímé
+mpaghara ya na 1805.
+
+Inyeonwé maka ohu Afrika mèrè ébé níle na Mpaghara Britain na 1834, na 1838,
+Dominika búzọr búrú àlà nke ndi ojie né tinyé ónú na ákíkó obodo. Na 1896,
+Njikotak Ochíchìézè byàrà ozór I chí Dominika, mé ya ka o bu nkeji mpaghara ézè
+nwanyị. Na ọkara afọ ochie gárá, shí 1958 rüó 1962, Dominika buzị nkeji obodo di
+ndu ogẹ-ntạ ha kporo Federation Odida Indies. Na 1978, Dominika nwèrèzi onwé yá.
+
+
+
+https://ig.wikipedia.org/wiki/Nd%E1%BB%8B_Igbo
+
+N'ala Naigeria, ndï Igbo bu ndi ato hiri nne na onu agugu. Asusu eji mara
+ndiigbo bu asusu olu igbo. Nke ọzọ bu "broken English" ha ne ku ufọdi. Imerime
+mmadu nasu asusu bekee, site na-enyemaka nke amumamu olu bekee.
+
+Ufodi state ndi Igbo na Naigeria nọ nke nnuku bu, Ȯra Abia, Ȯra Anambra, Ȯra
+Ebonyi, Ȯra Enugu, ma na Ȯra Imo. Ȯra Delta (Anioma) na Ȯra Rivers.
+
+Site n'otu esi kọwa na nke mbu, na ala Naigeria, ndi Igbo no na Ȯra Abia, Ȯra
+Anambra, Ȯra Ebonyi, Ȯra Enugu na Ȯra Imo. Enwekwara ndi Igbo na Ȯra Delta nakwa
+Ȯra Rivers.
+
+A guba ndi kasi n'onu ogu na Naigeria, ndi Igbo bu ndi nke ato. Dika onu ogu afo
+2007 siri kowa, ndi Awusa weresia, ndi Yoruba ewere, tupu o ruo ndi Igbo.
+Onweghi onye ma ndi Igbo ole bi n'uwa a, maka na ndi Igbo gbasara mba di iche
+iche; na-azu ahia, ma o bu na-agu akwukwo. N'ime Naigeria, ndi Igbo bi na steti
+dum. Ebe ha si pua njem, bu Omambala (nke a kporo Anambra); Abia; Enugwu; Ebonyi
+nakwa Imo.
+
+Ndi Igbo jukwara eju bara a bara na Delta; Rivers, ufodu akuku Ȯra Edo, Ȯra Akwa
+Ibom, Ȯra Cross River, Ȯra Bayelsa nakwa Ȯra Benue. Ebe ndi Igbo gboro kasa
+na-abughi ala nna ha, bu Ȯra Lagos, Ȯra Kano, Ȯra Kaduna na steti dum di na
+Naigeria).
+
+Ndi Igbo bu ndi njem. I ruo obodo di iche iche na Afrịka, Obodo Békè, Amerikạ ma
+o bu Asia, i ga-ahu imilikiti ndi Igbo. Onwere onye agbata obi siri, na obodo
+ndi Igbo anǫghi, abughi ezi obodo. Obodo obuna ndi Igbo nǫ, i fa na-enwe ǫgbakǫ
+ųmų-Igbo. Ǫgbakǫ ndia na-enye aka įfu na ǫmenani Igbo ma ǫdinma ndi-Igbo na-aga
+n'iru.
+
+
+
+https://ig.wikipedia.org/wiki/Nk%C3%A1r%C3%AD_as%E1%BB%A5s%E1%BB%A5_China_nke_%C3%B3m%C3%A9n%C3%A0l%C3%A0
+
+Nkárí Asụsụ China nke óménàlà bu ihe nkárí ndi China hé jị é dé ihe nke hé kèrè
+na mgbé búrú nkárí China hé kèrè na afọr 1946. Ọ nè kwú nkárí hé tìrì na ákwúkwó
+nke ndi Taiwan, Hong Kong, mà ȯ nwèríkí bụ njikota akwukwo ómárí nke Kangxi. Ọ
+tù ahú nkárí ndi China dị bịdọrọ na édémédé ndi Ọchíchí nke umunna Han, na ọ dị
+chạ òtu áhü rúrú ichie 5. Áhà "Asụsụ China nke óménàlà" dị Í zi nà ọ dị íchie na
+Nkárí asụsụ China nke ǹkịtị, nke ndi Ọchíchì ndi Ohanézè China nke nkịtị na àlà
+úkwú nke China wéfutàrà na afọr ńdí 1950s.
+
+Há nè jí Nkárí Asụsụ China nke óménàlà nà Taiwan (Ohaneze nke China), Hong Kong
+na Macau. Ha nè jí yá nà àlà úkwú nke China mgbe Ọchíchìíwú China nke ndi Madu
+mèrè ya kọ di òferè na afọr ndi 1950s an 1960s. Na ndi obodo nọr na ngáfè mmíri
+nke China, nke ábúghị Singapore na Malaysia, nkárí oménàlà bu ihe há ne jí ede
+ihe, mànà onúgọgụgụ akwúkwó ákíkó ohürü nke ndi China nọr na Ostraliya, USA na
+Kanada nè tó na nkárí ofere, nke ndi biárabiá nke China nor na obodo nke ndi
+áhù. Onúgọgụgụ akwúkwó ákíkó ohürü nor na intanet bu nke China nor na ngáfè
+mmírí mèrè ka mádu kpàtá nkárí ne ȯ chọrọ. Na ne ozor, madu ne jí nkárí China
+nke ofere na àlà úkwú nke China, na Singaport na Malaysia ka ihe fútárá di mkpà.
+Nlụlịta okwu màkà nkárí nke abụọ tèrè mgbe ȯ nọr na ȯgbà ndi China.
+
+
+
+https://ig.wikipedia.org/wiki/GNU_Free_Documentation_License
+
+The GNU Free Documentation License (GNU FDL or simply GFDL) is a copyleft
+license for free documentation, designed by the Free Software Foundation (FSF)
+for the GNU project. It is the counterpart to the GNU GPL that gives readers the
+same rights to copy, redistribute and modify a work and requires all copies and
+derivatives to be available under the same license. Copies may also be sold
+commercially, but if produced in larger quantities (greater than 100) then the
+original document or source code must be made available to the work's recipient.
+
+The license was designed for manuals, textbooks, other reference and
+instructional materials, and documentation which often accompanies GPL software.
+However, it can be used for any text-based work, regardless of subject matter.
+
+The license explicitly separates any kind of "Document" from "Secondary
+Sections", which may not be integrated with the Document, but exist as
+front-matter materials or appendices. Secondary sections can contain information
+regarding the author's or publisher's relationship to the subject matter, but
+not any subject matter itself. While the Document itself is wholly editable, and
+is essentially covered by a license equivalent to (but both-ways incompatible
+with) the GNU General Public License, some of the secondary sections have
+various restrictions designed primarily to deal with proper attribution to
+previous authors.
+
+The GFDL requires the ability to "copy and distribute the Document in any
+medium, either commercially or noncommercially" and therefore is incompatible
+with material that excludes commercial re-use. Material that restricts
+commercial re-use is incompatible with the license and cannot be incorporated
+into the work. However, incorporating such restricted material may be fair use
+under United States copyright law and does not need to be licensed to fall
+within the GFDL if such fair use is covered by all potential subsequent uses.
+One example of such liberal and commercial fair use is parody.
+
+The Debian project and Nathanael Nerode have raised objection. Debian developers
+eventually voted to consider works licensed under the GFDL to comply with their
+Debian Free Software Guidelines provided the invariant section clauses are not
+used. These critics recommend the use of alternate licenses such as the
+share-alike Creative Commons licenses, the BSD Documentation License, or even
+the GNU GPL. They consider the GFDL a non-free license. The reasons for this are
+that the GFDL allows "invariant" text which cannot be modified or removed, and
+that its prohibition against digital rights management (DRM) systems applies to
+valid usages, like for "private copies made and not distributed".
+
+In 2003, Richard Stallman said about the above sentence on the debian-legal
+mailing list:
+
+A GNU FDL work can quickly be encumbered because a new, different, title must be
+given and a list of previous titles must be kept. This could lead to the
+situation where there are a whole series of title pages, and dedications, in
+each and every copy of the book if it has a long lineage. These pages cannot
+ever be removed, at least not until the work enters the public domain after
+copyright expires.
+
+Richard Stallman said about invariant sections on the debian-legal mailing list:
+
+The GNU FDL is incompatible in both directions with the GPL: that is GNU FDL
+material cannot be put into GPL code and GPL code cannot be put into a GNU FDL
+manual. Because of this, code samples are often dual-licensed so that they may
+appear in documentation and can be incorporated into a free software program.
+
+At the Juun 22nd and 23rd international GPLv3 conference in Barcelona, Moglen
+hinted that a future version of the GPL could be made suitable for
+documentation:
+
+The definition of a "transparent" format is complicated, and may be difficult to
+apply. For example, drawings are required to be in a format that allows them to
+be revised straightforwardly with "some widely available drawing editor." The
+definition of "widely available" may be difficult to interpret, and may change
+over time, since, e.g., the open-source Inkscape editor is rapidly maturing, but
+has not yet reached version 1.0. This section, which was rewritten somewhat
+between versions 1.1 and 1.2 of the license, uses the terms "widely available"
+and "proprietary" inconsistently and without defining them. According to a
+strict interpretation of the license, the references to "generic text editors"
+could be interpreted as ruling out a format used by an open-source
+word-processor such as Abiword; according to a loose interpretation, however,
+Microsoft Word .doc format could qualify as transparent, since a subset of .doc
+files can be edited perfectly using OpenOffice.org, and the format therefore is
+not one "that can be read and edited only by proprietary word processors."
+
+The first discussion draft of the GNU Free Documentation License version 2 was
+released on 26 Septemba 2006, along with a draft of the new GNU Simpler Free
+Documentation License.
+
+
+
+https://ig.wikipedia.org/wiki/Anieze_Nri
+
+Ochíchíeze Nri (1043—1911; 06°09′12″N, 07°01′40″E) bų mgbe mbu obodo nke nọr na
+Odida Africa ne ndi Nri-Igbo, nke di nà mbà Ndi Igbo. Ọ bų ochíchíeze kárírí Í
+di ichié na Nigeria. Ochíchíeze Nri di ichiè na ákíkó mbu ọchíchì ùwà màkà íshí
+ya enwéghị ndi agha nọr na okpụrụ ya. Ochíchíeze nke bịrị ka ihe basàrà éféfé na
+ochíchì na Àlà Igbo, na íshí ya bu onye ezè alụsị-ézè ha na kpó ézè Nri. Ézè Nri
+lèkọtàrà ihe njé áhía na ihé nke í nọr na ómá na ndi Igbo nke ndi ozor, na o
+nwèrè íké shí na élú.
+
+Ochíchíeze nke bų mgbe mbu ébé mádu nílé byàkọtàrà Í zonárí onwe há shí ama ndi
+ne ozor na ọ bų ébé ndi óhu byàrà ka há bų ndi díàlà. Nrí básàrà shí í gbanwe
+éféfé ndi ozor nokotárí ha, ọ di na áká ndi na gbànwà. Onye bidoro Nri, Eri, na
+àlà Nri ha nà sí ó shì ígwé nyìrí na àlà Í ké obodo. Ihe ha jị a má nri bų ihe
+oze há kpùrù na Igbo-Ukwu.
+
+
+
+https://ig.wikipedia.org/wiki/Egbugh%E1%BB%8B_egbu
+
+Egbughị egbu mọọbụ Nonkilling na-egosipụta ahụghị ihe ogbugbu, iyi egwu ogbugbu,
+na ọnọdọ pụtara ihe n’oghugbu na ndụ mmadụ. N’egbenyeghị na ndị Ọkammụta
+na-ewebata ya bu okwu iji gosipụta ogbugbu ụmụ mmadụ, oge ufọdụ kwa a na-ejikwa
+ya atụnyere ogbugbu a na-egbu ụmụanụmanụ na ihe ndi ọzọ nwere ndụ. Etu a ka ọ di
+n’ọdina-ala ndi Buddhist, ebe ha ji ya bụ mkpụrụokwu Egbughị egbu mọọbụ
+"nonkilling"; na-egosipụta ihe mbụ dị na "Pancasila", na oyiri ha di n’ewumewu
+ọdinaala ọtụtụ obodo di n’uwa. O bụ ihe pụtara na "nonkilling" bụ ihe e ji rụọ
+orụ oge ụwa niile nwere "ogbako nke asato maka ndị na-ahụ maka udo"; nke Bakee
+na-akpọ Nobel Peace Laureates.
+
+Iji tapia mpụtara ya, egbughị egbu metụtara ihe e ji mara udo(agha acdilaa na
+ọnọdụ na- eweta agha); enweghi ogbaaghara (ma uke a hụrụ anya na kne ahụghị
+anya), na "ahimsa" (nke putara na ụnya agaghị adị ma n’echiche ma n’omume).
+N’ewepụghị nke ikpeazụ, nonkilling weputara ụzọ kwụ ọtọ a ga na-eji ahazi
+ebumnobi ihe a choro inweta. Okwu dịka 'enwela ogbaaghara' na 'udo' ka a na
+–ewebata kwa mgbe iji rụọ arụmaarụ ụka kwụ ọtọ nke na-eduba n’ịnọ jụụ, ogbugbu
+(na azụokwu ya egbula egbu).
+
+N’aka nke ozọ, nonkilling anaghị ewepụta ihe a na-eche bu ejechea ọgwụ n’ụwa
+inule onwe ya n’ogbugbu; dika etu ndi kwenyere n’ewumewu ọdinaala si wee na-agba
+mbọ ịhụ na anaghị akwafu ndụ n’ike. Site n’usoro kwụ ọtọ e wepụtara nke
+na-anabata echi che miri emi, na ime nchọpụta n’ihe ọmụmụ di iche iche; nke
+ngalaba agumakwukwọ dịkwa iche iche; nke nabatara ụzo ọzọ e ji akwụsị ogbugbu
+ụmụ mmadụ. N’agbanuyeghị ihe ndị a niile e bu n’obi, nonkilling na-ahụkwa maka
+atumatụ ndị ọzọ metụtara Ọhaneze.
+
+A bịa n’ihe metụtara iwe ọkụ, ịhụ ọgụ na ntaramahụhụ, nke na-acho ikwafu ndụ, ọb
+ụ nonkilling na-achụfu ihe na-eweta ha. Ọzọ kwa, a bia n’ogbugbu ụmụ mmadụ site
+na mgbanwe n’ọnọdụ akunuuba nke bụ isi sekpụ nti n’ịghasa na imemïla akụ ndị
+mmadụ, ọ bụ nonkilling na-ewepu ọnọdu ọjọọ dị etu a. A bịa n’iyi egwu maka mmụba
+ndụ ọhụụ, egbughị egbu na-ahụ na e wepụrụ ihe niile na-egbochi ndụ ịdi na-aga
+n’ịhụ na kwa ikwụsị ihe na-eweta ọnwụ ike. A bia n’ihe gbasara ọnwụ mberede,
+nonkilling na-ahụ na e hiwere ihe ogbara Igbo anya gharii (technology)
+ga-ekpochapu ọnọdụ ọjọọ ndị ahụ.
+
+N’ akwụkwọ ya ọ kpọrọ "Nonkilling Global Political Science", Glenn D. Paige mara
+atụ na ihe na-erụghị ndị mmadụ pesent 0.5 birila n’ụwa gburu ụmụ mmadu ndị ọzọ.
+Ọzọ kwa, site na nchọpụta metụtara ihe e gwupụtara n’ala, a matara site na
+ntọala omenaala ndị mmadụ na ndị egburula di nwantakirịị. N’oge gboo, ndị mmadụ
+na- ebi ndu ndi dinta; ọnọdụ nke na eweta na ogbugbu onwe ha adighi n’obodo. O
+putakwara na ogbaaghara na ogbugbu adịghi nke ukwu. Pesent ruru 99 biiri onwe ha
+ezi ndụ; site n’akụkọala mmalite ndu(Homo sapiens sapiens).
+
+
+
+https://ig.wikipedia.org/wiki/Vincent_van_Gogh
+
+Vincent Willem van Gogh (Önwa àtó 30, 1853 – Önwa asaa 29 1890) bu mgbe mbu onye
+Dutch bu Ọ'shí-Nkwúnàányá onye ntènté nke orü ya di mkpà na ǹkà ichié 20 màkà
+otu àgwà nor na ǹkà ya na charírí nke kpátárá mádu na ányá. Ọ tàrà afúfú
+nchèkasị na íshí ya kófùrù na mgbe gáfèrè mgbe mbu na ndu ya, na ȯ nwürü na mgbe
+mádu amághị ya na afọr ó dị 37 shí mgbe ȯ gbàrà onwe yá égbè.
+
+Na mádu à túfùgịrị yà ȯnu, ewù màkà yá tòrò na afọr byárá mgbe ȯ nwüchàrà. Na
+úbọchị nke ta, ndi mádu sị ọ bu onye ǹkà di mkpà na nke díkárí ọmá na ákíkó mbu
+na onye nyérírí ihe na nke ǹkà ógè nsò. Van Gogh è téghị ihe rüo mgbe ọ di na
+mgbèdè írí na abụọ ndu yá, na ǹkà nke ó kèrè kárírí fùtàrà na afọr abụọ gáwá nke
+ȯ gùchàrà. O kèrè orü ǹkà rúfwuó púkú abụọ, nke nwéré nke òtìté 900 na nsè
+1,100. Mànà màkà ha mághị ya na ndu ya, orü nwèrè àgbà na ǹkà ọmúmú-òhúrü nke
+byárá mgbe ndu ya mèchàrà. Na úbọchi ta orü ya-dí kà nke ó sèrè onwé ya, na àlà,
+na íshí ndi mádu na ìfulūánwü-dì na ǹkà di ókȯ ȯnu na nke mádu màkàrì.
+
+Van Gogh bìrì na mbu ó di dímkpà na orü di ne ré ǹkà na ȯ fụrụ íjè na ímé Den
+Haag, London na Paris, na mgeb ȯ fùchàrà ȯ rü ka ónyé nkúzí na England. Ihe ȯ
+chọrí bu na mgbe mbu bu onye ụkò Jésu na Í gbaasà okwu Jésu, shí 1879 ȯ rürü ka
+onye íjè okwu Jésu na ébé ha na bá àlà na Belgium. Mgbe ógè nké ȯ bu mgbe ó
+bịdọrọ Í sé mádu shí ébé ȯ nọr, na ímé afọr 1885 ó tèrè orü ya ukwu nke mbu The
+Potato Eaters. Éféré àgwà ya na ógè áhù jùrù na àgwà nke chárá kà ájá na o zígì
+àgwà nke chárírí ka nke ȯ gi kè. Na Önwa àtó nke afọr 1886, ȯ gàrà Paris na
+ngáhù ȯ hùrù nkwúnàányá nke ndi France. Na ógè gáfèrè ȯ gàrà nledà anyanwu
+France na ȯ hùrù ánwü chárá ike nà ányá. Àgwà ya charìrì na élú na orü ya, na o
+nwètèrè ágwà nke ya di iche nke mádu gi ma mgbe ȯ nọr na Arles na 1888.
+
+
+
+https://ig.wikipedia.org/wiki/Malcolm_X
+
+Malcolm X (múrú ya na áhà Malcolm Little; Önwa ise 19, 1925 — Önwa abụọ 21,
+1965) ha màkwà ya ka El-Hajj Malik El-Shabazz (na asụsụ Arabic: الحاجّ مالك
+الشباز‎) bu mgbe mbu onye Afrika nke Amerika onye Áláküba nke onye íshí, onyé
+nkuwa okwu, na onye ndozi íwú madu. Na anya ndi né so ya, o bu onye íké na
+odogwu maka ihe ómá o mẹrẹ ndi Afrika nke Amerika maka íwú ndu ha. O bukwa maka
+o cẹdolu ndi Afrika ime okwu ó kwụru maka ndi ochá ne megbú ndi ojié. Ndi o na á
+masiri ha si o bu onye na kwudà ndi óchá, ha sikwa o né weli élú ndi ojie na
+íshí ndi ocha, o na kwudà ndi Jew na o bu onyé ogụ. Madu si o bu onye Afrika nke
+Amerika nke nwéré ihe ukwu o mẹrẹ na uwá.
+
+Há mùrù Malcolm X nà Omaha, Nebraska. Ihe méré na mgbe ȯ ne tó, dí kà nkwúzí ńnà
+zìrì yá màkà ngàngà ojie na Í rü na áká onwé gị, na ihe ȯ hùrù na ányá ya màkà
+ihe ndi ojié na ndi óchá, dịrị ihe mpká na ńdụ Malcolm X mgbe ó tòrò. Mgbe ó
+rùrù afọr iri na àtó, ńnà yá nwürü na mmá yá gàrà ụló ogwụ nke ndí íshí kófụrụ.
+Na mgbé ȯ mèchàrà gé úlò ndí ozor né lékótá ya, Malcolm X banyèrè orü nke
+ntúfùtá ntúfùtá na orü mmébị íwú ndi ozor na Boston na New York City kwá. Na
+afọr 1946, úlọ ikpe dịrị Malcolm X Í jí afọr asatọ mà ọ bu irí Í nọr na mkpóró.
+
+Mgbe ȯ nọr na mkpóró, Malcolm X bànyèrè Í bu ónyé ọtú Nation of Islam. Mgbe ȯ
+fúfùtàrà na nke ȯ méchághị Í nȯr chá mkpóró ya na afọr 1952 (parole), ȯ bàtàrà Í
+bu onyé íshí na onye ǹdù né kwú na nke há. Na mgbé afọr dí kà ịrí na abụọ, ȯ bụ
+íhü ọtú Nation of Islam. Ihe nsògbu chọrí da ótù mgbe na etítì Malcolm X na
+Elijah Muhammad, onye íshí nke kárírí ndi Nation of Islam; ȯ bu ihe á mèrè kà
+Malcolm X dáfùrù na ọtú áhù na Önwa àtó nke afọr 1964.
+
+Mgbé ȯ fwụrụ ọtú Nation of Islam, Malcolm X banyèrè Í bu ónyé Áláküba Sunni nà ȯ
+gàrà íjè-éféfé nke Mecca; mgbe ȯ mèchàrà ȯ gọrọ mbànyíkàrịrị àgùgò. O gàrìrì nà
+ímé Afrika na Odida Etítì à gárírí. O kèrè Muslim Mosque, Inc., ọtú éféfé, na
+ọtù nke éféfé ádíghị, na nke Africa-Nílé, Afro-American Unity. Mgbe o rúgị áfọr
+ótù ó mèchàrà Í háfù ńdí Nation of Islam, mádu àtó shí ngáhü gbùrù Malcolm X
+mgbe ȯ ne nyé okwu na New York.
+
+Há mụrụ Malcolm Little mgbe Önwa ise 19 na afọr 1925 na Omaha, Nebraska. Ńnà yá
+mgbe áhu bu Earl Little, na mmá ya bu Louise Little (áhà nna yá Lousie Norton).
+Ńnà ya kwuru na ñkịtị nke ndi Baptist. O kwàdọrọ onye Africa-Nílé Marcus Garvey
+na ȯ bu mgbe áhù onye íshí Universal Negro Improvement Association (UNIA).
+Malcolm échéfụghị óbị màkà nga nga ojié na nkwádọ onwé ńnà yá na ndi UNIA ozor
+lìlì òlìlì. Malcolm X na ógè gáfèrè sị na ímé nwanne Nwoke di ntà nke Earl di
+àtó, ndi ocha gbùrù ya na ùdò. Màkà ndi Ku Klux Klan lùrù ha ozi ojö, ọnụma ya
+jéfwụrụ Í ga Milwaukee, Wisconsin na afọr 1926, na ógè nsó ha gàkwàrà Lansing,
+Michigan.
+
+Earl Little bu onyé nwéré àhu jírí njí na há mùrù ya na Georgia. Ọ nwèrè mgbe
+áhụ úmù àtó shí nwínyè yá nke mbu: Ella, Mary, na Earl Jr.; na ȯ nwèrè asaa shí
+nwínyè ȯ lùrù nke búrú abụọ, Louise, ọ bu nke Malcolm byàrà nke ànó: Wilfred,
+Hilda, Philbert, Malcolm, Reginald, Yvonne, na Wesley.
+
+Louise Little shì Grenada ébé ha mùrù yá. Máká ńnà ya bu onye Scotland, o nwèrè
+àhú dí ọchá, cháfu rü nke ȯ nwèríkí gá kà onye óchá. Malcolm nwètèrè àhú óchá ya
+shí mmá ya na nnà mmá ya. nà mbu, àhú òchá ya bu ihé vúrú íshí Malcolm màkà ó
+chè sị nà ó bụ ihe ndí ukwu, ma mgbe ógè gáfèrè ọ sị ótù mgbe na o "kpọrọ asị
+ọbạrạ nílé nọr na ya na àhú shí onye mmebuó nwanyì nke onye ọchá." Malcolm X
+chéfùtàrà na mgbe ógè gáfèrè na ńnà ya hùchara ya ányá kárírí úmù ya ndi nke
+ozor màkà àhú ya di ȯchá kárírí úmù nọr na umunna ya; mànà o chè sị mmá ya
+megbụrụ yá màkà ótù ihe nke kwa. Otù áhà ha túrú ya, "Red" (ūfie), shì àgwà zírí
+nke na ntùtù ya. Nke ótù ọdé ndu mádu si bụ na mgbe há mùrù ya, o nwèrè "ntùtù
+chárá ka ánwú chákwá ntụ ntụ ... chákwá ka cinnamon", na afọr ànó, "ntùtù chárá
+ka ánwú, ūfie dítúrú". Ntùtù ya gàrà ojié mgbe ó tòrò, mànà o yị kwàrà mmá nnà
+ya, onye ntùtù ya "chàrà ūfie, ūfie na ánwú summer." Okwu gbásárá àgwà àhú ya
+bịdọrọ Í di kwá mkpà na ndu Malcolm mgbe ó tòchàrà.
+
+Mgbe ha làchàrà Í ga Lansing, úlò ha gbàrà ökü ruó na àlà na afọr 1929, mànà
+umunna ha háfùrù me ọ díghì ihe méré ótù ha. Na Önwa itoolu 28, nke 1931, Earl
+Little dàrà nwüo na ihū ụgbo àlà na Lansing na okúrù uzọr. Ndi íshí mèrè önwu ya
+ka ihe mbèlèdè. Ndi nche obodo kwùrù na Earl Little nwèkwàrà íshí ya mgbe ọ gàrà
+ébé áhù, na ha sị ọ sị na ọ dànarị ímé mgbùrù mgbúrù ugbo àlà áhù. Malcolm X na
+óge gáfèrè chètàrà na ȯgbà ndi ojié sèrè okwu sí na ọ bi ihe öjö mádu mèrè ya.
+Ndi Black Region, ndi nnwétérí ndi ọchá na élú kàgburu ndi Umunna ya, ọ bu ndi á
+ńnà ya sị gbàrà úlò ha ökü na afọr 1929. Ọ di ndi ojié chéré si ọ bu ọtú Black
+Legion gbùrù Earl Little. Na nke Malcolm dèrè na mgbe ógè gáfèrè, "Òtù ólé ka
+ńnà m gí suó íshí ya, sekpù na ónú ugbo àlà ka ugbó nírí ya na élú?"
+
+
+
+https://ig.wikipedia.org/wiki/Genevieve_Nnaji
+
+Genevieve Nnaji, (bu ony amuru na 3 Mee 1979 na Mbaise n'Imo State, Naijiria). O
+bu otu onye na ime ndi na eme-ihe-nkili. Omeriri onye omee-ihe-nkili na 2005.
+
+Genevieve Nnaji tòrò na Lagos nke na mbu bu isi obodo Naijiria. Amuru umunne ya
+na ya asaato, ya nor na etiti. Nna ya bu Injinia ebe nne ya bu onye nkuzi. Ȯ
+gara otu ulo akwukwo ha na kpo Methodist Girls College Yaba, tupuru ȯ banyere
+Mahadum Lagos.
+
+Oge O no na Mahadum, Nnaji bidoro Í banye na ihe gbasara ime ihe nkili orürü
+Nollywood. Nnaji bidoro Ime ihe nkili na obere nwa na Onyonyo ama amaa bu soap
+opera. na 1998 oge O di afo Iri na Iteghete (19) akowara ya n"itoo n"ihe gbasara
+ihe nkili. Obukwa onye achoro acho. Ezigbo ihe nkili izizi omere bu 'Mark of the
+Beast' na 'Ijele'. Nnaji meriri n"ihi ezigbo oru ya, tinyere na ana akpo ya
+ezigbote omee ihe nkili na afo 2001 nke ndi obodo. Onwetakwara otito izizi na
+obu ezigbo omee ihe nkili n"afo 2005 nke ana akpo African Movie Academy Awards.
+Na afo 2004 ya na onya Ghana dere ndendee gbasara ikopi nmecorita. O tikwara
+egwu. N"afo 2008 Nnaji banyere na imeputa akwa. Nnajie bu onye tinyere umeala ya
+ka oburu ihe ziri ezi. Ugbua obu Omee ihe nkiri, Omama (model) na omeputa akwa.
+
+
+
+https://ig.wikipedia.org/wiki/B%E1%BB%8Bafra
+
+Bịafra bụla obodo ndï Ìgbo, nke pụtara ìhìe n'afọ 1967. Ndï bekee hapụrụ
+Naigeria na 1960, wéé nyehachi ndï ala Naigeria obodo ha. Ndï Ìgbo na ndï Hausa,
+bụ ndi n'achi Naigeria n'oge ahù luru ògù na 1967.
+
+Íhe butere ọgụ ahu: Ufọdụ ndi ụmụ okọrọbia agha nke Naigeria (ọtụtụ n'ime ha bụ
+ndi Ìgbo) gbara mgba okpụrụ n'ebe isi ọchichi ndi isi ala anyi Naigeria nọ. Ha
+sitéré na mgba okpụrụ ahu wéré gbụo ụfọdụ ndi isi ala anyi (ụfọdụ n'ime ha bụ
+ndi Haụsa) nke ndi bekee nyefere ọchichi n'aka tụpụ ha hapụ obodo anyi. Ha wéé
+gbanwe ọchichi obodo anyi ma wéré onye isi agha ha méé ye onye isi ala Naigeria.
+Aha ya bụ Major Aguiyi Ironsi (Ìgbo).
+
+Ọtụtụ ndi agha Naigeria bụ ndi Hausa, wéré iwe mmegwata ogbụo Major Aguiyi
+Ironsi, ma wéré Gen.Yakubu Gowon (Hausa-Benue) dochie anya ya. N'iwe na ọnuma ha
+wéré gbuo ọtụtụ ndi Ìgbo bụ ndi isi agha nke Naigeria, ya na ndi Ìgbo aka ha di
+ọcha nọ n'ala ndi Hausa nke bụ isiala Naigeria. Lt Col. Chukwuemeka Odumegwu
+Ojukwu bụ onye na achi ndi ọwụwa anyawu Naigeria n'oge ahu, wéré juọ enyem-aka
+maka igbochi ogbugbu nke ndi Ígbo nọ na ala ndi Hausa, kama ndi n'achi ala anyi
+egeghi ya ntị. Íhe a méré ndï Igbo, ndi ikwere na ndï Ijaw jiri wéré kewapụ onwe
+ha na Naigeria. Ha wéré malite kpọwa onwe ha obodo "Bịafra". Ndi nachi ala
+Naigeria anabataghi ya. Ya mere n'afọ (otu pụkụ,narri ịtolụ,iri isii na asaa) ma
+ò bụ 1967 obodo Naigeria na ala Bịafra wéé malite ọgụ. Nke gbaruru afọ atọ, ma
+kwụsin'afọ 1970.
+
+
+
+https://ig.wikipedia.org/wiki/Justin_Bieber
+
+Justin Drew Bieber (mù yá na Önwa ató 1, 1994) bu onye Canada na bu abu pop-R&B.
+Scooter Braun hürü mmerírí ya na YouTube, ya kpotasia ya ka yá nwà onwe ya bu
+onye na dozie ihnye maka Bieber. Braun si ka Bieber na Usher hü na Atlanta,
+Georgia na mgbe óge gáfèrè Bieber bàtàrà orürü Raymond Braun Media Group (RBMG),
+nke Braun na Usher, na akwukwo I bu abu nke Island Record ne L.A. Reid nyèrè.
+
+Abu nke o jị a fútá, "One Time", fùtàrà na úwà na 2009 yá gá ishi 30 na obodo
+gáfèrè iri. Njikota abu My World, fútárá na Önwa iri na otu 17, 2009, sòrò, nke
+rúrú platinum na Njikota Obodo Amerika, nke nyéré, na oge áhu, Bieber abu nke
+fútárá nke kárírí na afor nke áhu, na ó mèrè ka Bieber bu onye na bu abu nke
+ishi nke nwéré abu asaá nor na ndetu abu Billboard Hot 100. Abu ya nke ozor, My
+World 2.0, mekwàrà nke ómá mgbe of fùtàrà na ishi na abu irí ne ndi ishi na
+obodo ichi iche na o bukwa platinum na önwa abuọo mgbe of futara na Njikota
+Obodo. O futuara mgbe ab ha kpòrò "Baby" fùtàchàrà.
+
+
+
+https://ig.wikipedia.org/wiki/Asafa_Powell
+
+Asafa Powell C.D (múrú na Önwa iri na abụọ 23, 1982) bu onye Jamaikạ na gbá ósó
+ne mekarí ogologo meters 100. Ó jịrị ishi na uwà maka m 100 na oge 2005 nke Önwa
+ano rúrú Önwa isé na afọ 2008. O ji oge nkeji 9.77 na 9.74 na afọ ndi áhu I gbá
+chá meters 100 nke ndi áhù. Powell ka na gbafé nkeji-10 na ósó od di, nke ya
+kári nke ukwu nke ya bu nkeji 9.72 bu nke ósisó na uwa nke ano na mme mme nkáa.
+
+Powell mèchàrà na 100 m na Olympics nke Athens 2004 na Olympics nke Beijing
+2008, mànà o mèchagì otú o né me ihe omá na mgbe mbu nga, o mechàra gbá isé na
+oge abụọ. Máná ö mẹrịrị aghirigha ólạedọ na ö mèrè nke íshí uwà na nke Olympic
+na meters nke 100 × 4 ya na otú Jamaikạ na Beijing. Na Íméríré Osaka nke Uwà
+2007 ö nwètèrè aghirigha oze na ólạóchá na meters 100 na meters 4 × 100 na ö
+mèrè nke oma na Mgbá Commonwealth, ébé o nwètèrè olạedạ nke abụọ na ólạocha otụ.
+Na Ímérírí Uwà 2009 o nwètèkwàrà aghirigha oze na meters 100 na ólạedọ na meters
+4 × 100. Powell gbúfùrù na Mmecha ígbágbá Uwa IAAF mgbe isé na ó bu onye jí ishi
+meters 100 na mme mme nke áhù.
+
+
+
+https://ig.wikipedia.org/wiki/Nsibiri
+
+Nsibiri (há màkwà ya kà nsibidi: mkpili okwu nka di ébé nile nà ụ̀wá bekee,
+nchibiddi ma nchibiddy) by ihnye úsòrò ihnye ákàrà dị díàlà na ébé éké-nlẹ́dà
+nke Naijiriya nke há sì bụ ọ́mází-ákàrà, mànà ọ́ dị ndi ọma sị na ó nwèkwà ihnye
+ákàrànókwú. Ihnye ákàrà nsibiri kàrà nka ruó ìchié ímérímé: Nke ízízì ákàrà nke
+nsibiri bidòrò nà í kpụ ihnye ìtè na ụ̀lọ̀ há hụ̀wàrì na àlà na àgbàtà Atakpa
+shí nà ètítì ógè áfòohü 400 nà 1400. Há tàrà ndí Ejagham kà ndí áká nsibiri
+shífùrù.
+
+Ọ́márí nsibiri na úféshì shì nà ákwụ́kwọ́ TD Mazwell dèrè na áfọ̀ 1904 nke ó
+dètùrù ákàrà ha. Na àzí mgbe ńdí Bekee byàrà mkpaghara nà àgbàtà nga, nsibir
+kébìrì àbúọ̀ nà ákùkù nke ǹzùzò na ǹkítì dị sam-sam nà ndi nwaanyi nwèríkí ji
+ya. Ùmẹ́ mpaghara dị kà nkúzí úféshì bekee nà ihnye Éféfé Kristi na íjèóbì hà
+mèrè kà ndi má nsibiri dátù nke ukwu, ọ́ bụ̀ ihnye mẹrẹ na ọ́ bụ̀ naani ndi dị
+kà ndi Ekpe mà ya è dé. Ha ne ji kwa nsibiri e de uche ndi Ekpe taa. Há vùrù
+nsibiri gá na Kuba na Ayiti mgbe Áhía Óhù Ukwu Mmiri, ébé áhu kà ọ́ ghàrà ka
+ákàrà anforuana na veve.
+
+
+
+https://ig.wikipedia.org/wiki/Chin%E1%BB%A5a_Achebe
+
+Chinụa Achebe (site n'aha a gụrụ ya Albert Chinụalụmọgụ Achebe; 16 Novemba 1930
+– 21 Maachị 2013) bụ onye Igbo a mụrụ n'ụbọchị nke iri na isii n'ọnwa Novemba
+n'afọ 1930 n'obodo Ogidi nke dị n'ala Naijiria. Ọ bụ ya dere akwụkwọ a na-akpọ
+Things Fall Apart. E si n'akwụkwọ ahụ mara aha ya nke ukwuu n'ụwa nile.
+
+Chinụa Achebe, onye nke nne na nna ya kpọrọ Albert Chinụalụmọgu Achebe, gara ụlọ
+akwụkwọ nta nke ndị uka, gakwaa Government College n'Umuahia. Ọ mechara gakwaa
+mahadum nke Ibadan University of Ibadan, Ȯra Ọyọ (Oyo State) ebe ọ gụrụ asụsụ
+békè' site n'afọ 1948 ruo afọ 1953. Ka ọ gụchara akwụkwọ nke mahadum, ọ
+rụtụkwara ọrụ n'ụlọakwụkwọ dị iche iche nakwa n'ụlọọrụ mgbasa ozi. Site na 1958
+ruo 1966, Chinụa Achebe bụ onye nhazi na-ahụ maka African Writers Series.
+
+Mgbe Achebe dere Things Fall Apart, akwụkwo ahu rere nke ukwuu, mkpụrụ nde iri.
+A tụgharịkwaala akwụkwụ a n'olu asụsụ iri ise.
+
+Chinụa Achebe rụkwara ọrụ onye diplomat n'ọchịchị nke Biafra site na 1967. Mana
+site na 1967 ruo 1981, ọ kụzikwara na mahadum dị iche iche n'ala Naijiria, ma
+bụrụkwa onye nhazi maka akwụkwọ edemede nke a na-akpọ Okike. N'afọ 1981, Chinụa
+Achebe sokwa na ndị bidoro Otu Ndi Odee Nke Naijiria, nke a na-akpọ Association
+of Nigerian Authors. Ọ rụkwara ọrụ onye isi were ruo 1986.
+
+A bịa n'etiti Ndị Nka, yaa bụ ndị na-ede edemede nke Modern African Literature,
+ihe a na-akpọ Chinụa Achebe bụ Nna. N'afọ 2002 ka e nyere ya Peace Prize nke
+German Book Trade. A makwa Chinua Achebe dị ka onye na-enweghi onye e ji
+atụnyere ya maka ịmalite edemede n'asụsụ bekee' n'akụkụ ọdịda anyanwụ n'ala
+Afrịka.
+
+
+
+https://ig.wikipedia.org/wiki/Nje_%E1%BB%8Dr%E1%BB%8Ba_Ebola
+
+Nje ọrịa Ebola (EVD) maọbụ Ajọ ọrịa ọbara nke Ebola (EHF) bụ ọrịa nke n'emetụta
+ndị mmadụ nke nje ebola n'akpata. Ọ na ewelite isi abalị abụọ ruo izu ụka atọ
+mgbe onye ahụ nwetara nje ahụ, tinyere oyi, ọnya akpịrị, ahụ mgbu, na isiọwụwa.
+N'ụzọ doro anya afọ ntụgharị, agbọ, na afọ ọsịsa n'esonye, tinyere mbelata ịrụ
+ọrụ nke umeji and akụrụ. N'ogo a, ụfọdụ n'ebido gbawa ọbara.
+
+Enwere ike ibute nje a site n'inwe mmekọrịta site na ọbara maọbụ mmiri si n'ime
+ahụ pụta nke anụmanụ ọdị n'ahụ (dịka enwe maọbụụsụ n'ata mkpụrụ osisi).
+Enwebeghị ndekọ enwere maka nkesa ya site n'ikuku nke ebe obibi. Achọpụtara na
+ụsụ n'ata mkpụrụ osisi ga-enwe ike buru ma kesaa ya n'ebuteghị nje ahụ. Ozugbo
+mmadụ butere ya, nje a n'efe ndịọzọ. Ụmụnwoke ndị lanahụrụ ya ga-ebunye nje a
+site na mkpụrụ ndụ nwoke ihe ruru ọnwa abụọ. Iji mee nnyocha ọrịa ndịọzọ ndị eji
+nke yiri nke a mara dịka, ịba, afọ ọsịsa na ndịọzọ Ajọ ọrịa n'efe efeka ebu ụzọ
+wepu. Iji hụụ n'enyochara ọbara maka kịrịkịrị nje ihe ndị n'alụso nje ọgụ n'ime
+ahụ, kịrịkịrị nje RNA,maọbụ nje n'onwe ya.
+
+Mgbochi gụnyere ibelata nkesa ọrịa a site na enwe na ezi ruo na mmadụ. Apụrụ ime
+nke a site n'ilebara anụmanụ ndị ọrịa a ji, igbu ha n'ibupụ ozu ha ebe kwesịrị
+maọbụrụ n'achọpụtara ya. Isi anụ n'ọkụ nke ọma n'iyichi ahụ nke ọma ga-enye aka.
+Dịka iyichi ahụ na ịkwọ aka mgbe ịnọ onye bu ọrịa a nso. Ekwesịrị iji nlezianya
+mee ihe mgbe a na-emetụ mmiri ndị si n'ahụ onye bu ọrịa a na ihe ndị si ya n'ahụ
+aka.
+
+Onwebeghị ọgwụgwọ ọbụla maka ọrịa a; mgbalị a na-etinye inyere ndị buterela ya
+aka gụnyere inye dịka inye mmiri etinyere nnu (ịńụ mmiri dịtụ ụtọ na mmiri nnu
+dị) maọbụ mmiri buru ibu. Ọrịa a n'egbu n'ụdị dị elu: n'egbu pasent 50 na 90 bụ
+ndị butere ya. Ebu ụzọ chọpụta EVD na Sụdan na mba Kongo. Ọrịa a n'agbasakarị
+n'ebe ndị bi n'akụkụ mmiri. Site na 1976 (mgbe eburu ụzọ chọpụta ya) ruo 2013,
+ihe fọdụrụ nke nta ka oruo 1,000 mmadụ ebutela ya. Mgbasa ya dị elu ugbu a. 2014
+Mgbasa Ebola na ọdịda anyanwụ Afrịka, nke n'emetụta Guini, Sierra Leon, Laịberia
+na nke na-emetụ Naịjiria. N'ọnwa Ọgọstụ 2014 achọpụtala mmadụ 1600 ndị bu ọrịa
+a. Ana etinye mgbalị ịrụpụta ọgwụ mgbochi; mana ka ọdị onwebeghị nke dị.
+
+
+
+https://ig.wikipedia.org/wiki/Chinua_Achebe
+
+Chinụa Achebe (site n'aha a gụrụ ya Albert Chinụalụmọgụ Achebe; 16 Novemba 1930
+– 21 Maachị 2013) bụ onye Igbo a mụrụ n'ụbọchị nke iri na isii n'ọnwa Novemba
+n'afọ 1930 n'obodo Ogidi nke dị n'ala Naijiria. Ọ bụ ya dere akwụkwọ a na-akpọ
+Things Fall Apart. E si n'akwụkwọ ahụ mara aha ya nke ukwuu n'ụwa nile.
+
+Chinụa Achebe, onye nke nne na nna ya kpọrọ Albert Chinụalụmọgu Achebe, gara ụlọ
+akwụkwọ nta nke ndị uka, gakwaa Government College n'Umuahia. Ọ mechara gakwaa
+mahadum nke Ibadan University of Ibadan, Ȯra Ọyọ (Oyo State) ebe ọ gụrụ asụsụ
+békè' site n'afọ 1948 ruo afọ 1953. Ka ọ gụchara akwụkwọ nke mahadum, ọ
+rụtụkwara ọrụ n'ụlọakwụkwọ dị iche iche nakwa n'ụlọọrụ mgbasa ozi. Site na 1958
+ruo 1966, Chinụa Achebe bụ onye nhazi na-ahụ maka African Writers Series.
+
+Mgbe Achebe dere Things Fall Apart, akwụkwo ahu rere nke ukwuu, mkpụrụ nde iri.
+A tụgharịkwaala akwụkwụ a n'olu asụsụ iri ise.
+
+Chinụa Achebe rụkwara ọrụ onye diplomat n'ọchịchị nke Biafra site na 1967. Mana
+site na 1967 ruo 1981, ọ kụzikwara na mahadum dị iche iche n'ala Naijiria, ma
+bụrụkwa onye nhazi maka akwụkwọ edemede nke a na-akpọ Okike. N'afọ 1981, Chinụa
+Achebe sokwa na ndị bidoro Otu Ndi Odee Nke Naijiria, nke a na-akpọ Association
+of Nigerian Authors. Ọ rụkwara ọrụ onye isi were ruo 1986.
+
+A bịa n'etiti Ndị Nka, yaa bụ ndị na-ede edemede nke Modern African Literature,
+ihe a na-akpọ Chinụa Achebe bụ Nna. N'afọ 2002 ka e nyere ya Peace Prize nke
+German Book Trade. A makwa Chinua Achebe dị ka onye na-enweghi onye e ji
+atụnyere ya maka ịmalite edemede n'asụsụ bekee' n'akụkụ ọdịda anyanwụ n'ala
+Afrịka.
+
+
+
+https://ig.wikipedia.org/wiki/Madu
+
+Mádu bu òdùdù enyï anúmanụ àlà nwẹrẹ ómárí káchárá anumanu nke níle. Na asụsụ
+Latin há kpòrò madu Homo Sapien bú "onye ómárí" ma "onye ma ihe". Há bu ndi nọr
+na òdùdù nke Homo nke énwè nẹ jé na úkwú abụo na Hominidae, umunna énwè úkwú.
+Máná ọ di mgbe "Human" na asụsụ bekee na kárá genus nke Homo.
+
+Madu nwèrè ọvúrù kachara a ka, nke nweríkí nwe ómárí nke nché échìchè, asụsụ,
+ómárí onwé, na Í nweríkí bì nsogbu. Ọ dị Í nwé íshí nka, tírí ya na ahú kwụrụ
+ọtọ na élú nke nyéré íke Í me ka áká rü, mèrè ka madu gáfe na ihü òdùdù enyï nke
+ndi ozọr na Í jí ihe ọrü a rü. DNA Mitochondrial na ánumanu ichie di nà àlà zịrị
+na madu ndi ohüru shì Afrika na afọr 200,000 gárá agá. Nwéré madu gbásaa na uwa
+nílé ma ha dighị na Antarktika, madu bu òdùdù enyï nke uwà na uwà. Na Önwa ise
+nke 2010, mádu rùrù nke há sí bu ijeri 6.8.
+
+Há sị madu chọrọ Í má na Í nwe àgbà na uwà há, né tú ọtù ha shi é kọwa na í rü
+na élú ihe àlà shí ọbià, ílúnílú, ihe mmuö na éféfé. Ihe nọr na íshí ha nke
+nchọnchó mèrè ka ha ganírú na Í kw ihe orü na Í rümarü, nke na da na umunna;
+madu bu ótụ anúmanụ nke nwéré ómárí Í fụnwu ọkụ, Í shí ihe orị, Í tí uwé, na
+technonzu ndi ozọr.
+
+
+
+https://ig.wikipedia.org/wiki/Af%E1%BB%8D_%E1%BB%8Ds%E1%BB%8Bsa
+
+Afọ ọsịsa bụ ọnọdụ nke ịnwe usoro eriri afọ na esighi ike ma ọ bụ gbara mmiri
+opekata mpe ugboro 3 kwa ụbọchị. Ọ na anọkarị ụbọchị ole ma ole, ọ nwere ike
+ịdapụta na ahụ ịta mmiri n’ihi mmiri na apụ. Ihe nrịbama nke ahụ ịta mmiri na
+ebidokarị na ọpụpụ nke ndọtị anụahụ yana mgbanwe na omume. Nke a nwere ike
+ịbanye na mamịrị gbadara, ọpụpụ nke agba anụahụ, obi na akụ ọsọ ọsọ, yana mgbada
+na nzaghachi ka ọ na akawanye njọ. Nsi na esighi ike mana na adịghị mmiri mmiri
+n’ụmụ ntakịrị ndị a na enye ara nne, agbanyeghị, ọ nwere ike ịdị mma.
+
+Ihe na ebutekarị ọrịa nke mgbiri afọ bụ nje, ahụhụ na ebu ọrịa, alị, ma ọ bụ
+ọnọdụ akpọrọ afọ okuku. A na enwetakarị ọrịa ndị a site na nri ma ọ bụ mmiri
+metọrọ emetọ na nsị, ma ọ bụ site ozugbo n’aka onye ọzọ nwere ọrịa ahụ. Enwere
+ike ịkewa ya n’ụzọ atọ: afọ ọsịsa nsị mmiri mmiri na anọ obere oge, afọ ọsịsa
+nsị ọbara na anọ obere oge, yana ọ bụrụ na ọ gafee izu abụọ, afọ ọsịsa jụrụ
+ọgwụgwọ. Afọ ọsịsa nsị mmiri ahụ na anọ obere oge nwere ike ịbụ n’ihi ọrịa nke
+otoro. Ọ bụrụ na ọbara dị na ya a na akpọkwa ya afọ ọbara. Imirikiti ihe na
+adịghị efe efe nwekwara ike ịdapụta na afọ ọsịsa gụnyere: hyperthyroidism, ojuju
+lactose, ọrịa eriri afọ koro eko, mkpokọta nke ọgwụgwọ, yana nzipụta eriri afọ
+na agbakasị ahụ yana ihe ndị ọzọ. N’ọtụtụ oge anaghị achọ ọchichọ nje na nsị iji
+mara ihe butere ya kpọmkwem.
+
+Mgbochi nke afọ ọsịsa na efe efe bụ site na nzacha na mkpocha emelitere, mmiri
+ọnụnọ dị ọcha, yana ịsacha aka. Ịnye ara ihe dị ka ọnwa isii ka akwadoro dị ka ọ
+bụ ịgba ọgwụ mgbochi maka rotavirus. Mkpokọta ntighachi mmiri n’ahụ (ORS), nke
+bụ mmiri dị ọcha nwere nnu na suga ziri ezi, bụ ọgwụgwọ nke ahọpụtara.
+Akwadokwara Mkpụrụ ọgwụ Zinc. Ekpebiri na ọgwụgwọ ndị a azọpụtala ọnụọgụ nde 50
+ụmụaka n’ime afọ 25 gara aga. Mgbe ndị mmadụ nwere afọ ọsịsa, akwadoro na ha
+gara n’ihu na eri nri dị mma, ụmụ ọhụrụ gaa n’ihu na anụ mmiri ara. Ọ bụrụ na
+ORS azụmahịa adịghị, enwere ike iji mmiri emere n’ụlọ. Maka ndị nwere nnukwu ahụ
+ịta mmiri, enwere ike ịchọ mmiri nkwunye. Imirikiti oge; agbanyeghị, enwere ike
+ijikwa ya nke ọma yana mmiri site na ọnụ. Ọgwụ mgbochi, anaghị ejikarị ya,
+enwere ike ịkwado ya n’ebe ụfọdụ dị ka ndị nwere afọ ọsịsa nsị ọbara yana ahụ
+ọkụ, ndị nwere afọ ọsịsa sotere njem, yana ndị na amụba ahụhụ ma ọ bụ alị
+akọwapụtara na nsị ha. Loperamide nwere ike ịnyere aka belata ọnụọgụ nke ọgụga
+eriri afọ mana akwadoghi ya maka ndị nwere nnukwu ọrịa.
+
+Ihe dị ka nsogbu ijeri 1.7 ruo 5 nke afọ ọsịsa na eme kwa afọ. Ọ kachasị eme na
+obodo ndị na etolite etolite, ebe ụmụaka na eto eto na enweta afọ ọsịsa na ọkara
+ugboro atọ kwa afọ. N’ụwa gburugburu, ebe 2012, ọ bụ ihe nke abụọ kachasị ebute
+ọnwụ n’ebe ụmụaka nọ na erughi afọ ise (ọnụọgụ 0.76 ma ọ bụ 11%). Ọtụtụ mmemme
+nke afọ ọsịsa bụkwa ihe na ebutekarị kwashiokor yana ihe kachasị ebute ya n’ebe
+ndị na erubeghi afọ ise nọ. Nsogbu ndị ọzọ na atọke aka nwere ike ịdapụta
+gụnyere ntolite anụahụ na ụbụrụ isi na adịghị mma.
+
+
+
+https://ig.wikipedia.org/wiki/Ndi_Igbo
+
+N'ala Naigeria, ndï Igbo bu ndi ato hiri nne na onu agugu. Asusu eji mara
+ndiigbo bu asusu olu igbo. Nke ọzọ bu "broken English" ha ne ku ufọdi. Imerime
+mmadu nasu asusu bekee, site na-enyemaka nke amumamu olu bekee.
+
+Ufodi state ndi Igbo na Naigeria nọ nke nnuku bu, Ȯra Abia, Ȯra Anambra, Ȯra
+Ebonyi, Ȯra Enugu, ma na Ȯra Imo. Ȯra Delta (Anioma) na Ȯra Rivers.
+
+Site n'otu esi kọwa na nke mbu, na ala Naigeria, ndi Igbo no na Ȯra Abia, Ȯra
+Anambra, Ȯra Ebonyi, Ȯra Enugu na Ȯra Imo. Enwekwara ndi Igbo na Ȯra Delta nakwa
+Ȯra Rivers.
+
+A guba ndi kasi n'onu ogu na Naigeria, ndi Igbo bu ndi nke ato. Dika onu ogu afo
+2007 siri kowa, ndi Awusa weresia, ndi Yoruba ewere, tupu o ruo ndi Igbo.
+Onweghi onye ma ndi Igbo ole bi n'uwa a, maka na ndi Igbo gbasara mba di iche
+iche; na-azu ahia, ma o bu na-agu akwukwo. N'ime Naigeria, ndi Igbo bi na steti
+dum. Ebe ha si pua njem, bu Omambala (nke a kporo Anambra); Abia; Enugwu; Ebonyi
+nakwa Imo.
+
+Ndi Igbo jukwara eju bara a bara na Delta; Rivers, ufodu akuku Ȯra Edo, Ȯra Akwa
+Ibom, Ȯra Cross River, Ȯra Bayelsa nakwa Ȯra Benue. Ebe ndi Igbo gboro kasa
+na-abughi ala nna ha, bu Ȯra Lagos, Ȯra Kano, Ȯra Kaduna na steti dum di na
+Naigeria).
+
+Ndi Igbo bu ndi njem. I ruo obodo di iche iche na Afrịka, Obodo Békè, Amerikạ ma
+o bu Asia, i ga-ahu imilikiti ndi Igbo. Onwere onye agbata obi siri, na obodo
+ndi Igbo anǫghi, abughi ezi obodo. Obodo obuna ndi Igbo nǫ, i fa na-enwe ǫgbakǫ
+ųmų-Igbo. Ǫgbakǫ ndia na-enye aka įfu na ǫmenani Igbo ma ǫdinma ndi-Igbo na-aga
+n'iru.
+
+
+
+https://ig.wikipedia.org/wiki/Nigeria
+
+Naíjíríà (Naigeria, Naịjiria), nke ana kpo Njíkötá Óchíchìiwù Naíjíríà na olu
+bekee, bu otu obodo no n'ime Afrika, Odi n'akuku odida anyanwu Afrika ana-akpo
+West Africa. Obu kwa obodo ndị Igbo, ma ndi Hausa na ndi Yoruba nakwa otutu ndi
+ozo di iche iche. Obodo a na-akpo Republic du Benin no na aka-ekpe Naijiria.
+Chad na Cameroon no kwa n'aka-nri ya. Na elu ya no obodo ana-kpo Niger. Okpuru
+ya ruru ebe mmiri a na-akpobu Bight of Biafra nke a gbanwere Gulf of Guinea di.
+Ebe ahu bukwa ebe mmiri ana-akpo Bight of Biafra di tupu a kpowa ya Bight of
+Bonny. Na 1991, ebugara isi obodo ya n' Abuja. Isi obodo ya dibu na Lagos nke di
+na ndida anyanwu (Western Nigeria). Abuja buzi isi obodo no n'etiti Naijiria.
+
+Akuko mbido Naijiria hiri nne ma dikwa ogologo. Ihe egwuputara n'ala bu ihe na
+egosi ebe mmadu si, gosiri na mmadu bidoro biwe nebe a site na-afo mgbe ochie bu
+9000 BC., Ebe Mmiri a na-akpo River Benue-Benue-Cross River bu ebe echere na ndi
+a na akpo ndi Bantu bi bu,Bantu/Bantu Migrants. Ndi a sitekwara ebea wee gbasaa
+rue n'Etiti Afrika central Africa nakwa ndida Afrika southern Africa n'igwe site
+na 1st millenium BC rue 2nd millenium AD.
+
+1 Ọktoba, N'onwa Oktoba Ọktoba afo nke 1960, ndi bekee bu ndi hapuru ala ha bu
+United Kingdom wee bia na ala ebe ha bidoro kpowa Naijiria, nyeghachiri ndi
+Naijiria ala ha. Naijiria ugbua nweziri ngalaba ochichi okpuru obodo di 36, 36
+states nakwa Isi Obodo- bu Federal Capital Territory- Abuja. Naijiria
+nweghachikwara ochichi a na akpo Demokrasi Democracy n'afo 1999, mgbe ndi Soja
+Military chigoro afo iri na isii. Site n'afo 1966 rue 1999 ndi soja ala Naijiria
+bu ndi na achi Naijiri (ma oburu na ewepu ochichi Shehu Shagari, nke na eteghi
+aka, nke akporosecond repiblic 1979-1983). Ndi Soja a na-eweghara ochichi n'ike.
+Ha chikwara site na coup d'etats/counter-coups site n'afo 1966-1979 na
+1983-1998.
+
+Àtụ:Member states of the African Union Àtụ:D8 nations Àtụ:G15 Àtụ:OPEC Àtụ:OIC
+Àtụ:Community of Sahel-Saharan States Àtụ:Niger-Congo-speaking Àtụ:Commonwealth
+of Nations
+
+
+
+https://ig.wikipedia.org/wiki/Iba
+
+Ịba bụ ọrịa anwụnta na amụ na efe efe nke ndị mmadụ na anụmanụ ndị ọzọ, a na
+ebute site na alị protozoans (otu ụdị nke otu selụ otu ahụhụ) nke ụdị
+Plasmodium. Ịba na ebute ihe mgbanwe na agụnyekarị ahụ ọkụ, ike ọgwụgwụ, ịgbụ
+agbọọ yana isi ọwụwa. Na nke dị egwu ọ nwere ike ibute anụahụ edo-edo, akwụkwụ,
+ndụ yiri ọnwụ ma ọ bụ ọnwụ. Ihe mgbanwe ndị a na ebidokarị ụbọchị iri ruo iri na
+ise ka atachara gị. N’ebe ndị agwọghị nke ọma, ọrịa a nwere ike ịmegharị ka
+ụfọdụ ọnwa gachara. N’ebe ndị gbanarịrị ọrịa a nọ, ibutegharị ọrịa a na
+ebutekarị ihe mgbanwe dị ntakịrị. nguzodo ntakịrị a na efu ka ọnwa na afọ na aga
+ma ọ bụrụ na onye ahụ kpughepuru onwe ya ebe anwụnta nọ.
+
+Ọtụtụ oge, a na enyefe ọrịa ahụ site na ọtịta nke nwunye anwụnta bu ọrịa ahụ
+Anopheles. Ọtịta ahụ na ebubata arụrụ sitere na asọ mmiri nke anwụnta ahụ n’ime
+ọbara. Arụrụ ahụ na eje na umeju ebe ha na etolite ma mụbanye. Ụdị ise nke
+Plasmodium nwere ike ịfe ịfe, ndị mmadụ nwere ike ịkesa ha. Imirikiti ọnwụ na
+esite na P. falciparum yana P. vivax, P. ovale, na P. malariae na ebutekarị ụdị
+nke ịba dị ntakịrị. Ụdị P. knowlesi anaghị ebutekarị ọrịa na ndị mmadụ. A na
+achọpụtakarị ịba site na nnyocha miri emi nke ọbara site na iji enyo ọbara, ma ọ
+bụ site na iji antigen – dabere ndapụta usoro polymerase. Emepụtala usoro ndị
+nwere ike iji ndapụta usoro polymerase iji chọpụta arụrụ nke DNA, mana anaghị
+eji ya ukwuu na mpaghara ebe ịba dị a na enwekarị n’ihi ọnụego na mgbagwoju anya
+ha.
+
+Enwere ike ịbelata ihe egwu nke ọrịa ahụ site na igbochi ọtịta anwụnta site na
+iji ntofo anwụnta yana ihe nchụpụ anwụnta, ma ọ bụ site na iji ụkpụrụ
+njikwa-anwụnta dịka ịgba ihe ihe mgbochi arụrụ yana ịgbapụ mmiri dọ adọ. Ọtụtụ
+ọgwụ dị na gbochie ịba na ndị njem gaa n’ebe ọrịa ahụ dị ọtụtụ. Oge ụfọdụ
+akwadoro ọnụ ọgụgụ nke ọgwụ sulfadoxine/pyrimethamine na ụmụ ntakịrị yana ka
+ọnwa atọ izizi n’ime ọnwa itoolu nke afọ ime gachara n’ebe ndị enwere nnukwu
+ịba. Agbanyeghị mkpa, enweghị ọgwụ mgbochi na arụ ọrụ, tụmadị mbọ a na agba iji
+mepụta otu na aga n’ihu. Ọgwụgwọ akwadoro maka ịba bụ mkpokọta nke ọgwụ mgbochi
+ịba gụnyere otu artemisinin. Ọgwụ nke abụọ nwere ike ịbụ mefloquine,
+lumefantrine, ma ọ bụ sulfadoxine/pyrimethamine. Enwere ike iji Quinine yana
+doxycycline ma ọ bụrụ na artemisinin adịghị. Akwadoro ya na mpaghara ebe ọrịa
+ahụ juru eju, a na amata ịba tupu ebido ọgwụgwọ n’ihi echiche nke mgbochi ọgwụ
+na ebulite. Mgbochi etolitela bụrụ ọtụtụ ọgwụ mgbochi ịba; dịka ọmụmaatụ,
+chloroquine – mgbochi P. falciparum ekesaala n’ọtụtụ ebe nwere ịba, yana mgbochi
+nke artemisinin abụrụla nsogbu n’ụfọdụ akụkụ nke Akụkụ ndịda na ọwụwa anyanwụ
+nke Asia.
+
+Ọrịa ahụ kesara nnukwu na mpaghara okpomọkụ yana akụkụ nọketere mpaghara
+okpomọkụ dị n’oke dị obosara na ahịrị ụwa. Nke a gụnyere imirikiti nke
+Sub-Saharan Africa, Asia, yana Latin America. World Health Organization na
+ekpebi na 2012, enwere okwu nde 207 nke ịba. Na afọ ahụ, ekpebiri na ọrịa ahụ
+gburu n’etiti ndị mmadụ 473,000 na 789,000, imirikiti ha bụ ụmụaka na Africa. A
+na amakọrịkarị ịba yana ụbịam, ọ nwere nnukwu mmetụta jọrọ njọ na ntolite
+nchịkwa ego obodo. Na Africa ekpebiri na ọ na adapụta na ntufu nke ego ijeri $12
+USD n'otu afọ n'ihi ụgwọ nlekọta ahụike dị ọnụ, ikike ịrụ ọrụ na adịghị yana
+mmetụta na njegharị.
+
+
+
+https://ig.wikipedia.org/wiki/Ag%E1%BB%A5%E1%BB%A5
+
+Agụụ bụ ọnọdụ na adapụta site na iri nri nke ihe dị anụahụ mma ezughi oke ma ọ
+bụ dịfee oke nke nwere ike ibute nsogbu ahụike. Ihe ndị dị anụahụ mma ekpokọtara
+nwere ike ịgụnye: nkeji ume, protin, nri na enye ike na ibu, vitamin ma ọ bụ
+mineral. A na ejikarị ya iche iji rụtụ aka na erizughi nri dị mma ebe enweghị
+nkeji ume, protin ma ọ bụ mpekere ihe dị anụahụ mma zuru oke, agbanyeghị ọ
+gụnyekwara nrife ihe dị anụahụ mma. Ọ bụrụ na erizughi ihe dị anụahụ mma dapụta
+n’oge afọ ime ma ọ bụ tupu afọ nke afọ abụọ nke afọ ọ nwere ike ịdapụta na
+nsogbu ga-adịgide na ntolite anụahụ yana ụbụrụ isi. Erizughi ihe dị anụahụ dị
+ukwuu, ama ka ịkwụ ọnụ, nwere ike ịnwe ihe mgbanwe ndị gụnyere: mkpumkpu, ịta
+ahụ, ike ọgwụgwụ, yana ụkwụ koro eko yana oke afọ. Ndị mmadụ oge ụfọdụ na
+enwetakarị ọrịa, ha na enwekarị oyi. Ihe mgbanwe nke ụkọ mpekere ihe dị anụahụ
+mma dabere na mpekere ihe dị anụahụ mma na adịghị.
+
+Ihe na ebutekarị erijughi afọ bụ n’ihi enweghị ezigbo nri dị mma dị maka oriri.
+Nke a na emetụtakarị ọnụego nri dị elu yana ụbịam. Ụkọ nke ịnye ntakịrị nwa ọhụụ
+ala nwere ike ịnyere aka, dị ka ọnụọgụ nke ọrịa ndị na efe efe dịka: afọ okuku,
+oke oyi, ịba yana akpata nke na ebuwanye mkpa ihe dị anụahụ mma. Enwere ụdị abụọ
+nke erijughi afọ: ụkọ ike-protin yana ụkọ iri nri dị mma. Ụkọ ike-protin nwere
+ụdị abụọ dị oke egwu: marasmus (ụkọ nke protin yana nkeji ume) yana kwashiorkor
+(ụkọ nke naanị protin). Ụkọ mpekere ihe dị anụahụ mma ama ama gụnyere: ụkọ nke
+iron, iodine yana vitamin A. N’oge afọ ime, n’ihi nchọ gbagolitere, ụkọ na
+adịkarị ebe niile. N’ụfọdụ obodo ndị na etolite etolite nrife ihe dị anụahụ mma
+dị n’ụdị nke ibu mbutọkọ ebidola ịdị n’etiti otu ogbe dị ka erijughi afọ. Ihe
+ndị ọzọ na ebute erizughi nri dị mma gụnyere anorexia nervosa yana ịwa ahụ
+bariatrik. Na ndị okenye erizughi nri dị mma na adịkarị n’ihi ihe anụahụ, mmụọ
+mmadụ yana mmekọrịta.
+
+Mbọ iji melite nri dị ahụ mma bụ ụfọdụ nke ụdị ndị kachasị ire nke enyemaka
+ntolite. Ịnye ntakịrị nwa ala nwere ike ịbelata ọnụ nke agụụ yana ọnwụ n’ụmụaka,
+yana mbọ iji kwado omume ahụ na ebuwanye oke. N’ụmụaka na etolite ịnye nri yana
+na mgbakwunye mmiri ala n’etiti ọnwa isii yana afọ abụọ na emelite ndapụta.
+Enwekwara ihe akaebe ziri ezi na akwado mgbazinye nke ọnụọgụ nke mpekere ihe na
+adị anụahụ mma n’oge afọ ime yana n’ime ụmụ ntakịrị nọ n’ụwa ndị etolite
+etolite. Iji wega nri n’ebe ndị mmadụ chọrọ ya nọ yana ịnyefe nri na ịnye ego ka
+ndị mmadụ nwee ike ịzụta nri n’ime ahịa mpaghara na arụ ọrụ. Naanị ịnye ndị
+mmadụ nri n’ụlọ akwụkwọ ezughi oke. Njikwa nke nnukwu agụụ n’ime ụlọ nke onye
+ahụ site na iji nri na agwọ ọrịa dị-njikere-iji ga-ekwe omume ọtụtụ oge.
+Akwadoro n’ebe ndị nwere nnukwu agụụ agbagwojuru site na ọgwụgwọ nsogbu ahụike
+n’ime ụlọ ọgwụ. Nke a na agụnyekarị ijikwa suga dị obere, temprechọ ahụ, ahụ ịta
+mmiri, yana iri nri nwayọ nwayọ. A na akwadokarị usoro ime ihe ọgwụ mgbochi nje
+n’ihi nnukwu ihe egwu nke ibute orịa. Ụkpụrụ ogologo oge gụnyere: imelite ụkpụrụ
+ịkọ ugbo, ịbelata ụbịam, imelite gburugburu dị ọcha, yana nkwadige nke ụmụ
+nwanyị.
+
+Enwere ọnụọgụ nde ndị mmadụ 925  na erijughi afọ n’ụwa na 2010, mgbagote na nke
+nde 80 kemgbe 1990. Ekpebiri na ijeri ndị mmadụ ọzọ enweghị vitamin na mineral.
+Na 2010 ekpebiri na ụkọ ike-protin dapụtara na ọnwụ 600,000 gbadata site na ọnwụ
+883,000 na 1990. Ụkọ nri ndị ọzọ, nke gụnyere ụkọ iodine yana anemia ụkọ iron,
+dapụtara na ọnwụ 84,000 ọzọ. Erijughi afọ na 2010 butere 1.4% nke obibi ndụ
+nkwarụ ahaziri. Ihe dị ka ụzọ atọ n’otu nke ọnwụ n’ụmụaka ka ekwenyere na ọ bụ
+n’ihi erijughi afọ; agbanyeghị, anaghị akpọkarị ọnwụ ndị ahụ otu ahụ. Na 2010
+ekpebiri na ọ nyere aka na ọnwụ ọnụọgụ nde 1.5 n’ụmụ nwanyị na ụmụaka tụmadị
+ụfọdụ na ekpebi na ọnụọgụ ahụ gafere karịa nde 3. Mgbakwunye ụmụaka ọnụọgụ nde
+165 nwere mkpumkpu si na ọrịa ahụ. Erijughi afọ dịkarịrị na obodo ndị na etolite
+etolite.
+
+
+
+https://ig.wikipedia.org/wiki/%E1%BB%8Cr%E1%BB%8Ba_mam%E1%BB%8Br%E1%BB%8B_A
+
+Ọrịa mamịrị A (akpọburu ọrịa mamịrị na efe efe) bụ ọrịa na efe efe gara aga nke
+umeju nke nje ọrịa mamịrị A na ebute (HAV). Ọtụtụ nsogbu nwere obere ma ọ bụ ihe
+mgbanwe na adịghị ncha ncha n’ebe ndị etolite nọ. Oge dị n’etiti ibute ọrịa a
+yana ihe mgbanwe, n’ime ndị na ebuwanye, bụ n’etiti izu abụọ na isii. Mgbe
+enwere ihe mgbanwe ha na anọkarị izu asatọ, ha nwere ike ịgụnye: ajụ, ịgbọ
+agbọọ, afọ ọsịsa, ọchananya|anụahụ edo-edo, ịba, afọ mgbu. N’ime 10-15% nke ndị
+mmadụ na enwe nlaghachite nke ihe mgbanwe n’oge ọnwa isii ka enwechara mbute
+ọrịa ahụ izizi. Mbibi umeju dị gara gara nwere ike ime oge ụfọdụ, a na ahụkarị
+nke a n’ebe ndị okenye nọ.
+
+A na ekesakarị ya site na iri nri ma ọ bụ ịṅụ nri ma ọ bụ mmiri nwere nsị bu
+ọrịa. Azụ okpokoro nke esibeghị nke ọma bụkwa ebe ọzọ ama ama esi ebute ya.
+Enwekwara ike ịkesa ya site na ịmetụta onye bụ ọrịa ahụ. Ebe ụmụaka anakarị enwe
+ihe mgbanwe mgbe ha butere ọrịa ahụ ha ka nwere ike ibunye ndị ọzọ ọrịa ahụ. Ka
+ebutechara ọrịa otu oge, onye ahụ agaghịzị enweta ọrịa ahụ ọzọ na ndụ ya niile.
+Ịchọpụta nsogbu chọrọ inyocha ọbara dị ka ihe mgbanwe ndị ahụ yitere ọnụọgụ nke
+ọrịa ndị ọzọ. Ọ bụ otu n’ime ise ama ọrịa mamịrị nje: A, B, C, D, yana E.
+
+Ọgwụ mgbochi ọrịa mamịrị dị mma maka mgbochi. Ụfọdụ obodo na akwado ya maka
+ụmụaka yana maka ndị nwere nnukwu ohere ibute ya ndị na agbabeghị ọgwụ mgbochi.
+O gosiri na ọ dị mma maka ndụ. Ụkpụrụ mgbochi ndị ọzọ gụnyere ịsacha aka yana
+isi nri nke ọma. Enweghị ọgwụgwọ ọ bụla ama ama, iji ezumike na ịṅụ ọgwụ maka
+ajụ ma ọ bụ afọ ọsịsa akwadoro dị ka otu esi chọọ ya. Mbute ọrịa na ala kpamkpam
+na enweghị ọrịa umeju na aga aga. Ọgwụgwọ nke mbibi umeju dị gara gara, ọ bụrụ
+na ọ dapụta, bụ mbufe umeju.
+
+Na gburugburu ụwa okwu ihe mgbanwe nde 1.5 na eme kwa afọ na abụkarị imirikiti
+nde nke mbute ọrịa na nchịkọta. Ọ na adịkarị na mpaghara nke ụwa nwere
+gburugburu jọrọ njọ, na enweghị mmiri dị mma zuru oke. Na ụwa na etolite etolite
+ihe dị ka 90% nke ụmụaka ebutela ọrịa n’ebe afọ 10, ebe ọ dị otu ahụ ha enweela
+mgbochi na okenye. Ọ na emekarị na mberede n’obodo ndị tolitere nke ọma ebe
+anaghị ekpughepu ụmụaka mgbe ha dị ntakịrị, ma enweghị ịnye ọgwụ mgbochi n’ala
+niile. Na 2010, ọrịa mamịrị dị gara gara dapụtara na ọnwụ 102,000. Ụbọchị Ọrịa
+Mamịrị N’ụwa na eme kwa afọ na Julaị 28 iji mee ka amara ọrịa mamịrị nje na
+ebute.
+
+
+
+https://ig.wikipedia.org/wiki/Och%C3%ADch%C3%ADeze_Nri
+
+Ochíchíeze Nri (1043—1911; 06°09′12″N, 07°01′40″E) bų mgbe mbu obodo nke nọr na
+Odida Africa ne ndi Nri-Igbo, nke di nà mbà Ndi Igbo. Ọ bų ochíchíeze kárírí Í
+di ichié na Nigeria. Ochíchíeze Nri di ichiè na ákíkó mbu ọchíchì ùwà màkà íshí
+ya enwéghị ndi agha nọr na okpụrụ ya. Ochíchíeze nke bịrị ka ihe basàrà éféfé na
+ochíchì na Àlà Igbo, na íshí ya bu onye ezè alụsị-ézè ha na kpó ézè Nri. Ézè Nri
+lèkọtàrà ihe njé áhía na ihé nke í nọr na ómá na ndi Igbo nke ndi ozor, na o
+nwèrè íké shí na élú.
+
+Ochíchíeze nke bų mgbe mbu ébé mádu nílé byàkọtàrà Í zonárí onwe há shí ama ndi
+ne ozor na ọ bų ébé ndi óhu byàrà ka há bų ndi díàlà. Nrí básàrà shí í gbanwe
+éféfé ndi ozor nokotárí ha, ọ di na áká ndi na gbànwà. Onye bidoro Nri, Eri, na
+àlà Nri ha nà sí ó shì ígwé nyìrí na àlà Í ké obodo. Ihe ha jị a má nri bų ihe
+oze há kpùrù na Igbo-Ukwu.
+
+
+
+https://ig.wikipedia.org/wiki/Biafra
+
+Bịafra bụla obodo ndï Ìgbo, nke pụtara ìhìe n'afọ 1967. Ndï bekee hapụrụ
+Naigeria na 1960, wéé nyehachi ndï ala Naigeria obodo ha. Ndï Ìgbo na ndï Hausa,
+bụ ndi n'achi Naigeria n'oge ahù luru ògù na 1967.
+
+Íhe butere ọgụ ahu: Ufọdụ ndi ụmụ okọrọbia agha nke Naigeria (ọtụtụ n'ime ha bụ
+ndi Ìgbo) gbara mgba okpụrụ n'ebe isi ọchichi ndi isi ala anyi Naigeria nọ. Ha
+sitéré na mgba okpụrụ ahu wéré gbụo ụfọdụ ndi isi ala anyi (ụfọdụ n'ime ha bụ
+ndi Haụsa) nke ndi bekee nyefere ọchichi n'aka tụpụ ha hapụ obodo anyi. Ha wéé
+gbanwe ọchichi obodo anyi ma wéré onye isi agha ha méé ye onye isi ala Naigeria.
+Aha ya bụ Major Aguiyi Ironsi (Ìgbo).
+
+Ọtụtụ ndi agha Naigeria bụ ndi Hausa, wéré iwe mmegwata ogbụo Major Aguiyi
+Ironsi, ma wéré Gen.Yakubu Gowon (Hausa-Benue) dochie anya ya. N'iwe na ọnuma ha
+wéré gbuo ọtụtụ ndi Ìgbo bụ ndi isi agha nke Naigeria, ya na ndi Ìgbo aka ha di
+ọcha nọ n'ala ndi Hausa nke bụ isiala Naigeria. Lt Col. Chukwuemeka Odumegwu
+Ojukwu bụ onye na achi ndi ọwụwa anyawu Naigeria n'oge ahu, wéré juọ enyem-aka
+maka igbochi ogbugbu nke ndi Ígbo nọ na ala ndi Hausa, kama ndi n'achi ala anyi
+egeghi ya ntị. Íhe a méré ndï Igbo, ndi ikwere na ndï Ijaw jiri wéré kewapụ onwe
+ha na Naigeria. Ha wéré malite kpọwa onwe ha obodo "Bịafra". Ndi nachi ala
+Naigeria anabataghi ya. Ya mere n'afọ (otu pụkụ,narri ịtolụ,iri isii na asaa) ma
+ò bụ 1967 obodo Naigeria na ala Bịafra wéé malite ọgụ. Nke gbaruru afọ atọ, ma
+kwụsin'afọ 1970.
+
+
+
+https://ig.wikipedia.org/wiki/%E1%BB%A4l%E1%BB%8D_mposi
+
+Ụlọ mposi bụ ụdị nke ụlọ mposi na ekpokọta nsị mmadụ n’oghere dị n’ime ala. Ha
+anaghị eji mmiri ma ọ bụ jiri otu lita ma ọ bụ atọ kwa mgbacha n’ụlọ mposi na
+enweghị ihe mgbacha dị mma. Mgbe arụrụ ma dowe ya nke ọma ha nwere ike ịwedata
+nkesa nke ọrịa site na ibelata ọnụ nke nsị mmadụ dị na gburugburu sitere na ịnyụ
+nsị na gburugburu. Nke a na ewedata nnyefe nke ahụhụ n’etiti nsị yana nri si
+n’aka ijiji. Ahụhụ ndị a bụ ihe ndị kachasị ebute afọ ọsịsa na efe efe yana ọrịa
+okpo nke mgbiri afọ. Afọ ọsịsa na efe efe dapụtara n’ọnwụ nde 0.7 n’ụmụaka ndị
+na erughi afọ ise na 2011 yana nde 250 tufuru ụbọchị agụmakwụkwọ. Ụlọ mposi bụ
+ụzọ kachasị ọnụ ala nke ịkewa ndị mmadụ na nsị.
+
+Ụlọ mposi nwere ụzọ atọ: oghere n’ime ala, nyiwe ma ọ bụ ala nwere obere oghere,
+yana ihe na eche ndo. Oghere ahụ na abụkarị opekata mpe onuno mita 3 (10 feet)
+yana 1m (3.2 feet) n’obosara. World Health Organisation na akwado na ha ruru
+ogologo dị mma pụọ n’ebe ụlọ dị, nke ga-ahakọ nsogbu ịnweta ya ọsọ ọsọ yana isi
+ya. Ogologo dị n’etiti mmiri dị n’ala yana mmiri dị n’elu ala kwesịrị ibu nnukwu
+ibu iji wedata ihe egwu nke mmetọ okirikiri. Oghere dị na nyiwe ahụ ekwesịghị
+ịgafe centimita 25 (9.8 inches) iji gbochie ụmụaka na ịdakpu n’ime ya. Ekwesịrị
+igbochi ọkụ ịbata n’ime oghere ahụ iji belata ijiji. Nke a nwere ike ịchọ iji
+okwuchi iji kpuchie oghere dị n’ala ahụ mgbe anaghị eji ya. Mgbe oghere ahụ
+kpojuru ruo 0.5 mita (1.6 feet), a ga-ekpocha ya ma ọ bụ arụpụta oghere ọhụrụ,
+ebugharịa ndo ahụ ma ọ bụ arụgharịa ya n’ebe ọhụrụ. Ndị na ejikwa apịtị nsị
+wepuru n’oghere ahụ gbagwojuru anya. Enwere ihe egwu gburugburu na ahụike ma ọ
+bụrụ na emeghị ya nke ọma.
+
+Enwere ike imelite ụlọ mposi n’ọtụtụ ụzọ. Otu gụnyere itinye okpoko ikuku si na
+oghere gaa n’elu ụlọ ahụ. Nke a na emelite nkugharị ikuku ma wedata isi nke ụlọ
+mposi ahụ. Ọ nwekwara ike ịbelata ijiji mgbe eji ntofo kpuchie elu nke okpoko
+ahụ (na abụkarị nke eji fiberglass mebe). N’ụdị nke ụlọ mposi ndị a ekwesịrị iji
+okwuchi iji kpuchie oghere dị n’ala ahụ. Mmelite ndị ọzọ enwere ike gụnyere ala
+arụrụ ka mmiri na agbanye n’ime oghere yana nkwagide nke akụkụ elu nke oghere
+ahụ site na iji brik ma ọ bụ aja okirikiri simenti iji melite nhakọ.
+
+Ebe 2013 ekpebiri ndị na eji ụlọ mposi egburu oghere n’ala dị ihe dị ka ọnụọgụ
+ijeri ndị mmadụ 1.77. Nke a bụkarịrị na ụwa na etolite etolie yanakwa mpaghara
+ime obodo yana ọzara. Na 2011 ihe dị ka ọnụọgụ ijeri 2.5 enweghị ụlọ mposi dị
+mma yana otu ijeri gbabanyere na ịnyụ nsị na gburugburu n’okirikiri ha. Akụkụ
+Ndịda Ugwu nke Asia yana Akụkụ Ọzara Africa nwere ụlọ mposi kachasị njọ n’ụwa.
+N’obodo ndị na etolite etolite ọnụego nke ụlọ mposi dị mma na abụkarị n’etiti 25
+na 60 USD. Ọnụego ndozi na aga bụ n’etiti 1.5 yana 4 USD kwa otu onye kwa afọ
+nke bụ ihe anaghị elebanyekarị anya. N’ụfọdụ akụkụ nke ime obodo India ejirila
+nkwado “Ụlọ Mposi Adịghị, Nwunye Agaghị Adị” iji kwado ụlọ mposi site na ịkwado
+ụmụ nwanyị ịjụ ịlụ nwoke na enweghị ụlọ mposi.
+
+
+
+https://ig.wikipedia.org/wiki/%E1%BB%8Cr%E1%BB%8Ba_ihi_%E1%BB%A5ra_nke_ukwuu
+
+African trypanosomiasis ma ọ bụ ọrịa ihi ụra nke ukwuu bụ ọrịa parasaịtị nke ndị
+mmadụ na anụmanụ ọzọ. Parasaịtị nke otu ụmụ ahụhụ ọrịa ana-akpọ Trypanosoma
+bruceina-akpata ya. Enwere ụdị abụọ nke na-ewetara ọrịa na anụmanụ, Trypanosoma
+brucei gambiense (T.b.g) na Trypanosoma brucei rhodesiense (T.b.r.). T.b.g
+na-akpata karịa 98% nke ụdị ọrịa ahụ amatara. Enyefere ndị abụọ site na aru nke
+ofufe tsetse nkaa nwere ọrịa ahụ ma ọ dị ahụkarị na mpaghara ime obodo.
+
+Na mbido, na agba mbụ nke ọrịa ahụ, enwere ahu oku, isi ọwụwa, oko, ma mgbu
+nkwonkwo. Nke a na-amalite na izu abụọ na atọ mgbe aru ahụ gachaa. Mgbe ọtụtụ
+izu na ọnwa, agba abụọ na-amalite na mmesa anya, enweghị ike iche echiche n’ụzọ
+kwesịrị ekwesị, enweghị ike ebuli aka na ụkwụ na nsogbu na ehi ụra. Ana eme
+nrugosi ụdị ọrịa site na achọ parasaịtị ahụ n’ime ọbara ejikere maka ịlele ma ọ
+bụ n’ime mmiri mmiri nke enwetara site na nkwonkwo. Achọrọ nnweta mmiri site na
+ọkpụkpụ azụ n’ọtụtụ mgbe iji kwuo ndịiche n’ime agba mbụ na agba abụọ nke ọrịa
+ahụ.
+
+Mgbochi ọrịa siri ike na-agụnye nlele ndị mmadụ nke dị n'okpuru ize ndụ ọrịa ahụ
+na nlele ọbara maka T.b.g. Ọgwụgwọ dịkwa mfe mgbe achọtara ọrịa n’oge na tupu
+akara ọrịa akwara ga-egosi. Ọgwụgwọ agba mbụ bụ na ọgwụ pentamidine ma ọ bụ
+suramin. Ọgwụgwọ agba abụọ na-agụnye eflornithine ma ọ bụ nchikọta nke
+nifurtimox na eflornithine maka T.b.g. N’agbanyeghị na melarsoprol na-arụ ọrụ
+maka ndị abụọ, ana-eji ya maka T.b.r. naanị n’ọtụtụ oge maka na mmetụta ya
+n’ahụ.
+
+Ọrịa a na-eme mgbe nile n'ụfọdụ mpaghara nke Ndịda ọhịa Sahara nke Afrịka, ebee
+ndị mmadụ n’okpuru ize ndụ bụ ruo nde 70 na obodo 36. N’afọ 2010 ọ mere ọnwụ ruo
+9,000, nbelata site na 34,000 n’afọ 1990. Ndị mmadụ ruo 30,000 nwere ọrịa ahụ
+ugbu a, na ọrịa ofufe ọhụrụ 7000 n’afọ 2012. Karịa 80% n’ime ndị mmadụ ndị a bi
+na Rịpụbilikị Keochichi ndị nkiti nke Congo. Ihe ndapụta atọ dị mkpa ya mere na
+akụkọ ọhụrụ: Otu site na 1896 na 1906 tumadu na Uganda na Mmiri nke agaghịnihu
+Congo na abụọ n’afọ 1920 na 1970 n’ọtụtụ obodo na Afrịka. Anumanu ọzọ, dịka ehi,
+nwere ike ịbu ọrịa na nwee ọrịa.
+
+
+
+https://ig.wikipedia.org/wiki/Umaru_Yar%27Adua
+
+Umaru Yar'Adua bu onye e mere president Naigeria, soto Olusegun Obasanjo. O
+bidoro 29 Mee, 2007, bu onye People's Democratic Party (PDP), ndi meriri e meri
+na general election 2007 Naigeria, na 21 Eprel. Mbu ha biata People's Democratic
+Party, ha bula onye ndi People's Redemption Party, tupu ha so papa ya, onye bula
+vice chairman nde National Party of Nigeria (Naigeria).
+
+Amuru Umaru na Katsina State, Naigeria, bu nke ekeputara n' Kaduna State n'aro
+1987. Nne na Nna ya kwuru n'amuru ya nime abali iteghete, onwa nke asaa n'ime
+aro 1951. Osoro Nna ya nke bu onye n' esote onye isi nke National Party nke
+Niagiria, buru otu onye n'ime ndi no na party ahu. N'ime aro 1999, emekwara ya
+onye isi ochi-agha nke Katsina State site na itu-aka nke oritere na People's
+Democratic Party (PDP).
+
+Nihi ochichi oma nke ya, emekwara ka ochia obodo Katsina aro asato. Site n' itu
+aka nke emere n'obodo niagiria nime onwa ano,abali iri abua n'otu, afo 2007,
+Umaru bu onye meriri ndi ozo dika Buhari, Atiku, Ojukwu, Oji Uzo, Rev Okotie na
+ndi ozo burukwa onye ebikwasiri aka koburu onye isi ochiagha nke Niagiria.
+
+
+
+https://ig.wikipedia.org/wiki/Nzu%C3%B3g%C3%BCg%C3%BC
+
+Ọmúmú-ónúọgụgụ (búrú Mathematics na asụsụ bekee) omúmú màkà mà, ụdị, ámá, na ihe
+gbanwe. Ndi ọmúmúónúọgụgụ nà kpàchányá Í lé ihe nṇòmi, màkà Í rütá ihe bụ
+ezíbȯté ihe dị na ùwà. Ọmúmú-ónúọgụgụ dị mkpà Í bì ihe né mé na ùwà; ȯ bụ ihe
+mèrè kà ndi ozor á búghị ndi ọmúmú-ónúọgụgụ na mú ya. Na úbọchị tá, orü di
+ímérímé jịrị ọmúmú-ónúọgụgụ à rü. Orü, obiạ, ọrü-órü, na Í ruu ihe né jí
+ọmúmú-ónúọgụgụ Í rü. Ha na kpó ndi na rü nchéchichè nka onye ọmúmú-ónúọgụgụ
+
+Ọ dị nlụlítá ụkà nke ndi ọmúmú-ónúọgụgụ náa jü màkà ihe ọmúmú-ónúọgụgụ dí kà
+ónúọgụgụ di nà àlà mgbé mádu ánóghị ya. Onye ọmúmú-ónúọgụgụ Benjamin Peirce si
+ọmúmú-ónúọgụgụ bụ "obiạ nke ha nè jị ẹ rü ihe di mkpà". Albert Einstein, nà áká
+ozor, sị na "otụ íwú ọmúmú-ónúọgụgụ kwùrù ihe bu ùwà nke ányí na hü, ọ dígí
+ézíbóté; na mgbe ha gi bu ézíbóté, ha gágị à bụ ihe bu ùwà nke ányí na hü."
+
+
+
+https://ig.wikipedia.org/wiki/Ndiigbo
+
+N'ala Naigeria, ndï Igbo bu ndi ato hiri nne na onu agugu. Asusu eji mara
+ndiigbo bu asusu olu igbo. Nke ọzọ bu "broken English" ha ne ku ufọdi. Imerime
+mmadu nasu asusu bekee, site na-enyemaka nke amumamu olu bekee.
+
+Ufodi state ndi Igbo na Naigeria nọ nke nnuku bu, Ȯra Abia, Ȯra Anambra, Ȯra
+Ebonyi, Ȯra Enugu, ma na Ȯra Imo. Ȯra Delta (Anioma) na Ȯra Rivers.
+
+Site n'otu esi kọwa na nke mbu, na ala Naigeria, ndi Igbo no na Ȯra Abia, Ȯra
+Anambra, Ȯra Ebonyi, Ȯra Enugu na Ȯra Imo. Enwekwara ndi Igbo na Ȯra Delta nakwa
+Ȯra Rivers.
+
+A guba ndi kasi n'onu ogu na Naigeria, ndi Igbo bu ndi nke ato. Dika onu ogu afo
+2007 siri kowa, ndi Awusa weresia, ndi Yoruba ewere, tupu o ruo ndi Igbo.
+Onweghi onye ma ndi Igbo ole bi n'uwa a, maka na ndi Igbo gbasara mba di iche
+iche; na-azu ahia, ma o bu na-agu akwukwo. N'ime Naigeria, ndi Igbo bi na steti
+dum. Ebe ha si pua njem, bu Omambala (nke a kporo Anambra); Abia; Enugwu; Ebonyi
+nakwa Imo.
+
+Ndi Igbo jukwara eju bara a bara na Delta; Rivers, ufodu akuku Ȯra Edo, Ȯra Akwa
+Ibom, Ȯra Cross River, Ȯra Bayelsa nakwa Ȯra Benue. Ebe ndi Igbo gboro kasa
+na-abughi ala nna ha, bu Ȯra Lagos, Ȯra Kano, Ȯra Kaduna na steti dum di na
+Naigeria).
+
+Ndi Igbo bu ndi njem. I ruo obodo di iche iche na Afrịka, Obodo Békè, Amerikạ ma
+o bu Asia, i ga-ahu imilikiti ndi Igbo. Onwere onye agbata obi siri, na obodo
+ndi Igbo anǫghi, abughi ezi obodo. Obodo obuna ndi Igbo nǫ, i fa na-enwe ǫgbakǫ
+ųmų-Igbo. Ǫgbakǫ ndia na-enye aka įfu na ǫmenani Igbo ma ǫdinma ndi-Igbo na-aga
+n'iru.
+
+
+
+https://ig.wikipedia.org/wiki/Naijiria
+
+Naíjíríà (Naigeria, Naịjiria), nke ana kpo Njíkötá Óchíchìiwù Naíjíríà na olu
+bekee, bu otu obodo no n'ime Afrika, Odi n'akuku odida anyanwu Afrika ana-akpo
+West Africa. Obu kwa obodo ndị Igbo, ma ndi Hausa na ndi Yoruba nakwa otutu ndi
+ozo di iche iche. Obodo a na-akpo Republic du Benin no na aka-ekpe Naijiria.
+Chad na Cameroon no kwa n'aka-nri ya. Na elu ya no obodo ana-kpo Niger. Okpuru
+ya ruru ebe mmiri a na-akpobu Bight of Biafra nke a gbanwere Gulf of Guinea di.
+Ebe ahu bukwa ebe mmiri ana-akpo Bight of Biafra di tupu a kpowa ya Bight of
+Bonny. Na 1991, ebugara isi obodo ya n' Abuja. Isi obodo ya dibu na Lagos nke di
+na ndida anyanwu (Western Nigeria). Abuja buzi isi obodo no n'etiti Naijiria.
+
+Akuko mbido Naijiria hiri nne ma dikwa ogologo. Ihe egwuputara n'ala bu ihe na
+egosi ebe mmadu si, gosiri na mmadu bidoro biwe nebe a site na-afo mgbe ochie bu
+9000 BC., Ebe Mmiri a na-akpo River Benue-Benue-Cross River bu ebe echere na ndi
+a na akpo ndi Bantu bi bu,Bantu/Bantu Migrants. Ndi a sitekwara ebea wee gbasaa
+rue n'Etiti Afrika central Africa nakwa ndida Afrika southern Africa n'igwe site
+na 1st millenium BC rue 2nd millenium AD.
+
+1 Ọktoba, N'onwa Oktoba Ọktoba afo nke 1960, ndi bekee bu ndi hapuru ala ha bu
+United Kingdom wee bia na ala ebe ha bidoro kpowa Naijiria, nyeghachiri ndi
+Naijiria ala ha. Naijiria ugbua nweziri ngalaba ochichi okpuru obodo di 36, 36
+states nakwa Isi Obodo- bu Federal Capital Territory- Abuja. Naijiria
+nweghachikwara ochichi a na akpo Demokrasi Democracy n'afo 1999, mgbe ndi Soja
+Military chigoro afo iri na isii. Site n'afo 1966 rue 1999 ndi soja ala Naijiria
+bu ndi na achi Naijiri (ma oburu na ewepu ochichi Shehu Shagari, nke na eteghi
+aka, nke akporosecond repiblic 1979-1983). Ndi Soja a na-eweghara ochichi n'ike.
+Ha chikwara site na coup d'etats/counter-coups site n'afo 1966-1979 na
+1983-1998.
+
+Àtụ:Member states of the African Union Àtụ:D8 nations Àtụ:G15 Àtụ:OPEC Àtụ:OIC
+Àtụ:Community of Sahel-Saharan States Àtụ:Niger-Congo-speaking Àtụ:Commonwealth
+of Nations
+
+
+
+https://ig.wikipedia.org/wiki/%C3%93m%C3%BAm%C3%BA-%C3%B3n%C3%BA%E1%BB%8Dg%E1%BB%A5g%E1%BB%A5
+
+Ọmúmú-ónúọgụgụ (búrú Mathematics na asụsụ bekee) omúmú màkà mà, ụdị, ámá, na ihe
+gbanwe. Ndi ọmúmúónúọgụgụ nà kpàchányá Í lé ihe nṇòmi, màkà Í rütá ihe bụ
+ezíbȯté ihe dị na ùwà. Ọmúmú-ónúọgụgụ dị mkpà Í bì ihe né mé na ùwà; ȯ bụ ihe
+mèrè kà ndi ozor á búghị ndi ọmúmú-ónúọgụgụ na mú ya. Na úbọchị tá, orü di
+ímérímé jịrị ọmúmú-ónúọgụgụ à rü. Orü, obiạ, ọrü-órü, na Í ruu ihe né jí
+ọmúmú-ónúọgụgụ Í rü. Ha na kpó ndi na rü nchéchichè nka onye ọmúmú-ónúọgụgụ
+
+Ọ dị nlụlítá ụkà nke ndi ọmúmú-ónúọgụgụ náa jü màkà ihe ọmúmú-ónúọgụgụ dí kà
+ónúọgụgụ di nà àlà mgbé mádu ánóghị ya. Onye ọmúmú-ónúọgụgụ Benjamin Peirce si
+ọmúmú-ónúọgụgụ bụ "obiạ nke ha nè jị ẹ rü ihe di mkpà". Albert Einstein, nà áká
+ozor, sị na "otụ íwú ọmúmú-ónúọgụgụ kwùrù ihe bu ùwà nke ányí na hü, ọ dígí
+ézíbóté; na mgbe ha gi bu ézíbóté, ha gágị à bụ ihe bu ùwà nke ányí na hü."
+
+
+

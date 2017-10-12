@@ -1,0 +1,145 @@
+https://ik.wikipedia.org/wiki/Wikipedia%3aQargi
+
+Hallo, my name is Anastasiya Lvova, I'm "duty" in Connectivity project. The
+essence of the "Connectivity" project is to study and enhance the coherence of
+Wikipedia, or, in other words, to improve hypertext navigation between articles.
+The project deals with deadends, isolated articles, non-categorized articles,
+transitivity of the category tree, etc.
+
+We want to work with your language version, but we need configured
+MediaWiki:Disambiguationspage for it (with direct links to template namespace
+pages, for example,
+ru:MediaWiki:Disambiguationspage/de:MediaWiki:Disambiguationspage/fr:MediaWiki:D
+isambiguationspage). Is it possible to set it up for our usage?
+
+Dear community. I am writing to you to promote a special wiki called Betawiki.
+This wiki facilitates the localisation (l10n) of the MediaWiki interface. You
+may have changed many messages here to use your language in the interface, but
+if you would log in to for example the Japanese language Wiktionary, you would
+not be able to use the interface as well translated as here. In fact, of 1,762
+messages in the core of MediaWiki, 0.23% of the messages have been translated.
+Betawiki also supports the translation of messages for 126 extensions, with
+2,174 messages. Many of them are used in WMF projects and they are vital for
+understanding the wiki. Currently 0.00% of the WMF extension messages have been
+translated. Translators for over 90 languages contribute their work to MediaWiki
+this way every month.
+
+If you wish to contribute to better support of your language in MediaWiki, as
+well as for many MediaWiki extensions, please visit Betawiki, create an account
+and request translator privileges. You can see the current status of
+localisation of your language on MediaWiki.org and do not forget to get in touch
+with others that may already be working on your language on Betawiki.
+
+If you have any further questions, please let me know on my talk page on
+Betawiki. We will try and assist you as much as possible, for example by
+importing all messages from a local wiki for you to start with, if you so
+desire.
+
+You can also find us on the Freenode IRC network in the channel #mediawiki-i18n
+where we will be happy to help you get started.
+
+Thank you very much for your attention and I do hope to see some of you on
+Betawiki soon! Thanks, Malafaya@Betawiki 17:50, 5 February 2008 (UTC)
+
+Could someone be so kind and move my contribution to your "village pump" and
+also, could someone please add a link to your village pump on meta? Thanks,
+Malafaya@Betawiki 17:50, 5 February 2008 (UTC)
+
+The Wikimedia Foundation recently updated the official Wikipedia globe. We
+realize that a lot of projects have never had a localized logo in their native
+language, so we are making sure that we create logos for every Wikipedia project
+that we have. The only issue is: we can't figure out what should be on your
+localized logo. :-)
+
+Please put the translation on my Meta talk page. Thank you! Cbrown1023
+discussion 00:50, 25 May 2010 (UTC)
+
+The Catalan-speaking world... Want to find out more? From March 16 to April 15
+we will organise the Catalan Culture Challenge, a Wikipedia editing contest in
+which victory will go to those who start and improve the greatest number of
+articles about 50 key figures of Catalan culture. You can take part by creating
+or expanding articles on these people in your native language (or any other one
+you speak). It would be lovely to have you on board. :-)
+
+There is a current discussion on German Wikipedia on a decision of Asaf Bartov,
+Head of WMF Grants and Global South Partnerships, Wikimedia Foundation, who
+rejected a request for funding a proposal from wikipedians from eowiki one year
+ago with the explanation the existence, cultivation, and growth of the Esperanto
+Wikipedia does not advance our educational mission. No one needs free knowledge
+in Esperanto. On meta there has also started a discussion about that decision.
+--Holder (talk) 10:03, 5 Suvluġvik 2014 (UTC)
+
+Hello and sorry for writing in English. Can anyone help me translate a small
+article (2 paragraphs) from English to your language and create the article in
+your wiki? Please, fell free to answer in my talk page in your wiki anytime.
+Thanks! Xaris333 (talk) 23:42, 12 Tiŋŋivik 2014 (UTC)
+
+Paġlagivsi! I hereby put forth discussion on my request to be made an
+administrator for the Iñupiaq Wikipedia, which is seriously out of date, the
+main page especially needs some work. I am not a native speaker but I grew up
+around the language and I'm am learning more every day. Please help me
+revitalize this page by supporting me in gaining administrator rights to this
+page. Quyanaqpak Naulagmi (talk) 00:49, 25 October 2014
+
+Hello, Dear wikipedians. I invite you to edit and improve this article and to
+add information about your and other country.--Kaiyr (talk) 11:45, 31 Nuliaġvik
+2014 (UTC)
+
+You may already have heard about Wikipedia to the Moon: A team of scientists
+called the “PT Scientists” are going to send a space craft to the moon in 2017
+and they want to take Wikipedia along with them. Because Wikipedia is so big, we
+cannot send all of it to the moon. That is why the international
+Wikipedia-community has voted to send all “Featured Articles and Featured Lists“
+from all languages in Wikipedia.
+
+“Featured Articles“ is a category in many language versions of Wikipedia that
+collects the very best articles in that language. Your community does not
+currently have a „Featured Articles“ category. Ideally, we want to take every
+language on Wikipedia to the moon and we also want to take the best articles in
+your language. That is why we would like you to tell us what the very best
+articles in your language are.
+
+Paġlagivsi! I hereby put forth discussion on my request to be made an
+administrator again for the Iñupiaq Wikipedia, which is seriously out of date,
+the main page especially needs some work. I am not a native speaker but I grew
+up around the language and I'm am learning more every day. Please help me
+revitalize this page by supporting me in gaining administrator rights to this
+page. Quyanaqpak --Naulagmi (talk) 10:39, 5 Paniqsiivik 2017 (UTC)
+
+
+
+https://ik.wikipedia.org/wiki/Embassy
+
+The LocalisationUpdate extension is now enabled for all Wikimedia projects. From
+now on new localisations that become available in SVN will become available to
+your project within 24 hours. Your localisations get into SVN from
+translatewiki.net typically within a day and at worst in two days. This is a
+huge improvement from the old practice where the localisations became available
+with new software. This could take weeks, even months.
+
+Local messages have an impact on the performance of our system. It is best when
+messages are as much as possible part of the system messages. In order to remove
+unnecessary duplication, all the messages that have a local localisation and are
+exactly the same as the system message will be removed. What we ask you to do is
+to compare and proof read the messages in translatewiki.net and the local
+messages. You can then either remove local messages when the translatewiki.net
+message is to be preferred or, you can update the message at translatewiki.net.
+
+The best way to answer the first question is to visit the translatewiki.net.
+Change the language to your language, select the “vector” skin and add the
+advanced tool bar in in the preferences and check out the new functionality. And
+make some changes in your user page. When there is a need to improve on the
+localisation, please make the necessary changess . It should update your
+localisation straight away. We would like you to report each issue individually
+at http://meta.wikimedia.org/wiki/Usability_issues .
+
+We would like you to report each issue individually at
+http://meta.wikimedia.org/wiki/Language_issues . The issues you raise will all
+be assessed. It is important to keep each issue separate, because this will make
+it easier to understand the issues and find solutions.
+
+PS This text has been approved by Naoko, Brion and Siebrand. Thanks, GerardM
+08:01, 30 September 2009 (UTC)
+
+
+

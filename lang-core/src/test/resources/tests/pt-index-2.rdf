@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="http://www.wunderblogs.com/protensao/">
+<title>Pró Tensão</title>
+<link>http://www.wunderblogs.com/protensao/</link>
+<description>O Portal Atropo
+</description>
+<dc:language>en-us</dc:language>
+<dc:creator></dc:creator>
+<dc:date>2005-01-04T20:14:33-02:00</dc:date>
+<admin:generatorAgent rdf:resource="http://www.movabletype.org/?v=3.11" />
+
+
+<items>
+<rdf:Seq><rdf:li rdf:resource="http://www.wunderblogs.com/protensao/archives/015126.html" />
+<rdf:li rdf:resource="http://www.wunderblogs.com/protensao/archives/015125.html" />
+<rdf:li rdf:resource="http://www.wunderblogs.com/protensao/archives/015124.html" />
+<rdf:li rdf:resource="http://www.wunderblogs.com/protensao/archives/015123.html" />
+<rdf:li rdf:resource="http://www.wunderblogs.com/protensao/archives/015122.html" />
+<rdf:li rdf:resource="http://www.wunderblogs.com/protensao/archives/015097.html" />
+<rdf:li rdf:resource="http://www.wunderblogs.com/protensao/archives/015096.html" />
+<rdf:li rdf:resource="http://www.wunderblogs.com/protensao/archives/015095.html" />
+<rdf:li rdf:resource="http://www.wunderblogs.com/protensao/archives/015094.html" />
+<rdf:li rdf:resource="http://www.wunderblogs.com/protensao/archives/015093.html" />
+<rdf:li rdf:resource="http://www.wunderblogs.com/protensao/archives/015081.html" />
+<rdf:li rdf:resource="http://www.wunderblogs.com/protensao/archives/015080.html" />
+<rdf:li rdf:resource="http://www.wunderblogs.com/protensao/archives/015079.html" />
+<rdf:li rdf:resource="http://www.wunderblogs.com/protensao/archives/015078.html" />
+<rdf:li rdf:resource="http://www.wunderblogs.com/protensao/archives/015077.html" />
+</rdf:Seq>
+</items>
+
+</channel>
+
+<item rdf:about="http://www.wunderblogs.com/protensao/archives/015126.html">
+<title>PIOR CEGO X</title>
+<link>http://www.wunderblogs.com/protensao/archives/015126.html</link>
+<description>O pior cego é cego cinéfilo. &quot;E aí, e aí, o que foi que ele fez?!&quot;...</description>
+<dc:subject></dc:subject>
+<dc:creator>César Miranda</dc:creator>
+<dc:date>2005-01-04T20:14:33-02:00</dc:date>
+</item>
+<item rdf:about="http://www.wunderblogs.com/protensao/archives/015125.html">
+<title>DERROTAS E VITÓRIAS</title>
+<link>http://www.wunderblogs.com/protensao/archives/015125.html</link>
+<description>Com o final da Segunda Guerra mundial se deu a vitória da democracia e do comunismo soviético ao mesmo tempo. A derrota do comunismo soviético se deu sem guerra nenhuma. Para destruir um país comunista basta deixar que ele continue...</description>
+<dc:subject></dc:subject>
+<dc:creator>César Miranda</dc:creator>
+<dc:date>2005-01-04T20:13:15-02:00</dc:date>
+</item>
+<item rdf:about="http://www.wunderblogs.com/protensao/archives/015124.html">
+<title>OLHOS CAÇADORES</title>
+<link>http://www.wunderblogs.com/protensao/archives/015124.html</link>
+<description>Os olhos caçam o tempo todo um outro olhar que os escute e concorde com o que eles dizem. Os olhos são carentes de aprovação, pois falam muito. Quem dera a boca tivesse a eloqüência deles....</description>
+<dc:subject></dc:subject>
+<dc:creator>César Miranda</dc:creator>
+<dc:date>2005-01-04T20:09:55-02:00</dc:date>
+</item>
+<item rdf:about="http://www.wunderblogs.com/protensao/archives/015123.html">
+<title>LESÕES (RESPEITE AO MENOS MEUS CAMBITOS BRANCOS)</title>
+<link>http://www.wunderblogs.com/protensao/archives/015123.html</link>
+<description>O efeito da cocaína é por causa de uma corrosão no cérebro que torna o sujeito feliz, se achando o máximo por um tempinho. É uma felicidade que passará assim que o bobo se livrar dos efeitos da droga, efeitos...</description>
+<dc:subject></dc:subject>
+<dc:creator>César Miranda</dc:creator>
+<dc:date>2005-01-04T20:02:20-02:00</dc:date>
+</item>
+<item rdf:about="http://www.wunderblogs.com/protensao/archives/015122.html">
+<title>&quot;Vai enrolar outro, Felipe!&quot;*</title>
+<link>http://www.wunderblogs.com/protensao/archives/015122.html</link>
+<description>Esse negócio de eXotérico e eSotérico é uma viadagem como poucas. Quem inventou isto estava mesmo doido para aparecer, só falta vir por aí uma parada do orgulho perenialista. Parece o esquerdismo com sua direita/esquerda, dicotomia até então jamais vista...</description>
+<dc:subject></dc:subject>
+<dc:creator>César Miranda</dc:creator>
+<dc:date>2005-01-04T19:34:32-02:00</dc:date>
+</item>
+<item rdf:about="http://www.wunderblogs.com/protensao/archives/015097.html">
+<title>QUE COISA!</title>
+<link>http://www.wunderblogs.com/protensao/archives/015097.html</link>
+<description>Por que será que a gente esquece tanta palavra menos a palavra &quot;coisa&quot;? &quot;Coisa&quot; é um genérico léxico, um curinga lingüístico, a pura versatilidade semântica. ps - agora mesmo, levei uns dez minutos para escrever este post porque não lembrava...</description>
+<dc:subject></dc:subject>
+<dc:creator>César Miranda</dc:creator>
+<dc:date>2005-01-03T21:11:46-02:00</dc:date>
+</item>
+<item rdf:about="http://www.wunderblogs.com/protensao/archives/015096.html">
+<title>DA MULHER DE ARQUIMEDES:</title>
+<link>http://www.wunderblogs.com/protensao/archives/015096.html</link>
+<description>&quot;Dê-me uma alavanca e abrirei uma lata de cerveja&quot;...</description>
+<dc:subject></dc:subject>
+<dc:creator>César Miranda</dc:creator>
+<dc:date>2005-01-03T21:00:28-02:00</dc:date>
+</item>
+<item rdf:about="http://www.wunderblogs.com/protensao/archives/015095.html">
+<title>SALVEM AS BELELAS (sic) (ou AS BALEIAS de ROBERTO E ERASMO)</title>
+<link>http://www.wunderblogs.com/protensao/archives/015095.html</link>
+<description>Reportagem no último Fantástico conta que algumas espécies de baleia já têm uma população bem grande. Que bela notícia! As baleias, cujo bife dizem que é uma delícia, devem se reproduzir mesmo e atingir uma quantidade razoável a fim de...</description>
+<dc:subject></dc:subject>
+<dc:creator>César Miranda</dc:creator>
+<dc:date>2005-01-03T20:57:28-02:00</dc:date>
+</item>
+<item rdf:about="http://www.wunderblogs.com/protensao/archives/015094.html">
+<title>MAL NO SOCIAL/BOM NO ECONÔMICO</title>
+<link>http://www.wunderblogs.com/protensao/archives/015094.html</link>
+<description>O governo tem surpreendido, pois tem se saído muito bem na área econômica, justamente em um quesito que nunca foi muito bem dominado pela esquerda. Mal mesmo tem sido na área social, sua grande especialidade e luta histórica. É a...</description>
+<dc:subject></dc:subject>
+<dc:creator>César Miranda</dc:creator>
+<dc:date>2005-01-03T20:55:16-02:00</dc:date>
+</item>
+<item rdf:about="http://www.wunderblogs.com/protensao/archives/015093.html">
+<title>MOVIMENTO ABOLICIONISTA</title>
+<link>http://www.wunderblogs.com/protensao/archives/015093.html</link>
+<description>Seria necessário um golpe de Estado - ou algo semelhante - para a abolição do gerúndio? Cadê a Princesa Isabel para &quot;estar assinando&quot; a tal Lei Áurea?...</description>
+<dc:subject></dc:subject>
+<dc:creator>César Miranda</dc:creator>
+<dc:date>2005-01-03T20:51:51-02:00</dc:date>
+</item>
+<item rdf:about="http://www.wunderblogs.com/protensao/archives/015081.html">
+<title>BIBLIOTECAS</title>
+<link>http://www.wunderblogs.com/protensao/archives/015081.html</link>
+<description>Li nos jornais que arquitetos goianos se ressentem da falta de bibliotecas nas casas que projetam. Alguns dizem que a elite goiana é agrária e por isto não lê etc. Imagino que este é um mal da absoluta maioria das...</description>
+<dc:subject></dc:subject>
+<dc:creator>César Miranda</dc:creator>
+<dc:date>2005-01-02T08:48:15-02:00</dc:date>
+</item>
+<item rdf:about="http://www.wunderblogs.com/protensao/archives/015080.html">
+<title>&quot;ALTA ESTIMA&quot;</title>
+<link>http://www.wunderblogs.com/protensao/archives/015080.html</link>
+<description>Se há países que precisam fazer campanha para aumentar a auto-estima são alguns daqueles da Europa. Uma coisa interessante, o nordestino brasileiro é muito mais alto astral do que o sudestino. Talvez fosse uma boa idéia se fizessem uma campanha...</description>
+<dc:subject></dc:subject>
+<dc:creator>César Miranda</dc:creator>
+<dc:date>2005-01-02T08:46:36-02:00</dc:date>
+</item>
+<item rdf:about="http://www.wunderblogs.com/protensao/archives/015079.html">
+<title>TIRANDO O POUCO E DANDO O QUE ABUNDA</title>
+<link>http://www.wunderblogs.com/protensao/archives/015079.html</link>
+<description>O governo segue tirando nossos minguados trocados para gastar em campanha para aumentar a auto-estima do povo mais bonito e feliz por natureza. O brasileiro precisa é de dinheiro, auto-estima ele sempre teve (até demais, além da conta, não precisava...</description>
+<dc:subject></dc:subject>
+<dc:creator>César Miranda</dc:creator>
+<dc:date>2005-01-02T08:42:54-02:00</dc:date>
+</item>
+<item rdf:about="http://www.wunderblogs.com/protensao/archives/015078.html">
+<title>TIRAMISSU NA ÁSIA 2</title>
+<link>http://www.wunderblogs.com/protensao/archives/015078.html</link>
+<description>Não liguem para os mortos, eles não falam com vivos. Preocupem-se com os vivos, as verdadeiras vítimas do tiramissu estragado. Agora, mandem escavadeiras para enterrar os milhares de mortos. Mandem outras coisas depois. Cobertores não precisa mandar, por Deus, lá...</description>
+<dc:subject></dc:subject>
+<dc:creator>César Miranda</dc:creator>
+<dc:date>2005-01-02T08:41:52-02:00</dc:date>
+</item>
+<item rdf:about="http://www.wunderblogs.com/protensao/archives/015077.html">
+<title>ÓDIO</title>
+<link>http://www.wunderblogs.com/protensao/archives/015077.html</link>
+<description>Ódio emburrece. Há hoje no mundo um crescente ódio ao povo americano, personificado em Bush Jr. O sujeito odeia o Bush Jr. (até agora ninguém me explicou por que exatamente, mas desconfio que seja por que desconfiam que ele ganhou...</description>
+<dc:subject></dc:subject>
+<dc:creator>César Miranda</dc:creator>
+<dc:date>2005-01-02T08:37:01-02:00</dc:date>
+</item>
+
+
+</rdf:RDF>

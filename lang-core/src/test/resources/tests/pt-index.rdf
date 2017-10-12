@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:admin="http://webns.net/mvcb/"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="http://www.fezocasblurbs.com/">
+<title>Fezoca&apos;s Blurbs</title>
+<link>http://www.fezocasblurbs.com/</link>
+<description>... from the land of california.</description>
+<dc:language>en-us</dc:language>
+<dc:creator></dc:creator>
+<dc:date>2005-01-04T16:18:42-08:00</dc:date>
+<admin:generatorAgent rdf:resource="http://www.movabletype.org/?v=2.661" />
+
+
+<items>
+<rdf:Seq><rdf:li rdf:resource="http://www.fezocasblurbs.com/archives/002689.html" />
+<rdf:li rdf:resource="http://www.fezocasblurbs.com/archives/002687.html" />
+<rdf:li rdf:resource="http://www.fezocasblurbs.com/archives/002686.html" />
+<rdf:li rdf:resource="http://www.fezocasblurbs.com/archives/002685.html" />
+<rdf:li rdf:resource="http://www.fezocasblurbs.com/archives/002683.html" />
+<rdf:li rdf:resource="http://www.fezocasblurbs.com/archives/002657.html" />
+<rdf:li rdf:resource="http://www.fezocasblurbs.com/archives/002656.html" />
+<rdf:li rdf:resource="http://www.fezocasblurbs.com/archives/002655.html" />
+<rdf:li rdf:resource="http://www.fezocasblurbs.com/archives/002654.html" />
+<rdf:li rdf:resource="http://www.fezocasblurbs.com/archives/002650.html" />
+<rdf:li rdf:resource="http://www.fezocasblurbs.com/archives/002649.html" />
+<rdf:li rdf:resource="http://www.fezocasblurbs.com/archives/002645.html" />
+<rdf:li rdf:resource="http://www.fezocasblurbs.com/archives/002646.html" />
+<rdf:li rdf:resource="http://www.fezocasblurbs.com/archives/002635.html" />
+<rdf:li rdf:resource="http://www.fezocasblurbs.com/archives/002633.html" />
+</rdf:Seq>
+</items>
+
+</channel>
+
+<item rdf:about="http://www.fezocasblurbs.com/archives/002689.html">
+<title>papo aranha</title>
+<link>http://www.fezocasblurbs.com/archives/002689.html</link>
+<description>Minha casa fica numa vila construída pela Universidade da Califórnia ao lado do campus. É bem conveniente, já que quase todos os moradores das casas coloridas são professores da instituição. Nossos vizinhos fazem parte da elite intelectual, os cabeções, da...</description>
+<dc:subject></dc:subject>
+<dc:creator>Fer Guimaraes Rosa</dc:creator>
+<dc:date>2005-01-04T16:18:42-08:00</dc:date>
+</item>
+<item rdf:about="http://www.fezocasblurbs.com/archives/002687.html">
+<title>uma lista de filmes</title>
+<link>http://www.fezocasblurbs.com/archives/002687.html</link>
+<description>Será que eu consigo lembrar alguns dos filmes que andei vendo nos últimos dias do ano e início do novo? Me perco no atolado de filmes que vejo e revejo quase todos os dias. No dia de Natal, assistimos Notting...</description>
+<dc:subject></dc:subject>
+<dc:creator>Fer Guimaraes Rosa</dc:creator>
+<dc:date>2005-01-03T20:08:21-08:00</dc:date>
+</item>
+<item rdf:about="http://www.fezocasblurbs.com/archives/002686.html">
+<title>branco</title>
+<link>http://www.fezocasblurbs.com/archives/002686.html</link>
+<description> todo ano, tulipas brancas para o reveillon......</description>
+<dc:subject></dc:subject>
+<dc:creator>Fer Guimaraes Rosa</dc:creator>
+<dc:date>2005-01-02T11:37:33-08:00</dc:date>
+</item>
+<item rdf:about="http://www.fezocasblurbs.com/archives/002685.html">
+<title>23</title>
+<link>http://www.fezocasblurbs.com/archives/002685.html</link>
+<description>Eu sou bem tradicional nessas coisas de relembrar datas e celebrar dias especiais. Todo dia dois de janeiro eu tento comemorar, mesmo sendo um dia típico de ressaca, porque foi neste mesmo dia, quando todos estavam empanturrados da comilança e...</description>
+<dc:subject></dc:subject>
+<dc:creator>Fer Guimaraes Rosa</dc:creator>
+<dc:date>2005-01-02T11:04:19-08:00</dc:date>
+</item>
+<item rdf:about="http://www.fezocasblurbs.com/archives/002683.html">
+<title>bom dia, 2005!</title>
+<link>http://www.fezocasblurbs.com/archives/002683.html</link>
+<description>A cozinha está uma bagunça, a cabeça dói um pouquinho por causa do vinho, mas estou de bom humor, o céu está azul, a casa está quentinha, os gatos estão de barriga cheia, o Urso está dormindo até mais tarde,...</description>
+<dc:subject></dc:subject>
+<dc:creator>Fer Guimaraes Rosa</dc:creator>
+<dc:date>2005-01-01T09:33:35-08:00</dc:date>
+</item>
+<item rdf:about="http://www.fezocasblurbs.com/archives/002657.html">
+<title>o ano em fotos</title>
+<link>http://www.fezocasblurbs.com/archives/002657.html</link>
+<description></description>
+<dc:subject></dc:subject>
+<dc:creator>Fer Guimaraes Rosa</dc:creator>
+<dc:date>2004-12-31T09:02:34-08:00</dc:date>
+</item>
+<item rdf:about="http://www.fezocasblurbs.com/archives/002656.html">
+<title>que 2005 seja....</title>
+<link>http://www.fezocasblurbs.com/archives/002656.html</link>
+<description>.... um ano MARAVILHOSO para todos nós! Vamos lá então, com o pé direito, brindando, com um sorriso, Feliz Ano Novo!!...</description>
+<dc:subject></dc:subject>
+<dc:creator>Fer Guimaraes Rosa</dc:creator>
+<dc:date>2004-12-31T08:57:47-08:00</dc:date>
+</item>
+<item rdf:about="http://www.fezocasblurbs.com/archives/002655.html">
+<title>how to..</title>
+<link>http://www.fezocasblurbs.com/archives/002655.html</link>
+<description><![CDATA[ &raquo; um dos meus presentes de Natal pro Ursão foi este livro, que eu achei interessantíssimo e divertidíssimo: How to Mow the Lawn - The Lost Art of Being a Man. nos capítulos, além de explicações detalhadíssimas de como...]]></description>
+<dc:subject></dc:subject>
+<dc:creator>Fer Guimaraes Rosa</dc:creator>
+<dc:date>2004-12-30T09:22:08-08:00</dc:date>
+</item>
+<item rdf:about="http://www.fezocasblurbs.com/archives/002654.html">
+<title>somebody smells really gooooood!</title>
+<link>http://www.fezocasblurbs.com/archives/002654.html</link>
+<description>Eu tenho mania de banho. Deve ter gente que ache isso estranho - tomar muitos banhos. Pra mim é normal. São dois por dia, todo dia, no mínimo. É relaxante, é confortante, é bom pra criar, pensar, refletir e meditar...</description>
+<dc:subject></dc:subject>
+<dc:creator>Fer Guimaraes Rosa</dc:creator>
+<dc:date>2004-12-29T21:36:32-08:00</dc:date>
+</item>
+<item rdf:about="http://www.fezocasblurbs.com/archives/002650.html">
+<title>chove sem parar</title>
+<link>http://www.fezocasblurbs.com/archives/002650.html</link>
+<description></description>
+<dc:subject></dc:subject>
+<dc:creator>Fer Guimaraes Rosa</dc:creator>
+<dc:date>2004-12-28T10:15:34-08:00</dc:date>
+</item>
+<item rdf:about="http://www.fezocasblurbs.com/archives/002649.html">
+<title>contagem regressiva</title>
+<link>http://www.fezocasblurbs.com/archives/002649.html</link>
+<description>Todo ano é a mesma coisa. Eu fico com um faniquito nos últimos dias, tentando me organizar, como se isso fosse realmente fazer alguma diferença no decorrer do Ano Novo. Mas é assim que eu sou... ainda não consegui mudar...</description>
+<dc:subject></dc:subject>
+<dc:creator>Fer Guimaraes Rosa</dc:creator>
+<dc:date>2004-12-28T09:45:00-08:00</dc:date>
+</item>
+<item rdf:about="http://www.fezocasblurbs.com/archives/002645.html">
+<title>a very warm christmas</title>
+<link>http://www.fezocasblurbs.com/archives/002645.html</link>
+<description><![CDATA[ &raquo; Pismo Beach...]]></description>
+<dc:subject></dc:subject>
+<dc:creator>Fer Guimaraes Rosa</dc:creator>
+<dc:date>2004-12-27T10:27:55-08:00</dc:date>
+</item>
+<item rdf:about="http://www.fezocasblurbs.com/archives/002646.html">
+<title>é recíproco!</title>
+<link>http://www.fezocasblurbs.com/archives/002646.html</link>
+<description>Obrigada à todos que enviaram votos de Feliz Natal, pelo blog ou por e-mail. Fiquei contentona com tantas mensagens bacanas. Espero que o Natal de vocês tenha sido ótimo. O nosso foi bem alegre e tranqüilo, com um céu azul...</description>
+<dc:subject></dc:subject>
+<dc:creator>Fer Guimaraes Rosa</dc:creator>
+<dc:date>2004-12-27T09:35:12-08:00</dc:date>
+</item>
+<item rdf:about="http://www.fezocasblurbs.com/archives/002635.html">
+<title>Feliz, Feliz!</title>
+<link>http://www.fezocasblurbs.com/archives/002635.html</link>
+<description></description>
+<dc:subject></dc:subject>
+<dc:creator>Fer Guimaraes Rosa</dc:creator>
+<dc:date>2004-12-23T09:06:31-08:00</dc:date>
+</item>
+<item rdf:about="http://www.fezocasblurbs.com/archives/002633.html">
+<title>detalhes pré-natalinos</title>
+<link>http://www.fezocasblurbs.com/archives/002633.html</link>
+<description>Eu achava que estava com tudo pronto: presentes comprados, feitos e embrulhados. No final tive que ajudar o Ursão a comprar os presentes dele [e pelo jeito vou ter que embrulhar.... coisa que eu detesto fazer!] e fui inventar de...</description>
+<dc:subject></dc:subject>
+<dc:creator>Fer Guimaraes Rosa</dc:creator>
+<dc:date>2004-12-22T09:21:21-08:00</dc:date>
+</item>
+
+
+</rdf:RDF>

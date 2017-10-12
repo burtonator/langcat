@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+xmlns:admin="http://webns.net/mvcb/"
+xmlns:cc="http://web.resource.org/cc/"
+xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="http://blog.cnblog.org/">
+<title>CNBlog: Blog on Blog</title>
+<link>http://blog.cnblog.org/</link>
+<description>中国还不是一个善于书写的国度，而Blog的出现...</description>
+<dc:creator></dc:creator>
+<dc:date>2005-01-05T22:55:04+08:00</dc:date>
+<admin:generatorAgent rdf:resource="http://www.movabletype.org/?v=3.14" />
+
+
+<items>
+<rdf:Seq><rdf:li rdf:resource="http://blog.cnblog.org/archives/2005/01/ecec.html" />
+<rdf:li rdf:resource="http://blog.cnblog.org/archives/2005/01/aece.html" />
+<rdf:li rdf:resource="http://blog.cnblog.org/archives/2005/01/abcaaeaeceaaeci.html" />
+<rdf:li rdf:resource="http://blog.cnblog.org/archives/2005/01/eciecnblogeeeec_1.html" />
+<rdf:li rdf:resource="http://blog.cnblog.org/archives/2004/12/aeeaecc.html" />
+<rdf:li rdf:resource="http://blog.cnblog.org/archives/2004/12/aecaece.html" />
+<rdf:li rdf:resource="http://blog.cnblog.org/archives/2004/12/aeblogaecec.html" />
+<rdf:li rdf:resource="http://blog.cnblog.org/archives/2004/12/eecaececc.html" />
+<rdf:li rdf:resource="http://blog.cnblog.org/archives/2004/12/grasslandceeccr.html" />
+<rdf:li rdf:resource="http://blog.cnblog.org/archives/2004/12/grassland.html" />
+<rdf:li rdf:resource="http://blog.cnblog.org/archives/2004/12/eciecnblogeeeec.html" />
+<rdf:li rdf:resource="http://blog.cnblog.org/archives/2004/12/2004ieeaeecaeec.html" />
+<rdf:li rdf:resource="http://blog.cnblog.org/archives/2004/12/aeblogccceaeutf.html" />
+<rdf:li rdf:resource="http://blog.cnblog.org/archives/2004/12/auoablogaeeanca.html" />
+<rdf:li rdf:resource="http://blog.cnblog.org/archives/2004/12/ouauoieeooe.html" />
+</rdf:Seq>
+</items>
+
+</channel>
+
+<item rdf:about="http://blog.cnblog.org/archives/2005/01/ecec.html">
+<title>部分省市捐助地震和海啸灾民方式</title>
+<link>http://blog.cnblog.org/archives/2005/01/ecec.html</link>
+<description>双叶那里通告过来的的网志“sos！请帮助地震和海啸灾民＋部分省市捐助方式” 下面这些由双叶收集（没找到授权方式，如果转载不妥，请双叶告知） 江苏：省红十字会地址：南京市中央路42号；接收捐赠电话：57717090；接收捐赠账户：中国光大银行南京中北支行，捐赠账号：077340100304014063。 桂林市红十字会2832746、2820848。桂林市红十字会（博爱基金）账户：205101040003153 北京市接收救灾捐赠事务管理中心电话：63562755或63562723 浙江：0571—87074413、0571—87022650、0571—87022650或传真0571—87080337与省民政厅§省慈善总会捐赠热线0571—87069844、0571—87912650。银行汇款开户单位：浙江省慈善总会，开户银行：农业银行杭州延安路支行湖滨分理处，银行账号：03321—036301040000218。 杭州市慈善总会热线电话85064343。银行汇款开户单位：杭州市慈善总会，开户行：工商银行凤起路支行，账号：1202022509014400732（杭州市慈善总会地址：直戒坛寺巷20号军供宾馆3楼）。 杭州市红十字会地址：杭州孝女路2号4楼，电话：87083005，87061230，87037480。账户：杭州市红十字会备灾救灾募捐专项基金。开户银行：杭州市商业银行浣纱支行。账号：78602011323126。 　广东省红十字会接受捐赠账号：3602010709000314124 帐户名称：广东省红十字会，开户银行：中国工商银行广州市东风东路办事处，捐赠联系：广东省红十字会社会赈济部；电话（传真）：020-83770009；地址：广州市先烈南路17号大院；邮编：510060（暂不接受物资捐助） 河南：红十字会开户行：交行纬中支，账号：6022015601739，单位：河南省红十字会，写明捐款人地址和汇款意向。 募捐电话为：0371－5944750 　郑州市红十字会的汇款方式为：收款人：郑州市财政局收款专户，账号：6040160011709，开户行：交行百支，单位：郑州市红十字会，写明捐款人地址和汇款意向。 市红十字会募捐电话为：0371－7170099。 河南省民政厅，账户为河南省民政厅，开户行为河南省农业银行直属支行经四路分理处，账号为３９１２８０１１０２８１６，电话为０３７１－５９４１１９２、５９０６５６０ 大连市红十字会：82643883 沈阳：沈阳市红十字会，中国工商银行中山广场支行，账号为：33010034092640405——37。咨询电话：024—22510883 ------------------ 另，凤凰慈善基金和中国红十字总会的帐号参看前面的日志。 福建地区的捐赠方式： 救助专用账户名称：福建省红十字会博爱工程基金；开户银行：中国银行福州鼓屏支行；账号：811100486508094001；救灾捐赠热线和咨询电话：0591—87841804、0591—87841850,传真：0591—87835854；省红十字会网络网站：www.fjredcross.org.cn。...</description>
+<dc:subject></dc:subject>
+<dc:creator>zheng</dc:creator>
+<dc:date>2005-01-05T22:55:04+08:00</dc:date>
+</item>
+<item rdf:about="http://blog.cnblog.org/archives/2005/01/aece.html">
+<title>博客们的趋势</title>
+<link>http://blog.cnblog.org/archives/2005/01/aece.html</link>
+<description>去年提到“三大掌门西湖论博”，有人说俺话里带酸，害得我感觉特对不起这三掌门。今儿个看到“2005年博客发展趋势研讨会”，这种感觉更是强烈：他们那只是玩家家，这里好些是翻云覆雨的大巫。 大巫博论天下，自然更是厉害了。不过我弄不明白，直说趋势就是提供博客服务能够赚大钱好了，干么九曲十八弯的牵扯什么媒体、门户之类的。 听说博客动力和博客中国合并，卢掌门作了二把手，恭喜恭喜，不知道那些好玩的bosoo、牛啦是否也一并赠送了？ 呵呵，新年新事，记之。...</description>
+<dc:subject>Blogosphere</dc:subject>
+<dc:creator>zheng</dc:creator>
+<dc:date>2005-01-05T21:46:12+08:00</dc:date>
+</item>
+<item rdf:about="http://blog.cnblog.org/archives/2005/01/abcaaeaeceaaeci.html">
+<title>ABC“今晚世界新闻”年度人物：Bloggers</title>
+<link>http://blog.cnblog.org/archives/2005/01/abcaaeaeceaaeci.html</link>
+<description>“新的互联网现象，提供了了解人们内心思想的独特方式”，这是ABC新闻网“今晚世界新闻”节目给网志（Blog）的评价，并将写网志的群体(Bloggers)选为年度人物（从这个节目每周人物中甄选出来的最终结果），这是Blogger这个亚文化群体在主流媒体上首次获得此称号，同时当选的还有Google团队等。 海啸灾难中，网志所发挥的第一手新闻资料作用已经被人们深刻认知，还不算那些相互反响的爱心召唤。“我们既即媒体”(We the media)如何渐成社会范式，一个传统媒体的年度新闻人物哪里足以概括之？正如Boingboing.net的Xeni所说，“会有网志覆盖每个领域，会有网志覆盖任何兴趣”。 p.s. &quot;Report: Big boost for blogs in 2004&quot;(CNET), Pew的最新报告称美国有3200万网络用户阅读网志，而写网志的人达到了800万（成年人？）。有兴趣的人可以深入研究这份报告。...</description>
+<dc:subject>Blogosphere</dc:subject>
+<dc:creator>Isaac</dc:creator>
+<dc:date>2005-01-03T23:02:53+08:00</dc:date>
+</item>
+<item rdf:about="http://blog.cnblog.org/archives/2005/01/eciecnblogeeeec_1.html">
+<title>谈网志（CNBlog语音访谈系列之三）--- 采访Nephee</title>
+<link>http://blog.cnblog.org/archives/2005/01/eciecnblogeeeec_1.html</link>
+<description>MP3（此音频文件采取“创作共用”协议:署名-非商业化-禁止派生。） “只有&apos;闲人&apos;才有时间去Blogging” -- Nephee “目前来说，我不知道是否所有人都会成为Blogger，但是我知道有一些人肯定不会成为Blogger”-- Nephee Nephee的网志Nephee的音乐网志Nephee的照片网志爱听《那些花儿》的Nephee有自己一个非常固定的读者圈，出自中文系的她有文字、照片和音乐三个网志，她没有将几个网志合并为一个，正是为了要突出文字表达的主体特殊性。她也关注阅读者的反馈，但是更相信“你把文字发出去了，你的工作已经完成了，下面的解读是交给读者的”，她甚至觉得现在的读者太多了。 Nephee的网志是自己一手搭建过来的，她得意于这是一个很好的学习过程，是真正的按需学习(Learning on Demand)。她也非常感谢这个过程中一些人对她的帮助（例如, number5)。一段时间，她还曾经和几个志同道合的Blogger一起策划一个项目，帮助那些新的Blogger建立自己独立的网志站点，从注册域名到稳定的空间，以及先进的网志工具，等等。当然这个计划最后因为相隔太远而无法一直执行下去，但至今我仍然觉得这是一个雄心勃勃的好计划。 从Nephee的网志和写网志的经历中可以看到很多典型的女性Blogger的共有特征：关注自我的心理活动、不张扬，有自己陶醉的乐趣，还会巧妙地保护自己。国内虽然还少一些Meg Hourihan这样的Blog先锋，也还不多Rebecca Mackinnon这样跳出传统媒体的Blogger，更不多见 Misbehaving上那些不让须眉的技术女性，但是这片网志文化土壤中也同样不少见有特色的女性Blogger。我赞同Nephee的话，60多万中文Blogger中，女性Blogger应当不在少数。 录音之前的随意交谈中，还有一个值得关注的地方：Nephee曾经和广州的一些Blogger，例如topku, nubmer5等有过见面会(meetup)，但是此后并没有太多这样的活动。国外的Blogger公开碰头会似乎很多，占据了Meetup.com的很大篇幅，国内的类似活动不多。是虚拟与真实的距离，还是个人与社会的距离？ * 题花音乐：Still Dreaming, 创作者Madi Simmons（“创作共用”协议） 前次语音网志：采访车东...</description>
+<dc:subject>Talk Blog</dc:subject>
+<dc:creator>Isaac</dc:creator>
+<dc:date>2005-01-02T21:05:38+08:00</dc:date>
+</item>
+<item rdf:about="http://blog.cnblog.org/archives/2004/12/aeeaecc.html">
+<title>串联我们的爱心</title>
+<link>http://blog.cnblog.org/archives/2004/12/aeeaecc.html</link>
+<description> 巨大灾难的降临让全世界的人都揪起了心，友善的人们都伸出了自己的双手，来救助那些不幸的人们。台湾的東南亞地震、海嘯援助Blog这样说到：“同樣屬於地球村的一份子，當其他村民遭遇到史上如此大的災難時，請展現我們的關懷與鼓勵。” 明天我们学校就有募捐的活动，我一定会参加。但今晚我忙了半天，只想让大家看看我们中文Blog圈子的表现。我的RSS聚合器里500多个Blog，中文的Blog大概有两百多个。这几天，我不断读到他们写的关于地震、海啸的文章。大多数文章虽然不长，可都展现了我们小小的一点爱心。于是，我把我读到的这些blog列在这里，再用Traceback把它们串联起来。 虽然这么做对于灾民并没有太多实际的作用，但我只是想表明我的一种态度。最后，希望大家都会去捐助一下。（在中文和英文的维基百科里有中国和各国相关援救机构的联系方式） 12月27日 Klogs:印度洋地震、海啸后的Blog圈和Wiki百科 Traceback: http://www.klogs.org/cgi-bin/mt-tb.cgi/117 Isaac Mao:灾难、草根和媒体 Traceback: http://haloscan.com/tb/isaacmao/1398 12月28日 東南亞地震、海嘯援助Blog:我們對於本次災難的關懷 Traceback: http://cgi.blog.roodo.com/trackback/1278 Klogs:Flickr上手护东南亚、南亚 Traceback: http://www.klogs.org/cgi-bin/mt-tb.cgi/119 Schee.info:急難時刻和部落圈 Traceback: http://blog.schee.info/archives/2004/12/28/1658/trackback/ Schee.info:我們共同擁有的手 Traceback: http://blog.schee.info/archives/2004/12/28/1660/trackback/ flyisland:生命无常 中国数字部落:海啸和灾难Blog Calon&apos;s Silent Free Solo:Tsunami 游园惊梦之博客:短札——人类的灾难 12月29日 Isaac Mao:填堵 Traceback: http://haloscan.com/tb/isaacmao/1400 费乐沃:All Together Now...</description>
+<dc:subject>Blogosphere</dc:subject>
+<dc:creator>mountain</dc:creator>
+<dc:date>2004-12-31T02:28:50+08:00</dc:date>
+</item>
+<item rdf:about="http://blog.cnblog.org/archives/2004/12/aecaece.html">
+<title>为印度洋海啸受灾民众的捐助途径</title>
+<link>http://blog.cnblog.org/archives/2004/12/aecaece.html</link>
+<description> Helpless but hopeful Originally uploaded by Foutugraphe. 这里只列我所知的人民币捐助通道，欢迎补充。 凤凰慈善基金 中国红十字总会 捐款帐号请自己到上面两个页面查看。 红十字总会提供了电话供咨询：010-65139999 更新：北京市民可以到捐款救助海啸灾区，捐助咨询电话：96156。[来源：射木] （请传播）...</description>
+<dc:subject></dc:subject>
+<dc:creator>zheng</dc:creator>
+<dc:date>2004-12-30T21:18:21+08:00</dc:date>
+</item>
+<item rdf:about="http://blog.cnblog.org/archives/2004/12/aeblogaecec.html">
+<title>中文blog圈对于印度洋海啸灾难的反应</title>
+<link>http://blog.cnblog.org/archives/2004/12/aeblogaecec.html</link>
+<description><![CDATA[面对这场大灾难，中文blog圈的反应也越来越多。开始还只是做一些相关的介绍，诸如Zheng介绍了Flickr上手护东南亚，schee的系列介绍，海边的贝壳对wikipedia上相关文章的介绍。 现在则已经到了行动阶段：台湾blogger已经建立了一个专门的blog来提供各种信息和帮助——東南亞強震、海嘯援助Blog。 如果你也有blog，请使用下面的图标和代码来连接“東南亞強震、海嘯援助Blog”，以便把消息更快、更广泛的传播出去。 &lt;a href="http://blog.roodo.com/tsunamihelp/"&gt;&lt;img border="0" src="http://blog.roodo.com/tsunamihelp/e56650bd.png" alt="海嘯援助串連"&gt;&lt;/a&gt; 请尽量发挥blog的力量吧。...]]></description>
+<dc:subject>网志大家说</dc:subject>
+<dc:creator>shizhao</dc:creator>
+<dc:date>2004-12-30T20:20:39+08:00</dc:date>
+</item>
+<item rdf:about="http://blog.cnblog.org/archives/2004/12/eecaececc.html">
+<title>在道德制高点上光着屁股的康先生</title>
+<link>http://blog.cnblog.org/archives/2004/12/eecaececc.html</link>
+<description> 博客中国的几天前发表了一篇文字，“也谈博客和blog之争”，作者康国平先生通篇满嘴都是“道德”二字，看上去口喷莲花，非常壮观。不得不点评一下。 比如有人用博客中国的logo做了一个禁止的标志，说是抵制“博客”两个字，这明显违背了商业准则，甚至道德准则。 可是康先生却没说哪条商业准则和道德准则被违背了，也没说明显在哪里，就一口咬定在“博客中国”标志上打个叉就是违背商业准则和道德准则了。没经过证明便跳到结论，诛心之论暂且不谈，这种思路的后果比较危险，因为如此一来，把美女照片上往嘴上一按就可以算是非礼良家妇女按治安管理处罚条例处理了。 同时，康先生的迫不及待也呼之欲出，想要占领道德制高点也不要这么猴急么，慢慢来，没人跟你抢。 博客中国的标志，仅仅是代表博客中国的网站，而不是其他（博客、blog、网志、部落、部落客、部落格等），一些人假借“博客”两个字不利于传播，来抵制“博客”两个字，其目的，我看还是期望抵制博客中国的发展。 既然康先生文中申明了“博客”一词是博客中国搞出来的，而“博客”一词语义混乱误人子弟，要批评当然是博客中国。如果去批评“博客动力”或者“中国博客网”等，那才是不道德。而吹嘘的时候只夸博客中国，挨骂了就要拉其他人下水，扮作受害者的却又只是博客中国，那也是不厚道。 个人觉得发起这个事件的毛向辉比较气量窄，自己不好好把blog事业搞好，反而挑头从道德上对别人进行攻击，实在看不出他如何带领中国的blogger如何走。 别人说自己不是博客就觉得是气量窄，康先生是不是觉得只有博客中国说什么大家就跟着说什么，这气量才算大呢？要是有人不附和，道德制高点上的康先生就要就每每附下身子婉转地旁敲侧击：“我个人觉得你比较气量窄”。为什么要如此婉转呢？因为要是直接地说出来，那谁的气量窄就很明白了嘛。 另外，不论中国的还是外国的blogger们，都不需要谁来带领。这一点对习惯于高高在上的康先生可能还不大习惯，但是务必要搞清楚。带领别人可能是你所追求和向往的，但不要把自己的欲望强加给别人。 博客中国还曾因转载了很多朋友的文章没有加上详细的出处链接而受人污蔑，说这是中国最无耻的网站。我不知道他们这些人是不是在中国，中国哪个商业网站转载的时候，把原文链接都给详详细细地给链在了网上？ 首先这段话里康同志坦然承认了博客中国转载不加链接出处的事实与错误，承认错误就是迈向纠正错误的第一步，值得认可，表扬，和鼓励。但是，要批评的是这话的意思明摆着就是说，别人当得婊子，我为什么当不得。其实没什么当不得啊。但既然你选择了加入了婊子们的行列，那大家说你是人尽可夫很合理么。 说到这，抬头仰望，希望康先生还坚持着，于是很想送他一面旗子好让康先生继续撑着，上书：“我是婊子，我要立牌坊”。 还有一段时间，有人在攻击博客中国缺少草根性，太以精英自居了。我们又推出了博客论坛，论坛总该有草根性了吧。 博客中国的确以精英自居了。承认了就好嘛，扭扭捏捏地憋了这么久挺难受的，是吧。现在终于明明白白地指出：草根们，论坛才是你们该去的地方，赏个论坛给你们该满足了，博客还是属于像康先生这样的精英们的。 说得多透彻多明白。 说明白了就好。 好让大家看清楚在道德制高点上光着屁股是个什么样。...</description>
+<dc:subject>Blogosphere</dc:subject>
+<dc:creator>Yining</dc:creator>
+<dc:date>2004-12-28T03:03:29+08:00</dc:date>
+</item>
+<item rdf:about="http://blog.cnblog.org/archives/2004/12/grasslandceeccr.html">
+<title>gRaSSland提供搜索结果的RSS 2.0订阅服务</title>
+<link>http://blog.cnblog.org/archives/2004/12/grasslandceeccr.html</link>
+<description><![CDATA[<a href="http://www.chedong.com/grassland/">修正了RSS输出</a>的模板问题后，目前rss 2.0的输出已经基本正常：MagpieRSS解析没有问题。
+
+我已经在自己网站上订阅了： <a href="http://grassland.cnblog.org/search?dir=blog&q=%E6%B5%B7%E5%95%B8%7C%E5%9C%B0%E9%9C%87+%E5%8D%B0%E5%BA%A6%E6%B4%8B&start=0&num=10&index=FullIndex&outputFormat=html&encoding=utf-8&orderStyle=DocID">海啸|地震 印度洋的相关消息</a>。]]></description>
+<dc:subject>BlogOnBlog</dc:subject>
+<dc:creator>chedong</dc:creator>
+<dc:date>2004-12-27T23:18:39+08:00</dc:date>
+</item>
+<item rdf:about="http://blog.cnblog.org/archives/2004/12/grassland.html">
+<title>gRaSSland恢复后台RSS抓取更新</title>
+<link>http://blog.cnblog.org/archives/2004/12/grassland.html</link>
+<description><![CDATA[2004-12-27日：<a href="http://grassland.cnblog.org">gRaSSland 搜索服务</a>恢复后台RSS抓取更新。
+
+后台通过一组PHP脚本（<a href="mailto:http://magpierss.sourceforge.net">基于MagpieRSS</a>）每个小时对同步一次RSS数据源，每4个小时更新一次索引，将新抓取到的数据更新到索引中。
+
+相关抓取脚本可以从：<a href="http://sourceforge.net/projects/weblucene/">WebLucene项目的CVS中</a>得到。
+
+后台数据源列表如下：]]></description>
+<dc:subject>AboutCNBlog</dc:subject>
+<dc:creator>chedong</dc:creator>
+<dc:date>2004-12-27T15:44:52+08:00</dc:date>
+</item>
+<item rdf:about="http://blog.cnblog.org/archives/2004/12/eciecnblogeeeec.html">
+<title>谈网志（CNBlog语音访谈系列之二）--- 采访车东</title>
+<link>http://blog.cnblog.org/archives/2004/12/eciecnblogeeeec.html</link>
+<description>MP3（此音频文件采取“创作共用”协议:署名-非商业化-禁止派生。） “我觉得从文化上推广Blog，不如从技术上做更多事情。”--车东 “Ego Surfing是一种正常的需要”--车东 车东的主页车东的Blog车东父亲的Blog这次的采访对象是车东（Che Dong），他的网志大概阅读者更多是国内研究和开发搜索技术的技术人员。我和有技术背景的Blogger谈话总是视为学习机会，他不但告诉我搜索引擎和网志的关系（相互促进），还告诉我他本来所学的专业（环境工程）和网络空间可持续发展的内在联系。车东成功地把自己的父亲变成了一个Blogger，这更是我要努力的地方。:) 他最近刚刚把自己的个人主页改成了一个个性化的网志（RSS）聚合器，估计此篇内容也很快会自动出现在他的主页上。他自己期望个人网志最终能够分布化，让每个用户有更大的自主能力，而不至于依赖于中央化的服务。目前车东正在努力建立一个示范性的RSS搜索引擎，能够集成他所研究的全文检索技术，以及能够反映中文网志空间的动态变化和第一时间的热点内容，我们有理由期待。 车东承认自己是一个搜索引擎技术的受益者，无论从自己的工作还是学习上，他本人都是一个成功的技术应用案例。因此他也非常希望回报，用同样的方法来帮助更多人，这也是无法从简单的文字或谈话中所发现的个人素质。 需要说明一点，采访的对象绝对不是限于cnblog的邀请作者，这两次只是碰巧而已。采访名单正在不断增长，对留言/写信来推荐的采访对象，我一定认真对待。或者不妨直接帮助我介绍认识那些有特色的Blogger，请务必首先提及他们的网志，让我提前学习准备。其实这次车东提出了一个很好的建议，那就是这种Talk Blog的形式人人都可以采用。 （附注：因为本次采访没有重蹈上次的覆辙，所以我基本没有加以编辑，即使一些比较模糊的地方我也保留下来。本次前奏音乐，采用了Colin Mutchler的My Life片断，同样是“创作共用”协议。） 前次语音网志：采访文心...</description>
+<dc:subject>Talk Blog</dc:subject>
+<dc:creator>Isaac</dc:creator>
+<dc:date>2004-12-26T23:42:35+08:00</dc:date>
+</item>
+<item rdf:about="http://blog.cnblog.org/archives/2004/12/2004ieeaeecaeec.html">
+<title>2004年，创造你自己的互联网</title>
+<link>http://blog.cnblog.org/archives/2004/12/2004ieeaeecaeec.html</link>
+<description>网络寒冬以后的互联网，对我而言，只有google、email和水木bbs。2003年全年，我基本只用foxmail收发邮件，泡在水木bbs上，再就是利用google查找我需要的资料。但，2004年，很多事情改变了。2003年12月11日，我开始了blog，然后进入了一片新的网络世界。 这个世界的领跑者不再是三大门户网站，它们成了“距离”的代名词。新的领跑者是google、blog、firefox、wiki、sns、MITOpenCourseWare……进而，整个互联网突然又有沸腾的感觉，而且是无数个小热泡泡而非一大锅热汤。也许是因为开放共享精神的推动，也许是互联网用户的基数足够庞大成熟用户增多，也许是其它的理由，总之 ·p2p终于众所周知了，bt下载进入到普通办公室，一般白领也开始使用； ·网络广告再次成为最被看好的盈利方式；免费Email大战带来了更多的免费服务； ·接二连三的“中国概念”互联网公司上市，制造更多的阳光下富翁； ·开源软件被更多人接受，Firefox甚至开始挑战IE； ·blog用户激增，普通用户再次踊跃成为网络内容的制造者； ·hao123这样的个人网站盈利不菲并且被baidu收购； ·google的系列创新激起全球性的google热潮； ·一次又一次的网络舆论事件将2003年开始的网络舆论影响当代社会的现实深入发展下去； ·wiki百科让人们主动写作和分享知识创造平民百科，网络真正能够网聚人的力量； ·MIT开放教程让开放教育开始新的进程，影响深远； ·orkut和其它sns人际圈子网站不算成功的尝试却成功地吸引更多人重新对待互联网，试图建设可信赖的网络关系； ·IM的竞争让众多朋友使用MSN，让拒绝QQ的我重新“在线”，而且skype似乎要带我们走得更远； ·北京的免费开通ADSL服务了大半年，120包月上网降低网络接入成本； ·rss重新整合内容资源，让可定制成为主流和方向； ·bloglines、delicious、flickr、365key、看天下这样“小而美”的可定制服务吸引了众多用户； ·google adsense和大量传说的模式变成现实； ·淘宝肆无忌惮地和易趣竞争，我朋友在淘宝上开小服装店竟然达到过日流水6k，结果一拍还一脚睬进来。 所以，可以想象这一年，我被多少大大小小的进步激动和快乐着，我又回复到以前的状态，花更多的时间在网络上闲逛，而且做点什么，技术和成本极大降低，比如写blog，弄个wiki玩玩，热心地想搞开放课程，还有些五花八门的想法。你会发现，今天的网络彻底个人化了，也许就是所谓“草根”了，它开始完全允许你用你自己的方式、自己的喜好和无数的定制服务创造自己的互联网，创造属于自己的网络世界，创造一个新的网络资讯接收方式，创造新的网络表达方式，创造新的网络上人与人的关系，创造新“互联网社会交往”。 哇赛，2004年，我从blog开始，享受我的互联网。像我曾经问过，你还没有开始使用firefox吗那样，现在，你还没有参与到互联网的创造活动中来吗？你还没有开始享受你的互联网吗？ 参考阅读：2004年，我从blog开始，享受我的互联网 horse近期其它与blog相关文章： --朋友blog的告别辞 --blog是个啥？horse水木blog相关文章列表 --一年前的12月11日，匆忙纪念“摩顶放踵”一周年...</description>
+<dc:subject>BlogOnBlog</dc:subject>
+<dc:creator>horse</dc:creator>
+<dc:date>2004-12-26T17:40:15+08:00</dc:date>
+</item>
+<item rdf:about="http://blog.cnblog.org/archives/2004/12/aeblogccceaeutf.html">
+<title>CNBlog修改缺省字符集为UTF-8、升级MT到3.14、升级PHP到4.3.10</title>
+<link>http://blog.cnblog.org/archives/2004/12/aeblogccceaeutf.html</link>
+<description>具体步骤如下：
+1 导出原数据库： 
+ ./mysqldump -uusername -ppassword old &gt; ~/old.dump
+2 将数据库转换成UTF-8格式：
+ iconv -c -f gbk -t utf-8 old.dump &gt; new.dump
+3 创建一个新数据库：
+  create database new;
+4 将新数据库导入：
+ msyql -uusername -ppassword new &lt; new.dump
+5 修改配置文件mt.cfg：
+ PublishCharset UTF-8
+ 再把数据库指向新的数据库：
+ Database new
+6 从后台管理界面登录：重建所有页面</description>
+<dc:subject>AboutCNBlog</dc:subject>
+<dc:creator>chedong</dc:creator>
+<dc:date>2004-12-24T00:03:54+08:00</dc:date>
+</item>
+<item rdf:about="http://blog.cnblog.org/archives/2004/12/auoablogaeeanca.html">
+<title>利用Blog的全民记录实践</title>
+<link>http://blog.cnblog.org/archives/2004/12/auoablogaeeanca.html</link>
+<description>在Schee那里看到的消息“台灣第一個鄉土網誌社群诞生”，这个试验的始作俑者是MarkWu。 该社群的地址：http://140.111.66.31/ilan/index.php 按照MarkWu的想法，此社群的“目的是希望藉由 Blog 的特性來實踐在地人寫在地的新聞的基本想法”，申请中有个要求是“在本站申請的BLOG，有個小小的個義務，請在自己的BLOG要有個屬於宜蘭的分類，分享紀錄發生在宜蘭身邊的大小事，主題內容不拘”。 MarkWu所作的，是让消息（后来的新闻）回到原初的形式，不知道我想的对不对。...</description>
+<dc:subject>BlogOnBlog</dc:subject>
+<dc:creator>zheng</dc:creator>
+<dc:date>2004-12-22T22:22:38+08:00</dc:date>
+</item>
+<item rdf:about="http://blog.cnblog.org/archives/2004/12/ouauoieeooe.html">
+<title>北京远见名苑维权日志</title>
+<link>http://blog.cnblog.org/archives/2004/12/ouauoieeooe.html</link>
+<description>北京远见名苑维权日志：作第一个地产维权完全纪录的blog。[从Keso的365key得知。] 下面文字摘自这个维权日志： 作为一个blogger，我想，就让我详细地记录此次事件吧。无论是否有人关系，无论是否能引起媒体或相关部门关注，我，愿意做一个先行者，作第一个记录一次房地产纠纷的blogger......我坚信，至少对blog在中国的发展，对传播和传媒，这将是一次有意义的探讨和实验。 （很抱歉，没有找到该日志上有版权方面的任何说明，如果这里的摘引有何不妥，请及时告知） 我的建议，尽快让参与维权的人知道这个Blog并能够参与进来一同记录/发言，同时在任何可能的地方宣传这个Blog，特别是让小区的住户知道它。只有这样，才能通过大家的使用浮现出新的自主传媒的使用模式。...</description>
+<dc:subject>Blogosphere</dc:subject>
+<dc:creator>zheng</dc:creator>
+<dc:date>2004-12-22T21:47:59+08:00</dc:date>
+</item>
+
+
+</rdf:RDF>

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+xmlns:admin="http://webns.net/mvcb/"
+xmlns:cc="http://web.resource.org/cc/"
+xmlns="http://purl.org/rss/1.0/">
+
+<channel rdf:about="http://joi.ito.com/">
+<title>Joi Ito&apos;s Web - JP</title>
+<link>http://joi.ito.com/</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:creator></dc:creator>
+<dc:date>2004-12-20T22:03:18+09:00</dc:date>
+<admin:generatorAgent rdf:resource="http://www.movabletype.org/?v=3.14" />
+
+
+<items>
+<rdf:Seq><rdf:li rdf:resource="http://joi.ito.com/jp/archives/2004/12/20/003320.html" />
+<rdf:li rdf:resource="http://joi.ito.com/jp/archives/2004/12/19/003317.html" />
+<rdf:li rdf:resource="http://joi.ito.com/jp/archives/2004/12/19/003316.html" />
+<rdf:li rdf:resource="http://joi.ito.com/jp/archives/2004/11/21/003238.html" />
+<rdf:li rdf:resource="http://joi.ito.com/jp/archives/2004/10/25/003129.html" />
+<rdf:li rdf:resource="http://joi.ito.com/jp/archives/2004/10/20/003114.html" />
+<rdf:li rdf:resource="http://joi.ito.com/jp/archives/2004/09/20/003001.html" />
+<rdf:li rdf:resource="http://joi.ito.com/jp/archives/2004/08/13/002873.html" />
+<rdf:li rdf:resource="http://joi.ito.com/jp/archives/2004/07/29/002805.html" />
+<rdf:li rdf:resource="http://joi.ito.com/jp/archives/2004/07/27/002798.html" />
+<rdf:li rdf:resource="http://joi.ito.com/jp/archives/2003/12/23/002722.html" />
+<rdf:li rdf:resource="http://joi.ito.com/jp/archives/2003/12/22/002721.html" />
+<rdf:li rdf:resource="http://joi.ito.com/jp/archives/2003/12/20/002720.html" />
+<rdf:li rdf:resource="http://joi.ito.com/jp/archives/2003/12/19/002719.html" />
+<rdf:li rdf:resource="http://joi.ito.com/jp/archives/2003/12/19/002718.html" />
+</rdf:Seq>
+</items>
+
+</channel>
+
+<item rdf:about="http://joi.ito.com/jp/archives/2004/12/20/003320.html">
+<title>テクノラティ ジャパン</title>
+<link>http://joi.ito.com/jp/archives/2004/12/20/003320.html</link>
+<description>テクノラティ/Technoratiとデジタルガレージが業務提携に関して発表を行いました。 提携内容はデジタルガレージの子会社として、テクノラティジャパンを設立し、日本でテクノラティのサービスを提供すると言う内容です。 私はデジタルガレージの共同創業者であり、共同CEOでした。その頃、私が運営していたインターネット会社と、現デジタルガレージCEOである林郁氏が運営していた広告会社の合併でデジタルガレージは生まれました。我々はInfoseekJapan設立など様々な仕事を共にし、非常に面白い仕事を多く手掛けてきまし た。しかし、Infoseek Japanがスピンアウトする際、私はデジタルガレージからは離れ、Infoseek Japanを経営する事になりました。 今回のプロジェクトは、デジタルガレージを離れてから初めてのジョイントプロジェクトになります。デジャブの様な気分です。 Infoseek Japanを立ち上げた当時、現在では一般的になっているWeb広告の概念は認知されておらず、アド・インプレッションや、クリックスルー・レートの概念とその有効性を認知してもらう事からはじめた経緯があります。 これからのテクノラティ・ジャパンに関しても同様の啓蒙活動が必要になるでしょう。 今回のポイントはカンバセーションです。企業や個人がどの様な発言をしているのか？が重要になってきており、既にバナーアドの世界ではなくなってきていると言う事です。 テクノラティ・ジャパンが日本のブロガーの皆さんに対して良いサービスを提供することが出来る事をうれしく思います。来年の早期からサービス提供出来る様、がんばります。当初はまず皆さんに「Real live Web」とBlog上のカンバセーションがどの様なものかを伝えていく時期だと思います。 Technoratiにとって、日本が国際戦略の第一歩になりますが、日本で信頼できるチームと一緒にこのプロジェクトをできる事が重要だと思います。 最後に新しいGenという人がテクノラティ・ジャパンのプロジェクトのためにデジタルガレージに入社しました。 Welcome to our family Gen！...</description>
+<dc:subject>BlogにまつわるBlog</dc:subject>
+<dc:creator>Joi</dc:creator>
+<dc:date>2004-12-20T22:03:18+09:00</dc:date>
+</item>
+<item rdf:about="http://joi.ito.com/jp/archives/2004/12/19/003317.html">
+<title>スパム１０００億</title>
+<link>http://joi.ito.com/jp/archives/2004/12/19/003317.html</link>
+<description>米国のIowaでブロバイダーがスパム会社数社にたいしての裁判で勝った。＄１B（約１０００億）のアワード。CNN via Weblogsky...</description>
+<dc:subject>ニュース＆最近の出来事</dc:subject>
+<dc:creator>Joi</dc:creator>
+<dc:date>2004-12-19T21:53:53+09:00</dc:date>
+</item>
+<item rdf:about="http://joi.ito.com/jp/archives/2004/12/19/003316.html">
+<title>パッケージ版MT</title>
+<link>http://joi.ito.com/jp/archives/2004/12/19/003316.html</link>
+<description>シックス・アパートはソフトバンクと一緒に、日本でMovable Typeのパッケージ版の販売を始めました。パッケージ版とは言っても、実際の形はフォルダー型なんですけど。とにかく、非常にうまくいっていて、現在ソフトバンクのオンライン・ストアであるECBuyersで、法人向け売れ筋ランキングの第1位に輝いています。自慢に聞こえるかもしれませんが、とてもすごい出来事で僕らはとても興奮しています。...</description>
+<dc:subject>BlogにまつわるBlog</dc:subject>
+<dc:creator>Joi</dc:creator>
+<dc:date>2004-12-19T19:02:50+09:00</dc:date>
+</item>
+<item rdf:about="http://joi.ito.com/jp/archives/2004/11/21/003238.html">
+<title>Cote d&apos;Ivoireからのビデオ</title>
+<link>http://joi.ito.com/jp/archives/2004/11/21/003238.html</link>
+<description>MetaFilterの方で興味深い議論が行われています。 Cote d&apos;Ivoireの大使館のページに普通な市民がフランス兵に撃ち殺されてる動画がアップされています。しかし、本当に撃っているのがフランス兵かどうかが議論されています。以前９人のフランス兵が殺された反撃だとも言われています。Gbagboは最近Anti-フランスのプロパガンダを流しているとも言われているので、このビデオも本当かどうか見ただけでははっきり分かりません。最近ネット上でPoliticalなビデオは増えています。テキストよりもビデオの方が感情的でメッセージとしては強いです。とても信頼性が高いWitnessみたいな所も昔からありますが、多分これからもっと信頼性が低いビデオも出てくるでしょう。 ここに１００MBのビデオファイルがあります。 via Ethan...</description>
+<dc:subject>ニュース＆最近の出来事</dc:subject>
+<dc:creator>Joi</dc:creator>
+<dc:date>2004-11-21T13:43:52+09:00</dc:date>
+</item>
+<item rdf:about="http://joi.ito.com/jp/archives/2004/10/25/003129.html">
+<title>&amp;#12460;&amp;#12531;&amp;#12464;&amp;#12491;&amp;#12504;&amp;#12477;</title>
+<link>http://joi.ito.com/jp/archives/2004/10/25/003129.html</link>
+<description>Danny&amp;#12395;&amp;#35328;&amp;#12431;&amp;#12428;&amp;#12390;ja.wikipedia&amp;#12395;&amp;#12460;&amp;#12531;&amp;#12464;&amp;#12491;&amp;#12504;&amp;#12477;&amp;#12398;&amp;#35352;&amp;#20107;&amp;#12434;&amp;#22987;&amp;#12417;&amp;#12414;&amp;#12375;&amp;#12383;&amp;#12290;&amp;#12371;&amp;#12398;&amp;#26178;&amp;#20195;&amp;#12398;&amp;#12450;&amp;#12501;&amp;#12522;&amp;#12459;&amp;#12398;&amp;#20107;&amp;#20840;&amp;#28982;&amp;#20998;&amp;#12363;&amp;#12425;&amp;#12394;&amp;#12356;&amp;#12398;&amp;#12391;&amp;#35504;&amp;#12363;&amp;#12481;&amp;#12519;&amp;#12483;&amp;#12463;&amp;#12392;&amp;#36861;&amp;#21152;&amp;#12375;&amp;#12390;&amp;#12367;&amp;#12428;&amp;#12414;&amp;#12377;&amp;#12363;&amp;#65311;&amp;#12288;...</description>
+<dc:subject>国際政治</dc:subject>
+<dc:creator>Joi</dc:creator>
+<dc:date>2004-10-25T23:17:51+09:00</dc:date>
+</item>
+<item rdf:about="http://joi.ito.com/jp/archives/2004/10/20/003114.html">
+<title>&amp;#12394;&amp;#12380; ICANN&amp;#65311;</title>
+<link>http://joi.ito.com/jp/archives/2004/10/20/003114.html</link>
+<description>&amp;#26368;&amp;#36817;&amp;#12289;ICANN(Internet Corporation For Assigned Names and Numbers)&amp;#12398;&amp;#29702;&amp;#20107;&amp;#12395;&amp;#36984;&amp;#20986;&amp;#12373;&amp;#12428;&amp;#12414;&amp;#12375;&amp;#12383;&amp;#12290;&amp;#27491;&amp;#24335;&amp;#12394;&amp;#23601;&amp;#20219;&amp;#12399;&amp;#12289;&amp;#65297;&amp;#65298;&amp;#26376;&amp;#12398;&amp;#12465;&amp;#12540;&amp;#12503;&amp;#12479;&amp;#12454;&amp;#12531;&amp;#12391;&amp;#12398;&amp;#12511;&amp;#12540;&amp;#12486;&amp;#12451;&amp;#12531;&amp;#12464;&amp;#24460;&amp;#12363;&amp;#12425;&amp;#65299;&amp;#24180;&amp;#38291;&amp;#12398;&amp;#12479;&amp;#12540;&amp;#12512;&amp;#12395;&amp;#12394;&amp;#12426;&amp;#12414;&amp;#12377;&amp;#12290;(JPNIC/ICANN) &amp;#12371;&amp;#12398;&amp;#65298;&amp;#24180;&amp;#12367;&amp;#12425;&amp;#12356;&amp;#12398;&amp;#38291;&amp;#12289;&amp;#12356;&amp;#12429;&amp;#12356;&amp;#12429;&amp;#12394;&amp;#20154;&amp;#12363;&amp;#12425;ICANN&amp;#12398;&amp;#12503;&amp;#12525;&amp;#12475;&amp;#12473;&amp;#12395;&amp;#12418;&amp;#12387;&amp;#12392;&amp;#21442;&amp;#21152;&amp;#12377;&amp;#12427;&amp;#12424;&amp;#12358;&amp;#12395;&amp;#35328;&amp;#12431;&amp;#12428;&amp;#12383;&amp;#12426;&amp;#12289;&amp;#36870;&amp;#12395;&amp;#32118;&amp;#23550;&amp;#12395;&amp;#12420;&amp;#12417;&amp;#12383;&amp;#12411;&amp;#12358;&amp;#12364;&amp;#33391;&amp;#12356;&amp;#12392;&amp;#12418;&amp;#35328;&amp;#12431;&amp;#12428;&amp;#12383;&amp;#12426;&amp;#12375;&amp;#12390;&amp;#12289;&amp;#38543;&amp;#20998;&amp;#24745;&amp;#12415;&amp;#12414;&amp;#12375;&amp;#12383;&amp;#12290;&amp;#30906;&amp;#12363;&amp;#12395;ICANN&amp;#12395;&amp;#12399;&amp;#12356;&amp;#12367;&amp;#12388;&amp;#12363;&amp;#12398;&amp;#21839;&amp;#38988;&amp;#28857;&amp;#12420;&amp;#24746;&amp;#12356;&amp;#12452;&amp;#12513;&amp;#12540;&amp;#12472;&amp;#12418;&amp;#12354;&amp;#12426;&amp;#12414;&amp;#12377;&amp;#12290;&amp;#20693;&amp;#33258;&amp;#36523;&amp;#12418;&amp;#20170;&amp;#12414;&amp;#12391;&amp;#20309;&amp;#24230;&amp;#12363;&amp;#25209;&amp;#21028;&amp;#12418;&amp;#12375;&amp;#12414;&amp;#12375;&amp;#12383;&amp;#12290;&amp;#12375;&amp;#12363;&amp;#12375;&amp;#12289;&amp;#20693;&amp;#12399;ICANN&amp;#12399;&amp;#20170;&amp;#22793;&amp;#12431;&amp;#12429;&amp;#12358;&amp;#12392;&amp;#12375;&amp;#12390;&amp;#12356;&amp;#12427;&amp;#12392;&amp;#24605;&amp;#12387;&amp;#12390;&amp;#12356;&amp;#12414;&amp;#12377;&amp;#12375;&amp;#12289;Internet&amp;#12398;&amp;#26410;&amp;#26469;&amp;#12395;&amp;#12399;ICANN&amp;#12364;&amp;#27491;&amp;#12375;&amp;#12356;&amp;#26041;&amp;#21521;&amp;#12395;&amp;#22793;&amp;#12431;&amp;#12427;&amp;#20107;&amp;#12364;&amp;#24517;&amp;#35201;&amp;#12384;&amp;#12392;&amp;#24605;&amp;#12356;&amp;#12289;&amp;#12371;&amp;#12398;&amp;#20381;&amp;#38972;&amp;#12434;&amp;#21463;&amp;#12369;&amp;#12427;&amp;#12371;&amp;#12392;&amp;#12395;&amp;#12375;&amp;#12414;&amp;#12375;&amp;#12383;&amp;#12290; &amp;#23455;&amp;#38555;&amp;#12289;&amp;#12371;&amp;#12428;&amp;#12414;&amp;#12391;&amp;#12395;&amp;#38543;&amp;#20998;ICANN&amp;#12398;&amp;#12473;&amp;#12483;&amp;#12479;&amp;#12501;&amp;#12420;&amp;#29702;&amp;#20107;&amp;#36948;&amp;#12392;&amp;#38651;&amp;#35441;&amp;#12391;&amp;#35441;&amp;#12434;&amp;#12375;&amp;#12414;&amp;#12375;&amp;#12383;&amp;#12364;&amp;#12289;&amp;#30342;&amp;#12373;&amp;#12435;&amp;#26412;&amp;#24403;&amp;#12395;ICANN&amp;#12434;&amp;#24314;&amp;#35373;&amp;#30340;&amp;#12395;&amp;#22793;&amp;#12360;&amp;#12390;&amp;#34892;&amp;#12367;&amp;#12383;&amp;#12417;&amp;#12395;&amp;#12289;&amp;#22810;&amp;#27096;&amp;#24615;&amp;#12289;&amp;#36879;&amp;#26126;&amp;#24615;&amp;#12434;&amp;#25345;&amp;#12383;&amp;#12379;&amp;#12427;&amp;#12383;&amp;#12417;&amp;#12395;&amp;#12289;&amp;#21147;&amp;#12434;&amp;#38598;&amp;#20013;&amp;#12375;&amp;#12424;&amp;#12358;&amp;#12392;&amp;#12375;&amp;#12390;&amp;#12356;&amp;#12414;&amp;#12377;&amp;#12290; ICANN&amp;#12399;&amp;#20027;&amp;#12395;&amp;#12452;&amp;#12531;&amp;#12479;&amp;#12540;&amp;#12493;&amp;#12483;&amp;#12488;&amp;#12398;IP&amp;#12450;&amp;#12489;&amp;#12524;&amp;#12473;&amp;#12392;&amp;#12300;.jp&amp;#12301;&amp;#12394;&amp;#12393;&amp;#12398;&amp;#12488;&amp;#12483;&amp;#12503;&amp;#12524;&amp;#12505;&amp;#12523;&amp;#12489;&amp;#12513;&amp;#12452;&amp;#12531;&amp;#65288;TLD)&amp;#12398;&amp;#31649;&amp;#29702;&amp;#12434;&amp;#12377;&amp;#12427;&amp;#32068;&amp;#32340;&amp;#12391;&amp;#12377;&amp;#12364;&amp;#12289;&amp;#20170;&amp;#12289;&amp;#12450;&amp;#12513;&amp;#12522;&amp;#12459;&amp;#25919;&amp;#24220;&amp;#12420;&amp;#22269;&amp;#36899;&amp;#12394;&amp;#12393;&amp;#12395;&amp;#27810;&amp;#23665;&amp;#12398;&amp;#35506;&amp;#38988;&amp;#12434;&amp;#31361;&amp;#12365;&amp;#12388;&amp;#12369;&amp;#12425;&amp;#12428;&amp;#12390;&amp;#12356;&amp;#12390;&amp;#12289;&amp;#65298;&amp;#65296;&amp;#65296;&amp;#65301;&amp;#24180;&amp;#65297;&amp;#65297;&amp;#26376;&amp;#65297;&amp;#65302;&amp;#26085;&amp;#12398;World Summit on the Information Society (WSIS)&amp;#12414;&amp;#12391;&amp;#12395;&amp;#12381;&amp;#12398;&amp;#35506;&amp;#38988;&amp;#12434;&amp;#12463;&amp;#12426;&amp;#12450;&amp;#20986;&amp;#26469;&amp;#12394;&amp;#12369;&amp;#12428;&amp;#12400;&amp;#22810;&amp;#20998;&amp;#12381;&amp;#12371;&amp;#12391;ICANN&amp;#12399;&amp;#32066;&amp;#12431;&amp;#12426;&amp;#12384;&amp;#12429;&amp;#12358;&amp;#12392;&amp;#35328;&amp;#12431;&amp;#12428;&amp;#12390;&amp;#12356;&amp;#12414;&amp;#12377;&amp;#12290;&amp;#12418;&amp;#12375;&amp;#12289;ICANN&amp;#12364;&amp;#35299;&amp;#25955;&amp;#12373;&amp;#12428;&amp;#12390;&amp;#12375;&amp;#12414;&amp;#12358;&amp;#12392;&amp;#12289;&amp;#22810;&amp;#20998;&amp;#22269;&amp;#36899;&amp;#12364;&amp;#20181;&amp;#20999;&amp;#12387;&amp;#12390;&amp;#12356;&amp;#12427;ITU&amp;#12354;&amp;#12383;&amp;#12426;&amp;#12364;&amp;#12289;ICANN&amp;#12395;&amp;#20195;&amp;#12431;&amp;#12387;&amp;#12390;IP&amp;#12450;&amp;#12489;&amp;#12524;&amp;#12473;&amp;#12392;TLD&amp;#12398;&amp;#31649;&amp;#29702;&amp;#12434;&amp;#12377;&amp;#12427;&amp;#12371;&amp;#12392;&amp;#12395;&amp;#12394;&amp;#12427;&amp;#12392;&amp;#24605;&amp;#12356;&amp;#12414;&amp;#12377;&amp;#12290;ITU&amp;#12418;&amp;#26377;&amp;#29992;&amp;#12394;&amp;#32068;&amp;#32340;&amp;#12391;&amp;#12399;&amp;#12354;&amp;#12426;&amp;#12414;&amp;#12377;&amp;#12364;&amp;#12289;&amp;#20693;&amp;#12399;&amp;#38651;&amp;#35441;&amp;#20250;&amp;#31038;&amp;#30340;&amp;#12394;ITU&amp;#12424;&amp;#12426;&amp;#12418;&amp;#12452;&amp;#12531;&amp;#12479;&amp;#12540;&amp;#12493;&amp;#12483;&amp;#12488;&amp;#30340;&amp;#12394;ICANN&amp;#12398;&amp;#26041;&amp;#12364;&amp;#12371;&amp;#12358;&amp;#12356;&amp;#12387;&amp;#12383;&amp;#37096;&amp;#20998;&amp;#12434;&amp;#31649;&amp;#29702;&amp;#12377;&amp;#12427;&amp;#12395;&amp;#12399;&amp;#12424;&amp;#12426;&amp;#36969;&amp;#20999;&amp;#12394;&amp;#32068;&amp;#32340;&amp;#12384;&amp;#12392;&amp;#24605;&amp;#12356;&amp;#12414;&amp;#12377;&amp;#12290; &amp;#12375;&amp;#12363;&amp;#12375;&amp;#12289;&amp;#20693;&amp;#12418;&amp;#12414;&amp;#12384;&amp;#12414;&amp;#12384;&amp;#21193;&amp;#24375;&amp;#19981;&amp;#36275;&amp;#12394;&amp;#12398;&amp;#12391;&amp;#12289;&amp;#65297;&amp;#65298;&amp;#26376;&amp;#12414;&amp;#12391;ICANN&amp;#21608;&amp;#36794;&amp;#12398;&amp;#20107;&amp;#12434;&amp;#23398;&amp;#12406;&amp;#24517;&amp;#35201;&amp;#12364;&amp;#12354;&amp;#12426;&amp;#12414;&amp;#12377;&amp;#12290;&amp;#24403;&amp;#28982;ITU&amp;#12398;&amp;#31435;&amp;#22580;&amp;#12420;&amp;#12289;&amp;#12452;&amp;#12531;&amp;#12479;&amp;#12540;&amp;#12493;&amp;#12483;&amp;#12488;&amp;#12467;&amp;#12511;&amp;#12517;&amp;#12491;&amp;#12486;&amp;#12451;&amp;#12540;&amp;#12398;&amp;#24847;&amp;#35211;&amp;#12418;&amp;#32862;&amp;#12365;&amp;#12414;&amp;#12377;&amp;#12290; &amp;#20170;&amp;#19968;&amp;#30058;&amp;#12398;&amp;#21839;&amp;#38988;&amp;#12399;&amp;#20693;&amp;#12398;&amp;#25305;&amp;#12356;&amp;#26085;&amp;#26412;&amp;#35486;&amp;#21147;&amp;#12391;&amp;#12377;&amp;#12290;&amp;#26368;&amp;#36817;&amp;#12399;&amp;#12289;&amp;#65304;&amp;#65296;&amp;#65285;&amp;#12398;&amp;#26178;&amp;#38291;&amp;#28023;&amp;#22806;&amp;#12395;&amp;#12356;&amp;#12427;&amp;#12371;&amp;#12392;&amp;#12418;&amp;#12354;&amp;#12387;&amp;#12390;&amp;#12289;&amp;#12411;&amp;#12392;&amp;#12435;&amp;#12393;&amp;#33521;&amp;#35486;&amp;#12391;&amp;#12375;&amp;#12363;&amp;#35501;&amp;#12415;&amp;#26360;&amp;#12365;&amp;#12375;&amp;#12390;&amp;#12356;&amp;#12414;&amp;#12379;&amp;#12435;&amp;#12364;&amp;#12289;&amp;#19968;&amp;#37096;&amp;#26085;&amp;#26412;&amp;#12434;&amp;#20195;&amp;#34920;&amp;#12377;&amp;#12427;&amp;#31435;&amp;#22580;&amp;#12395;&amp;#12394;&amp;#12427;&amp;#22580;&amp;#21512;&amp;#12418;&amp;#12354;&amp;#12427;&amp;#12363;&amp;#12418;&amp;#30693;&amp;#12428;&amp;#12394;&amp;#12356;&amp;#12398;&amp;#12391;&amp;#12289;&amp;#26085;&amp;#26412;&amp;#35486;&amp;#12418;&amp;#26360;&amp;#12367;&amp;#12424;&amp;#12358;&amp;#12395;&amp;#21162;&amp;#21147;&amp;#12375;&amp;#12414;&amp;#12377;&amp;#12290; &amp;#33258;&amp;#20998;&amp;#12398;ICANN&amp;#29992;&amp;#12398;Reading List&amp;#12434;Wiki&amp;#12395;&amp;#20316;&amp;#12426;&amp;#12414;&amp;#12375;&amp;#12383;&amp;#12398;&amp;#12391;&amp;#12289;&amp;#30342;&amp;#12373;&amp;#12435;&amp;#12364;&amp;#35501;&amp;#12435;&amp;#12384;&amp;#12411;&amp;#12358;&amp;#12364;&amp;#12424;&amp;#12356;&amp;#12392;&amp;#24605;&amp;#12358;&amp;#12418;&amp;#12398;&amp;#12364;&amp;#12354;&amp;#12428;&amp;#12400;&amp;#12289;&amp;#25945;&amp;#12360;&amp;#12390;&amp;#12356;&amp;#12383;&amp;#12384;&amp;#12369;&amp;#12428;&amp;#12400;&amp;#26377;&amp;#12426;&amp;#38627;&amp;#12356;&amp;#12391;&amp;#12377;&amp;#12290;...</description>
+<dc:subject>Joiの日記</dc:subject>
+<dc:creator>Joi</dc:creator>
+<dc:date>2004-10-20T22:54:37+09:00</dc:date>
+</item>
+<item rdf:about="http://joi.ito.com/jp/archives/2004/09/20/003001.html">
+<title>&amp;#12454;&amp;#12451;&amp;#12461;&amp;#12506;&amp;#12487;&amp;#12451;&amp;#12450;&amp;#12364;100&amp;#19975;&amp;#38917;&amp;#30446;&amp;#12434;&amp;#36948;&amp;#25104;</title>
+<link>http://joi.ito.com/jp/archives/2004/09/20/003001.html</link>
+<description>&amp;#12454;&amp;#12451;&amp;#12461;&amp;#12506;&amp;#12487;&amp;#12451;&amp;#12450;&amp;#12364;100&amp;#19975;&amp;#38917;&amp;#30446;&amp;#12434;&amp;#36948;&amp;#25104;...</description>
+<dc:subject>ニュース＆最近の出来事</dc:subject>
+<dc:creator>Joi</dc:creator>
+<dc:date>2004-09-20T11:37:35+09:00</dc:date>
+</item>
+<item rdf:about="http://joi.ito.com/jp/archives/2004/08/13/002873.html">
+<title>ハローキティ、「DOOM 3」のフラッシュライトに登場</title>
+<link>http://joi.ito.com/jp/archives/2004/08/13/002873.html</link>
+<description> Joiのポスト「Hello Kitty flashlight for Doom 3」 ： Joi 「DOOM」のMODカルチャーは、ほんとに洗練されている。 ;-) それにしても、Boing Boingぽい話だね。 　　「DOOM 3」のキティちゃんフラッシュライト、どことなく暗い表情のキティに萌え。DOOMといえば、コロンバイン高校銃乱射事件の犯人がよくプレイしていたという話が有名になり、暴力ゲームのレッテルを貼られてしまった。でも、ゲーマー自身がゲームを改造したり拡張する「Modifications」（MOD）、マルチプレイヤー形式などPCゲームカルチャーの礎を築いた作品とも言える。今回の「DOOM3」、id softwareが完成までに4年間を費やした力作みたいだけど、私はゲームにハマりやすい体質なので、たぶんやらないだろうなぁ。。...</description>
+<dc:subject>ユーモア</dc:subject>
+<dc:creator>hiroko</dc:creator>
+<dc:date>2004-08-13T22:03:48+09:00</dc:date>
+</item>
+<item rdf:about="http://joi.ito.com/jp/archives/2004/07/29/002805.html">
+<title>無料の本『Free Culture』が売れている？</title>
+<link>http://joi.ito.com/jp/archives/2004/07/29/002805.html</link>
+<description>Joiのポスト「Freely downloadable Free Culture going into third printing」： クリエイティブコモンズのブログによると、レッシグ教授の新刊『Free Culture』はCCライセンスのもとで無料でダウンロードできるんだけど、それでも売れているという話。 Joi 　CCライセンスと無料ダウンロードが、『Free Culture』の売上に貢献しているかどうかを証明するのは難しい。だけど、無料ダウンロードが売上を妨げるものではないのは確かだろう。電子版の無料提供と本の売上増の関係を示すことは可能だろうか？ いろいろコメントで議論が続いていますね。タレントなり音楽なり、露出すればするほど売れるようになるというのは、レコード会社が、ラジオでかけてもらうためにDJにレコードを渡していた時代から変わらないと思います。本の場合、無料の電子版を持っている人が、途中から紙で読みたくなって本を買うというパターンもありそうです。...</description>
+<dc:subject>クリエイティブ・コモンズ</dc:subject>
+<dc:creator>hiroko</dc:creator>
+<dc:date>2004-07-29T23:53:21+09:00</dc:date>
+</item>
+<item rdf:about="http://joi.ito.com/jp/archives/2004/07/27/002798.html">
+<title>長野弘子さんの紹介</title>
+<link>http://joi.ito.com/jp/archives/2004/07/27/002798.html</link>
+<description>　こんにちは、joiさんのブログに参加することになった、ジャーナリストの長野弘子です。いつもは自分のブログ「dSb :: digi-squad*blog」や、NECのグループブログ「ヌーベルブログ」などに書いています。 Joiさんからのメッセージ： Joi 日本語ブログをずっと更新できずにごめんなさい。翻訳者のChie Sakidaさんの仕事が忙しくなったのと、英語のブログを書くのに忙しかったので、更新が滞っていました。 これから、ゲストブロガーとして長野弘子さんと一緒に日本語ブログを作って行く予定です。どんなフォーマットでどんなコンテンツを書くかを、これからいろいろ実験していくので、皆さんの意見を待っています。 弘子さん、これからよろしく！...</description>
+<dc:subject></dc:subject>
+<dc:creator>hiroko</dc:creator>
+<dc:date>2004-07-27T19:48:27+09:00</dc:date>
+</item>
+<item rdf:about="http://joi.ito.com/jp/archives/2003/12/23/002722.html">
+<title>ブロガーの壁と多面性の崩壊、および魔法の数字150について</title>
+<link>http://joi.ito.com/jp/archives/2003/12/23/002722.html</link>
+<description><![CDATA[最近どうも「ブロガーの壁」に突き当たったみたいだ。自分のブログを読んでくれる人が増えるにつれ、より大勢の人に向けて書いているんだということを自覚するようになってきた。何か投稿する度に、いろんな視点からの、思慮深いコメントやメールが寄せられるんだから。
+「素早く／頻繁な投稿」がブログの基本だという。それは確かに真実だと思うけど、自分が投稿したエントリーに関する議論の厳格さや、出会う人の中に占めるこのブログの読者の割合が増えていることを思うと、もっと面白くて「防御可能」なこと──自己弁護のために時間を費やさなくてもいいようなことを書くようにしないと、と構えてしまう。実際、何についてブログを書くかについては、ずいぶん保守的になってきていると思う。
+<a href="http://www.zephoria.org/thoughts">デーナ・ボイド</a>は、多面的なアイデンティティの決壊についてよく話をしている（僕はしょっちゅうリンクを張ることで彼女の言論のコンテクストを決壊させてます）。<a href="http://www.zephoria.org/thoughts/archives/001287.html">以前ダナが「お母さんにブログを見つかっちゃった」という記事を引用していた。</a>これはアーヴィング・ゴッフマンが<a title="
+Amazon.co.jp： 本: 行為と演技&#8212;日常生活における自己呈示 " href="http://www.amazon.co.jp/exec/obidos/ASIN/4414518016/">『行為と演技&#8212;日常生活における自己呈示』</a>の中で言っていた<a href="http://www.cfmc.com/adamb/writings/goffman.htm">「人間は相手によって言動を変え、異なるアイデンティティの一面を提示する」</a>ということにも関連すると思う。
+ウェブログで問題になるのは、読み手が多様なコミュニティに属するバラバラの人間であるがゆえに、書き手のアイデンティティの多面性は決壊し、結果として、公的なアイデンティティとしてはある意味「浅い」人格を選ばざるを得なくなるということだ。
+シカゴでDJをやっていた頃からの友だちで米国国務省で働いている連中も、僕の会社の社員も、家族も、テキサスの思慮深い保守勢力も、サイファーパンク方面の友だちも、外交官も、日本で仕事のお付き合いがある方たちも、親しい友人たちも、みんな時々は僕のブログを読んでくれている。リアルの人生では、これらの人々に対する付き合い方はそれぞれかなり異なる。いろんなアイデンティティの一面を見せているわけだ。だけどブログでは、全員の反応のことを想像して書かなきゃいけない。それぞれに直接対話しているときのような「深み」に到達することは不可能だ。
+だから、たとえば<a href="http://joi.ito.com/archives/2003/12/15/quit_drinking.html">「お酒をやめた」</a>というような個人的な話を露出することがあっても、ブログにおける僕のアイデンティティは浅くならざるを得ない。「深さ」の前提となるコンテクストがそこにはないからだ。僕の禁酒についてもらったコメントの中でも本当に思いやり深いものは僕（の酔態）をよく知っている人からのメールかIM（インスタント・メッセンジャー）経由のものだった。ブログって、自分の駄目さ加減を知るのに役立つようなものではないんだよね。
+
+<a href="http://www.misbehaving.net/2003/12/virtual_intimac.html">ハリーは「ヴァーチャルな親密さ」について書いている。</a>どういうことだろう？　僕は彼女の言う「親密さ」は<a href="http://radio.weblogs.com/0107127/categories/networksAsTheOrganizationOfTheFuture/2003/02/22.html">ロビン・ダンバーの「魔法の数字150」</a>に繋がる話だと思う。
+さて、現時点で<a href="http://joi.ito.com/joiwiki/IrcChannel">#joiito</a>のIRCチャネルにたむろしてる人間の数は87人。IMの友だちリストに入っているのは216人（同じ人が重複していることもある）。一方で<a href="https://www.linkedin.com/">LinkedIn</a>のサービスでは僕は490人の人と繋がっていて、携帯電話のメモリには510人分の登録があって、年賀状は約1000枚もいただく。ブログに関しては、1日に13,000のユニークアクセスがあり、ページビューは30,000。今日参加したとあるNPOの基金調達の会合で出会った政治運動家が言うには、選挙に当選するためにはだいたい50,000人と握手しなきゃいけないそうだ。
+
+<a href="http://radio.weblogs.com/0114726/2003/02/12.html">ロス・メイフィールド</a>は、人間のネットワークを政治的、社会的、創造的という3つのレイヤーに分類している。政治的なネットワークは1,000人単位、社会的だと150人規模、創造的となると12人程度になる。僕の感触では、政治的なネットワークは10,000人単位で、次に来るのがビジネスのレイヤーでこれは500人規模、で、創造的なネットワークが12人くらいだということには異論はない。もちろん科学的な意見ではなくて、個人的な考えだけどね。
+この仮説を前提にすると、このブログは政治的なレイヤーに近づきつつあることになる。そう考えると、仕事の連絡をLinkedInで済ませることが多くなった分、IRCやチャットで話をしている時間は気取らずにハッピーでいられることや、今でも何より夕食のおしゃべりが好きなのも肯ける気がする。もし、自分のブログの読み手の規模や人員構成を自分で決められるなら、それぞれのレイヤーに合わせて書き方を変えることもできるだろう。
+
+<a href="http://mena.typepad.com/dollarshort/">ミーナ</a>は、ブログの本質は一部の評論家タイプの人間が「メディアに対抗する」みたいなものじゃなくて、むしろ普通の人たちが友人たちと一緒に楽しむところにあるんだ、と言う。僕もそう思うし、政治的なレベルに持ち込んでしまうよりは、気持ちとか感情のレベルでブログをやっている方が、よっぽどやりがいがあるのかもしれない。ただ、気をつけなきゃいけないのは、ある日突然有名になっちゃったり、母親に見つかったりして、それまで築いてきたコンテクストがいきなり瓦解しちゃうこともあるということ。
+自分のブログのオーディエンス、およびアイデンティティの多面性を管理することはとても難しい。これを本気でやろうとすると、オンラインでも実生活でも、人生最大級の苦労を強いられる。
+
+──以上、なんか最近うまくブログできないよ、ということをブログしてみました。
+
+<div class="ori">オリジナル：<a title="Joi Ito's Web: Blogger's block, collapsing facets and the number 150" href="http://joi.ito.com/archives/2003/12/23/bloggers_block_collapsing_facets_and_the_number_150.html">Joi Ito's Web: Blogger's block, collapsing facets and the number 150</a></div>]]></description>
+<dc:subject>BlogにまつわるBlog</dc:subject>
+<dc:creator>Joi</dc:creator>
+<dc:date>2003-12-23T05:29:24+09:00</dc:date>
+</item>
+<item rdf:about="http://joi.ito.com/jp/archives/2003/12/22/002721.html">
+<title>アルス・エレクトロニカに新カテゴリー「デジタル・コミュニティー」</title>
+<link>http://joi.ito.com/jp/archives/2003/12/22/002721.html</link>
+<description>常に最新技術を用いた先鋭的な芸術表現の場であり続けてきたアルス・エレクトロニカが「デジタル・コミュニティー」というカテゴリーを新設した。僕も審査員として参加させてもらう予定。審査員団にはハワード・ラインゴールドやジェーン・メトカーフなど、会うのが楽しみな人が何人も名を連ねている。 「デジタル・コミュニティー」のカテゴリーにノミネート可能なプロジェクト、現象、活動分野は以下の通り： ソーシャル・ソフトウェア 電子民主主義、電子政府、e-ガバナンス 創発民主制 集合的なウェブログ、社会ネットワーキングシステム フィルタリングシステム、個人評価システム 社会的な自立支援グループ 学習およびナレッジコミュニティー コンピューター支援による集団活動 ゲーマーのコミュニティー デジタルなご近所付き合い、コミュニティー・ネットワーク 無料のネット環境整備の推進、無線LANプロジェクト デジタルな都市開発のプロジェクト 市民運動、市民会議、 通信センター 賞 賞金総額：40,000ユーロ ゴールデンNicas賞（2名） それぞれ10,000ユーロ 特別賞（4名） それぞれ5,000ユーロ 表彰（14名まで） 詳しい情報はアルス・エレクトロニカのウェブページに。このページをきっかけに応募してくれる人がいることを楽しみにしてます。 オリジナル：Joi Ito&apos;s Web: New Digital Communities category for Ars Electronica...</description>
+<dc:subject>アート＆音楽</dc:subject>
+<dc:creator>Joi</dc:creator>
+<dc:date>2003-12-22T04:48:24+09:00</dc:date>
+</item>
+<item rdf:about="http://joi.ito.com/jp/archives/2003/12/20/002720.html">
+<title>バーロウのブログ</title>
+<link>http://joi.ito.com/jp/archives/2003/12/20/002720.html</link>
+<description>ジョン・ペリー・バーロウがとうとうウェブログを始めた！ オリジナル：Joi Ito&apos;s Web: Barlow blog...</description>
+<dc:subject>BlogにまつわるBlog</dc:subject>
+<dc:creator>Joi</dc:creator>
+<dc:date>2003-12-20T10:02:23+09:00</dc:date>
+</item>
+<item rdf:about="http://joi.ito.com/jp/archives/2003/12/19/002719.html">
+<title>The Meatrix</title>
+<link>http://joi.ito.com/jp/archives/2003/12/19/002719.html</link>
+<description>The Meatrix。『マトリックス』のパロディのFlashアニメで、政治的なメッセージも入ってる。上手いね。 オリジナル：Joi Ito&apos;s Web: The Meatrix 訳注：食肉産業を風刺してます。日本でも一部で話題になってましたね。...</description>
+<dc:subject>社会運動</dc:subject>
+<dc:creator>Joi</dc:creator>
+<dc:date>2003-12-19T12:04:22+09:00</dc:date>
+</item>
+<item rdf:about="http://joi.ito.com/jp/archives/2003/12/19/002718.html">
+<title>セキュリティ監査について、長野県知事へのレポート</title>
+<link>http://joi.ito.com/jp/archives/2003/12/19/002718.html</link>
+<description>長野県知事の田中康夫氏は、特に中央政府の住民基本台帳システムに重点をおいたネットワークのセキュリティ監査を行うよう指示を出した。僕はその監査結果について第三者的意見を求められていたんだけど、中央政府の基本台帳システムのセキュリティに関するパネルにも参加しているので、ちょっと問題になったみたいだ。中央政府はセキュリティ問題を否定しているので、日本に帰ったらこの問題に対処しないといけない。 セキュリティ監査はまだ進行中で、僕がやった「監査の監査」も、途中経過報告に基づくただの意見に過ぎない。東京に戻ったら両方のサイドに会って話をするつもりだし、最終的な監査結果が出た後で、中央政府側の意見も聞いた上で、もう一度意見書を書くことになると思う。 レポートの内容 オリジナル：Joi Ito&apos;s Web: My letter to the governor of Nagano about his security audit...</description>
+<dc:subject>住基ネット</dc:subject>
+<dc:creator>Joi</dc:creator>
+<dc:date>2003-12-19T10:36:59+09:00</dc:date>
+</item>
+
+
+</rdf:RDF>

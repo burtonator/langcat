@@ -1,0 +1,4046 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+         xmlns:dc="http://purl.org/dc/elements/1.1/" 
+         xmlns:im="http://purl.org/rss/1.0/item-images/" 
+         xmlns:record="http://records.sourceforge.net/schemas/rss-meta-module/" 
+         xmlns="http://www.w3.org/1999/xhtml" 
+         xmlns:content="http://purl.org/rss/1.0/modules/content/"
+         xmlns:sub="http://purl.org/rss/1.0/modules/subscription/"
+         xmlns:l="http://purl.org/rss/1.0/modules/link/"
+         xmlns:reqv="http://purl.org/rss/1.0/modules/richequiv/"
+         xmlns:admin="http://webns.net/mvcb/"
+         xmlns:nm="http://newsmonster.org/nm-rdf#"
+         xmlns:rss="http://purl.org/rss/1.0/">
+
+    <rss:channel rdf:about="http://www.peerfear.org">
+        
+        <rss:title>peerfear.org - Don't fear the peer!</rss:title>
+        <rss:link>http://www.peerfear.org</rss:link>
+        
+        <rss:description>
+            P2P, hacking, privacy, freedom, crypto, anarchy, etc.
+        </rss:description>
+
+        <rss:image rdf:resource="http://www.peerfear.org/peerfear-small.jpg"/>
+        
+        <l:link l:rel="mod_subscription"
+                l:type="application/rdf+xml"
+                l:title="Subscriptions"
+                rdf:resource="http://www.peerfear.org/rss/subscriptions.rdf"/>
+
+        <dc:creator>Kevin A. Burton</dc:creator>
+
+        <admin:generatorAgent rdf:resource="http://www.peerfear.org/records-mode" />
+        <admin:errorReportsTo rdf:resource="mailto:burton@peerfear.org"/>
+
+        <nm:profile rdf:resource="http://feeds.archive.org/newsmonster/burtonator/manifest.rdf"/>
+
+    </rss:channel>
+
+<!-- BEGIN ITEMS -->
+
+<!-- record-link: ../../2005/01/04012005#* RSS -->
+<rss:item record:uuid="1104890307" rdf:about="http://www.peerfear.org/rss/permalink/2005/01/04/SixApartBuysLiveJournal">
+    <rss:title><![CDATA[Six Apart Buys Live Journal?]]></rss:title>
+    <rss:link><![CDATA[http://www.peerfear.org/rss/permalink/2005/01/04/SixApartBuysLiveJournal]]></rss:link>
+    <dc:date>2005-01-04T17:58:27:00-08</dc:date>
+    <dc:creator>Kevin A. Burton</dc:creator>
+    <im:image>http://www.newsmonster.org/misc/rss/images/rss.jpg</im:image>
+    <dc:subject>RSS</dc:subject>
+    <record:subject>RSS</record:subject>
+
+<rss:description><![CDATA[
+
+It appears that Six Apart is going to buy  LiveJournal:
+
+"Folks have been predicting a big year for mergers and acquisitions in 2005,
+and we are starting the year with a bang. I have learnt exclusively that Six
+Apart, the parent company behind hosted blogging service TypePad, and Moveable
+Type is about to acquire Live Journal, for an undisclosed amount. The deal is
+a mix of stock and cash, and could be announced sometime later this month,
+according to those close to the two companies. If the deal goes through, then
+Six Apart will become one of the largest weblog companies in the world, with
+nearly 6.5 million users. It also gives the company a very fighting chance
+against Google's Blogger an ...
+
+]]></rss:description>
+
+    <content:items>
+        <rdf:Bag>
+            <rdf:li>
+                <content:item>
+                    <content:format rdf:resource="http://www.w3.org/1999/xhtml"/>
+                    <content:encoding rdf:resource="http://www.w3.org/TR/REC-xml#dt-wellformed"/>
+                    <rdf:value rdf:parseType="Literal" xmlns="http://www.w3.org/1999/xhtml">
+<p>
+It appears that Six Apart is going to <a href="http://gigaom.com/2005/01/04/six-apart-to-buy-live-journal/">buy</a>  LiveJournal:
+
+</p>
+
+<p>
+<blockquote class="records-mode-quote">
+Folks have been predicting a big year for mergers and acquisitions in 2005,
+and we are starting the year with a bang. I have learnt exclusively that Six
+Apart, the parent company behind hosted blogging service TypePad, and Moveable
+Type is about to acquire Live Journal, for an undisclosed amount. The deal is
+a mix of stock and cash, and could be announced sometime later this month,
+according to those close to the two companies. If the deal goes through, then
+Six Apart will become one of the largest weblog companies in the world, with
+nearly 6.5 million users. It also gives the company a very fighting chance
+against Google's Blogger and Microsoft's MSN Spaces.
+</blockquote>
+
+</p>
+
+<p>
+Which seems like Six Apart will be investing more time in the hosted weblog
+space.
+
+</p>
+
+<p>
+I'm not sure if this is a good thing or a bad thing.  Live Journal certainly
+brings a lot of experience to the hosted blog space to the table but
+acquisitions are hard.
+
+</p>
+
+<p>
+Still I wish them the best of luck.  Maybe the fact that these are both smaller
+companies will help out.
+
+</p>
+
+<p>
+
+</p>
+                    </rdf:value>
+                </content:item>
+            </rdf:li>
+        </rdf:Bag>
+    </content:items>
+</rss:item>
+
+<!-- record-link: ../../2005/01/04012005#* Java -->
+<rss:item record:uuid="1104878306" rdf:about="http://www.peerfear.org/rss/permalink/2005/01/04/RahTheSUNGodHasNoClothes">
+    <rss:title><![CDATA[Rah (The SUN God) Has No Clothes]]></rss:title>
+    <rss:link><![CDATA[http://www.peerfear.org/rss/permalink/2005/01/04/RahTheSUNGodHasNoClothes]]></rss:link>
+    <dc:date>2005-01-04T14:38:26:00-08</dc:date>
+    <dc:creator>Kevin A. Burton</dc:creator>
+    <im:image>http://www.newsmonster.org/misc/rss/images/java.gif</im:image>
+    <dc:subject>Java</dc:subject>
+    <record:subject>Java</record:subject>
+
+<rss:description><![CDATA[
+
+Nice blog post via Slava  criticizing the quality of the Java runtime and
+hotspot compiler:
+
+"The HotSpot source code is a bad joke We wasted an afternoon and had a good
+laugh on IRC today, looking over parts of the SCSL sources to HotSpot and the
+sun.* classes. I can't give too much detail or paste code samples because that
+would violate Sun's ... license, but here are some highlights:"
+
+This is my favorite one:
+
+"A lot of preprocessors are used. This includes a mix of awk, sed, shell scripts,
+and indeed, Scheme! Yes, the JVM source includes jscheme.jar, used to generate
+some CORBA classes. Considering that Sun talks about how bad preprocessors are,
+its hypocritical of them to use preproces ...
+
+]]></rss:description>
+
+    <content:items>
+        <rdf:Bag>
+            <rdf:li>
+                <content:item>
+                    <content:format rdf:resource="http://www.w3.org/1999/xhtml"/>
+                    <content:encoding rdf:resource="http://www.w3.org/TR/REC-xml#dt-wellformed"/>
+                    <rdf:value rdf:parseType="Literal" xmlns="http://www.w3.org/1999/xhtml">
+<p>
+Nice blog post via <a href="http://www.jroller.com/page/slava/20050102#the_hotspot_source_code_is">Slava</a>  criticizing the quality of the Java runtime and
+hotspot compiler:
+
+</p>
+
+<p>
+<blockquote class="records-mode-quote">
+The HotSpot source code is a bad joke We wasted an afternoon and had a good
+laugh on IRC today, looking over parts of the SCSL sources to HotSpot and the
+sun. classes. I can't give too much detail or paste code samples because that
+would violate Sun's ... license, but here are some highlights:
+</blockquote>
+
+</p>
+
+<p>
+This is my favorite one:
+
+</p>
+
+<p>
+<blockquote class="records-mode-quote">
+A lot of preprocessors are used. This includes a mix of awk, sed, shell scripts,
+and indeed, Scheme! Yes, the JVM source includes jscheme.jar, used to generate
+some CORBA classes. Considering that Sun talks about how bad preprocessors are,
+its hypocritical of them to use preprocessors, especially half-baked crappy
+hacks involving awt and sed, on the Java code base!
+</blockquote>
+
+</p>
+
+<p>
+My gut tells me that the only reason this thing is working at <strong>all</strong> is that
+they've spent a lot of money in QA.  It's amazing how much you can improve
+garbage code with decent QA.
+
+</p>
+
+<p>
+The issue is that this is a feedback loop.  SUN spends millions on their
+proprietary development model, which results in horrible code.  They then spent
+millions on QA.  Then they justify the fact that Java needs to be proprietary
+based on their budget.
+
+</p>
+
+<p>
+When the lights are off strange things happen.  Bugs thrive in this environment.
+Be afraid.  Be <strong>very</strong> afraid!
+
+</p>
+
+<p>
+
+</p>
+                    </rdf:value>
+                </content:item>
+            </rdf:li>
+        </rdf:Bag>
+    </content:items>
+</rss:item>
+
+<!-- record-link: ../../2005/01/03012005#* Blogging -->
+<rss:item record:uuid="1104818829" rdf:about="http://www.peerfear.org/rss/permalink/2005/01/03/TheBlogConfusion">
+    <rss:title><![CDATA[The Blog Confusion]]></rss:title>
+    <rss:link><![CDATA[http://www.peerfear.org/rss/permalink/2005/01/03/TheBlogConfusion]]></rss:link>
+    <dc:date>2005-01-03T22:07:08:00-08</dc:date>
+    <dc:creator>Kevin A. Burton</dc:creator>
+    <im:image>http://rojo.com/images/Rojo.gif</im:image>
+    <dc:subject>Blogging</dc:subject>
+    <record:subject>Blogging</record:subject>
+
+<rss:description><![CDATA[
+
+I hear that we have a new word - vlog.  The amount of confusion this will result
+in should be terrifying.
+
+My appologies to Abbott and Costello...  I couldn't resist.
+
+Abbott: I say Blogs's on first, Vlogs's on second, and Blogosphere's on third.
+
+Costello: Is Blog the publisher?
+
+Abbott: Yes.
+
+Costello: Is Blog going to have the video too?
+
+Abbott: Yes.
+
+Costello: And you don't know the fellows' names?
+
+Abbott: Well I should.
+
+Costello: Well then Blogs publishing the story?
+
+Abbott: Yes.
+
+Costello: I mean the persons's name.
+
+Abbott: Blog.
+
+Costello: The guy on first.
+
+Abbott: Blog!
+
+Costello: The first publisher.
+
+Abbott: Blog.
+
+Costello: The guy writing...
+
+Abbott: Blogs the publisher!
+ ...
+
+]]></rss:description>
+
+    <content:items>
+        <rdf:Bag>
+            <rdf:li>
+                <content:item>
+                    <content:format rdf:resource="http://www.w3.org/1999/xhtml"/>
+                    <content:encoding rdf:resource="http://www.w3.org/TR/REC-xml#dt-wellformed"/>
+                    <rdf:value rdf:parseType="Literal" xmlns="http://www.w3.org/1999/xhtml">
+<p>
+I hear that we have a new word - vlog.  The amount of confusion this will result
+in should be terrifying.
+
+</p>
+
+<p>
+<a href="http://www.punditguy.com/2005/01/the_video_blogg.html">http://www.punditguy.com/2005/01/the_video_blogg.html</a>
+
+</p>
+
+<p>
+My appologies to Abbott and Costello...  I couldn't resist.
+
+</p>
+
+<p>
+Abbott: I say Blogs's on first, Vlogs's on second, and Blogosphere's on third.
+
+</p>
+
+<p>
+Costello: Is Blog the publisher?
+
+</p>
+
+<p>
+Abbott: Yes.
+
+</p>
+
+<p>
+Costello: Is Blog going to have the video too?
+
+</p>
+
+<p>
+Abbott: Yes.
+
+</p>
+
+<p>
+Costello: And you don't know the fellows' names?
+
+</p>
+
+<p>
+Abbott: Well I should.
+
+</p>
+
+<p>
+Costello: Well then Blogs publishing the story?
+
+</p>
+
+<p>
+Abbott: Yes.
+
+</p>
+
+<p>
+Costello: I mean the persons's name.
+
+</p>
+
+<p>
+Abbott: Blog.
+
+</p>
+
+<p>
+Costello: The guy on first.
+
+</p>
+
+<p>
+Abbott: Blog!
+
+</p>
+
+<p>
+Costello: The first publisher.
+
+</p>
+
+<p>
+Abbott: Blog.
+
+</p>
+
+<p>
+Costello: The guy writing...
+
+</p>
+
+<p>
+Abbott: Blogs the publisher!
+
+</p>
+
+<p>
+Costello: I'm asking who's BLOGGING the story!
+
+</p>
+
+<p>
+Abbott: That's the man's name.
+
+</p>
+
+<p>
+Costello: That's the Bloggers name?
+
+</p>
+
+<p>
+Abbott: Yes.
+
+</p>
+
+<p>
+Costello: Well go ahead and tell me.
+
+</p>
+
+<p>
+Abbott: That's it.
+
+</p>
+
+<p>
+Costello: That's the Blogger?
+
+</p>
+
+<p>
+Abbott: Yes.
+
+</p>
+
+<p>
+PAUSE
+
+</p>
+
+<p>
+Costello: Look, you gotta Blogger?
+
+</p>
+
+<p>
+Abbott: Certainly.
+
+</p>
+
+<p>
+Costello: Who's Blogging the story?
+
+</p>
+
+<p>
+Abbott: That's right.
+
+</p>
+
+<p>
+Costello: When you pay off the publisher every month, the Blogger gets the money?
+
+</p>
+
+<p>
+Abbott: Of course not!.
+
+</p>
+
+<p>
+Costello: All I'm trying to find out is the Blogger's name!
+
+</p>
+
+<p>
+Abbott: Blogger.
+
+</p>
+
+<p>
+Costello: The guy that gets...
+
+</p>
+
+<p>
+Abbott: That's it.
+
+</p>
+
+<p>
+Costello: The Blogger gets the money...
+
+</p>
+
+<p>
+Abbott: No
+
+</p>
+
+<p>
+PAUSE
+
+</p>
+
+<p>
+Abbott: What's wrong with that?
+
+</p>
+
+<p>
+Costello: Look, all I wanna know is when you post to your Blog, how does he sign his name?
+
+</p>
+
+<p>
+Abbott: Blogger.
+
+</p>
+
+<p>
+Costello: Yes.. The Blogger?.
+
+</p>
+
+<p>
+Abbott: Yes..
+
+</p>
+
+<p>
+Costello: How does he sign...
+
+</p>
+
+<p>
+Abbott: That's how he signs it.
+
+</p>
+
+<p>
+Costello: Who?
+
+</p>
+
+<p>
+Abbott: The Blogger!
+</p>
+                    </rdf:value>
+                </content:item>
+            </rdf:li>
+        </rdf:Bag>
+    </content:items>
+</rss:item>
+
+<!-- record-link: ../../2005/01/03012005#* Freedom -->
+<rss:item record:uuid="1104805484" rdf:about="http://www.peerfear.org/rss/permalink/2005/01/03/TheCompassionDeficit">
+    <rss:title><![CDATA[The Compassion Deficit]]></rss:title>
+    <rss:link><![CDATA[http://www.peerfear.org/rss/permalink/2005/01/03/TheCompassionDeficit]]></rss:link>
+    <dc:date>2005-01-03T18:24:31:00-08</dc:date>
+    <dc:creator>Kevin A. Burton</dc:creator>
+    <im:image>http://www.newsmonster.org/misc/rss/images/freedom.jpg</im:image>
+    <dc:subject>Freedom</dc:subject>
+    <record:subject>Freedom</record:subject>
+
+<rss:description><![CDATA[
+
+Well said... 
+
+"These powerful and well-funded political Christian fundamentalist
+organizations appear to be suffering from a compassion deficit. Organizations
+which are amazingly quick to organize to fight against same-sex marriage, a
+woman's right to choose, and embryonic stem cell research are missing in
+action when it comes to responding to the disaster in southern Asia. None of
+their web sites are actively soliciting aid for the victims of the
+earthquake/tsunami."
+
+"In fact, there is no mention of the giant earthquake and tsunami that
+devastated southern Asia. There are no headlines about the dead, injured or
+the tremendous damage; there are no urgent appeals for donations; there are  ...
+
+]]></rss:description>
+
+    <content:items>
+        <rdf:Bag>
+            <rdf:li>
+                <content:item>
+                    <content:format rdf:resource="http://www.w3.org/1999/xhtml"/>
+                    <content:encoding rdf:resource="http://www.w3.org/TR/REC-xml#dt-wellformed"/>
+                    <rdf:value rdf:parseType="Literal" xmlns="http://www.w3.org/1999/xhtml">
+<p>
+Well said... 
+
+</p>
+
+<p>
+<a href="http://www.workingforchange.com/printitem.cfm?itemid=18309">http://www.workingforchange.com/printitem.cfm?itemid=18309</a>
+
+</p>
+
+<p>
+<blockquote class="records-mode-quote">
+These powerful and well-funded political Christian fundamentalist
+organizations appear to be suffering from a compassion deficit. Organizations
+which are amazingly quick to organize to fight against same-sex marriage, a
+woman's right to choose, and embryonic stem cell research are missing in
+action when it comes to responding to the disaster in southern Asia. None of
+their web sites are actively soliciting aid for the victims of the
+earthquake/tsunami.
+</blockquote>
+
+</p>
+
+<p>
+<blockquote class="records-mode-quote">
+In fact, there is no mention of the giant earthquake and tsunami that
+devastated southern Asia. There are no headlines about the dead, injured or
+the tremendous damage; there are no urgent appeals for donations; there are no
+phone numbers to call; there are no links to organizations collecting money
+and providing aid for the victims.
+</blockquote>
+
+</p>
+                    </rdf:value>
+                </content:item>
+            </rdf:li>
+        </rdf:Bag>
+    </content:items>
+</rss:item>
+
+<!-- record-link: ../../2005/01/03012005#* RSS -->
+<rss:item record:uuid="1104782628" rdf:about="http://www.peerfear.org/rss/permalink/2005/01/03/PewWeblogStatistics">
+    <rss:title><![CDATA[Pew Weblog Statistics]]></rss:title>
+    <rss:link><![CDATA[http://www.peerfear.org/rss/permalink/2005/01/03/PewWeblogStatistics]]></rss:link>
+    <dc:date>2005-01-03T12:03:47:00-08</dc:date>
+    <dc:creator>Kevin A. Burton</dc:creator>
+    <im:image>http://www.newsmonster.org/misc/rss/images/rss.jpg</im:image>
+    <dc:subject>RSS</dc:subject>
+    <record:subject>RSS</record:subject>
+
+<rss:description><![CDATA[
+
+Interesting data  this morning (thanks Dan ) on weblogs:
+
+"Blog readership shoots up 58% in 2004 6 million Americans get news and
+information fed to them through RSS aggregators But 62% of online Americans do
+not know what a blog is"
+
+Read the PDF  for more stats (man I hate PDF).
+
+"27% of internet users say they read blogs, a 58% jump from the 17% who told us
+they were blog readers in February. This means that by the end of 2004 32
+million Americans were blog readers. Much of the attention to blogs focused on
+those that covered the recent political campaign and the media. And at least
+some of the overall growth in blog readership is attributable to political
+blogs. Some 9% of internet users ...
+
+]]></rss:description>
+
+    <content:items>
+        <rdf:Bag>
+            <rdf:li>
+                <content:item>
+                    <content:format rdf:resource="http://www.w3.org/1999/xhtml"/>
+                    <content:encoding rdf:resource="http://www.w3.org/TR/REC-xml#dt-wellformed"/>
+                    <rdf:value rdf:parseType="Literal" xmlns="http://www.w3.org/1999/xhtml">
+<p>
+Interesting <a href="http://www.pewinternet.org/PPF/r/144/report_display.asp">data</a>  this morning (thanks <a href="http://dangillmor.typepad.com/dan_gillmor_on_grassroots/2005/01/a_medium_coming.html">Dan</a> ) on weblogs:
+
+</p>
+
+<p>
+<blockquote class="records-mode-quote">
+Blog readership shoots up 58% in 2004 6 million Americans get news and
+information fed to them through RSS aggregators But 62% of online Americans do
+not know what a blog is
+</blockquote>
+
+</p>
+
+<p>
+Read the <a href="http://www.pewinternet.org/pdfs/PIP_blogging_data.pdf">PDF</a>  for more stats (man I hate PDF).
+
+</p>
+
+<p>
+<blockquote class="records-mode-quote">
+27% of internet users say they read blogs, a 58% jump from the 17% who told us
+they were blog readers in February. This means that by the end of 2004 32
+million Americans were blog readers. Much of the attention to blogs focused on
+those that covered the recent political campaign and the media. And at least
+some of the overall growth in blog readership is attributable to political
+blogs. Some 9% of internet users said they read political blogs frequently or
+sometimes during the campaign.
+</blockquote>
+
+</p>
+
+<p>
+<blockquote class="records-mode-quote">
+5% of internet users say they use RSS aggregators or XML readers to get the
+news and other information delivered from blogs and content-rich Web sites as
+it is posted online. This is a first-time measurement from our surveys and is
+an indicator that this application is gaining an impressive foothold.
+</blockquote>
+
+</p>
+
+<p>
+Now we just need to get all of them using <a href="http://rojo.com">Rojo</a> !
+
+</p>
+
+<p>
+
+</p>
+                    </rdf:value>
+                </content:item>
+            </rdf:li>
+        </rdf:Bag>
+    </content:items>
+</rss:item>
+
+<!-- record-link: ../../2005/01/02012005#* Internet -->
+<rss:item record:uuid="1104732082" rdf:about="http://www.peerfear.org/rss/permalink/2005/01/02/2005Predictions">
+    <rss:title><![CDATA[2005 Predictions]]></rss:title>
+    <rss:link><![CDATA[http://www.peerfear.org/rss/permalink/2005/01/02/2005Predictions]]></rss:link>
+    <dc:date>2005-01-02T22:01:20:00-08</dc:date>
+    <dc:creator>Kevin A. Burton</dc:creator>
+    <im:image>http://www.newsmonster.org/misc/rss/images/internet.jpg</im:image>
+    <dc:subject>Internet</dc:subject>
+    <record:subject>Internet</record:subject>
+
+<rss:description><![CDATA[
+
+It turns out that the only prediction I made in 2004 isn't going to come true.
+
+I bet  that Dell would ship a version of Linux.  I doubt they will now.
+Honestly they seemed like the leading candidate considering their entry into the
+MP3 market at the time.
+
+I still think that sooner or later someone is going to pull their head out of
+the sand and realize how amazing Linux could be as a desktop.  All they have to
+do is turn the OS into an appliance and bundle Open Office.  You'll then have a
+niche somewhere between OSX and Windows.
+
+There are still some fatal flaws here.  You can't go into Walmart and buy
+software for Linux. Maybe this is the nail in the coffin.  I don't know.  Maybe
+it will  ...
+
+]]></rss:description>
+
+    <content:items>
+        <rdf:Bag>
+            <rdf:li>
+                <content:item>
+                    <content:format rdf:resource="http://www.w3.org/1999/xhtml"/>
+                    <content:encoding rdf:resource="http://www.w3.org/TR/REC-xml#dt-wellformed"/>
+                    <rdf:value rdf:parseType="Literal" xmlns="http://www.w3.org/1999/xhtml">
+<p>
+It turns out that the only prediction I made in 2004 isn't going to come true.
+
+</p>
+
+<p>
+I <a href="http://saladwithsteve.com/2004/01/i-dont-think-dell-will-ship-linux-on.html">bet</a>  that Dell would ship a version of Linux.  I doubt they will now.
+Honestly they seemed like the leading candidate considering their entry into the
+MP3 market at the time.
+
+</p>
+
+<p>
+I still think that sooner or later someone is going to pull their head out of
+the sand and realize how amazing Linux could be as a desktop.  All they have to
+do is turn the OS into an appliance and bundle Open Office.  You'll then have a
+niche somewhere between OSX and Windows.
+
+</p>
+
+<p>
+There are still some fatal flaws here.  You can't go into Walmart and buy
+software for Linux. Maybe this is the nail in the coffin.  I don't know.  Maybe
+it will only see consumer use in handhelds and smart phones.
+
+</p>
+
+<p>
+
+</p>
+                    </rdf:value>
+                </content:item>
+            </rdf:li>
+        </rdf:Bag>
+    </content:items>
+</rss:item>
+
+<!-- record-link: ../../2005/01/02012005#* Freedom -->
+<rss:item record:uuid="1104657040" rdf:about="http://www.peerfear.org/rss/permalink/2005/01/02/LifetimeInPrisonWithNoEvidence">
+    <rss:title><![CDATA[Lifetime in Prison...  With no Evidence?]]></rss:title>
+    <rss:link><![CDATA[http://www.peerfear.org/rss/permalink/2005/01/02/LifetimeInPrisonWithNoEvidence]]></rss:link>
+    <dc:date>2005-01-02T01:10:39:00-08</dc:date>
+    <dc:creator>Kevin A. Burton</dc:creator>
+    <im:image>http://www.newsmonster.org/misc/rss/images/freedom.jpg</im:image>
+    <dc:subject>Freedom</dc:subject>
+    <record:subject>Freedom</record:subject>
+
+<rss:description><![CDATA[
+
+My god this is disturbing :
+
+"WASHINGTON (Reuters) - The Bush administration is preparing plans for possible
+lifetime detention of suspected terrorists, including hundreds whom the
+government does not have enough evidence to charge in courts, The Washington
+Post reported Sunday."
+
+"Citing intelligence, defense and diplomatic officials, the newspaper said the
+Pentagon (news - web sites) and the CIA (news - web sites) had asked the White
+House to decide on a more permanent approach for those it would not set free
+or turn over to courts at home or abroad."
+
+... so all you have to do is be a "suspected" terrorist now and you can spend
+the rest of your life in prison.
+
+]]></rss:description>
+
+    <content:items>
+        <rdf:Bag>
+            <rdf:li>
+                <content:item>
+                    <content:format rdf:resource="http://www.w3.org/1999/xhtml"/>
+                    <content:encoding rdf:resource="http://www.w3.org/TR/REC-xml#dt-wellformed"/>
+                    <rdf:value rdf:parseType="Literal" xmlns="http://www.w3.org/1999/xhtml">
+<p>
+My god this is <a href="http://story.news.yahoo.com/news?tmpl=story&amp;cid=578&amp;e=3&amp;u=/nm/20050102/ts_nm/security_usa_dc">disturbing</a> :
+
+</p>
+
+<p>
+<blockquote class="records-mode-quote">
+WASHINGTON (Reuters) - The Bush administration is preparing plans for possible
+lifetime detention of suspected terrorists, including hundreds whom the
+government does not have enough evidence to charge in courts, The Washington
+Post reported Sunday.
+</blockquote>
+
+</p>
+
+<p>
+<blockquote class="records-mode-quote">
+Citing intelligence, defense and diplomatic officials, the newspaper said the
+Pentagon (news - web sites) and the CIA (news - web sites) had asked the White
+House to decide on a more permanent approach for those it would not set free
+or turn over to courts at home or abroad.
+</blockquote>
+
+</p>
+
+<p>
+... so all you have to do is be a <i>"suspected"</i> terrorist now and you can spend
+the rest of your life in prison.
+
+</p>
+
+<p>
+
+</p>
+                    </rdf:value>
+                </content:item>
+            </rdf:li>
+        </rdf:Bag>
+    </content:items>
+</rss:item>
+
+<!-- record-link: ../../2004/12/31122004#1* Internet -->
+<rss:item record:uuid="1104548249" rdf:about="http://www.peerfear.org/rss/permalink/2004/12/31/FinallyIGetCommentSpam">
+    <rss:title><![CDATA[Finally! I get Comment Spam!]]></rss:title>
+    <rss:link><![CDATA[http://www.peerfear.org/rss/permalink/2004/12/31/FinallyIGetCommentSpam]]></rss:link>
+    <dc:date>2004-12-31T18:57:28:00-08</dc:date>
+    <dc:creator>Kevin A. Burton</dc:creator>
+    <im:image>http://www.newsmonster.org/misc/rss/images/internet.jpg</im:image>
+    <dc:subject>Internet</dc:subject>
+    <record:subject>Internet</record:subject>
+
+<rss:description><![CDATA[
+
+This is really cool!  I finally get my own comment spam!  For some reason I felt
+left out of the party.  I just wasn't cool enough for the spammers to consider
+me worthy of their spam.
+
+Anyway.  I implemented my own little turing test.  Now the comments say:
+
+{{{
+
+Turing Test: Are you a human? (required. Just type yes... this is for automated
+spam prevention)
+
+}}}
+
+While this wouldn't work for all blogs in the wild I'm sure it will work just
+fine here in my little corner of the blogosphere.
+
+If spammers really want my blog enough then I'll deploy a captcha.  If they
+solve the captcha I'll deploy a sentient robot  which will traceroute packets
+back to the host and then terminate with prejudic ...
+
+]]></rss:description>
+
+    <content:items>
+        <rdf:Bag>
+            <rdf:li>
+                <content:item>
+                    <content:format rdf:resource="http://www.w3.org/1999/xhtml"/>
+                    <content:encoding rdf:resource="http://www.w3.org/TR/REC-xml#dt-wellformed"/>
+                    <rdf:value rdf:parseType="Literal" xmlns="http://www.w3.org/1999/xhtml">
+<p>
+This is really cool!  I finally get my own comment spam!  For some reason I felt
+left out of the party.  I just wasn't cool enough for the spammers to consider
+me worthy of their spam.
+
+</p>
+
+<p>
+Anyway.  I implemented my own little turing test.  Now the comments say:
+
+</p>
+
+<pre><![CDATA[
+
+Turing Test: Are you a human? (required. Just type yes... this is for automated
+spam prevention)
+
+]]></pre>
+
+<p>
+While this wouldn't work for all blogs in the wild I'm sure it will work just
+fine here in my little corner of the blogosphere.
+
+</p>
+
+<p>
+If spammers really want my blog enough then I'll deploy a captcha.  If they
+solve the captcha I'll deploy a sentient <a href="http://irobot.com">robot</a>  which will traceroute packets
+back to the host and then terminate with prejudice.
+
+</p>
+
+<p>
+I for one will welcome our new spam killing sentient robot overloards!
+
+</p>
+
+<p>
+
+</p>
+                    </rdf:value>
+                </content:item>
+            </rdf:li>
+        </rdf:Bag>
+    </content:items>
+</rss:item>
+
+<!-- record-link: ../../2004/12/31122004#* Internet -->
+<rss:item record:uuid="1104545394" rdf:about="http://www.peerfear.org/rss/permalink/2004/12/31/NewbieClue101DonTUseVacationOnPublicMailingLists">
+    <rss:title><![CDATA[Newbie Clue #101 - Don't use 'vacation' on Public Mailing Lists]]></rss:title>
+    <rss:link><![CDATA[http://www.peerfear.org/rss/permalink/2004/12/31/NewbieClue101DonTUseVacationOnPublicMailingLists]]></rss:link>
+    <dc:date>2004-12-31T18:09:54:00-08</dc:date>
+    <dc:creator>Kevin A. Burton</dc:creator>
+    <im:image>http://www.newsmonster.org/misc/rss/images/internet.jpg</im:image>
+    <dc:subject>Internet</dc:subject>
+    <record:subject>Internet</record:subject>
+
+<rss:description><![CDATA[
+
+If you've been around the net for a while you've been subscribed to a few
+thousand mailing lists.  I'm on a few big mailing lists now that host more than
+a few thousand users.
+
+Sooner or later some guy on the list will go on vacation and instead of just
+letting email sit in their inbox he's nice enough to respond to all his email -
+with a form letter!
+
+Usually in the shape of:
+
+"I'm on vacation.  I'll be back in January."
+
+Of course they're stupid enough to apply this to *every* folder in their inbox
+and so everytime someone posts or replies to the list this message is sent out
+to one of every three thousand posters.
+
+We don't care if you're on vacation.  We don't care when you get back and  ...
+
+]]></rss:description>
+
+    <content:items>
+        <rdf:Bag>
+            <rdf:li>
+                <content:item>
+                    <content:format rdf:resource="http://www.w3.org/1999/xhtml"/>
+                    <content:encoding rdf:resource="http://www.w3.org/TR/REC-xml#dt-wellformed"/>
+                    <rdf:value rdf:parseType="Literal" xmlns="http://www.w3.org/1999/xhtml">
+<p>
+If you've been around the net for a while you've been subscribed to a few
+thousand mailing lists.  I'm on a few big mailing lists now that host more than
+a few thousand users.
+
+</p>
+
+<p>
+Sooner or later some guy on the list will go on vacation and instead of just
+letting email sit in their inbox he's nice enough to respond to all his email -
+with a form letter!
+
+</p>
+
+<p>
+Usually in the shape of:
+
+</p>
+
+<p>
+<i>"I'm on vacation.  I'll be back in January."</i>
+
+</p>
+
+<p>
+Of course they're stupid enough to apply this to <strong>every</strong> folder in their inbox
+and so everytime someone posts or replies to the list this message is sent out
+to one of every three thousand posters.
+
+</p>
+
+<p>
+We don't care if you're on vacation.  We don't care when you get back and we
+probably didn't expect a reply in the first place.
+
+</p>
+
+<p>
+This is of course really annoying.  Certainly not the first time but when you're
+on a list and 5-10 people are doing this and everytime you post you get
+spammed... it's frustrating!  Being the disruptive Engineer than I am I though
+of a fun little prank.
+
+</p>
+
+<p>
+Send an email to <i>"joevacation@newbie.com"</i> with a messages of "Hey Joe!  Enjoy
+your vacation" but use "joevacation@newbie.com" in the From and Reply-To
+headers.
+
+</p>
+
+<p>
+Any geek worth his salt knows what will happen next.
+
+</p>
+
+<p>
+Joe's email client will start chasing its tail.  The message will come in for
+joe.  Joe's email client will be nice enough to send off the spam reply.  This
+message will then go to joe's inbox and the process will start all over again.
+
+</p>
+
+<p>
+Send off enough of these emails and his box will go to 100% CPU and probably
+crash.  Either that or the machine will run out of memory and constantly start
+paging.
+
+</p>
+
+<p>
+It could get worse.  If the client is stupid enough to include the CC headers
+directly I could send the original mail with the header:
+
+</p>
+
+<pre><![CDATA[
+CC: joevacation@newbie.com, joevacation@newbie.com, joevacation@newbie.co
+]]></pre>
+
+<p>
+This would then cause Joe's email client to send off the message to everyone on
+the CC list.  Within a few seconds Joe's client usage would grow exponentially
+until the box was totally dead and couldn't send email fast enough.
+
+</p>
+
+<p>
+I'm sure some mailing list clients are smart enough to handle this.  The
+standard Unix apps would probably have no problem.  I'm sure they could be
+defeated though.  You could use joevacation@x.x.x.x (IP notation) or use a
+.forward file on another box.
+
+</p>
+
+<p>
+Of course I'm just thinking out loud here.  There's no way I'd do this to a
+random stranger.  I'm sure it was just an accident.
+
+</p>
+                    </rdf:value>
+                </content:item>
+            </rdf:li>
+        </rdf:Bag>
+    </content:items>
+</rss:item>
+
+<!-- record-link: ../../2004/12/31122004#1* Linux -->
+<rss:item record:uuid="1104542381" rdf:about="http://www.peerfear.org/rss/permalink/2004/12/31/ScalableDataIsHard">
+    <rss:title><![CDATA[Scalable Data is Hard!]]></rss:title>
+    <rss:link><![CDATA[http://www.peerfear.org/rss/permalink/2004/12/31/ScalableDataIsHard]]></rss:link>
+    <dc:date>2004-12-31T17:19:40:00-08</dc:date>
+    <dc:creator>Kevin A. Burton</dc:creator>
+    <im:image>http://www.newsmonster.org/misc/rss/images/linux.gif</im:image>
+    <dc:subject>Linux</dc:subject>
+    <record:subject>Linux</record:subject>
+
+<rss:description><![CDATA[
+
+Adam Bosworth complains  about the current lack of quality and scalable
+databases in our industry.
+
+"About five years ago I started to notice an odd thing. The products that the
+database vendors were building had less and less to do with what the customers
+wanted."
+
+"It is this. Users of databases tend to ask for three very simple things:"
+
+"1) Dynamic schema so that as the business model/description of goods or
+   services changes and evolves, this evolution can be handled seamlessly in a
+   system running 24 by 7, 365 days a year ..."
+
+"2) Dynamic partitioning of data across large dynamic numbers of machines. A
+   lot people people track a lot of data these days. ..."
+
+"3) Modern indexing. ...
+
+]]></rss:description>
+
+    <content:items>
+        <rdf:Bag>
+            <rdf:li>
+                <content:item>
+                    <content:format rdf:resource="http://www.w3.org/1999/xhtml"/>
+                    <content:encoding rdf:resource="http://www.w3.org/TR/REC-xml#dt-wellformed"/>
+                    <rdf:value rdf:parseType="Literal" xmlns="http://www.w3.org/1999/xhtml">
+<p>
+Adam Bosworth <a href="http://www.adambosworth.net/archives/000038.html">complains</a>  about the current lack of quality and scalable
+databases in our industry.
+
+</p>
+
+<p>
+<blockquote class="records-mode-quote">
+About five years ago I started to notice an odd thing. The products that the
+database vendors were building had less and less to do with what the customers
+wanted.
+</blockquote>
+
+</p>
+
+<p>
+<blockquote class="records-mode-quote">
+It is this. Users of databases tend to ask for three very simple things:
+</blockquote>
+
+</p>
+
+<p>
+<blockquote class="records-mode-quote">
+1) Dynamic schema so that as the business model/description of goods or
+   services changes and evolves, this evolution can be handled seamlessly in a
+   system running 24 by 7, 365 days a year ...
+</blockquote>
+
+</p>
+
+<p>
+<blockquote class="records-mode-quote">
+2) Dynamic partitioning of data across large dynamic numbers of machines. A
+   lot people people track a lot of data these days. ...
+</blockquote>
+
+</p>
+
+<p>
+<blockquote class="records-mode-quote">
+3) Modern indexing. Google has spoiled the world. Everyone has learned that
+   just typing in a few words should show the relevant results in a couple of
+   hundred milliseconds. ...
+</blockquote>
+
+</p>
+
+<p>
+<blockquote class="records-mode-quote">
+By the way, the inherent cost of the machines to do all this is relatively
+negligible. Assume 3 by 400GB cheap disks per machine mounted in racks of 60
+and one rack would pretty much do it if there wasn't a need for redundancy and
+logs, say two racks to cover that. Companies are already coming out this year
+with highly redundant disk arrays for $1 per GB or $1200 / machine for the
+ones above (not counting the $1000 for the machine and memory itself). In
+short, for 120 such machines, it will probably cost less than $500K and that's
+less than 3-4 good programmers and it is one time a capital cost.
+</blockquote>
+
+</p>
+
+<p>
+For the record - I agree.  the problem is that even if we <strong>solve</strong> this problem
+we're left with a bigger one.
+
+</p>
+
+<p>
+Lets assume for a second you have money necessary to purchase this hardware.
+Now what?
+
+</p>
+
+<p>
+How do you maintain the cluster?  How do you determine which disks in the
+cluster have failed?  How do you get alerts when individual machines fail.?  How
+do you maintain performance in the cluster?  How do you recover individual
+databases and bring them in sync when they fail?  How do you detect power use of
+the cluster?  How do you bring the entire cluster online again when is has a
+critical failure.  How do you perform kernel upgrades across the entire cluster?
+
+</p>
+
+<p>
+No... Whats not needed is LAMP.  What we need is CLAMP (Cluster-based Linux
+Administration Management and Persistence).
+
+</p>
+
+<p>
+The above issues can be solved with the correct design.  The major problem is
+building an infrastructure so that you <strong>only</strong> need 3 developers and not a flock
+of Systems Engineers constantly putting out fires.
+
+</p>
+
+<p>
+We need a set of best practices.  We need a standard Open Source architecture so
+that companies like <a href="http://flickr.com">Flick</a> , <a href="http://rojo.com">Rojo</a> , <a href="http://meetup.com">Meetup</a> , <a href="http://livejournal.com">LiveJournal</a> , etc can
+focus on building their application and not worry about the scalability of their
+site.
+
+</p>
+
+<p>
+
+</p>
+                    </rdf:value>
+                </content:item>
+            </rdf:li>
+        </rdf:Bag>
+    </content:items>
+</rss:item>
+
+<!-- record-link: ../../2004/12/31122004#* Linux -->
+<rss:item record:uuid="1104484295" rdf:about="http://www.peerfear.org/rss/permalink/2004/12/31/BrokenLinuxDirectoryPermissions">
+    <rss:title><![CDATA[Broken Linux Directory Permissions]]></rss:title>
+    <rss:link><![CDATA[http://www.peerfear.org/rss/permalink/2004/12/31/BrokenLinuxDirectoryPermissions]]></rss:link>
+    <dc:date>2004-12-31T01:11:34:00-08</dc:date>
+    <dc:creator>Kevin A. Burton</dc:creator>
+    <im:image>http://www.newsmonster.org/misc/rss/images/linux.gif</im:image>
+    <dc:subject>Linux</dc:subject>
+    <record:subject>Linux</record:subject>
+
+<rss:description><![CDATA[
+
+Here's a funny little trivia lesson for you Linux geeks!
+
+Lets say you have a user alice and you want to give her access to /tmp/alice (a
+place where she can keep tmp files).
+
+You could just run the following commands as root:
+
+{{{
+mkdir /alice
+chown alice /alice
+chmod 660 /alice
+}}}
+
+And she'd essentially have access to a new /alice directory where she can save
+files.  For you non-Linux people out there this means give alice ownership of
+the /alice directory and grant her read/write access.
+
+Of couse this doesn't work.  Why not!?  We'll lets see.  It turns out that the
++x (execute) bit needs to be enabled!  Yes... EXECUTE!  When the execute
+permission is applied to directories the semantic  ...
+
+]]></rss:description>
+
+    <content:items>
+        <rdf:Bag>
+            <rdf:li>
+                <content:item>
+                    <content:format rdf:resource="http://www.w3.org/1999/xhtml"/>
+                    <content:encoding rdf:resource="http://www.w3.org/TR/REC-xml#dt-wellformed"/>
+                    <rdf:value rdf:parseType="Literal" xmlns="http://www.w3.org/1999/xhtml">
+<p>
+Here's a funny little trivia lesson for you Linux geeks!
+
+</p>
+
+<p>
+Lets say you have a user alice and you want to give her access to /tmp/alice (a
+place where she can keep tmp files).
+
+</p>
+
+<p>
+You could just run the following commands as root:
+
+</p>
+
+<pre><![CDATA[
+mkdir /alice
+chown alice /alice
+chmod 660 /alice
+]]></pre>
+
+<p>
+And she'd essentially have access to a new /alice directory where she can save
+files.  For you non-Linux people out there this means give alice ownership of
+the /alice directory and grant her read/write access.
+
+</p>
+
+<p>
+Of couse this doesn't work.  Why not!?  We'll lets see.  It turns out that the
++x (execute) bit needs to be enabled!  Yes... EXECUTE!  When the execute
+permission is applied to directories the semantic totally changes.  It now means
+she can CHANGE to the directory.
+
+</p>
+
+<p>
+Without this set Alice can't even list files in the directory.  The read bit is
+just used to enumerate files.
+
+</p>
+
+<p>
+It turns out there's a <strong>magic</strong> +X option in chmod which applies only to
+directories.  The problem is that the standard umask doesn't support this as an
+option so by DEFAULT there's no way to create a directory for users so that they
+can access them. 
+
+</p>
+
+<p>
+Fun.
+
+</p>
+                    </rdf:value>
+                </content:item>
+            </rdf:li>
+        </rdf:Bag>
+    </content:items>
+</rss:item>
+
+<!-- record-link: ../../2004/12/29122004#* Linux -->
+<rss:item record:uuid="1104312580" rdf:about="http://www.peerfear.org/rss/permalink/2004/12/29/etcIsMyFavoriteDirectory">
+    <rss:title><![CDATA[/etc Is my Favorite Directory]]></rss:title>
+    <rss:link><![CDATA[http://www.peerfear.org/rss/permalink/2004/12/29/etcIsMyFavoriteDirectory]]></rss:link>
+    <dc:date>2004-12-29T01:28:49:00-08</dc:date>
+    <dc:creator>Kevin A. Burton</dc:creator>
+    <im:image>http://www.newsmonster.org/misc/rss/images/linux.gif</im:image>
+    <dc:subject>Linux</dc:subject>
+    <record:subject>Linux</record:subject>
+
+<rss:description><![CDATA[
+
+This might be a big geeky but my favorite UNIX directory is /etc.  Whats yours?
+/proc? /usr/local is pretty good?  There always good stuff in /var!  What about
+/tmp?
+
+]]></rss:description>
+
+    <content:items>
+        <rdf:Bag>
+            <rdf:li>
+                <content:item>
+                    <content:format rdf:resource="http://www.w3.org/1999/xhtml"/>
+                    <content:encoding rdf:resource="http://www.w3.org/TR/REC-xml#dt-wellformed"/>
+                    <rdf:value rdf:parseType="Literal" xmlns="http://www.w3.org/1999/xhtml">
+<p>
+This might be a big geeky but my favorite UNIX directory is /etc.  Whats yours?
+/proc? /usr/local is pretty good?  There always good stuff in /var!  What about
+/tmp?
+</p>
+                    </rdf:value>
+                </content:item>
+            </rdf:li>
+        </rdf:Bag>
+    </content:items>
+</rss:item>
+
+<!-- record-link: ../../2004/12/29122004#* P2P -->
+<rss:item record:uuid="1104309208" rdf:about="http://www.peerfear.org/rss/permalink/2004/12/29/BramInWired">
+    <rss:title><![CDATA[Bram in Wired]]></rss:title>
+    <rss:link><![CDATA[http://www.peerfear.org/rss/permalink/2004/12/29/BramInWired]]></rss:link>
+    <dc:date>2004-12-29T00:33:27:00-08</dc:date>
+    <dc:creator>Kevin A. Burton</dc:creator>
+    <im:image>http://www.newsmonster.org/misc/rss/images/p2p.gif</im:image>
+    <dc:subject>P2P</dc:subject>
+    <record:subject>P2P</record:subject>
+
+<rss:description><![CDATA[
+
+There's a nice piece  on Bram in this months wired: 
+
+"BitTorrent lets users quickly upload and download enormous amounts of data,
+files that are hundreds or thousands of times bigger than a single MP3. Analysts
+at CacheLogic, an Internet-traffic analysis firm in Cambridge, England, report
+that BitTorrent traffic accounts for more than one-third of all data sent across
+the Internet."
+
+"If any one of them misses their favorite TV show, no worries. Surely someone
+has posted it as a "torrent." As for movies, if you can find it at
+Blockbuster, you can probably find it online somewhere - and use BitTorrent to
+suck it down."
+
+Which of course is why Bittorrent is so powerful.  This is the RIAA and  ...
+
+]]></rss:description>
+
+    <content:items>
+        <rdf:Bag>
+            <rdf:li>
+                <content:item>
+                    <content:format rdf:resource="http://www.w3.org/1999/xhtml"/>
+                    <content:encoding rdf:resource="http://www.w3.org/TR/REC-xml#dt-wellformed"/>
+                    <rdf:value rdf:parseType="Literal" xmlns="http://www.w3.org/1999/xhtml">
+<p>
+There's a nice <a href="http://www.wired.com/wired/archive/13.01/bittorrent.html">piece</a>  on Bram in this months wired: 
+
+</p>
+
+<p>
+<blockquote class="records-mode-quote">
+BitTorrent lets users quickly upload and download enormous amounts of data,
+files that are hundreds or thousands of times bigger than a single MP3. Analysts
+at CacheLogic, an Internet-traffic analysis firm in Cambridge, England, report
+that BitTorrent traffic accounts for more than one-third of all data sent across
+the Internet.
+</blockquote>
+
+</p>
+
+<p>
+<blockquote class="records-mode-quote">
+If any one of them misses their favorite TV show, no worries. Surely someone
+has posted it as a <i>"torrent."</i> As for movies, if you can find it at
+Blockbuster, you can probably find it online somewhere - and use BitTorrent to
+suck it down.
+</blockquote>
+
+</p>
+
+<p>
+Which of course is why Bittorrent is so powerful.  This is the RIAA and MPAA's
+best bet for continuing their relevance.  Don't try to kill Bittorrent!  Embrace
+it! 
+
+</p>
+
+<p>
+Sell access to a site offering .torrent links.  Become a tracker!  Instead of
+charging advertisers $1.50 per head pass this on to your users.  For constant
+access to TV with a real service I'd certianly pay $100 a month to not worry
+about legal costs.
+
+</p>
+
+<p>
+<blockquote class="records-mode-quote">
+In April 2001, Cohen quit his job at MojoNation and entered what he calls his
+<i>"starving artist"</i> period. He lived off his meager savings and stayed home to
+work on the software all day. His pals were skeptical. "No one knew if
+BitTorrent would work. Everyone knew that Bram was smart, but let's face it, a
+lot of stuff like this fails," says Danny O'Brien, a consultant and the editor
+of the tech newsletter Need To Know
+</blockquote>
+
+</p>
+
+<p>
+My starving artist period was before I started <a href="http://newsmonster.org">NewsMonster</a> .  Sell everything
+you own, figure out how to live cheap, and come up with a great idea and make
+money fast.  This is how to run a software venture.
+
+</p>
+
+<p>
+<blockquote class="records-mode-quote">
+What kept Cohen going, say friends and family, was a cartoonishly inflated
+ego. "I can come off as pretty arrogant ...  tells me about the time they were
+watching Amadeus, where Mozart writes his music so rapidly and perfectly it
+appears to have been dictated by God. Cohen decided he was kind of like
+that. Like Mozart? Bram and Jenna nod.
+</blockquote>
+
+</p>
+
+<p>
+Yeah.. not arrogant at all!  Ha.
+
+</p>
+
+<p>
+But seriously.  Brams a great guy and deserves all the success in the world!
+Its hard to be on top.
+
+</p>
+
+<p>
+
+</p>
+                    </rdf:value>
+                </content:item>
+            </rdf:li>
+        </rdf:Bag>
+    </content:items>
+</rss:item>
+
+<!-- record-link: ../../2004/12/29122004#* Rojo -->
+<rss:item record:uuid="1104307869" rdf:about="http://www.peerfear.org/rss/permalink/2004/12/29/RojosGotTheMojo">
+    <rss:title><![CDATA[Rojo's Got the Mojo!]]></rss:title>
+    <rss:link><![CDATA[http://www.peerfear.org/rss/permalink/2004/12/29/RojosGotTheMojo]]></rss:link>
+    <dc:date>2004-12-29T00:11:09:00-08</dc:date>
+    <dc:creator>Kevin A. Burton</dc:creator>
+    <im:image>http://rojo.com/skins/www.rojo.com/images/logo.gif</im:image>
+    <dc:subject>Rojo</dc:subject>
+    <record:subject>Rojo</record:subject>
+
+<rss:description><![CDATA[
+
+Darren Barefoot takes Rojo to task ...
+
+"I can kind of see what they're getting at, but I'm not sure it's the right
+approach. Has the market demonstrated that it wants all-in-one info-sharing,
+social networking solutions? I don't think so."
+
+Rojo is the first service of its kind to integrate weblog aggregation
+(info-sharing) and social networking - of course the market hasn't prove itself - 
+the market is still growing!  The entire social networking, weblog
+aggregation, and wiki space is going to be opening up wide this year.  We're
+seeing a lot of new web services being deployed on an almost daily basis.
+
+"Their generalist predecessors--Friendster, Orkut, Tribe--were nifty to play
+with, but ...
+
+]]></rss:description>
+
+    <content:items>
+        <rdf:Bag>
+            <rdf:li>
+                <content:item>
+                    <content:format rdf:resource="http://www.w3.org/1999/xhtml"/>
+                    <content:encoding rdf:resource="http://www.w3.org/TR/REC-xml#dt-wellformed"/>
+                    <rdf:value rdf:parseType="Literal" xmlns="http://www.w3.org/1999/xhtml">
+<p>
+Darren Barefoot takes <a href="http://rojo.com">Rojo</a> to <a href="http://www.darrenbarefoot.com/archives/001561.html">task</a> ...
+
+</p>
+
+<p>
+<blockquote class="records-mode-quote">
+I can kind of see what they're getting at, but I'm not sure it's the right
+approach. Has the market demonstrated that it wants all-in-one info-sharing,
+social networking solutions? I don't think so.
+</blockquote>
+
+</p>
+
+<p>
+Rojo is the first service of its kind to integrate weblog aggregation
+(info-sharing) and social networking - of course the market hasn't prove itself - 
+the market is still growing!  The entire social networking, weblog
+aggregation, and wiki space is going to be opening up wide this year.  We're
+seeing a lot of new web services being deployed on an almost daily basis.
+
+</p>
+
+<p>
+<blockquote class="records-mode-quote">
+Their generalist predecessors--Friendster, Orkut, Tribe--were nifty to play
+with, but are, practically speaking, utterly useless. You can find me on all
+of the services (well, I canceled my Friendster account after this
+incident--no great loss there), but I'm only active on the first three.  It
+seems to me that Rojo is trying, needlessly, to be all things to all
+people. The people don't want that.
+</blockquote>
+
+</p>
+
+<p>
+The issue with Orkut, Tribe, Friendster, and the gang was that their entire
+service was a <strong>feature</strong> not a product.  There's no <i>"there"</i> there.  The
+difference is that Rojo is a weblog aggregator (like all the other dozen weblog
+aggregators in the field) but also combines social networking to make sharing
+information with fellow co-workers and bloggers *that* much easier.
+
+</p>
+
+<p>
+<blockquote class="records-mode-quote">
+# It's impossible, at a glance, to determine which items are from which from
+which feeds. The feed name (more important than the item title, as far as I'm
+concerned) is in a tiny font below the item title.
+</blockquote>
+
+</p>
+
+<p>
+Do you have a better suggestion where to put it?  We've gone back and forth on
+this one and landed on our current solution.  We're open minded and take a King
+of the Mountain approach.
+
+</p>
+
+<p>
+Theres also a thumbnail for the blog.  If you hover over the thumbnail you'll
+see the title for the post.  None of Rojo's competitors have this feature.
+
+</p>
+
+<p>
+<blockquote class="records-mode-quote">
+# There's no indicator of read or unread. Or if there is one, it isn't nearly
+  obvious enough.
+</blockquote>
+
+</p>
+
+<p>
+An item is unread if its bold.  Normal font if you've read it.  Read and unread
+status is very important to a lot of users and we're always trying to improve
+this within Rojo.
+
+</p>
+
+<p>
+<blockquote class="records-mode-quote">
+# They only permit about 20 characters for a feed name, truncating longer ones
+with ellipses. 20 characters isn't nearly enough. Dispense with the
+nearly-unused right hand column and expand the left. Alternately, let me set
+the width of each column. Bloglines may look kind of hokey, but I can drag the
+frame edge to wherever I want it.
+</blockquote>
+
+</p>
+
+<p>
+Yes... I don't like frames and I think Rojo's one page layout is nice. 
+
+</p>
+
+<p>
+I do like the way <a href="http://a9.com">a9</a>  supports virtual columns which support drag.
+
+</p>
+
+<p>
+<blockquote class="records-mode-quote">
+# When I imported my OPML file, I got a message that 236 feeds were imported
+successfully, and 20 failed. Check out this screenshot. There was no
+indication of which 20 failed, or why. 90% isn't good enough, but how can I
+fix the problem when they don't articulate the issue? Incidentally, I checked,
+and my OPML file is valid.
+</blockquote>
+
+</p>
+
+<p>
+I think thats a valid criticism.  We should probably consider a report after the
+OPML has finished being imported.
+
+</p>
+
+<p>
+Thanks for the feedback!
+
+</p>
+
+<p>
+
+</p>
+                    </rdf:value>
+                </content:item>
+            </rdf:li>
+        </rdf:Bag>
+    </content:items>
+</rss:item>
+
+<!-- record-link: ../../2004/12/28122004#* Rojo -->
+<rss:item record:uuid="1104286308" rdf:about="http://www.peerfear.org/rss/permalink/2004/12/28/FunWithNYTimesFeeds">
+    <rss:title><![CDATA[Fun with NYTimes Feeds]]></rss:title>
+    <rss:link><![CDATA[http://www.peerfear.org/rss/permalink/2004/12/28/FunWithNYTimesFeeds]]></rss:link>
+    <dc:date>2004-12-28T18:11:48:00-08</dc:date>
+    <dc:creator>Kevin A. Burton</dc:creator>
+    <im:image>http://rojo.com/skins/www.rojo.com/images/logo.gif</im:image>
+    <dc:subject>Rojo</dc:subject>
+    <record:subject>Rojo</record:subject>
+
+<rss:description><![CDATA[
+
+Over on the Rojo blog  Chris writes:
+
+"Thanks very much to Steve Gillmor for alerting us to a bug in how we, and
+other aggregators, were parsing New York Times RSS feeds. In short, stories
+older than 7 days or so were linking to abstracts of the articles, not the
+full articles themselves. This is something we will fix. Steve speculated that
+perhaps the "Times doesn't want server-based aggregators such as Bloglines and
+Rojo to consistently allow permalink access beyond seven days." Fortunately we
+don't see any evidence of that and in fact believe NYT has done a great job in
+making their content available via RSS, particularly by including a specific
+"partner" parameter on the URL for RSS aggr ...
+
+]]></rss:description>
+
+    <content:items>
+        <rdf:Bag>
+            <rdf:li>
+                <content:item>
+                    <content:format rdf:resource="http://www.w3.org/1999/xhtml"/>
+                    <content:encoding rdf:resource="http://www.w3.org/TR/REC-xml#dt-wellformed"/>
+                    <rdf:value rdf:parseType="Literal" xmlns="http://www.w3.org/1999/xhtml">
+<p>
+Over on the Rojo <a href="http://blog.rojo.com/rojoblog/2004/12/rojo_bug_with_n.html">blog</a>  Chris writes:
+
+</p>
+
+<p>
+<blockquote class="records-mode-quote">
+Thanks very much to Steve Gillmor for alerting us to a bug in how we, and
+other aggregators, were parsing New York Times RSS feeds. In short, stories
+older than 7 days or so were linking to abstracts of the articles, not the
+full articles themselves. This is something we will fix. Steve speculated that
+perhaps the <i>"Times doesn't want server-based aggregators such as Bloglines and
+Rojo to consistently allow permalink access beyond seven days."</i> Fortunately we
+don't see any evidence of that and in fact believe NYT has done a great job in
+making their content available via RSS, particularly by including a specific
+"partner" parameter on the URL for RSS aggregators (client and server
+alike). Thanks for looking out for us Steve!
+</blockquote>
+
+</p>
+
+<p>
+Of course this all started when Steve <a href="http://blogs.zdnet.com/Gillmor/index.php?p=26">noticed</a>  that Rojo wasn't including the
+correct link to the NYTimes stories.
+
+</p>
+
+<p>
+I thought I would take a moment and explain what was happening from a technical
+perspective. 
+
+</p>
+
+<p>
+Rojo was finding and indexing the RSS just fine but was using the GUID instead
+of the correct 'link' element as per the RSS 2.0 spec.
+
+</p>
+
+<pre><![CDATA[
+<guid isPermaLink="false">
+http://www.nytimes.com/2004/12/29/business/worldbusiness/29mongolia.html
+</guid>
+]]></pre>
+
+<p>
+Of course this GUID isn't a permalink so Rojo shouldn't have been showing it to
+the user.
+
+</p>
+
+<p>
+The NYTimes wants aggregators to use this link instead:
+
+</p>
+
+<pre><![CDATA[
+
+<link>
+http://www.nytimes.com/2004/12/29/business/worldbusiness/29mongolia.html?ex=1261976400&en=1bfa8a21f3e9dcac&ei=5088&partner=rssnyt
+</link>
+
+]]></pre>
+
+<p>
+... and was even nice enough to include the <code>partner=rssnyt</code> which I think
+is that made all the difference.
+
+</p>
+
+<p>
+
+</p>
+                    </rdf:value>
+                </content:item>
+            </rdf:li>
+        </rdf:Bag>
+    </content:items>
+</rss:item>
+
+<!-- record-link: ../../2004/12/22122004#* P2P -->
+<rss:item record:uuid="1103781926" rdf:about="http://www.peerfear.org/rss/permalink/2004/12/22/ForgetSuprNovaUseGoogleToFindBittorrents">
+    <rss:title><![CDATA[Forget SuprNova!  Use Google to find Bittorrents!]]></rss:title>
+    <rss:link><![CDATA[http://www.peerfear.org/rss/permalink/2004/12/22/ForgetSuprNovaUseGoogleToFindBittorrents]]></rss:link>
+    <dc:date>2004-12-22T22:05:25:00-08</dc:date>
+    <dc:creator>Kevin A. Burton</dc:creator>
+    <im:image>http://www.newsmonster.org/misc/rss/images/p2p.gif</im:image>
+    <dc:subject>P2P</dc:subject>
+    <record:subject>P2P</record:subject>
+
+<rss:description><![CDATA[
+
+This is a fun little query:
+
+I was googling for Futakoi (which I know nothing about but its more Anime).
+
+Anyway.  The first two links are .torrent files!
+
+]]></rss:description>
+
+    <content:items>
+        <rdf:Bag>
+            <rdf:li>
+                <content:item>
+                    <content:format rdf:resource="http://www.w3.org/1999/xhtml"/>
+                    <content:encoding rdf:resource="http://www.w3.org/TR/REC-xml#dt-wellformed"/>
+                    <rdf:value rdf:parseType="Literal" xmlns="http://www.w3.org/1999/xhtml">
+<p>
+This is a fun little query:
+
+</p>
+
+<p>
+<a href="http://www.google.com/search?hl=en&amp;q=futakoi&amp;btnG=Google+Search">http://www.google.com/search?hl=en&amp;q=futakoi&amp;btnG=Google+Search</a>
+
+</p>
+
+<p>
+I was googling for Futakoi (which I know nothing about but its more Anime).
+
+</p>
+
+<p>
+Anyway.  The first two links are .torrent files!
+
+</p>
+
+<p>
+
+</p>
+                    </rdf:value>
+                </content:item>
+            </rdf:li>
+        </rdf:Bag>
+    </content:items>
+</rss:item>
+
+<!-- record-link: ../../2004/12/22122004#* Anime -->
+<rss:item record:uuid="1103779461" rdf:about="http://www.peerfear.org/rss/permalink/2004/12/22/Appleseed">
+    <rss:title><![CDATA[Appleseed]]></rss:title>
+    <rss:link><![CDATA[http://www.peerfear.org/rss/permalink/2004/12/22/Appleseed]]></rss:link>
+    <dc:date>2004-12-22T21:24:21:00-08</dc:date>
+    <dc:creator>Kevin A. Burton</dc:creator>
+    <im:image>http://relativity.yi.org/rss/images/default.gif</im:image>
+    <dc:subject>Anime</dc:subject>
+    <record:subject>Anime</record:subject>
+
+<rss:description><![CDATA[
+
+This is my new favorite Anime... Appleseed .  IMDB also has an entry 
+
+"In the year 2131, the remaining members of the human race are locked in a war
+with bioroids, an army of machines who once were domestic servants."
+
+"Bioroids, humanoid synthetics, are popping up at a record rate. The problem is
+that they are so realistic nobody knows they are robots. When a synthetic
+virus threatens the bioroid population a cure must be sought. However,
+militant protestors and hate groups (backing a corrupt millitary) unify to
+impeed the protectors of the boiroid race from obtaining a cure. However, with
+over half of the planet Earth being bioroids, this new fear of genocide peaks
+in frenzy."
+
+"When a re ...
+
+]]></rss:description>
+
+    <content:items>
+        <rdf:Bag>
+            <rdf:li>
+                <content:item>
+                    <content:format rdf:resource="http://www.w3.org/1999/xhtml"/>
+                    <content:encoding rdf:resource="http://www.w3.org/TR/REC-xml#dt-wellformed"/>
+                    <rdf:value rdf:parseType="Literal" xmlns="http://www.w3.org/1999/xhtml">
+<p>
+This is my new favorite Anime... <a href="http://www.apple.com/jp/quicktime/trailers/appleseed_large.html">Appleseed</a> .  IMDB also has an <a href="http://imdb.com/title/tt0094668/?fr=c2l0ZT1kZnxteD0yMHxzZz0xfGxtPTIwMHx0dD1vbnxwbj0wfHE9YXBwbGVzZWVkfGh0bWw9MXxubT1vbg__;fc=2;ft=4;fm=1">entry</a> 
+
+</p>
+
+<p>
+<blockquote class="records-mode-quote">
+In the year 2131, the remaining members of the human race are locked in a war
+with bioroids, an army of machines who once were domestic servants.
+</blockquote>
+
+</p>
+
+<p>
+<blockquote class="records-mode-quote">
+Bioroids, humanoid synthetics, are popping up at a record rate. The problem is
+that they are so realistic nobody knows they are robots. When a synthetic
+virus threatens the bioroid population a cure must be sought. However,
+militant protestors and hate groups (backing a corrupt millitary) unify to
+impeed the protectors of the boiroid race from obtaining a cure. However, with
+over half of the planet Earth being bioroids, this new fear of genocide peaks
+in frenzy.
+</blockquote>
+
+</p>
+
+<p>
+<blockquote class="records-mode-quote">
+When a rebell soldier fighting in the ruins on the outer fringe of the old
+crippled city makes a promissing draft choice , the New City Police take
+notice. She used to be one of them, and has what it takes to find the cure,
+and bring salvation against all odds. In a last minute rescue the New City
+Police snatch up Deunan, a sexy human woman who happens to be built like a
+tank. She is taken back to the city and debunked for her new mission: save
+half of the planet from extinction.
+</blockquote>
+
+</p>
+
+<p>
+The opening intro is worth the DVD intro!
+
+</p>
+
+<p>
+
+</p>
+                    </rdf:value>
+                </content:item>
+            </rdf:li>
+        </rdf:Bag>
+    </content:items>
+</rss:item>
+
+<!-- record-link: ../../2004/12/22122004#* Security -->
+<rss:item record:uuid="1103756052" rdf:about="http://www.peerfear.org/rss/permalink/2004/12/22/TSocksSSHSocks4AndTor">
+    <rss:title><![CDATA[TSocks, SSH, Socks4 and Tor]]></rss:title>
+    <rss:link><![CDATA[http://www.peerfear.org/rss/permalink/2004/12/22/TSocksSSHSocks4AndTor]]></rss:link>
+    <dc:date>2004-12-22T14:54:11:00-08</dc:date>
+    <dc:creator>Kevin A. Burton</dc:creator>
+    <im:image>http://www.newsmonster.org/misc/rss/images/security.jpg</im:image>
+    <dc:subject>Security</dc:subject>
+    <record:subject>Security</record:subject>
+
+<rss:description><![CDATA[
+
+Today I played with using TSocks  and SSH to provide a transparent SOCKS5
+proxy to internal hosts in our colo.
+
+Its a pretty easy setup:
+
+{{{
+
+apt-get install tsocks
+vi /etc/tsocks.conf #define your networks here
+export LD_PRELOAD=/usr/lib/libtsocks.so
+
+ssh -D 9050 username@server.com
+
+}}}
+
+Then you can use all your standard applictions like wget, Mozilla, etc without
+any reconfiguration.  Since its SOCKS based and not application based you can
+connect to everything as if you had a route.  No more stupid localhost:198377
+custom port forwards!
+
+The trick of course is the {{{-D 9050}}} which tells SSH to open a SOCKS server
+on that port.
+
+It turns out that tor  also supports tsocks which seems ...
+
+]]></rss:description>
+
+    <content:items>
+        <rdf:Bag>
+            <rdf:li>
+                <content:item>
+                    <content:format rdf:resource="http://www.w3.org/1999/xhtml"/>
+                    <content:encoding rdf:resource="http://www.w3.org/TR/REC-xml#dt-wellformed"/>
+                    <rdf:value rdf:parseType="Literal" xmlns="http://www.w3.org/1999/xhtml">
+<p>
+Today I played with using <a href="http://tsocks.sf.net">TSocks</a>  and SSH to provide a transparent SOCKS5
+proxy to internal hosts in our colo.
+
+</p>
+
+<p>
+Its a pretty easy setup:
+
+</p>
+
+<pre><![CDATA[
+
+apt-get install tsocks
+vi /etc/tsocks.conf #define your networks here
+export LD_PRELOAD=/usr/lib/libtsocks.so
+
+ssh -D 9050 username@server.com
+
+]]></pre>
+
+<p>
+Then you can use all your standard applictions like wget, Mozilla, etc without
+any reconfiguration.  Since its SOCKS based and not application based you can
+connect to everything as if you had a route.  No more stupid localhost:198377
+custom port forwards!
+
+</p>
+
+<p>
+The trick of course is the <code>-D 9050</code> which tells SSH to open a SOCKS server
+on that port.
+
+</p>
+
+<p>
+It turns out that <a href="http://tor.freehaven.net/">tor</a>  also supports tsocks which seems pretty amazing.
+
+</p>
+
+<p>
+<span style="color: blue">
+SUPPLEMENTAL: // created on 2004-12-22T15:18:56:00-08</span>
+
+</p>
+
+<p>
+Here's my tsocks config script:
+
+</p>
+
+<p>
+It doesn't seem to take all hosts as an option here so I had to specify 254
+Class C addresses.  If anyone figures out a less verbose mechanism I'd love to
+konw about it.
+
+</p>
+
+<pre><![CDATA[
+
+local = 1.0.0.0/255.0.0.0
+
+# you fill in the rest.......
+
+# for arg in `seq 1 254` ; do
+#     echo local = $arg.0.0.0/255.0.0.0
+# done
+
+local = 254.0.0.0/255.0.0.0
+
+path {
+    reaches = 10.0.0.0/255.0.0.0
+ 	server = 127.0.0.1
+ 	server_type = 5
+    server_port = 9050
+}
+
+]]></pre>
+
+<p>
+
+</p>
+
+<p>
+
+</p>
+                    </rdf:value>
+                </content:item>
+            </rdf:li>
+        </rdf:Bag>
+    </content:items>
+</rss:item>
+
+<!-- record-link: ../../2004/12/21122004#* Java -->
+<rss:item record:uuid="1103651520" rdf:about="http://www.peerfear.org/rss/permalink/2004/12/21/4YearOldDatabaseStatsArenTNews">
+    <rss:title><![CDATA[4 Year Old Database Stats Aren't News]]></rss:title>
+    <rss:link><![CDATA[http://www.peerfear.org/rss/permalink/2004/12/21/4YearOldDatabaseStatsArenTNews]]></rss:link>
+    <dc:date>2004-12-21T09:51:59:00-08</dc:date>
+    <dc:creator>Kevin A. Burton</dc:creator>
+    <im:image>http://www.newsmonster.org/misc/rss/images/java.gif</im:image>
+    <dc:subject>Java</dc:subject>
+    <record:subject>Java</record:subject>
+
+<rss:description><![CDATA[
+
+Yesterday the The Inquirer linked  to me talking about the performance of
+hsqldb .
+
+"One noteworthy addition to this upcoming 2.0 OO.o release is the HSQL Embedded
+database engine a fast Java-based embedded database engine that once surprised
+everyone by beating IBM's Cloudscape (now also open sourced) and even C++
+databases. Also included is a user friendly database application dubbed
+"OpenOffice Base" which allows you to effortlessly create both databases,
+queries and reports using helpful "wizards". Current 1.x versions of
+OpenOffice lack an embedded database and only the commercial StarOffice
+product includes one in the form of the bundled "Adabas D" licensed from
+Software AG, but even t ...
+
+]]></rss:description>
+
+    <content:items>
+        <rdf:Bag>
+            <rdf:li>
+                <content:item>
+                    <content:format rdf:resource="http://www.w3.org/1999/xhtml"/>
+                    <content:encoding rdf:resource="http://www.w3.org/TR/REC-xml#dt-wellformed"/>
+                    <rdf:value rdf:parseType="Literal" xmlns="http://www.w3.org/1999/xhtml">
+<p>
+Yesterday the The Inquirer <a href="http://www.theinquirer.net/?article=20293">linked</a>  to me talking about the performance of
+<a href="http://www.peerfear.org/download/hsqldb/site-docs/performance.html">hsqldb</a> .
+
+</p>
+
+<p>
+<blockquote class="records-mode-quote">
+One noteworthy addition to this upcoming 2.0 OO.o release is the HSQL Embedded
+database engine a fast Java-based embedded database engine that once surprised
+everyone by beating IBM's Cloudscape (now also open sourced) and even C++
+databases. Also included is a user friendly database application dubbed
+<i>"OpenOffice Base"</i> which allows you to effortlessly create both databases,
+queries and reports using helpful "wizards". Current 1.x versions of
+OpenOffice lack an embedded database and only the commercial StarOffice
+product includes one in the form of the bundled "Adabas D" licensed from
+Software AG, but even then such a friendly database front-end is missing from
+SO7
+</blockquote>
+
+</p>
+
+<p>
+This is NOT news.  These performance stats were done <strong>years</strong> ago by the original
+author of Hypersonic (not hsqldb) and were created while we were working on the
+fork of the project named <a href="http://axion.tigris.org/">Axion</a> .
+
+</p>
+
+<p>
+Hsqldb is a terrible database.  The authors and maintainers of the projects in
+my experience have done a poor job at maintaining the project.  This is why I
+participated in the fork (Axion).
+
+</p>
+
+<p>
+Of course <a href="http://incubator.apache.org/projects/derby.html">Derby</a>  looks like its going to come out and really suprise everyone
+and I can't wait to play with it.  Its a shame Open Office didn't use this
+database instead.
+
+</p>
+
+<p>
+
+</p>
+                    </rdf:value>
+                </content:item>
+            </rdf:li>
+        </rdf:Bag>
+    </content:items>
+</rss:item>
+
+<!-- record-link: ../../2004/12/19122004#* RSS -->
+<rss:item record:uuid="1103499663" rdf:about="http://www.peerfear.org/rss/permalink/2004/12/19/WhatDoYouWantInYourAggregatorOrRSS">
+    <rss:title><![CDATA[What do you want in your Aggregator!?  (or RSS)]]></rss:title>
+    <rss:link><![CDATA[http://www.peerfear.org/rss/permalink/2004/12/19/WhatDoYouWantInYourAggregatorOrRSS]]></rss:link>
+    <dc:date>2004-12-19T15:41:02:00-08</dc:date>
+    <dc:creator>Kevin A. Burton</dc:creator>
+    <im:image>http://www.newsmonster.org/misc/rss/images/rss.jpg</im:image>
+    <dc:subject>RSS</dc:subject>
+    <record:subject>RSS</record:subject>
+
+<rss:description><![CDATA[
+
+Open post!  What do you want in your RSS/Atom aggregator that doesn't exist
+today or hasn't not done correctly?
+
+Better recommendations?  
+
+Offline reading support?
+
+Better transparent browser integration?
+
+Better performance?
+
+Better threading support? 
+
+Ability to aggregate comments?
+
+Support for media integration?
+
+Of course the best ideas might end up implemented in Rojo .
+
+Just add your thoughts to the comments...
+
+]]></rss:description>
+
+    <content:items>
+        <rdf:Bag>
+            <rdf:li>
+                <content:item>
+                    <content:format rdf:resource="http://www.w3.org/1999/xhtml"/>
+                    <content:encoding rdf:resource="http://www.w3.org/TR/REC-xml#dt-wellformed"/>
+                    <rdf:value rdf:parseType="Literal" xmlns="http://www.w3.org/1999/xhtml">
+<p>
+Open post!  What do you want in your RSS/Atom aggregator that doesn't exist
+today or hasn't not done correctly?
+
+</p>
+
+<p>
+Better recommendations?  
+
+</p>
+
+<p>
+Offline reading support?
+
+</p>
+
+<p>
+Better transparent browser integration?
+
+</p>
+
+<p>
+Better performance?
+
+</p>
+
+<p>
+Better threading support? 
+
+</p>
+
+<p>
+Ability to aggregate comments?
+
+</p>
+
+<p>
+Support for media integration?
+
+</p>
+
+<p>
+Of course the best ideas might end up implemented in <a href="http://rojo.com">Rojo</a> .
+
+</p>
+
+<p>
+Just add your thoughts to the comments...
+
+</p>
+
+<p>
+
+</p>
+                    </rdf:value>
+                </content:item>
+            </rdf:li>
+        </rdf:Bag>
+    </content:items>
+</rss:item>
+
+<!-- record-link: ../../2004/12/19122004#* Java -->
+
+
+<!-- record-link: ../../2004/12/18122004#1* Java -->
+
+<!-- record-link: ../../2004/12/18122004#* Java -->
+
+<!-- record-link: ../../2004/12/18122004#* Linux -->
+
+<!-- record-link: ../../2004/12/17122004#* Internet -->
+
+<!-- record-link: ../../2004/12/16122004#* Linux -->
+
+<!-- record-link: ../../2004/12/12122004#* Internet -->
+
+<!-- record-link: ../../2004/12/10122004#* Java -->
+
+<!-- record-link: ../../2004/12/09122004#* Google -->
+
+<!-- record-link: ../../2004/12/09122004#* Linux -->
+
+<!-- record-link: ../../2004/12/09122004#* Freedom -->
+
+<!-- record-link: ../../2004/12/08122004#* Linux -->
+
+<!-- record-link: ../../2004/12/05122004#* RSS -->
+
+<!-- record-link: ../../2004/11/30112004#1* Linux -->
+
+<!-- record-link: ../../2004/11/28112004#* Mozilla -->
+
+<!-- record-link: ../../2004/11/26112004#* Security -->
+
+<!-- record-link: ../../2004/11/18112004#* Linux -->
+
+<!-- record-link: ../../2004/11/13112004#1* Mozilla -->
+
+<!-- record-link: ../../2004/11/13112004#* Mozilla -->
+
+<!-- record-link: ../../2004/11/12112004#1* Rojo -->
+
+<!-- record-link: ../../2004/11/11112004#* Internet -->
+
+<!-- record-link: ../../2004/11/11112004#* Rojo -->
+
+<!-- record-link: ../../2004/11/09112004#* Mozilla -->
+
+<!-- record-link: ../../2004/11/09112004#* Reputation -->
+
+<!-- record-link: ../../2004/11/07112004#* Freedom -->
+
+<!-- record-link: ../../2004/11/06112004#* Freedom -->
+
+<!-- record-link: ../../2004/11/04112004#2* Rojo -->
+
+<!-- record-link: ../../2004/11/03112004#3* Freedom -->
+
+<!-- record-link: ../../2004/11/03112004#1* Freedom -->
+
+<!-- record-link: ../../2004/11/03112004#* Freedom -->
+
+<!-- record-link: ../../2004/10/30102004#* Internet -->
+
+<!-- record-link: ../../2004/10/29102004#1* Freedom -->
+
+<!-- record-link: ../../2004/10/29102004#* Freedom -->
+
+<!-- record-link: ../../2004/10/28102004#1* Internet -->
+
+<!-- record-link: ../../2004/10/28102004#* Internet -->
+
+<!-- record-link: ../../2004/10/28102004#* Java -->
+
+<!-- record-link: ../../2004/10/27102004#* MySQL -->
+
+<!-- record-link: ../../2004/10/27102004#* Wireless -->
+
+<!-- record-link: ../../2004/10/26102004#* Java -->
+
+<!-- record-link: ../../2004/10/25102004#* Copyright -->
+
+<!-- record-link: ../../2004/10/25102004#* Linux -->
+
+<!-- record-link: ../../2004/10/25102004#* Wireless -->
+
+<!-- record-link: ../../2004/10/24102004#* Freedom -->
+
+<!-- record-link: ../../2004/10/24102004#* Wireless -->
+
+<!-- record-link: ../../2004/10/23102004#* Wireless -->
+
+<!-- record-link: ../../2004/10/22102004#* Wireless -->
+
+<!-- record-link: ../../2004/10/22102004#* Freedom -->
+
+<!-- record-link: ../../2004/10/22102004#* RSS -->
+
+<!-- record-link: ../../2004/10/21102004#* Freedom -->
+
+<!-- record-link: ../../2004/10/16102004#2* Rojo -->
+
+<!-- record-link: ../../2004/10/16102004#1* MySQL -->
+
+<!-- record-link: ../../2004/10/16102004#* Internet -->
+
+<!-- record-link: ../../2004/10/15102004#* MySQL -->
+
+<!-- record-link: ../../2004/10/15102004#* Google -->
+
+<!-- record-link: ../../2004/10/14102004#* Blogging -->
+
+<!-- record-link: ../../2004/10/13102004#* Reputation -->
+
+<!-- record-link: ../../2004/10/12102004#3* Rojo -->
+
+<!-- record-link: ../../2004/10/04102004#* Rojo -->
+
+<!-- record-link: ../../2004/09/30092004#* RSS -->
+
+<!-- record-link: ../../2004/09/29092004#* Linux -->
+
+<!-- record-link: ../../2004/09/27092004#* Linux -->
+
+<!-- record-link: ../../2004/09/20092004#* Rojo -->
+
+<!-- record-link: ../../2004/09/19092004#* Linux -->
+
+<!-- record-link: ../../2004/09/15092004#* Linux -->
+
+<!-- record-link: ../../2004/09/14092004#* Freedom -->
+
+<!-- record-link: ../../2004/09/12092004#1* Java -->
+
+<!-- record-link: ../../2004/09/12092004#* Linux -->
+
+<!-- record-link: ../../2004/09/12092004#1* RSS -->
+
+<!-- record-link: ../../2004/09/12092004#* RSS -->
+
+<!-- record-link: ../../2004/09/12092004#* P2P -->
+
+<!-- record-link: ../../2004/09/11092004#* RSS -->
+
+<!-- record-link: ../../2004/09/09092004#* Linux -->
+
+<!-- record-link: ../../2004/09/06092004#* Freedom -->
+
+<!-- record-link: ../../2004/09/06092004#* RSS -->
+
+<!-- record-link: ../../2004/09/06092004#* XML -->
+
+<!-- record-link: ../../2004/09/04092004#* Open Source -->
+
+<!-- record-link: ../../2004/09/04092004#* Science -->
+
+<!-- record-link: ../../2004/09/03092004#* Java -->
+
+<!-- record-link: ../../2004/09/03092004#* Open Source -->
+
+<!-- record-link: ../../2004/09/02092004#* Java -->
+
+<!-- record-link: ../../2004/09/02092004#* Rojo -->
+
+<!-- record-link: ../../2004/08/29082004#* RSS -->
+
+<!-- record-link: ../../2004/08/29082004#* Freedom -->
+
+<!-- record-link: ../../2004/08/29082004#* Java -->
+
+<!-- record-link: ../../2004/08/21082004#* Java -->
+
+<!-- record-link: ../../2004/08/17082004#* Internet -->
+
+<!-- record-link: ../../2004/08/15082004#* Open Source -->
+
+<!-- record-link: ../../2004/08/15082004#* Science -->
+
+<!-- record-link: ../../2004/08/14082004#* Java -->
+
+<!-- record-link: ../../2004/08/03082004#* Java -->
+
+<!-- record-link: ../../2004/08/03082004#* Linux -->
+
+<!-- record-link: ../../2004/08/01082004#1* Internet -->
+
+<!-- record-link: ../../2004/08/01082004#* Linux -->
+
+<!-- record-link: ../../2004/07/28072004#* Freedom -->
+
+<!-- record-link: ../../2004/07/26072004#* Java -->
+
+<!-- record-link: ../../2004/07/14072004#* Freedom -->
+
+<!-- record-link: ../../2004/07/03072004#1* Security -->
+
+<!-- record-link: ../../2004/07/04072004#* Mozilla -->
+
+<!-- record-link: ../../2004/06/28062004#2* Freedom -->
+
+<!-- record-link: ../../2004/06/28062004#1* Freedom -->
+
+<!-- record-link: ../../2004/06/28062004#* Freedom -->
+
+<!-- record-link: ../../2004/06/27062004#* Java -->
+
+<!-- record-link: ../../2004/06/26062004#* Java -->
+
+<!-- record-link: ../../2004/06/26062004#* Freedom -->
+
+<!-- record-link: ../../2004/06/25062004#* Freedom -->
+
+<!-- record-link: ../../2004/06/24062004#* Freedom -->
+
+<!-- record-link: ../../2004/06/18062004#* Microsoft -->
+
+<!-- record-link: ../../2004/06/17062004#* Microsoft -->
+
+<!-- record-link: ../../2004/06/17062004#* RSS -->
+
+<!-- record-link: ../../2004/06/15062004#* Freedom -->
+
+<!-- record-link: ../../2004/06/14062004#* Microsoft -->
+
+<!-- record-link: ../../2004/06/13062004#* Mozilla -->
+
+<!-- record-link: ../../2004/06/13062004#1* Freedom -->
+
+<!-- record-link: ../../2004/06/13062004#* Freedom -->
+
+<!-- record-link: ../../2004/06/13062004#* Open Source -->
+
+<!-- record-link: ../../2004/06/12062004#* Music -->
+
+<!-- record-link: ../../2004/06/12062004#* Freedom -->
+
+<!-- record-link: ../../2004/06/11062004#* RSS -->
+
+<!-- record-link: ../../2004/06/10062004#* P2P -->
+
+<!-- record-link: ../../2004/06/08062004#* Internet -->
+
+<!-- record-link: ../../2004/06/07062004#* Freedom -->
+
+<!-- record-link: ../../2004/06/05062004#* Java -->
+
+<!-- record-link: ../../2004/06/05062004#1* Freedom -->
+
+<!-- record-link: ../../2004/06/05062004#* Freedom -->
+
+<!-- record-link: ../../2004/06/03062004#* Freedom -->
+
+<!-- record-link: ../../2004/05/31052004#* Computers -->
+
+<!-- record-link: ../../2004/05/30052004#1* Freedom -->
+
+<!-- record-link: ../../2004/05/30052004#* Freedom -->
+
+<!-- record-link: ../../2004/05/26052004#1* Freedom -->
+
+<!-- record-link: ../../2004/05/26052004#* Freedom -->
+
+<!-- record-link: ../../2004/05/25052004#1* Freedom -->
+
+<!-- record-link: ../../2004/05/25052004#* Freedom -->
+
+<!-- record-link: ../../2004/05/24052004#* Freedom -->
+
+<!-- record-link: ../../2004/05/23052004#* Internet -->
+
+<!-- record-link: ../../2004/05/23052004#1* Freedom -->
+
+<!-- record-link: ../../2004/05/23052004#* Open Source -->
+
+<!-- record-link: ../../2004/05/23052004#* Freedom -->
+
+<!-- record-link: ../../2004/05/22052004#2* Freedom -->
+
+<!-- record-link: ../../2004/05/22052004#1* Freedom -->
+
+<!-- record-link: ../../2004/05/22052004#* Freedom -->
+
+<!-- record-link: ../../2004/05/08052004#2* Freedom -->
+
+<!-- record-link: ../../2004/05/08052004#1* Freedom -->
+
+<!-- record-link: ../../2004/05/08052004#* Freedom -->
+
+<!-- record-link: ../../2004/05/07052004#1* Freedom -->
+
+<!-- record-link: ../../2004/05/07052004#* Privacy -->
+
+<!-- record-link: ../../2004/05/07052004#* Freedom -->
+
+<!-- record-link: ../../2004/05/06052004#* Freedom -->
+
+<!-- record-link: ../../2004/04/23042004#* Freedom -->
+
+<!-- record-link: ../../2004/04/22042004#* Wireless -->
+
+<!-- record-link: ../../2004/04/20042004#* Java -->
+
+<!-- record-link: ../../2004/04/18042004#* Java -->
+
+<!-- record-link: ../../2004/04/18042004#* Freedom -->
+
+<!-- record-link: ../../2004/04/13042004#1* Freedom -->
+
+<!-- record-link: ../../2004/04/13042004#* Freedom -->
+
+<!-- record-link: ../../2004/04/11042004#* Linux -->
+
+<!-- record-link: ../../2004/04/09042004#* Music -->
+
+<!-- record-link: ../../2004/04/07042004#* Microsoft -->
+
+<!-- record-link: ../../2004/04/07042004#* Freedom -->
+
+<!-- record-link: ../../2004/04/06042004#* Freedom -->
+
+<!-- record-link: ../../2004/04/05042004#* Freedom -->
+
+<!-- record-link: ../../2004/04/04042004#* Freedom -->
+
+<!-- record-link: ../../2004/04/03042004#* Freedom -->
+
+<!-- record-link: ../../2004/04/01042004#1* Freedom -->
+
+<!-- record-link: ../../2004/04/01042004#* Freedom -->
+
+<!-- record-link: ../../2004/03/28032004#* Linux -->
+
+<!-- record-link: ../../2004/03/27032004#1* Freedom -->
+
+<!-- record-link: ../../2004/03/27032004#* Freedom -->
+
+<!-- record-link: ../../2004/03/26032004#1* Freedom -->
+
+<!-- record-link: ../../2004/03/26032004#* Freedom -->
+
+<!-- record-link: ../../2004/03/21032004#* Mozilla -->
+
+<!-- record-link: ../../2004/03/19032004#* Java -->
+
+<!-- record-link: ../../2004/03/18032004#1* Freedom -->
+
+<!-- record-link: ../../2004/03/18032004#* Freedom -->
+
+<!-- record-link: ../../2004/03/18032004#* P2P -->
+
+<!-- record-link: ../../2004/03/16032004#* Computers -->
+
+<!-- record-link: ../../2004/03/16032004#* Freedom -->
+
+<!-- record-link: ../../2004/03/14032004#* Freedom -->
+
+<!-- record-link: ../../2004/03/13032004#1* Freedom -->
+
+<!-- record-link: ../../2004/03/13032004#* Freedom -->
+
+<!-- record-link: ../../2004/03/11032004#* Freedom -->
+
+<!-- record-link: ../../2004/03/11032004#* Internet -->
+
+<!-- record-link: ../../2004/03/10032004#1* Linux -->
+
+<!-- record-link: ../../2004/03/09032004#* RSS -->
+
+<!-- record-link: ../../2004/03/06032004#* Freedom -->
+
+<!-- record-link: ../../2004/03/06032004#* Blogging -->
+
+<!-- record-link: ../../2004/03/05032004#* Mozilla -->
+
+<!-- record-link: ../../2004/03/01032004#* Linux -->
+
+<!-- record-link: ../../2004/03/01032004#* Freedom -->
+
+<!-- record-link: ../../2004/02/28022004#* Security -->
+
+<!-- record-link: ../../2004/02/28022004#* P2P -->
+
+<!-- record-link: ../../2004/02/28022004#* Freedom -->
+
+<!-- record-link: ../../2004/02/27022004#* Linux -->
+
+<!-- record-link: ../../2004/02/26022004#* NewsMonster -->
+
+<!-- record-link: ../../2004/02/26022004#* Freedom -->
+
+<!-- record-link: ../../2004/02/25022004#* Java -->
+
+<!-- record-link: ../../2004/02/25022004#* RSS -->
+
+<!-- record-link: ../../2004/02/24022004#1* San Francisco -->
+
+<!-- record-link: ../../2004/02/24022004#* San Francisco -->
+
+<!-- record-link: ../../2004/02/23022004#* RSS -->
+
+<!-- record-link: ../../2004/02/19022004#1* San Francisco -->
+
+<!-- record-link: ../../2004/02/19022004#* San Francisco -->
+
+<!-- record-link: ../../2004/02/18022004#* RSS -->
+
+<!-- record-link: ../../2004/02/15022004#* Freedom -->
+
+<!-- record-link: ../../2004/02/14022004#* ETech -->
+
+<!-- record-link: ../../2004/02/12022004#* San Francisco -->
+
+<!-- record-link: ../../2004/02/11022004#* Mozilla -->
+
+<!-- record-link: ../../2004/02/04022004#* RSS -->
+
+<!-- record-link: ../../2004/02/01022004#* Mozilla -->
+
+<!-- record-link: ../../2004/01/28012004#* Freedom -->
+
+<!-- record-link: ../../2004/01/26012004#* Linux -->
+
+<!-- record-link: ../../2004/01/25012004#* Linux -->
+
+<!-- record-link: ../../2004/01/25012004#1* Freedom -->
+
+<!-- record-link: ../../2004/01/25012004#* Freedom -->
+
+<!-- record-link: ../../2004/01/24012004#* Freedom -->
+
+<!-- record-link: ../../2004/01/23012004#1* Freedom -->
+
+<!-- record-link: ../../2004/01/23012004#* Freedom -->
+
+<!-- record-link: ../../2004/01/22012004#* Freedom -->
+
+<!-- record-link: ../../2004/01/21012004#* Freedom -->
+
+<!-- record-link: ../../2004/01/21012004#* Java -->
+
+<!-- record-link: ../../2004/01/21012004#1* Security -->
+
+<!-- record-link: ../../2004/01/21012004#* Security -->
+
+<!-- record-link: ../../2004/01/20012004#* Freedom -->
+
+<!-- record-link: ../../2004/01/19012004#* Freedom -->
+
+<!-- record-link: ../../2004/01/15012004#* Freedom -->
+
+<!-- record-link: ../../2004/01/12012004#1* Freedom -->
+
+<!-- record-link: ../../2004/01/12012004#* Freedom -->
+
+<!-- record-link: ../../2004/01/11012004#* Java -->
+
+<!-- record-link: ../../2004/01/10012004#* Freedom -->
+
+<!-- record-link: ../../2004/01/10012004#* Linux -->
+
+<!-- record-link: ../../2004/01/07012004#1* Freedom -->
+
+<!-- record-link: ../../2004/01/07012004#* Freedom -->
+
+<!-- record-link: ../../2004/01/06012004#2* Freedom -->
+
+<!-- record-link: ../../2004/01/06012004#* Drugs -->
+
+<!-- record-link: ../../2004/01/06012004#* Freedom -->
+
+<!-- record-link: ../../2004/01/05012004#* Open Source -->
+
+<!-- record-link: ../../2004/01/04012004#* Freedom -->
+
+<!-- record-link: ../../2004/01/03012004#* Pictures -->
+
+<!-- record-link: ../../2004/01/03012004#* Open Source -->
+
+<!-- record-link: ../../2004/01/02012004#* Freedom -->
+
+<!-- record-link: ../../2004/01/01012004#1* Freedom -->
+
+<!-- record-link: ../../2004/01/01012004#* Freedom -->
+
+<!-- record-link: ../../2003/12/31122003#1* Freedom -->
+
+<!-- record-link: ../../2003/12/31122003#* Freedom -->
+
+<!-- record-link: ../../2003/12/24122003#* Linux -->
+
+<!-- record-link: ../../2003/12/28122003#* Freedom -->
+
+<!-- record-link: ../../2003/12/28122003#* Open Source -->
+
+<!-- record-link: ../../2003/12/22122003#* Funny -->
+
+<!-- record-link: ../../2003/12/20122003#* San Francisco -->
+
+<!-- record-link: ../../2003/12/20122003#* Mozilla -->
+
+<!-- record-link: ../../2003/12/21122003#* P2P -->
+
+<!-- record-link: ../../2003/12/20122003#* Freedom -->
+
+<!-- record-link: ../../2003/12/18122003#* Freedom -->
+
+<!-- record-link: ../../2003/12/16122003#* Java -->
+
+<!-- record-link: ../../2003/12/15122003#* Pictures -->
+
+<!-- record-link: ../../2003/12/12122003#* Blogging -->
+
+<!-- record-link: ../../2003/12/11122003#* Freedom -->
+
+<!-- record-link: ../../2003/12/11122003#* NewsMonster -->
+
+<!-- record-link: ../../2003/12/10122003#* Java -->
+
+<!-- record-link: ../../2003/12/07122003#* Freedom -->
+
+<!-- record-link: ../../2003/12/06122003#* Freedom -->
+
+<!-- record-link: ../../2003/12/04122003#* NewsMonster -->
+
+<!-- record-link: ../../2003/12/03122003#* Freedom -->
+
+<!-- record-link: ../../2003/12/02122003#* Java -->
+
+<!-- record-link: ../../2003/11/30112003#* Open Source -->
+
+<!-- record-link: ../../2003/11/30112003#* Freedom -->
+
+<!-- record-link: ../../2003/11/29112003#* Toys -->
+
+<!-- record-link: ../../2003/11/28112003#* Pictures -->
+
+<!-- record-link: ../../2003/11/28112003#* Reputation -->
+
+<!-- record-link: ../../2003/11/24112003#2* Freedom -->
+
+<!-- record-link: ../../2003/11/24112003#1* Freedom -->
+
+<!-- record-link: ../../2003/11/24112003#* Linux -->
+
+<!-- record-link: ../../2003/11/24112003#* Freedom -->
+
+<!-- record-link: ../../2003/11/23112003#* RSS -->
+
+<!-- record-link: ../../2003/11/23112003#* Funny -->
+
+<!-- record-link: ../../2003/11/22112003#1* Mozilla -->
+
+<!-- record-link: ../../2003/11/22112003#* Mozilla -->
+
+<!-- record-link: ../../2003/11/21112003#* PeerFear -->
+
+<!-- record-link: ../../2003/11/20112003#* Freedom -->
+
+<!-- record-link: ../../2003/11/20112003#* Mozilla -->
+
+<!-- record-link: ../../2003/11/18112003#* Open Source -->
+
+<!-- record-link: ../../2003/11/18112003#* Java -->
+
+<!-- record-link: ../../2003/11/18112003#1* Freedom -->
+
+<!-- record-link: ../../2003/11/18112003#* Freedom -->
+
+<!-- record-link: ../../2003/11/17112003#* Freedom -->
+
+<!-- record-link: ../../2003/11/16112003#* Mozilla -->
+
+<!-- record-link: ../../2003/11/16112003#* Java -->
+
+<!-- record-link: ../../2003/11/16112003#* Freedom -->
+
+<!-- record-link: ../../2003/11/14112003#* RSS -->
+
+<!-- record-link: ../../2003/11/13112003#* P2P -->
+
+<!-- record-link: ../../2003/11/13112003#2* Freedom -->
+
+<!-- record-link: ../../2003/11/13112003#1* Freedom -->
+
+<!-- record-link: ../../2003/11/13112003#* Freedom -->
+
+<!-- record-link: ../../2003/11/12112003#* Journalism -->
+
+<!-- record-link: ../../2003/11/11112003#1* Freedom -->
+
+<!-- record-link: ../../2003/11/11112003#* Debian -->
+
+<!-- record-link: ../../2003/11/11112003#* Freedom -->
+
+<!-- record-link: ../../2003/11/10112003#* Internet -->
+
+<!-- record-link: ../../2003/11/10112003#1* RSS -->
+
+<!-- record-link: ../../2003/11/10112003#* RSS -->
+
+<!-- record-link: ../../2003/11/10112003#* Freedom -->
+
+<!-- record-link: ../../2003/11/09112003#1* Freedom -->
+
+<!-- record-link: ../../2003/11/09112003#* Freedom -->
+
+<!-- record-link: ../../2003/11/09112003#* RSS -->
+
+<!-- record-link: ../../2003/11/08112003#* Java -->
+
+<!-- record-link: ../../2003/11/07112003#* EFF -->
+
+<!-- record-link: ../../2003/11/07112003#* Freedom -->
+
+<!-- record-link: ../../2003/11/06112003#* Java -->
+
+<!-- record-link: ../../2003/11/06112003#* Freedom -->
+
+<!-- record-link: ../../2003/11/02112003#* Freedom -->
+
+<!-- record-link: ../../2003/10/30102003#* Linux -->
+
+<!-- record-link: ../../2003/10/30102003#* Science -->
+
+<!-- record-link: ../../2003/10/30102003#* Freedom -->
+
+<!-- record-link: ../../2003/10/29102003#* Freedom -->
+
+<!-- record-link: ../../2003/10/28102003#* Freedom -->
+
+<!-- record-link: ../../2003/10/26102003#* Java -->
+
+<!-- record-link: ../../2003/10/24102003#* Microsoft -->
+
+<!-- record-link: ../../2003/10/24102003#* Religion -->
+
+<!-- record-link: ../../2003/10/24102003#* San Francisco -->
+
+<!-- record-link: ../../2003/10/24102003#* Linux -->
+
+<!-- record-link: ../../2003/10/24102003#* NewsMonster -->
+
+<!-- record-link: ../../2003/10/23102003#* Linux -->
+
+<!-- record-link: ../../2003/10/23102003#* NewsMonster -->
+
+<!-- record-link: ../../2003/10/23102003#* Freedom -->
+
+<!-- record-link: ../../2003/10/22102003#* Google -->
+
+<!-- record-link: ../../2003/10/22102003#* Security -->
+
+<!-- record-link: ../../2003/10/22102003#1* Freedom -->
+
+<!-- record-link: ../../2003/10/22102003#* Freedom -->
+
+<!-- record-link: ../../2003/10/21102003#* Emacs -->
+
+<!-- record-link: ../../2003/10/21102003#* Drugs -->
+
+<!-- record-link: ../../2003/10/20102003#* Freedom -->
+
+<!-- record-link: ../../2003/10/18102003#* Freedom -->
+
+<!-- record-link: ../../2003/10/17102003#* Freedom -->
+
+<!-- record-link: ../../2003/10/15102003#* NewsMonster -->
+
+<!-- record-link: ../../2003/10/15102003#* Linux -->
+
+<!-- record-link: ../../2003/10/12102003#* Freedom -->
+
+<!-- record-link: ../../2003/10/12102003#* Linux -->
+
+<!-- record-link: ../../2003/10/11102003#* Freedom -->
+
+<!-- record-link: ../../2003/10/10102003#* Microsoft -->
+
+<!-- record-link: ../../2003/10/10102003#* NewsMonster -->
+
+<!-- record-link: ../../2003/10/05102003#* Open Source -->
+
+<!-- record-link: ../../2003/10/05102003#* Freedom -->
+
+<!-- record-link: ../../2003/10/03102003#2* Freedom -->
+
+<!-- record-link: ../../2003/10/03102003#1* Freedom -->
+
+<!-- record-link: ../../2003/10/03102003#* Freedom -->
+
+<!-- record-link: ../../2003/10/01102003#1* Freedom -->
+
+<!-- record-link: ../../2003/10/01102003#* Freedom -->
+
+<!-- record-link: ../../2003/09/30092003#1* Freedom -->
+
+<!-- record-link: ../../2003/09/30092003#1* NewsMonster -->
+
+<!-- record-link: ../../2003/09/30092003#* NewsMonster -->
+
+<!-- record-link: ../../2003/09/30092003#* Freedom -->
+
+<!-- record-link: ../../2003/09/29092003#* Freedom -->
+
+<!-- record-link: ../../2003/09/28092003#* Mozilla -->
+
+<!-- record-link: ../../2003/09/28092003#* NewsMonster -->
+
+<!-- record-link: ../../2003/09/28092003#* Internet -->
+
+<!-- record-link: ../../2003/09/28092003#* Freedom -->
+
+<!-- record-link: ../../2003/09/28092003#* Emacs -->
+
+<!-- record-link: ../../2003/09/27092003#* Google -->
+
+<!-- record-link: ../../2003/09/26092003#* Java -->
+
+<!-- record-link: ../../2003/09/23092003#* Wireless -->
+
+<!-- record-link: ../../2003/09/23092003#* Emacs -->
+
+<!-- record-link: ../../2003/09/21092003#* Freedom -->
+
+<!-- record-link: ../../2003/09/21092003#* Reputation -->
+
+<!-- record-link: ../../2003/09/19092003#* Java -->
+
+<!-- record-link: ../../2003/09/18092003#* XML -->
+
+<!-- record-link: ../../2003/09/17092003#* Linux -->
+
+<!-- record-link: ../../2003/09/15092003#* Freedom -->
+
+<!-- record-link: ../../2003/09/13092003#* Freedom -->
+
+<!-- record-link: ../../2003/09/13092003#* Emacs -->
+
+<!-- record-link: ../../2003/09/13092003#* Java -->
+
+<!-- record-link: ../../2003/09/13092003#* Money -->
+
+<!-- record-link: ../../2003/09/10092003#* Emacs -->
+
+<!-- record-link: ../../2003/09/10092003#* Freedom -->
+
+<!-- record-link: ../../2003/09/05092003#1* Freedom -->
+
+<!-- record-link: ../../2003/09/05092003#* Freedom -->
+
+<!-- record-link: ../../2003/09/05092003#* Java -->
+
+<!-- record-link: ../../2003/09/05092003#* Internet -->
+
+<!-- record-link: ../../2003/09/04092003#* Java -->
+
+<!-- record-link: ../../2003/09/02092003#* RSS -->
+
+<!-- record-link: ../../2003/09/02092003#* Peace -->
+
+<!-- record-link: ../../2003/09/01092003#* Google -->
+
+<!-- record-link: ../../2003/08/29082003#* Freedom -->
+
+<!-- record-link: ../../2003/08/26082003#* San Francisco -->
+
+<!-- record-link: ../../2003/08/23082003#* Funny -->
+
+<!-- record-link: ../../2003/08/23082003#* Micropayments -->
+
+<!-- record-link: ../../2003/08/23082003#* Linux -->
+
+<!-- record-link: ../../2003/08/22082003#* Freedom -->
+
+<!-- record-link: ../../2003/08/22082003#* Peace -->
+
+<!-- record-link: ../../2003/08/22082003#* Bush -->
+
+<!-- record-link: ../../2003/08/21082003#* P2P -->
+
+<!-- record-link: ../../2003/08/20082003#* Bush -->
+
+<!-- record-link: ../../2003/08/19082003#* Google -->
+
+<!-- record-link: ../../2003/08/18082003#* Java -->
+
+<!-- record-link: ../../2003/08/18082003#* NewsMonster -->
+
+<!-- record-link: ../../2003/08/15082003#* Syndication -->
+
+<!-- record-link: ../../2003/08/12082003#* Peace -->
+
+<!-- record-link: ../../2003/08/12082003#* NewsMonster -->
+
+<!-- record-link: ../../2003/08/12082003#* RDF -->
+
+<!-- record-link: ../../2003/08/11082003#* Freedom -->
+
+<!-- record-link: ../../2003/08/09082003#* Freedom -->
+
+<!-- record-link: ../../2003/08/02082003#1* Mozilla -->
+
+<!-- record-link: ../../2003/08/02082003#* Mozilla -->
+
+<!-- record-link: ../../2003/08/02082003#* NewsMonster -->
+
+<!-- record-link: ../../2003/08/01082003#* Java -->
+
+<!-- record-link: ../../2003/08/01082003#* RSS -->
+
+<!-- record-link: ../../2003/07/31072003#* NewsMonster -->
+
+<!-- record-link: ../../2003/07/31072003#* Java -->
+
+<!-- record-link: ../../2003/07/30072003#* Java -->
+
+<!-- record-link: ../../2003/07/29072003#* RSS -->
+
+<!-- record-link: ../../2003/07/29072003#* NewsMonster -->
+
+<!-- record-link: ../../2003/07/29072003#* Freedom -->
+
+<!-- record-link: ../../2003/07/27072003#* NewsMonster -->
+
+<!-- record-link: ../../2003/07/26072003#* RSS -->
+
+<!-- record-link: ../../2003/07/25072003#* RSS -->
+
+<!-- record-link: ../../2003/07/24072003#* Java -->
+
+<!-- record-link: ../../2003/07/24072003#* Copyright -->
+
+<!-- record-link: ../../2003/07/24072003#1* RSS -->
+
+<!-- record-link: ../../2003/07/24072003#* RSS -->
+
+<!-- record-link: ../../2003/07/23072003#* Java -->
+
+<!-- record-link: ../../2003/07/22072003#* NewsMonster -->
+
+<!-- record-link: ../../2003/07/21072003#* Linux -->
+
+<!-- record-link: ../../2003/07/20072003#* NewsMonster -->
+
+<!-- record-link: ../../2003/07/19072003#* NewsMonster -->
+
+<!-- record-link: ../../2003/07/19072003#* RSS -->
+
+<!-- record-link: ../../2003/07/19072003#* Freedom -->
+
+<!-- record-link: ../../2003/07/18072003#* Google -->
+
+<!-- record-link: ../../2003/07/18072003#* Mozilla -->
+
+<!-- record-link: ../../2003/07/17072003#* NewsMonster -->
+
+<!-- record-link: ../../2003/07/17072003#* Programming -->
+
+<!-- record-link: ../../2003/07/17072003#* RSS -->
+
+<!-- record-link: ../../2003/07/17072003#* Freedom -->
+
+<!-- record-link: ../../2003/07/16072003#* NewsMonster -->
+
+<!-- record-link: ../../2003/07/16072003#* Freedom -->
+
+<!-- record-link: ../../2003/07/15072003#* Funny -->
+
+<!-- record-link: ../../2003/07/15072003#1* NewsMonster -->
+
+<!-- record-link: ../../2003/07/15072003#* Mozilla -->
+
+<!-- record-link: ../../2003/07/14072003#* Java -->
+
+<!-- record-link: ../../2003/07/13072003#* Freedom -->
+
+<!-- record-link: ../../2003/07/12072003#* Freedom -->
+
+<!-- record-link: ../../2003/07/12072003#* Java -->
+
+<!-- record-link: ../../2003/07/10072003#* NewsMonster -->
+
+<!-- record-link: ../../2003/07/09072003#* NewsMonster -->
+
+<!-- record-link: ../../2003/07/08072003#* NewsMonster -->
+
+<!-- record-link: ../../2003/07/07072003#* Freedom -->
+
+<!-- record-link: ../../2003/07/07072003#* NewsMonster -->
+
+<!-- record-link: ../../2003/07/06072003#* NewsMonster -->
+
+<!-- record-link: ../../2003/07/05072003#* NewsMonster -->
+
+<!-- record-link: ../../2003/07/05072003#* Freedom -->
+
+<!-- record-link: ../../2003/07/04072003#* NewsMonster -->
+
+<!-- record-link: ../../2003/07/04072003#* Freedom -->
+
+<!-- record-link: ../../2003/07/03072003#1* NewsMonster -->
+
+<!-- record-link: ../../2003/07/03072003#* NewsMonster -->
+
+<!-- record-link: ../../2003/07/02072003#1* NewsMonster -->
+
+<!-- record-link: ../../2003/07/02072003#* NewsMonster -->
+
+<!-- record-link: ../../2003/07/01072003#* NewsMonster -->
+
+<!-- record-link: ../../2003/07/01072003#* Music -->
+
+<!-- record-link: ../../2003/06/30062003#* NewsMonster -->
+
+<!-- record-link: ../../2003/06/30062003#* PeerFear -->
+
+<!-- record-link: ../../2003/06/29062003#1* NewsMonster -->
+
+<!-- record-link: ../../2003/06/29062003#* NewsMonster -->
+
+<!-- record-link: ../../2003/06/28062003#1* NewsMonster -->
+
+<!-- record-link: ../../2003/06/27062003#* NewsMonster -->
+
+<!-- record-link: ../../2003/06/25062003#* San Francisco -->
+
+<!-- record-link: ../../2003/06/26062003#1* NewsMonster -->
+
+<!-- record-link: ../../2003/06/26062003#* Google -->
+
+<!-- record-link: ../../2003/06/26062003#* NewsMonster -->
+
+<!-- record-link: ../../2003/06/25062003#1* NewsMonster -->
+
+<!-- record-link: ../../2003/06/24062003#2* NewsMonster -->
+
+<!-- record-link: ../../2003/06/23062003#* Java -->
+
+<!-- record-link: ../../2003/06/22062003#* Java -->
+
+<!-- record-link: ../../2003/06/20062003#* RSS -->
+
+<!-- record-link: ../../2003/06/20062003#* Java -->
+
+<!-- record-link: ../../2003/06/19062003#1* NewsMonster -->
+
+<!-- record-link: ../../2003/06/19062003#* Funny -->
+
+<!-- record-link: ../../2003/06/18062003#* RSS -->
+
+<!-- record-link: ../../2003/06/17062003#* Linux -->
+
+<!-- record-link: ../../2003/06/16062003#1* Mozilla -->
+
+<!-- record-link: ../../2003/06/16062003#* NewsMonster -->
+
+<!-- record-link: ../../2003/06/16062003#* Mozilla -->
+
+<!-- record-link: ../../2003/06/16062003#* Journalism -->
+
+<!-- record-link: ../../2003/06/15062003#* XML -->
+
+<!-- record-link: ../../2003/06/14062003#* San Francisco -->
+
+<!-- record-link: ../../2003/06/14062003#* Mozilla -->
+
+<!-- record-link: ../../2003/06/13062003#* RSS -->
+
+<!-- record-link: ../../2003/06/13062003#* Freedom -->
+
+<!-- record-link: ../../2003/06/12062003#1* Mozilla -->
+
+<!-- record-link: ../../2003/06/12062003#* Mozilla -->
+
+<!-- record-link: ../../2003/06/11062003#* Linux -->
+
+<!-- record-link: ../../2003/06/10062003#* NewsMonster -->
+
+<!-- record-link: ../../2003/06/10062003#* RSS -->
+
+<!-- record-link: ../../2003/06/10062003#* Funny -->
+
+<!-- record-link: ../../2003/06/10062003#* Freedom -->
+
+<!-- record-link: ../../2003/06/08062003#* Freedom -->
+
+<!-- record-link: ../../2003/06/07062003#3* NewsMonster -->
+
+<!-- record-link: ../../2003/06/07062003#* RSS -->
+
+<!-- record-link: ../../2003/06/07062003#* Mozilla -->
+
+<!-- record-link: ../../2003/06/06062003#* NewsMonster -->
+
+<!-- record-link: ../../2003/06/05062003#1* NewsMonster -->
+
+<!-- record-link: ../../2003/06/05062003#* NewsMonster -->
+
+<!-- record-link: ../../2003/06/04062003#* Java -->
+
+<!-- record-link: ../../2003/06/03062003#* RDF -->
+
+<!-- record-link: ../../2003/06/03062003#* Mozilla -->
+
+<!-- record-link: ../../2003/06/02062003#* Mozilla -->
+
+<!-- record-link: ../../2003/05/31052003#* NewsMonster -->
+
+<!-- record-link: ../../2003/05/30052003#* Freedom -->
+
+<!-- record-link: ../../2003/05/30052003#* Linux -->
+
+<!-- record-link: ../../2003/05/30052003#* NewsMonster -->
+
+<!-- record-link: ../../2003/05/29052003#* NewsMonster -->
+
+<!-- record-link: ../../2003/05/28052003#* Java -->
+
+<!-- record-link: ../../2003/05/28052003#1* NewsMonster -->
+
+<!-- record-link: ../../2003/05/27052003#* NewsMonster -->
+
+<!-- record-link: ../../2003/05/27052003#* Funny -->
+
+<!-- record-link: ../../2003/05/26052003#1* Money -->
+
+<!-- record-link: ../../2003/05/26052003#* Java -->
+
+<!-- record-link: ../../2003/05/25052003#* NewsMonster -->
+
+<!-- record-link: ../../2003/05/25052003#* Open Source -->
+
+<!-- record-link: ../../2003/05/23052003#* NewsMonster -->
+
+<!-- record-link: ../../2003/05/22052003#* Java -->
+
+<!-- record-link: ../../2003/05/20052003#* Web Standards -->
+
+<!-- record-link: ../../2003/05/19052003#* NewsMonster -->
+
+<!-- record-link: ../../2003/05/19052003#* Journalism -->
+
+<!-- record-link: ../../2003/05/19052003#* RSS -->
+
+<!-- record-link: ../../2003/05/19052003#* Java -->
+
+<!-- record-link: ../../2003/05/19052003#* W3C -->
+
+<!-- record-link: ../../2003/05/18052003#* Blogging -->
+
+<!-- record-link: ../../2003/05/17052003#* RSS -->
+
+<!-- record-link: ../../2003/05/16052003#* NewsMonster -->
+
+<!-- record-link: ../../2003/05/16052003#* Peace -->
+
+<!-- record-link: ../../2003/05/12052003#2* NewsMonster -->
+
+<!-- record-link: ../../2003/05/12052003#1* NewsMonster -->
+
+<!-- record-link: ../../2003/05/11052003#* RSS -->
+
+<!-- record-link: ../../2003/05/10052003#* NewsMonster -->
+
+<!-- record-link: ../../2003/05/08052003#* Freedom -->
+
+<!-- record-link: ../../2003/05/07052003#* NewsMonster -->
+
+<!-- record-link: ../../2003/05/07052003#* Freedom -->
+
+<!-- record-link: ../../2003/05/06052003#* Linux -->
+
+<!-- record-link: ../../2003/05/06052003#* Music -->
+
+<!-- record-link: ../../2003/05/05052003#1* NewsMonster -->
+
+<!-- record-link: ../../2003/05/05052003#* NewsMonster -->
+
+<!-- record-link: ../../2003/05/05052003#* Wireless -->
+
+<!-- record-link: ../../2003/05/04052003#1* RSS -->
+
+<!-- record-link: ../../2003/05/04052003#* RSS -->
+
+<!-- record-link: ../../2003/05/02052003#* Freedom -->
+
+<!-- record-link: ../../2003/05/02052003#* Web Standards -->
+
+<!-- record-link: ../../2003/05/01052003#* NewsMonster -->
+
+<!-- record-link: ../../2003/05/01052003#1* RSS -->
+
+<!-- record-link: ../../2003/04/29042003#* Zoe -->
+
+<!-- record-link: ../../2003/04/28042003#* Zoe -->
+
+<!-- record-link: ../../2003/04/28042003#* RSS -->
+
+<!-- record-link: ../../2003/04/28042003#* Peace -->
+
+<!-- record-link: ../../2003/04/28042003#* Freedom -->
+
+<!-- record-link: ../../2003/04/28042003#* NewsMonster -->
+
+<!-- record-link: ../../2003/04/27042003#* Peace -->
+
+<!-- record-link: ../../2003/04/28042003#* Japan -->
+
+<!-- record-link: ../../2003/04/27042003#* Mozilla -->
+
+<!-- record-link: ../../2003/04/25042003#* P2P -->
+
+<!-- record-link: ../../2003/04/24042003#* NewsMonster -->
+
+<!-- record-link: ../../2003/04/24042003#* Freedom -->
+
+<!-- record-link: ../../2003/04/23042003#* RSS -->
+
+<!-- record-link: ../../2003/04/23042003#2* NewsMonster -->
+
+<!-- record-link: ../../2003/04/23042003#* NewsMonster -->
+
+<!-- record-link: ../../2003/04/22042003#* ETC -->
+
+<!-- record-link: ../../2003/04/22042003#* RSS -->
+
+<!-- record-link: ../../2003/04/22042003#* Google -->
+
+<!-- record-link: ../../2003/04/20042003#* Wireless -->
+
+<!-- record-link: ../../2003/04/22042003#* Mozilla -->
+
+<!-- record-link: ../../2003/04/21042003#* San Francisco -->
+
+<!-- record-link: ../../2003/04/21042003#* RSS -->
+
+<!-- record-link: ../../2003/04/20042003#* Freedom -->
+
+<!-- record-link: ../../2003/04/19042003#* Java -->
+
+<!-- record-link: ../../2003/04/18042003#* Mozilla -->
+
+<!-- record-link: ../../2003/04/18042003#* Peace -->
+
+<!-- record-link: ../../2003/04/18042003#* Java -->
+
+<!-- record-link: ../../2003/04/18042003#* NewsMonster -->
+
+<!-- record-link: ../../2003/04/16042003#1* ETC -->
+
+<!-- record-link: ../../2003/04/16042003#2* NewsMonster -->
+
+<!-- record-link: ../../2003/04/16042003#1* NewsMonster -->
+
+<!-- record-link: ../../2003/04/16042003#* NewsMonster -->
+
+<!-- record-link: ../../2003/04/15042003#* NewsMonster -->
+
+<!-- record-link: ../../2003/04/15042003#* Google -->
+
+<!-- record-link: ../../2003/04/15042003#* Freedom -->
+
+<!-- record-link: ../../2003/04/14042003#* Peace -->
+
+<!-- record-link: ../../2003/04/13042003#* Java -->
+
+<!-- record-link: ../../2003/04/12042003#* ETC -->
+
+<!-- record-link: ../../2003/04/11042003#* Freedom -->
+
+<!-- record-link: ../../2003/04/11042003#* Reputation -->
+
+<!-- record-link: ../../2003/04/10042003#1* NewsMonster -->
+
+<!-- record-link: ../../2003/04/10042003#* Coffee -->
+
+<!-- record-link: ../../2003/04/10042003#* ETC -->
+
+<!-- record-link: ../../2003/04/09042003#1* NewsMonster -->
+
+<!-- record-link: ../../2003/04/07042003#2* Peace -->
+
+<!-- record-link: ../../2003/04/07042003#1* Peace -->
+
+<!-- record-link: ../../2003/04/07042003#* Peace -->
+
+<!-- record-link: ../../2003/04/07042003#* RSS -->
+
+<!-- record-link: ../../2003/04/07042003#1* NewsMonster -->
+
+<!-- record-link: ../../2003/04/06042003#2* Peace -->
+
+<!-- record-link: ../../2003/04/06042003#1* Peace -->
+
+<!-- record-link: ../../2003/04/06042003#* Peace -->
+
+<!-- record-link: ../../2003/04/05042003#3* NewsMonster -->
+
+<!-- record-link: ../../2003/04/05042003#* RSS -->
+
+<!-- record-link: ../../2003/04/05042003#* Peace -->
+
+<!-- record-link: ../../2003/04/05042003#* P2P -->
+
+<!-- record-link: ../../2003/04/03042003#* Peace -->
+
+<!-- record-link: ../../2003/04/03042003#* News -->
+
+<!-- record-link: ../../2003/04/02042003#* Mozilla -->
+
+<!-- record-link: ../../2003/04/02042003#* Peace -->
+
+<!-- record-link: ../../2003/04/02042003#* RSS -->
+
+<!-- record-link: ../../2003/04/01042003#1* NewsMonster -->
+
+<!-- record-link: ../../2003/04/01042003#* San Francisco -->
+
+<!-- record-link: ../../2003/04/01042003#* Peace -->
+
+<!-- record-link: ../../2003/04/01042003#* NewsMonster -->
+
+<!-- record-link: ../../2003/03/31032003#* RSS -->
+
+<!-- record-link: ../../2003/03/31032003#* Peace -->
+
+<!-- record-link: ../../2003/03/30032003#* Mozilla -->
+
+<!-- record-link: ../../2003/03/27032003#* NewsMonster -->
+
+<!-- record-link: ../../2003/03/26032003#2* NewsMonster -->
+
+<!-- record-link: ../../2003/03/26032003#* Peace -->
+
+<!-- record-link: ../../2003/03/25032003#* Java -->
+
+<!-- record-link: ../../2003/03/25032003#* JXTA -->
+
+<!-- record-link: ../../2003/03/25032003#* Peace -->
+
+<!-- record-link: ../../2003/03/23032003#* Peace -->
+
+<!-- record-link: ../../2003/03/23032003#* Java -->
+
+<!-- record-link: ../../2003/03/23032003#1* NewsMonster -->
+
+<!-- record-link: ../../2003/03/23032003#* Freedom -->
+
+<!-- record-link: ../../2003/03/22032003#* Freedom -->
+
+<!-- record-link: ../../2003/03/22032003#* Peace -->
+
+<!-- record-link: ../../2003/03/21032003#* San Francisco -->
+
+<!-- record-link: ../../2003/03/21032003#1* NewsMonster -->
+
+<!-- record-link: ../../2003/03/20032003#* Peace -->
+
+<!-- record-link: ../../2003/03/20032003#* Open Source -->
+
+<!-- record-link: ../../2003/03/19032003#* Peace -->
+
+<!-- record-link: ../../2003/03/19032003#* NewsMonster -->
+
+<!-- record-link: ../../2003/03/19032003#* Freedom -->
+
+<!-- record-link: ../../2003/03/18032003#* Linux -->
+
+<!-- record-link: ../../2003/03/17032003#* Peace -->
+
+<!-- record-link: ../../2003/03/17032003#* Reputation -->
+
+<!-- record-link: ../../2003/03/16032003#* P2P -->
+
+<!-- record-link: ../../2003/03/15032003#* NewsMonster -->
+
+<!-- record-link: ../../2003/03/13032003#* Google -->
+
+<!-- record-link: ../../2003/03/12032003#* Reputation -->
+
+<!-- record-link: ../../2003/03/11032003#* NewsMonster -->
+
+<!-- record-link: ../../2003/03/11032003#* Apple -->
+
+<!-- record-link: ../../2003/03/10032003#* Google -->
+
+<!-- record-link: ../../2003/03/10032003#2* NewsMonster -->
+
+<!-- record-link: ../../2003/03/10032003#1* Freedom -->
+
+<!-- record-link: ../../2003/03/10032003#1* NewsMonster -->
+
+<!-- record-link: ../../2003/03/08032003#* Java -->
+
+<!-- record-link: ../../2003/03/08032003#* Mozilla -->
+
+<!-- record-link: ../../2003/03/08032003#* Linux -->
+
+<!-- record-link: ../../2003/03/07032003#* San Francisco -->
+
+<!-- record-link: ../../2003/03/07032003#1* Mozilla -->
+
+<!-- record-link: ../../2003/03/07032003#* Mozilla -->
+
+<!-- record-link: ../../2003/03/06032003#* NewsMonster -->
+
+<!-- record-link: ../../2003/03/06032003#* Linux -->
+
+<!-- record-link: ../../2003/03/06032003#* Freedom -->
+
+<!-- record-link: ../../2003/03/06032003#* P2P -->
+
+<!-- record-link: ../../2003/03/01032003#* NewsMonster -->
+
+<!-- record-link: ../../2003/03/05032003#* RSS -->
+
+<!-- record-link: ../../2003/03/03032003#1* NewsMonster -->
+
+<!-- record-link: ../../2003/03/03032003#* RSS -->
+
+<!-- record-link: ../../2003/03/03032003#* Mozilla -->
+
+<!-- record-link: ../../2003/02/27022003#3* NewsMonster -->
+
+<!-- record-link: ../../2003/02/26022003#* NewsMonster -->
+
+<!-- record-link: ../../2003/02/24022003#* Internet -->
+
+<!-- record-link: ../../2003/02/24022003#* NewsMonster -->
+
+<!-- record-link: ../../2003/02/22022003#* NewsMonster -->
+
+<!-- record-link: ../../2003/02/21022003#1* NewsMonster -->
+
+<!-- record-link: ../../2003/02/21022003#* NewsMonster -->
+
+<!-- record-link: ../../2003/02/21022003#* P2P -->
+
+<!-- record-link: ../../2003/02/19022003#3* NewsMonster -->
+
+<!-- record-link: ../../2003/02/19022003#1* Reputation -->
+
+<!-- record-link: ../../2003/02/19022003#* Reputation -->
+
+<!-- record-link: ../../2003/02/15022003#1* NewsMonster -->
+
+<!-- record-link: ../../2003/02/18022003#* NewsMonster -->
+
+<!-- record-link: ../../2003/02/16022003#* Apple -->
+
+<!-- record-link: ../../2003/02/16022003#* Google -->
+
+<!-- record-link: ../../2003/02/15022003#* Google -->
+
+<!-- record-link: ../../2003/02/13022003#1* RSS -->
+
+<!-- record-link: ../../2003/02/13022003#* RSS -->
+
+<!-- record-link: ../../2003/02/11022003#1* Mozilla -->
+
+<!-- record-link: ../../2003/02/11022003#* NewsMonster -->
+
+<!-- record-link: ../../2003/02/10022003#* NewsMonster -->
+
+<!-- record-link: ../../2003/02/04022003#* Freedom -->
+
+<!-- record-link: ../../2003/02/06022003#* Internet -->
+
+<!-- record-link: ../../2003/02/06022003#* Mozilla -->
+
+<!-- record-link: ../../2003/02/10022003#1* NewsMonster -->
+
+<!-- record-link: ../../2003/02/04022003#* Internet -->
+
+<!-- record-link: ../../2003/02/02022003#* NewsMonster -->
+
+<!-- record-link: ../../2003/01/31012003#* Java -->
+
+<!-- record-link: ../../2003/01/31012003#* Open Source -->
+
+<!-- record-link: ../../2003/01/31012003#* RSS -->
+
+<!-- record-link: ../../2003/01/30012003#1* Reputation -->
+
+<!-- record-link: ../../2003/01/28012003#* Mozilla -->
+
+<!-- record-link: ../../2003/01/25012003#1* NewsMonster -->
+
+<!-- record-link: ../../2003/01/25012003#* NewsMonster -->
+
+<!-- record-link: ../../2003/01/25012003#* RSS -->
+
+<!-- record-link: ../../2003/01/23012003#* RSS -->
+
+<!-- record-link: ../../2003/01/22012003#* Reputation -->
+
+<!-- record-link: ../../2003/01/21012003#* Mozilla -->
+
+<!-- record-link: ../../2003/01/21012003#* NewsMonster -->
+
+<!-- record-link: ../../2003/01/20012003#* Java -->
+
+<!-- record-link: ../../2003/01/19012003#1* NewsMonster -->
+
+<!-- record-link: ../../2003/01/18012003#* NewsMonster -->
+
+<!-- record-link: ../../2003/01/18012003#* Peace -->
+
+<!-- record-link: ../../2003/01/15012003#* San Francisco -->
+
+<!-- record-link: ../../2003/01/15012003#* Java -->
+
+<!-- record-link: ../../2003/01/15012003#* Apple -->
+
+<!-- record-link: ../../2003/01/15012003#* Freedom -->
+
+<!-- record-link: ../../2003/01/14012003#* Open Source -->
+
+<!-- record-link: ../../2003/01/14012003#* Mozilla -->
+
+<!-- record-link: ../../2003/01/13012003#* Google -->
+
+<!-- record-link: ../../2003/01/13012003#1* Freedom -->
+
+<!-- record-link: ../../2003/01/13012003#* Freedom -->
+
+<!-- record-link: ../../2003/01/13012003#* Linux -->
+
+<!-- record-link: ../../2003/01/12012003#* EFF -->
+
+<!-- record-link: ../../2003/01/12012003#* Mozilla -->
+
+<!-- record-link: ../../2003/01/12012003#1* Freedom -->
+
+<!-- record-link: ../../2003/01/12012003#* Freedom -->
+
+<!-- record-link: ../../2003/01/12012003#1* P2P -->
+
+<!-- record-link: ../../2003/01/11012003#* Linux -->
+
+<!-- record-link: ../../2003/01/11012003#* P2P -->
+
+<!-- record-link: ../../2003/01/09012003#1* Linux -->
+
+<!-- record-link: ../../2003/01/07012003#* Freedom -->
+
+<!-- record-link: ../../2003/01/07012003#* Linux -->
+
+<!-- record-link: ../../2003/01/06012003#* Money -->
+
+<!-- record-link: ../../2003/01/05012003#* Freedom -->
+
+<!-- record-link: ../../2002/12/29122002#* Programming -->
+
+<!-- record-link: ../../2003/01/03012003#* EFF -->
+
+<!-- record-link: ../../2003/01/03012003#* Computers -->
+
+<!-- record-link: ../../2002/12/23122002#* Emacs -->
+
+<!-- record-link: ../../2002/12/23122002#* Freedom -->
+
+<!-- record-link: ../../2002/12/22122002#* Internet -->
+
+<!-- record-link: ../../2002/12/22122002#* Freedom -->
+
+<!-- record-link: ../../2002/12/18122002#* NewsMonster -->
+
+<!-- record-link: ../../2002/12/17122002#1* Freedom -->
+
+<!-- record-link: ../../2002/12/17122002#* Freedom -->
+
+<!-- record-link: ../../2002/12/17122002#* Emacs -->
+
+<!-- record-link: ../../2002/12/14122002#* Freedom -->
+
+<!-- record-link: ../../2002/12/12122002#* Programming -->
+
+<!-- record-link: ../../2002/12/10122002#* RSS -->
+
+<!-- record-link: ../../2002/12/07122002#3* Emacs -->
+
+<!-- record-link: ../../2002/12/07122002#1* Emacs -->
+
+<!-- record-link: ../../2002/12/07122002#* Freedom -->
+
+<!-- record-link: ../../2002/12/05122002#* P2P -->
+
+<!-- record-link: ../../2002/11/29112002#2* Emacs -->
+
+<!-- record-link: ../../2002/11/29112002#1* Emacs -->
+
+<!-- record-link: ../../2002/11/29112002#* Java -->
+
+<!-- record-link: ../../2002/11/24112002#* P2P -->
+
+<!-- record-link: ../../2002/11/25112002#* P2P -->
+
+<!-- record-link: ../../2002/11/22112002#* P2P -->
+
+<!-- record-link: ../../2002/11/22112002#1* Emacs -->
+
+<!-- record-link: ../../2002/11/22112002#* Emacs -->
+
+<!-- record-link: ../../2002/11/20112002#* Freedom -->
+
+<!-- record-link: ../../2002/11/21112002#* Freedom -->
+
+<!-- record-link: ../../2002/11/15112002#4* NewsMonster -->
+
+<!-- record-link: ../../2002/11/19112002#2* NewsMonster -->
+
+<!-- record-link: ../../2002/11/18112002#* NewsMonster -->
+
+<!-- record-link: ../../2002/11/15112002#3* NewsMonster -->
+
+<!-- record-link: ../../2002/11/15112002#1* NewsMonster -->
+
+<!-- record-link: ../../2002/11/12112002#1* NewsMonster -->
+
+<!-- record-link: ../../2002/11/14112002#1* NewsMonster -->
+
+<!-- record-link: ../../2002/11/13112002#* Mozilla -->
+
+<!-- record-link: ../../2002/11/12112002#* NewsMonster -->
+
+<!-- record-link: ../../2002/11/09112002#* NewsMonster -->
+
+<!-- record-link: ../../2002/11/07112002#* NewsMonster -->
+
+<!-- record-link: ../../2002/11/04112002#* Pictures -->
+
+<!-- record-link: ../../2002/11/04112002#* NewsMonster -->
+
+<!-- record-link: ../../2002/11/04112002#* Freedom -->
+
+<!-- record-link: ../../2002/10/29102002#* Emacs -->
+
+<!-- record-link: ../../2002/10/24102002#* RSS -->
+
+<!-- record-link: ../../2002/10/29102002#* Misc -->
+
+<!-- record-link: ../../2002/10/28102002#* Freedom -->
+
+<!-- record-link: ../../2002/10/28102002#* Reputation -->
+
+<!-- record-link: ../../2002/10/27102002#* Peace -->
+
+<!-- record-link: ../../2002/10/23102002#* Pictures -->
+
+<!-- record-link: ../../2002/10/25102002#* Computers -->
+
+<!-- record-link: ../../2002/10/23102002#* Funny -->
+
+<!-- record-link: ../../2002/10/23102002#* Records -->
+
+<!-- record-link: ../../2002/10/22102002#* Open Source -->
+
+<!-- record-link: ../../2002/10/22102002#* Reputation -->
+
+<!-- record-link: ../../2002/10/22102002#* Internet -->
+
+<!-- record-link: ../../2002/10/21102002#* Linux -->
+
+<!-- record-link: ../../2002/10/17102002#* Freedom -->
+
+<!-- record-link: ../../2002/10/10102002#* Freedom -->
+
+<!-- record-link: ../../2002/10/16102002#* JXTA -->
+
+<!-- record-link: ../../2002/10/15102002#* Mozilla -->
+
+<!-- record-link: ../../2002/10/15102002#* Linux -->
+
+<!-- record-link: ../../2002/10/15102002#* RSS -->
+
+<!-- record-link: ../../2002/10/14102002#* San Francisco -->
+
+<!-- record-link: ../../2002/10/11102002#* RSS -->
+
+<!-- record-link: ../../2002/10/10102002#* Funny -->
+
+<!-- record-link: ../../2002/10/10102002#* Linux -->
+
+<!-- record-link: ../../2002/10/10102002#* Security -->
+
+<!-- record-link: ../../2002/10/06102002#* Buddhism -->
+
+<!-- record-link: ../../2002/10/05102002#* Freedom -->
+
+<!-- record-link: ../../2002/10/03102002#* OSXCon -->
+
+<!-- record-link: ../../2002/10/04102002#* Freedom -->
+
+<!-- record-link: ../../2002/10/04102002#* Linux -->
+
+<!-- record-link: ../../2002/10/03102002#* Linux -->
+
+<!-- record-link: ../../2002/10/02102002#* Apple -->
+
+<!-- record-link: ../../2002/10/01102002#* Apple -->
+
+<!-- record-link: ../../2002/09/30092002#* Java -->
+
+<!-- record-link: ../../2002/09/26092002#* Apple -->
+
+<!-- record-link: ../../2002/09/25092002#1* RSS -->
+
+<!-- record-link: ../../2002/09/25092002#* RSS -->
+
+<!-- record-link: ../../2002/09/24092002#* Mozilla -->
+
+<!-- record-link: ../../2002/09/24092002#* Internet -->
+
+<!-- record-link: ../../2002/09/24092002#* Offnews -->
+
+<!-- record-link: ../../2002/09/24092002#* OSXCon -->
+
+<!-- record-link: ../../2002/09/23092002#* Freedom -->
+
+<!-- record-link: ../../2002/09/23092002#1* Offnews -->
+
+<!-- record-link: ../../2002/09/23092002#1* RSS -->
+
+<!-- record-link: ../../2002/09/23092002#* RSS -->
+
+<!-- record-link: ../../2002/09/23092002#* Offnews -->
+
+<!-- record-link: ../../2002/09/22092002#* Freedom -->
+
+<!-- record-link: ../../2002/09/22092002#* Internet -->
+
+<!-- record-link: ../../2002/09/21092002#* Internet -->
+
+<!-- record-link: ../../2002/09/21092002#* Offnews -->
+
+<!-- record-link: ../../2002/09/21092002#* Reputation -->
+
+<!-- record-link: ../../2002/09/21092002#* News -->
+
+<!-- record-link: ../../2002/09/20092002#2* Offnews -->
+
+<!-- record-link: ../../2002/09/20092002#1* Offnews -->
+
+<!-- record-link: ../../2002/09/19092002#* News -->
+
+<!-- record-link: ../../2002/09/18092002#3* RSS -->
+
+<!-- record-link: ../../2002/09/18092002#2* RSS -->
+
+<!-- record-link: ../../2002/09/18092002#* Funny -->
+
+<!-- record-link: ../../2002/09/18092002#1* RSS -->
+
+<!-- record-link: ../../2002/09/18092002#* RSS -->
+
+<!-- record-link: ../../2002/09/17092002#1* RSS -->
+
+<!-- record-link: ../../2002/09/17092002#* RSS -->
+
+<!-- record-link: ../../2002/09/17092002#* Internet -->
+
+<!-- record-link: ../../2002/09/16092002#* JXTA -->
+
+<!-- record-link: ../../2002/09/15092002#1* RSS -->
+
+<!-- record-link: ../../2002/09/15092002#* RSS -->
+
+<!-- record-link: ../../2002/09/14092002#* RSS -->
+
+<!-- record-link: ../../2002/09/13092002#* RSS -->
+
+<!-- record-link: ../../2002/09/12092002#* P2P -->
+
+<!-- record-link: ../../2002/09/12092002#* Reputation -->
+
+<!-- record-link: ../../2002/09/11092002#1* RSS -->
+
+<!-- record-link: ../../2002/09/10092002#* RSS -->
+
+<!-- record-link: ../../2002/09/09092002#1* RSS -->
+
+<!-- record-link: ../../2002/09/10092002#* Funny -->
+
+<!-- record-link: ../../2002/09/06092002#1* RSS -->
+
+<!-- record-link: ../../2002/09/06092002#* RSS -->
+
+<!-- record-link: ../../2002/09/04092002#* Linux -->
+
+<!-- record-link: ../../2002/09/03092002#* P2P -->
+
+<!-- record-link: ../../2002/09/03092002#* W3C -->
+
+<!-- record-link: ../../2002/09/01092002#* Funny -->
+
+<!-- record-link: ../../2002/08/31082002#* RSS -->
+
+<!-- record-link: ../../2002/08/31082002#* News -->
+
+<!-- record-link: ../../2002/08/29082002#* Wireless -->
+
+<!-- record-link: ../../2002/08/28082002#1* RSS -->
+
+<!-- record-link: ../../2002/08/28082002#* Music -->
+
+<!-- record-link: ../../2002/08/28082002#* Internet -->
+
+<!-- record-link: ../../2002/08/28082002#* Freedom -->
+
+<!-- record-link: ../../2002/08/28082002#* RSS -->
+
+<!-- record-link: ../../2002/08/26082002#1* RSS -->
+
+<!-- record-link: ../../2002/08/26082002#* RSS -->
+
+<!-- record-link: ../../2002/08/25082002#* Freedom -->
+
+<!-- record-link: ../../2002/08/24082002#* PeerFear -->
+
+<!-- record-link: ../../2002/08/23082002#* Funny -->
+
+<!-- record-link: ../../2002/08/23082002#2* RSS -->
+
+<!-- record-link: ../../2002/08/23082002#1* RSS -->
+
+<!-- record-link: ../../2002/08/23082002#* RSS -->
+
+<!-- record-link: ../../2002/08/22082002#* RSS -->
+
+<!-- record-link: ../../2002/08/22082002#* Wireless -->
+
+<!-- record-link: ../../2002/08/18082002#1* RSS -->
+
+<!-- record-link: ../../2002/08/18082002#* Freedom -->
+
+<!-- record-link: ../../2002/08/17082002#* RSS -->
+
+<!-- record-link: ../../2002/08/16082002#* RSS -->
+
+<!-- record-link: ../../2002/08/16082002#1* Mozilla -->
+
+<!-- record-link: ../../2002/08/14082002#* Science -->
+
+<!-- record-link: ../../2002/08/13082002#* Linux -->
+
+<!-- record-link: ../../2002/08/12082002#* JXTA -->
+
+<!-- record-link: ../../2002/08/12082002#* Freedom -->
+
+<!-- record-link: ../../2002/08/12082002#* Java -->
+
+<!-- record-link: ../../2002/08/12082002#* Open Source -->
+
+<!-- record-link: ../../2002/08/10082002#* Microsoft -->
+
+<!-- END ITEMS -->
+
+<rss:image rdf:about="http://www.peerfear.org/peerfear-small.jpg">
+
+    <rss:title>peerfear.org</rss:title>
+    <rss:link>http://www.peerfear.org</rss:link>
+    <rss:url>http://www.peerfear.org/peerfear-small.jpg</rss:url>
+
+</rss:image>
+
+</rdf:RDF>

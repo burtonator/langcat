@@ -1,0 +1,1001 @@
+https://tw.wikipedia.org/wiki/Wikipedia%3aCommunity_Portal
+
+My name is Nyarko Rexford. I live in Ghana, and a native Akan language speaker.
+I've read most talks on this page. It's true this page of Wikipedia in Twi has
+been left dormant for a while now. That's over! I wish to gain access to be able
+to edit the Main pages and other related pages of the tw.wikipedia.com. Help me
+out, please. Where do I start? Where do I go? How do I gain administrative
+access? Nkansahrexford 19:23, 9 February 2012 (UTC)nyarko rexford n.
+
+Hallo, my name is Anastasiya Lvova, I'm "duty" in Connectivity project. The
+essence of the "Connectivity" project is to study and enhance the coherence of
+Wikipedia, or, in other words, to improve hypertext navigation between articles.
+The project deals with deadends, isolated articles, non-categorized articles,
+transitivity of the category tree, etc.
+
+We want to work with your language version, but we need configured
+MediaWiki:Disambiguationspage for it (with direct links to template namespace
+pages, for example,
+ru:MediaWiki:Disambiguationspage/de:MediaWiki:Disambiguationspage/fr:MediaWiki:D
+isambiguationspage). Is it possible to set it up for our usage?
+
+Could they please write a stub http://tw.wikipedia.org/wiki/Kur%C3%B3w - just a
+few sentences based on http://en.wikipedia.org/wiki/Kur%C3%B3w? Only 2 -5
+sentences enough. Please. Pietras1988 16:48, 20 February 2006 (UTC)
+
+Please give a bot bit to SieBot, so it will not flood your RC as it adds
+interwiki links using pywikipedia's interwiki.py. SieBot is active on about 140
+Wikipedias. See the user page of the bot for more details, or check a complete
+overview of its activities here. Cheers! Siebrand (talk) 09:55, 15 August 2007
+(UTC)
+
+Hello! I ask for permission to run my interwiki bot PipepBot here, and to get a
+bot flag for it.
+
+Dear all, this is to request a bot flag for Synthebot. Its technical information
+is summarized below.
+
+Further technical information is available on its main page. Thank you in
+advance. Regards, --Julian 18:06, 10 December 2008 (UTC)
+
+Hello. To facilitate steward granting of bot access, I suggest implementing the
+standard bot policy on this wiki. In particular, this policy allows stewards to
+automatically flag known interlanguage linking bots (if this page says that is
+acceptable), which form the vast majority of such requests. The policy also
+enables global bots on this wiki (if this page says that is acceptable), which
+are trusted bots that will be given bot access on every wiki that allows global
+bots.
+
+This policy makes bot access requesting much easier for local users, operators,
+and stewards. To implement it we only need to create a redirect to this page
+from Project:Bot policy, and add a line at the top noting that it is used here.
+Please read the text at m:Bot policy before commenting. If you object, please
+say so; I hope to implement in one week if there is no objection, since it is
+particularly written to streamline bot requests on wikis with little or no
+community interested in bot access requests. --Luckas Blade 20:53, 2 March 2009
+(UTC)
+
+Hello! I am a Polish wikipedian and I would like to ask you for your help -
+writing a new article about former Polish President who won the Nobel Peace
+Prize in 1983 – Lech Wałęsa. I have looked for his biography in your Wikipedia
+but without success. Polish Wikipedians will be grateful for your help. Thank
+you so much in advance! PS you can find the English version of the article here.
+Best wishes from Poland, Patrol110 17:00, 26 December 2009 (UTC)
+
+Hello. As this wiki is mostly inactive I have proposed its closure; see this.
+Thanks. Juliancolton 03:01, 16 January 2010 (UTC)
+
+The call for applications for Wikimania Scholarships to attend Wikimania 2010 in
+Gdansk, Poland (July 9-11) is now open. The Wikimedia Foundation offers
+Scholarships to pay for selected individuals' round trip travel, accommodations,
+and registration at the conference. To apply, visit the Wikimania 2010
+scholarships information page, click the secure link available there, and fill
+out the form to apply. For additional information, please visit the Scholarships
+information and FAQ pages:
+
+The Wikimedia Foundation recently updated the official Wikipedia globe. We
+realize that a lot of projects have never had a localized logo in their native
+language, so we are making sure that we create logos for every Wikipedia project
+that we have. The only issue is: we can't figure out what should be on your
+localized logo. :-)
+
+Please put the translation on my Meta talk page. Thank you! Cbrown1023
+discussion 00:58, 25 May 2010 (UTC)
+
+Hello Wikimedians, my name is Deniz and I am working for the Wikimedia
+Foundation during the 2010 Fundraiser. My job is to be the liaison between the
+Akan community and the Foundation. This year's fundraiser is intended to be a
+collaborative and global effort, we recognize that banner messages that perform
+well in the United States don't necessarily translate well, or appeal to
+international audiences.
+
+I'm contacting you as I am currently looking for translators who are willing to
+contribute to this project, helping to translate and localize messages into Akan
+and suggesting messages that would appeal to Akan readers on the Fundraising
+Meta Page. We've started the setup on meta for both banner submission,
+statistical analysis, and grouping volunteers together. Use the talk pages on
+meta, talk to your local communities, talk to others, talk to us, and add your
+feedback to the proposed messages as well! I look forward to working with you
+during this year's fundraiser.
+
+Please translate this message into Akan if you can and post it below.--Dgultekin
+17:20, 10 September 2010 (UTC)
+
+Dear friends, may I ask you to add a hyperlink to our Tatar Wikipedia
+(http://tt.wikipedia.org) to yourr Front page. Tatars - are turkic nation living
+in Tatarstan Republic, second biggest nation in Russian Federation. hope to hear
+from you soon. sincerely yours, Muhtac 21:38, 20 March 2011 (UTC)
+
+I apologize that you are receiving this message in English. Please help
+translate it.
+
+The Wikimedia Foundation is discussing changes to its Terms of Use. The
+discussion can be found at Talk:Terms of use. Everyone is invited to join in.
+Because the new version of Terms of use is not in final form, we are not able to
+present official translations of it. Volunteers are welcome to translate it, as
+German volunteers have done at m:Terms of use/de, but we ask that you note at
+the top that the translation is unofficial and may become outdated as the
+English version is changed. The translation request can be found at
+m:Translation requests/WMF/Terms of Use 2 -- Maggie Dennis, Community Liaison
+01:21, 27 October 2011 (UTC)
+
+I apologize that you are receiving this message in English. Please help
+translate it.
+
+The Wikimedia Foundation is seeking Community Fellows and project ideas for the
+Community Fellowship Program. A Fellowship is a temporary position at the
+Wikimedia Foundation in order to work on a specific project or set of projects.
+Submissions for 2012 are encouraged to focus on the theme of improving editor
+retention and increasing participation in Wikimedia projects. If interested,
+please submit a project idea or apply to be a fellow by January 15, 2012. Please
+visit https://meta.wikimedia.org/wiki/Wikimedia_Fellowships for more
+information.
+
+--Siko Bouterse, Head of Community Fellowships, Wikimedia Foundation 03:09, 22
+December 2011 (UTC)
+
+Wikimedia Foundation is getting ready to push out 1.19 to all the WMF-hosted
+wikis. As we finish wrapping up our code review, you can test the new version
+right now on beta.wmflabs.org. For more information, please read the release
+notes or the start of the final announcement.
+
+Report any problems on the labs beta wiki and we'll work to address them before
+they software is released to the production wikis.
+
+Note that this cluster does have SUL but it is not integrated with SUL in
+production, so you'll need to create another account. You should avoid using the
+same password as you use here. — Global message delivery 16:38, 15 January 2012
+(UTC)
+
+(Apologies if this message isn't in your language.) The Wikimedia Foundation is
+planning to upgrade MediaWiki (the software powering this wiki) to its latest
+version this month. You can help to test it before it is enabled, to avoid
+disruption and breakage. More information is available in the full announcement.
+Thank you for your understanding.
+
+Guillaume Paumier, via the Global message delivery system (wrong page? You can
+fix it.). 15:21, 12 February 2012 (UTC)
+
+(Apologies if this message isn't in your language. Please consider translating
+it, as well as the full version of this announcement on Meta)
+
+The Wikimedia Foundation is planning to do limited testing of IPv6 on June 2-3.
+If there are not too many problems, we may fully enable IPv6 on World IPv6 day
+(June 6), and keep it enabled.
+
+Read the full version of this announcement on how to test the behavior of IPv6
+with various tools and how to leave bug reports, and to find a fuller analysis
+of the implications of the IPv6 migration.
+
+--Erik Möller, VP of Engineering and Product Development, Wikimedia Foundation
+01:28, 2 June 2012 (UTC)
+
+Wikimedia Commons is happy to announce that the 2011 Picture of the Year
+competition is now open. We are interested in your opinion as to which images
+qualify to be the Picture of the Year 2011. Any user registered at Commons or a
+Wikimedia wiki SUL-related to Commons with more than 75 edits before 1 April
+2012 (UTC) is welcome to vote and, of course everyone is welcome to view!
+
+About 600 of the best of Wikimedia Common's photos, animations, movies and
+graphics were chosen –by the international Wikimedia Commons community– out of
+12 million files during 2011 and are now called Featured Pictures.
+
+From professional animal and plant shots to breathtaking panoramas and skylines,
+restorations of historically relevant images, images portraying the world's best
+architecture, maps, emblems, diagrams created with the most modern technology,
+and impressive human portraits, Commons Features Pictures of all flavors.
+
+See you on Commons! --Picture of the Year 2011 Committee 18:43, 5 June 2012
+(UTC)
+
+(Apologies if this message isn't in your language. Please consider translating
+it)
+
+As many of you are aware, the Wikimedia Board of Trustees recently initiated
+important changes in the way that money is being distributed within the
+Wikimedia movement. As part of this, a new community-led "Funds Dissemination
+Committee" (FDC) is currently being set up. Already in 2012-13, its
+recommendations will guide the decisions about the distribution of over 10
+million US dollars among the Foundation, chapters and other eligible entities.
+
+Now, seven capable, knowledgeable and trustworthy community members are sought
+to volunteer on the initial Funds Dissemination Committee. It is expected to
+take up its work in September. In addition, a community member is sought to be
+the Ombudsperson for the FDC process. If you are interested in joining the
+committee, read the call for volunteers. Nominations are planned to close on
+August 15.
+
+--Anasuya Sengupta, Director of Global Learning and Grantmaking, Wikimedia
+Foundation 20:28, 19 July 2012 (UTC)
+
+You might also be interested in the idea to create a central Wikipedia Library
+where approved editors would have access to all participating resource donors.
+Add your feedback to the Community Fellowship proposal. Apologies for the
+English message (translate here). Go sign up :) --Ocaasi (talk) 02:26, 16 August
+2012 (UTC)
+
+I apologize for addressing you in English. I would be grateful if you could
+translate this message into your language.
+
+The Wikimedia Foundation is conducting a request for comment on a proposed
+program that could provide legal assistance to users in specific support roles
+who are named in a legal complaint as a defendant because of those roles. We
+wanted to be sure that your community was aware of this discussion and would
+have a chance to participate in that discussion.
+
+If this page is not the best place to publicize this request for comment, please
+help spread the word to those who may be interested in participating. (If you'd
+like to help translating the "request for comment", program policy or other
+pages into your language and don't know how the translation system works, please
+come by my user talk page at m:User talk:Mdennis (WMF). I'll be happy to assist
+or to connect you with a volunteer who can assist.)
+
+As some of you might already have heard Wikimedia Deutschland is working on a
+new Wikimedia project. It is called m:Wikidata. The goal of Wikidata is to
+become a central data repository for the Wikipedias, its sister projects and the
+world. In the future it will hold data like the number of inhabitants of a
+country, the date of birth of a famous person or the length of a river. These
+can then be used in all Wikimedia projects and outside of them.
+
+It'd be great if you could join us, test the demo version, provide feedback and
+take part in the development of Wikidata. You can find all the relevant
+information including an FAQ and sign-up links for our on-wiki newsletter on the
+Wikidata page on Meta.
+
+For further discussions please use this talk page (if you are uncomfortable
+writing in English you can also write in your native language there) or point me
+to the place where your discussion is happening so I can answer there.
+
+The only pre-requisite is for the volunteer to actually live in the country and
+to have access to at least one donation method that we offer for that country
+(mainly credit/debit card, but also real-time banking like IDEAL, E-wallets,
+etc...) so we can do a live test and see if the donation goes through. All
+volunteers will be reimbursed of the donations that eventually succeed (and they
+will be low amounts, like 1-2 dollars)
+
+(Apologies if this message isn't in your language.) Next week, the Wikimedia
+Foundation will transition its main technical operations to a new data center in
+Ashburn, Virginia, USA. This is intended to improve the technical performance
+and reliability of all Wikimedia sites, including this wiki. There will be some
+times when the site will be in read-only mode, and there may be full outages;
+the current target windows for the migration are January 22nd, 23rd and 24th,
+2013, from 17:00 to 01:00 UTC (see other timezones on timeanddate.com). More
+information is available in the full announcement.
+
+If you would like to stay informed of future technical upgrades, consider
+becoming a Tech ambassador and joining the ambassadors mailing list. You will be
+able to help your fellow Wikimedians have a voice in technical discussions and
+be notified of important decisions.
+
+Guillaume Paumier, via the Global message delivery system (wrong page? You can
+fix it.). 15:46, 19 January 2013 (UTC)
+
+Wikimedia Commons celebrates our featured images of 2012 with this contest. Your
+votes decide the Picture of the Year, so remember to vote in the first round by
+January 30, 2013.
+
+This message was delivered based on m:Distribution list/Global message delivery.
+Translation fetched from: commons:Commons:Picture of the
+Year/2012/Translations/Village Pump/en -- Rillke (talk) 00:01, 23 January 2013
+(UTC)
+
+Wikidata has been in development for a few months now. It is now time for the
+roll-out of the first part of it on your Wikipedia. Phase 1 is the support for
+the management of language links. It is already being used on the Hungarian,
+Hebrew, Italian and English Wikipedias. The next step is to enable the extension
+on all other Wikipedias. We have currently planned this for March 6.
+
+Editors on en:wp have created a great page with all the necessary information
+for editors and there is also an FAQ for this deployment. Please ask questions
+you might have on the FAQ’s discussion page.
+
+To stay up-to-date on everything happening around Wikidata please subscribe to
+the newsletter that is delivered weekly to subscribed user’s talk pages. You can
+see previous editions here.
+
+Sorry for writing in English. I hope someone can translate this locally. If you
+understand German better than English you can have a look at the announcement on
+de:Wikipedia:Kurier.
+
+As I annonced 2 weeks ago, Wikidata phase 1 (language links) has been deployed
+here today. Language links in the sidebar are coming from Wikidata in addition
+to the ones in the wiki text. To edit them, scroll to the bottom of the language
+links, and click edit. You no longer need to maintain these links by hand in the
+wiki text of the article.
+
+Where can I find more information and ask questions? Editors on en:wp have
+created a great page with all the necessary information for editors and there is
+also an FAQ for this deployment. It'd be great if you could bring this to this
+wiki if that has not already happened. Please ask questions you might have on
+the FAQ’s discussion page.
+
+I want to be kept up to date about Wikidata To stay up-to-date on everything
+happening around Wikidata please subscribe to the newsletter that is delivered
+weekly to subscribed user’s talk pages.
+
+(Please consider translating this message for the benefit of your fellow
+Wikimedians)
+
+Greetings. As you might have seen on the Wikimedia tech blog or the tech
+ambassadors list, a new functionality called "Lua" is being enabled on all
+Wikimedia sites today. Lua is a scripting language that enables you to write
+faster and more powerful MediaWiki templates.
+
+If you have questions about how to convert existing templates to Lua (or how to
+create new ones), we'll be holding two support sessions on IRC next week: one on
+Wednesday (for Oceania, Asia & America) and one on Friday (for Europe, Africa &
+America); see m:IRC office hours for the details. If you can't make it, you can
+also get help at mw:Talk:Lua scripting.
+
+If you'd like to learn about this kind of events earlier in advance, consider
+becoming a Tech ambassador by subscribing to the mailing list. You will also be
+able to help your fellow Wikimedians have a voice in technical discussions and
+be notified of important decisions.
+
+Guillaume Paumier, via the Global message delivery system. 20:28, 13 March 2013
+(UTC) (wrong page? You can fix it.)
+
+Sorry for writing in English. I hope someone can translate this. If you
+understand German better than English you can have a look at the announcement on
+de:Wikipedia:Kurier.
+
+A while ago the first phase of Wikidata was enabled on this Wikipedia. This
+means you are getting the language links in each article from Wikidata. It is
+soon time to enable the second phase of Wikidata (infoboxes) here. We have
+already done this on the [first 11 Wikipedias] (it, he, hu, ru, tr, uk, uz, hr,
+bs, sr, sh) and things are looking good. The next step is English Wikipedia.
+This is planned for April 8. If everything works out fine we will deploy on all
+remaining Wikipedias on April 10. I will update this part of the FAQ if there
+are any issues forcing us to change this date. I will also sent another note to
+this village pump once the deployment is finished.
+
+What will happen once we have phase 2 enabled here? Once it is enabled in a few
+days you will be able to make use of the structured data that is available on
+Wikidata in your articles/infoboxes. It includes things like the symbol for a
+chemical element, the ISBN for a book or the top level domain of a country.
+(None of this will happen automatically. Someone will have to change the article
+or infobox template for this to happen!)
+
+We are working on expanding the parser function so you can for example use
+{{#property:chief executive officer}} instead of {{#property:p169}}. The
+complete plan for this is here.
+
+Where can I find more information and ask questions? We have collected the main
+questions in an FAQ for this deployment. Please ask questions you might have on
+the FAQ’s discussion page.
+
+I want to be kept up to date about Wikidata To stay up-to-date on everything
+happening around Wikidata please subscribe to the newsletter that is delivered
+weekly to subscribed user’s talk pages.
+
+(Please consider translating this message for the benefit of your fellow
+Wikimedians. Please also consider translating the proposal.)
+
+Read this message in English / Lleer esti mensaxe n'asturianu / বাংলায় এই
+বার্তাটি পড়ুন / Llegiu aquest missatge en català / Læs denne besked på dansk /
+Lies diese Nachricht auf Deutsch / Leś cal mesag' chè in Emiliàn / Leer este
+mensaje en español / Lue tämä viesti suomeksi / Lire ce message en français /
+Ler esta mensaxe en galego / हिन्दी / Pročitajte ovu poruku na hrvatskom / Baca
+pesan ini dalam Bahasa Indonesia / Leggi questo messaggio in italiano / ಈ
+ಸಂದೇಶವನ್ನು ಕನ್ನಡದಲ್ಲಿ ಓದಿ / Aqra dan il-messaġġ bil-Malti / norsk (bokmål) /
+Lees dit bericht in het Nederlands / Przeczytaj tę wiadomość po polsku / Citiți
+acest mesaj în română / Прочитать это сообщение на русском / Farriintaan ku aqri
+Af-Soomaali / Pročitaj ovu poruku na srpskom (Прочитај ову поруку на српском) /
+อ่านข้อความนี้ในภาษาไทย / Прочитати це повідомлення українською мовою / Đọc
+thông báo bằng tiếng Việt / 使用中文阅读本信息。
+
+There is a new request for comment on Meta-Wiki concerning the removal of
+administrative rights from long-term inactive Wikimedians. Generally, this
+proposal from stewards would apply to wikis without an administrators' review
+process.
+
+We are also compiling a list of projects with procedures for removing inactive
+administrators on the talk page of the request for comment. Feel free to add
+your project(s) to the list if you have a policy on administrator inactivity.
+
+Thanks, Billinghurst (thanks to all the translators!) 05:26, 24 April 2013 (UTC)
+
+Sorry for writing in English. I hope someone can translate this. If you
+understand German better than English you can have a look at the announcement on
+de:Wikipedia:Kurier.
+
+A while ago the first phase of Wikidata was enabled on this Wikipedia. This
+means you are getting the language links in each article from Wikidata. We have
+now enabled the second phase of Wikidata (infoboxes) here. We have already done
+this on the [first 11 Wikipedias] (it, he, hu, ru, tr, uk, uz, hr, bs, sr, sh) a
+month ago and two days ago on the English Wikipedia. Today all the remaining
+Wikipedias followed.
+
+What does having phase 2 enabled here mean? You are now able to make use of the
+structured data that is available on Wikidata in your articles/infoboxes. It
+includes things like the symbol for a chemical element, the ISBN for a book or
+the top level domain of a country. (None of this will happen automatically.
+Someone will have to change the article or infobox template for this to happen!)
+The current state is just the beginning though. It will be extended based on
+feedback we get from you now.
+
+We are working on expanding the parser function so you can for example use
+{{#property:headquarter location}} instead of {{#property:p159}}. The complete
+plan for this is here.
+
+Where can I test this? You can test it on test2 if you don't want to do it in an
+article here.
+
+Where can I find more information and ask questions? We have collected the main
+questions in an FAQ for this deployment. Please ask questions you might have on
+the FAQ’s discussion page.
+
+I want to be kept up to date about Wikidata To stay up-to-date on everything
+happening around Wikidata please subscribe to the newsletter that is delivered
+weekly to subscribed user’s talk pages.
+
+We are excited about taking yet another step towards allowing all Wikipedias
+share structured data and collect and curate it together. --Lydia Pintscher
+19:23, 24 April 2013 (UTC)
+
+Hi, apologies for posting this in English, but I wanted to alert your community
+to a discussion on Meta about potential changes to the Wikimedia Trademark
+Policy. Please translate this statement if you can. We hope that you will all
+participate in the discussion; we also welcome translations of the legal team’s
+statement into as many languages as possible and encourage you to voice your
+thoughts there. Please see the Trademark practices discussion (on Meta-Wiki) for
+more information. Thank you! --Mdennis (WMF) (talk)
+
+The Wikipedia Library gets Wikipedia editors free access to reliable sources
+that are behind paywalls. I want to alert you to our latest donation.
+
+My apologies for the incorrect link: You can sign up for Cochrane Collaboration
+accounts at the COCHRANE sign-up page. Cheers, Ocaasi 21:56, 16 June 2013 (UTC)
+
+Hello, Sorry for English but It's very important for bot operators so I hope
+someone translates this. Pywikipedia is migrating to Git so after July 26, SVN
+checkouts won't be updated If you're using Pywikipedia you have to switch to
+git, otherwise you will use out-dated framework and your bot might not work
+properly. There is a manual for doing that and a blog post explaining about this
+change in non-technical language. If you have question feel free to ask in
+mw:Manual talk:Pywikipediabot/Gerrit, mailing list, or in the IRC channel. Best
+Amir (via Global message delivery). 13:52, 23 July 2013 (UTC)
+
+The Wikimedia Foundation will soon turn on VisualEditor for all users, all the
+time on your Wikipedia. Right now your Wikipedia does not have any local
+documents on VisualEditor, and we hope that your community can change that. To
+find out about how you can help with translations visit the TranslationCentral
+for VisualEditor and read the easy instructions on bringing information to your
+Wikipedia. The User Guide and the FAQ are very important to have in your
+language.
+
+We want to find out as much as we can from you about VisualEditor and how it
+helps your Wikipedia, and having local pages is a great way to start. We also
+encourage you to leave feedback on Mediawiki where the community can offer
+ideas, opinions, and point out bugs that may still exist in the software that
+need to be reported to Bugzilla. If you are able to speak for the concerns of
+others in English on MediaWiki or locally I encourage you to help your community
+to be represented in this process.
+
+If you can help translate the user interface for VisualEditor to your language,
+you can help with that as well. Translatewiki has open tasks for translating
+VisualEditor. A direct link to translate the user interface is here. You can see
+how we are doing with those translations here. You need an account on
+Translatewiki to translate. This account is free and easy to create.
+
+If we can help your community in any way with this process, please let me know
+and I will do my best to assist your Wikipedia with this |exciting development.
+You can contact me on my meta talk page or by email. You can also contact
+Patrick Earley for help with translations and documents on Mediawiki. We look
+forward to working with you to bring the VisualEditor experience to your
+Wikipedia! Keegan (WMF) (talk) 19:15, 30 July 2013 (UTC)
+
+Is it time to reconsider Juliancolton's proposal from 2010? I think this project
+left the incubator prematurely. Varlaam (talk) 04:57, 19 August 2013 (UTC)
+
+Greetings. Starting on August 21 (tomorrow), all users with an account will be
+using HTTPS to access Wikimedia sites. HTTPS brings better security and improves
+your privacy. More information is available at m:HTTPS.
+
+If HTTPS causes problems for you, tell us on bugzilla, on IRC (in the
+#wikimedia-operations channel) or on meta. If you can't use the other methods,
+you can also send an e-mail to https@wikimedia.org.
+
+Greg Grossmeier (via the Global message delivery system). 19:48, 20 August 2013
+(UTC) (wrong page? You can fix it.)
+
+Notifications will inform users about new activity that affects them on this
+wiki in a unified way: for example, this new tool will let you know when you
+have new talk page messages, edit reverts, mentions or links -- and is designed
+to augment (rather than replace) the watchlist. The Wikimedia Foundation's
+editor engagement team developed this tool (code-named 'Echo') earlier this
+year, to help users contribute more productively to MediaWiki projects.
+
+We're now getting ready to bring Notifications to almost all other Wikimedia
+sites, and are aiming for a 22 October deployment, as outlined in this release
+plan. It is important that notifications is translated for all of the languages
+we serve.
+
+Please let us know if you have any questions, suggestions or comments about this
+new tool. For more information, visit this project hub and this help page.
+Keegan (WMF) (talk) 19:20, 4 October 2013 (UTC)
+
+Hello. A new policy regarding the removal of "advanced rights" (administrator,
+bureaucrat, etc) was recently adopted by global community consensus (your
+community received a notice about the discussion). According to this policy, the
+stewards are reviewing administrators' activity on smaller wikis. To the best of
+our knowledge, your wiki does not have a formal process for removing "advanced
+rights" from inactive accounts. This means that the stewards will take care of
+this according to the new admin activity review here.
+
+However, if you as a community would like to create your own activity review
+process superseding the global one, want to make another decision about these
+inactive rights holders, or already have a policy that we missed, then please
+notify the stewards on Meta-Wiki so that we know not to proceed with the rights
+review on your wiki. Thanks, --MF-Warburg (talk) 19:18, 10 October 2013 (UTC)
+
+I apologize for this message being only in English. Please translate it if
+needed to help your community.
+
+The Wikimedia Foundation's multimedia team seeks community guidance on a
+proposal to support the MP4 video format. This digital video standard is used
+widely around the world to record, edit and watch videos on mobile phones,
+desktop computers and home video devices. It is also known as H.264/MPEG-4 or
+AVC.
+
+You are also welcome to join tomorrow's Office hours chat on IRC, this Thursday,
+January 16, at 19:00 UTC, if you would like to discuss this project with our
+team and other community members.
+
+We look forward to a constructive discussion with you, so we can make a more
+informed decision together on this important topic. Keegan (WMF) (talk) 06:47,
+16 January 2014 (UTC)
+
+The Catalan-speaking world... Want to find out more? From March 16 to April 15
+we will organise the Catalan Culture Challenge, a Wikipedia editing contest in
+which victory will go to those who start and improve the greatest number of
+articles about 50 key figures of Catalan culture. You can take part by creating
+or expanding articles on these people in your native language (or any other one
+you speak). It would be lovely to have you on board. :-)
+
+There is a current discussion on German Wikipedia on a decision of Asaf Bartov,
+Head of WMF Grants and Global South Partnerships, Wikimedia Foundation, who
+rejected a request for funding a proposal from wikipedians from eowiki one year
+ago with the explanation the existence, cultivation, and growth of the Esperanto
+Wikipedia does not advance our educational mission. No one needs free knowledge
+in Esperanto. On meta there has also started a discussion about that decision.
+--Holder (talk) 10:54, 5 May 2014 (UTC)
+
+Hello and sorry for writing in English. Can anyone help me translate a small
+article (2 paragraphs) from English to your language and create the article in
+your wiki? Please, fell free to answer in my talk page in your wiki anytime.
+Thanks! Xaris333 (talk) 00:41, 13 August 2014 (UTC)
+
+Greetings! The Individual Engagement Grants program is accepting proposals for
+funding new experiments from September 1st to 30th. Your idea could improve
+Wikimedia projects with a new tool or gadget, a better process to support
+community-building on your wiki, research on an important issue, or something
+else we haven't thought of yet. Whether you need $200 or $30,000 USD, Individual
+Engagement Grants can cover your own project development time in addition to
+hiring others to help you.
+
+Hello, Dear wikipedians. I invite you to edit and improve this article and to
+add information about your and other country.--Kaiyr (talk) 13:36, 31 October
+2014 (UTC)
+
+(Sorry for the English - please translate this message!) MediaWiki message
+delivery (talk) 20:02, 4 March 2015 (UTC)
+
+Hello, I made a proposal on Meta to change the rules for the steward
+confirmations. Currently consensus to remove is required for a steward to lose
+his status, however I think it's fairer to the community if every steward needed
+the consensus to keep. As this is an issue that affects all WMF wikis, I'm
+sending this notification to let people know & be able to participate. Best
+regards, --MF-W 16:12, 10 Oforisuo 2015 (UTC)
+
+This is a message from the 2015 Wikimedia Foundation Elections Committee.
+Translations are available.
+
+I am pleased to announce that nominations are now being accepted for the 2015
+Wikimedia Foundation Elections. This year the Board and the FDC Staff are
+looking for a diverse set of candidates from regions and projects that are
+traditionally under-represented on the board and in the movement as well as
+candidates with experience in technology, product or finance. To this end they
+have published letters describing what they think is needed and, recognizing
+that those who know the community the best are the community themselves, the
+election committee is accepting nominations for community members you think
+should run and will reach out to those nominated to provide them with
+information about the job and the election process.
+
+Board of Trustees The Board of Trustees is the decision-making body that is
+ultimately responsible for the long term sustainability of the Foundation, so we
+value wide input into its selection. There are three positions being filled.
+More information about this role can be found at the board elections page.
+
+Funds Dissemination Committee (FDC) The Funds Dissemination Committee (FDC)
+makes recommendations about how to allocate Wikimedia movement funds to eligible
+entities. There are five positions being filled. More information about this
+role can be found at the FDC elections page.
+
+Funds Dissemination Committee (FDC) Ombud The FDC Ombud receives complaints and
+feedback about the FDC process, investigates complaints at the request of the
+Board of Trustees, and summarizes the investigations and feedback for the Board
+of Trustees on an annual basis. One position is being filled. More information
+about this role can be found at the FDC Ombudsperson elections page.
+
+The candidacy submission phase lasts from 00:00 UTC April 20 to 23:59 UTC May 5
+for the Board and from 00:00 UTCApril 20 to 23:59 UTC April 30 for the FDC and
+FDC Ombudsperson. This year, we are accepting both self-nominations and
+nominations of others. More information on this election and the nomination
+process can be found on the 2015 Wikimedia elections page on Meta-Wiki.
+
+On behalf of the Elections Committee, -Gregory Varnum (User:Varnent)
+Coordinator, 2015 Wikimedia Foundation Elections Committee
+
+Posted by the MediaWiki message delivery on behalf of the 2015 Wikimedia
+Foundation Elections Committee, 05:03, 21 April 2015 (UTC) • Translate • Get
+help
+
+This is a message from the 2015 Wikimedia Foundation Elections Committee.
+Translations are available.
+
+Voting has begun for eligible voters in the 2015 elections for the Funds
+Dissemination Committee (FDC) and FDC Ombudsperson. Questions and discussion
+with the candidates for the Funds Dissemination Committee (FDC) and FDC
+Ombudsperson will continue during the voting. Nominations for the Board of
+Trustees will be accepted until 23:59 UTC May 5.
+
+The Funds Dissemination Committee (FDC) makes recommendations about how to
+allocate Wikimedia movement funds to eligible entities. There are five positions
+on the committee being filled.
+
+The FDC Ombudsperson receives complaints and feedback about the FDC process,
+investigates complaints at the request of the Board of Trustees, and summarizes
+the investigations and feedback for the Board of Trustees on an annual basis.
+One position is being filled.
+
+The voting phase lasts from 00:00 UTC May 3 to 23:59 UTC May 10. Click here to
+vote. Questions and discussion with the candidates will continue during that
+time. Click here to ask the FDC candidates a question. Click here to ask the FDC
+Ombudsperson candidates a question. More information on the candidates and the
+elections can be found on the 2015 FDC election page, the 2015 FDC Ombudsperson
+election page, and the 2015 Board election page on Meta-Wiki.
+
+On behalf of the Elections Committee, -Gregory Varnum (User:Varnent) Volunteer
+Coordinator, 2015 Wikimedia Foundation Elections Committee
+
+Posted by the MediaWiki message delivery 03:45, 4 May 2015 (UTC) • Translate •
+Get help
+
+This is a message from the 2015 Wikimedia Foundation Elections Committee.
+Translations are available.
+
+Voting has begun for eligible voters in the 2015 elections for the Wikimedia
+Foundation Board of Trustees. Questions and discussion with the candidates for
+the Board will continue during the voting.
+
+The Wikimedia Foundation Board of Trustees is the ultimate governing authority
+of the Wikimedia Foundation, a 501(c)(3) non-profit organization registered in
+the United States. The Wikimedia Foundation manages many diverse projects such
+as Wikipedia and Commons.
+
+The voting phase lasts from 00:00 UTC May 17 to 23:59 UTC May 31. Click here to
+vote. More information on the candidates and the elections can be found on the
+2015 Board election page on Meta-Wiki.
+
+On behalf of the Elections Committee, -Gregory Varnum (User:Varnent) Volunteer
+Coordinator, 2015 Wikimedia Foundation Elections Committee
+
+Posted by the MediaWiki message delivery 17:20, 17 May 2015 (UTC) • Translate •
+Get help
+
+I am translating the text of this link
+https://en.wikipedia.org/wiki/University_of_Information_Science_and_Technology_%
+22St._Paul_The_Apostle%22 in Ganian language. The translation can be found on
+the next link
+https://tw.wikipedia.org/wiki/Osuani_Paul_sukuu_p%C9%94n_University_for_Informat
+ion_Science_and_Technology. Thank you in forward. Best regards, Jovanuist (talk)
+11:28, 12 June 2015 (UTC)
+
+My apologies for posting this message in English. Please help translate it if
+you can.
+
+The Wikimedia Foundation would like your feedback about how we can reimagine
+Wikimedia Foundation grants, to better support people and ideas in your
+Wikimedia project. Ways to participate:
+
+(Opt-out Instructions) This message was sent by I JethroBT (WMF) through
+MediaWiki message delivery. 00:14, 19 August 2015 (UTC)
+
+My apologies for posting this message in English. Please help translate it if
+you can.
+
+The Wikimedia Foundation would like your feedback about how we can reimagine
+Wikimedia Foundation grants, to better support people and ideas in your
+Wikimedia project. Ways to participate:
+
+(Opt-out Instructions) This message was sent by Template:User through MediaWiki
+message delivery. 00:38, 19 August 2015 (UTC)
+
+Please help translate the statements on Meta Wiki. You can read more on the
+Wikimedia blog.
+
+My apologies for posting this message in English. Please help translate it if
+you can.
+
+Greetings! The Individual Engagement Grants program is accepting proposals until
+September 29th to fund new tools, community-building processes, and other
+experimental ideas that enhance the work of Wikimedia volunteers. Whether you
+need a small or large amount of funds (up to $30,000 USD), Individual Engagement
+Grants can support you and your team’s project development time in addition to
+project expenses such as materials, travel, and rental space.
+
+I JethroBT (WMF), Community Resources, Wikimedia Foundation. 20:52, 4 September
+2015 (UTC)
+
+(Opt-out Instructions) This message was sent by I JethroBT (WMF) (talk) through
+MediaWiki message delivery.
+
+My apologies for posting this message in English. Please help translate it if
+you can.
+
+Greetings! The Individual Engagement Grants program is accepting proposals until
+September 29th to fund new tools, community-building processes, and other
+experimental ideas that enhance the work of Wikimedia volunteers. Whether you
+need a small or large amount of funds (up to $30,000 USD), Individual Engagement
+Grants can support you and your team’s project development time in addition to
+project expenses such as materials, travel, and rental space.
+
+I JethroBT (WMF), Community Resources, Wikimedia Foundation. 21:58, 4 September
+2015 (UTC)
+
+(Opt-out Instructions) This message was sent by I JethroBT (WMF) (talk) through
+MediaWiki message delivery.
+
+There is still one week left to submit Individual Engagement Grant (IEG)
+proposals before the September 29th deadline. If you have ideas for new tools,
+community-building processes, and other experimental projects that enhance the
+work of Wikimedia volunteers, start your proposal today! Please encourage others
+who have great ideas to apply as well. Support is available if you want help
+turning your idea into a grant request.
+
+Last month, we asked for community feedback on a proposal to change the
+structure of WMF grant programs. Thanks to the 200+ people who participated! A
+report on what we learned and changed based on this consultation is now
+available.
+
+Come read about the findings and next steps as WMF’s Community Resources team
+begins to implement changes based on your feedback. Your questions and comments
+are welcome on the outcomes discussion page.
+
+The Community Advocacy team the Wikimedia Foundation has opened a consultation
+on the topic of harassment on Meta. The consultation period is intended to run
+for one month from today, November 16, and end on December 17. Please share your
+thoughts there on harassment-related issues facing our communities and potential
+solutions. (Note: this consultation is not intended to evaluate specific cases
+of harassment, but rather to discuss the problem of harassment itself.)
+
+This is a message regarding the proposed 2015 Free Bassel banner. Translations
+are available.
+
+This is to inform all Wikimedia contributors that a straw poll seeking your
+involvement has just been started on Meta-Wiki.
+
+As some of your might be aware, a small group of Wikimedia volunteers have
+proposed a banner campaign informing Wikipedia readers about the urgent
+situation of our fellow Wikipedian, open source software developer and Creative
+Commons activist, Bassel Khartabil. An exemplary banner and an explanatory page
+have now been prepared, and translated into about half a dozen languages by
+volunteer translators.
+
+We are seeking your involvement to decide if the global Wikimedia community
+approves starting a banner campaign asking Wikipedia readers to call on the
+Syrian government to release Bassel from prison. We understand that a campaign
+like this would be unprecedented in Wikipedia's history, which is why we're
+seeking the widest possible consensus among the community.
+
+Given Bassel's urgent situation and the resulting tight schedule, we ask
+everyone to get involved with the poll and the discussion to the widest possible
+extent, and to promote it among your communities as soon as possible.
+
+(Apologies for writing in English; please kindly translate this message into
+your own language.)
+
+Posted by the MediaWiki message delivery 21:47, 25 November 2015 (UTC) •
+Translate • Get help
+
+Patrick Earley (WMF) via MediaWiki message delivery (talk) 01:49, 5 January 2016
+(UTC)
+
+Your input is welcome (and greatly desired) at the Meta discussion, 2016
+Strategy/Community consultation.
+
+Apologies for English, where this is posted on a non-English project. We thought
+it was more important to get the consultation translated as much as possible,
+and good headway has been made there in some languages. There is still much to
+do, however! We created m:2016 Strategy/Translations to try to help coordinate
+what needs translation and what progress is being made. :)
+
+I hope you'll join us! Maggie Dennis via MediaWiki message delivery (talk)
+19:07, 18 January 2016 (UTC)
+
+Greetings! The Individual Engagement Grants (IEG) program is accepting proposals
+until April 12th to fund new tools, research, outreach efforts, and other
+experiments that enhance the work of Wikimedia volunteers. Whether you need a
+small or large amount of funds (up to $30,000 USD), IEGs can support you and
+your team’s project development time in addition to project expenses such as
+materials, travel, and rental space.
+
+The visual editor will be available for all contributors at this Wikipedia later
+this year. The visual editor allows people to edit articles as if they were
+using a typical word processor. There is no target date for the rollout yet.
+After the deployment, everyone will automatically have the option to use either
+the visual editor or the current wikitext editor. For more information about how
+to use the visual editor, see mw:Help:VisualEditor/User guide.
+
+You can use the visual editor right now. To turn it on, select "Beta" in your
+preferences. Choose "VisualEditor" and click save. When it is enabled, press the
+"Edit" button to edit an article in the new software. When the visual editor is
+open, you can switch to the wikitext editor any time you want. Just click the [[
+]] icon in the toolbar, next to the "Save" button. Inside the wikitext editor,
+click the pencil icon () in the upper right corner to switch to the visual
+editor. After the deployment, you'll be presented with several options to choose
+your favorite editing setting.
+
+There is a short guide at mediawiki.org that has some tips about getting the
+best value out of the visual editor for your project. In particular, please
+consider providing translations here and for the user guide. Please contact me
+if you want guidance in contributing translations!
+
+Hello, after six weeks of community discussion about Wikipedia to the Moon,
+there are now 10 different proposals for content for the mission. Starting
+today, you can vote for them on Meta-Wiki, and decide what we will work on: a
+Wikipedia canon, different lists, the Moon in 300 languages, an astronomy
+editathon, featured articles, articles about technology, endangered things, or
+DNA-related topics. You can even vote against community involvement. Voting is
+open until 24 June. Sorry that this message is again in English only, but we are
+using village pumps to reach as many communities as possible, so that everyone
+knows they can vote. Best, Moon team at Wikimedia Deutschland 15:31, 10 June
+2016 (UTC)
+
+You may already have heard about Wikipedia to the Moon: A team of scientists
+called the “PT Scientists” are going to send a space craft to the moon in 2017
+and they want to take Wikipedia along with them. Because Wikipedia is so big, we
+cannot send all of it to the moon. That is why the international
+Wikipedia-community has voted to send all “Featured Articles and Featured Lists“
+from all languages in Wikipedia.
+
+“Featured Articles“ is a category in many language versions of Wikipedia that
+collects the very best articles in that language. Your community does not
+currently have a „Featured Articles“ category. Ideally, we want to take every
+language on Wikipedia to the moon and we also want to take the best articles in
+your language. That is why we would like you to tell us what the very best
+articles in your language are.
+
+Greetings! The Project Grants program is currently accepting proposals for
+funding. There is just over a week left to submit before the October 11
+deadline. If you have ideas for software, offline outreach, research, online
+community organizing, or other projects that enhance the work of Wikimedia
+volunteers, start your proposal today! Please encourage others who have great
+ideas to apply as well. Support is available if you want help turning your idea
+into a grant request.
+
+Hello again. Please excuse the English. Please help translate to your language.
+Thank you!
+
+As per previous announcements earlier this year, the visual editor
+(VisualEditor) will be enabled at this Wikipedia in some days. It allows people
+to edit articles as if they were using a typical word processor. Here's a quick
+explanation of what is going to happen: you can find a more detailed one, with
+pictures, at mediawiki.org.
+
+Hello! I'm writing from the Wikimedia Foundation to invite you to give your
+feedback on a proposed move from CC BY-SA 3.0 to a CC BY-SA 4.0 license across
+all Wikimedia projects. The consultation will run from October 5 to November 8,
+and we hope to receive a wide range of viewpoints and opinions. Please, if you
+are interested, take part in the discussion on Meta-Wiki.
+
+Apologies that this message is only in English. This message can be read and
+translated in more languages here. Joe Sutherland (talk) 01:35, 6 October 2016
+(UTC)
+
+I apologise that this message is in English.
+⧼Centralnotice-shared-help-translate⧽
+
+Select strong passwords – eight or more characters long, and containing letters,
+numbers, and punctuation. Joe Sutherland (Kasa) / MediaWiki message delivery
+(talk) 23:59, 13 November 2016 (UTC)
+
+Please accept my apologies - that first line should read "Help with
+translations!". Joe Sutherland (WMF) (talk) / MediaWiki message delivery (talk)
+00:11, 14 November 2016 (UTC)
+
+James Forrester (Product Manager, Editing department, Wikimedia Foundation)
+--19:32, 14 December 2016 (UTC)
+
+
+
+https://tw.wikipedia.org/wiki/Kumasi
+
+Kumasi: (Kumase) ye Ghana kuro kesee a eso sene Ghana nkuro nyinaa gyese Nkran
+(Accra). Nnipa a ewo Kumasi beye Opepepem baako (1,000,000) Kumasi abako sem
+firi Asantehene Nana Osei Tutu a Odi Kan bere so. Abakosem kyerese, enam Nana
+Osei Tutu adamfo bi a wofre no Komfo Anokye so na emaa Kumasiman yee kese.
+Wokyere se Komfo Anokye duaa dua mmienu wo baabi a ene yi yefre no Kumasi yi ene
+baabi a ene wofre no Kumawu. Dua no a woduaa no Kumawu no wuui maa ekaa Kumasi
+dua no. Eno na eboa maa Kumasi beyee Asanteman kuro kese ne won ahenkuro.
+
+Asantehene: Asantehene a, ote Asika Dwa Kokoo Soo, ebeye mfie edu nie na obedii
+ne wofa, Otumfuo Opoku Ware Oto so Mmienu adee. Asanteman do won ahenfo de ebuo
+ma won nyinaa sedee ese wo Ghana ahenfo nyinaa mu.
+
+Adesua:Adesua anaa se nwoma sua mu no, se woyi Nkran firi ho a, kuro biara nni
+Ghana a ewo sukuu pii sen Kumasi. Sukuu pon ahodoo bebree na ewo ho. Emu atitire
+bi ne Kwame Nkrumah Sukuu Pon no (Kwame Nkrumah University of Science and
+Technology (KNUST).Edin a nkurofoo taa de fre KNUST no ye Tek. Asukuufoo a esua
+adee wo KNUST beye mpem du num (15,000). Ghana man panin a odi kan, Osagyefo Dr.
+Kwame Nkrumah bere so na wo sii sukuu kesee yi. Saa sukuu pon yi atere ama sukuu
+nketewaa bebree nso hyehye mu. Ebi ne School of Medical Sciences, School of
+Engineering ne School of Agriculture.
+
+Sukuu akesee bi nsoso ne sukuu pon a ede University of Education, Kumasi Campus,
+ene mmiensa bi a ennye aban dea te se KNUST. Ene Christian Service University
+College (CSUC), Ghana Baptist University ene Garden City University ewo Kumasi
+nkwantia kuro bi a yefre no Ankaase. Kumasi Polytechnic ene tikyafoo
+(akyerekyerefoo) sukuu mmienu nso a yefre won Wesley College of Education ene
+St. Louis College of Education ewo ho. Eyinom akyi no Mpanifoo Nko Animu Sukuu
+bebree nso so wo ho. Ebi ne Prempeh College, Opoku Ware, Ahmadiya ene Yaa
+Asantewaa.
+
+Ayaresabea: Kumasi nso wo ayaresabea ahoduo a emu kesee no ne Komfo Anokye
+Teaching Hospital. (KATH). Saa ayeresabea yi nso ye sukuu pon Tek adokotafo
+adesua nteteye bea. Komfo Anokye Ayaresabea akyi no, ayaresabea nketewa bebree
+nso so wo Kumasi mpotam nso so eboa hye yadea ahodoo pii.
+
+Agodie: Bool bo anaa soka ne agoro titire ewo Kumasi ne ne mpotam. Agodie ekuo
+baako a agye din yie ne Asante Kotoko. Won adi kan wo akansie bebree wo Ghana ne
+amanano nyinaa. Won mmrane ne se "Asante Kotoko, wokum apem a apem beba" Akansie
+bool kuo baako a won taa ne Kotoko hyia mu ene Accra Hearts of Oak a won wo
+Nkran.
+
+
+
+https://tw.wikipedia.org/wiki/Osuani_Paul_sukuu_p%C9%94n_University_for_Information_Science_and_Technology
+
+Macedonia Mmrahy3 b3dwa fie kesie abadwemfɔɔ nam oman no mmra a 3fa sukuu ho so
+na wɔdi bue sukuu yi wɔ afe apem aduonu wɔtwe (2008) mu . Adesuafoɔ a wɔwɔ sukuu
+pɔn yi mu na wo de wɔn nimdie hyehy3 ad33fo computer kesei a wofr3 no wo eyiresi
+kasa mu s3 super computer wo Macedonia korow no mu ka ne .
+
+esan sukuu yi mmodin bɔ ne ne kan kɔ nti, adesuafo pii firi oman ahodor b3y3 s3
+aduanan so ba sukuu yi bi, na wɔ omanfo a wo firi Macedonia oman no mu ka bom
+sua adi wo sukuu pɔn yi mu. Mper3nper3n yi mu adesua fo a wɔ wɔ sukuu pɔn yi mu
+dodow b3 y3 s3 oha aduasa enum (450). Sukuu yi wɔ ad33fo adesua ahodow pii ma
+wɔn a wɔ p3 degree anaa s3 master degree nimde3 a wɔkyere ni yinara wɔ erisi
+brɔfo kasa mu. Esan sukuu yi mmodinbo nti, wiase sukuu abaso bɔ di wɔ afe apem
+mmienu du mmeɛnsa de aba so bo di kese ma sukuu pɔn yi s3, Macedonia sukuu pɔn
+nyinaa a eb3y3 s3 eduonu no, wɔtɔ so enan wɔ adesua mmodinbo mu .
+
+Osuani Paul sukuu pɔn yi ne sukuu ak3se a edidi so yi wɔ nsa woso k3se a eboa ma
+wɔn adesua kɔ nkan pii;
+
+
+
+https://tw.wikipedia.org/wiki/Aku_Sika
+
+Wɔn mpaeε a wɔnbכ ne sε Nyame bɛma wכn εba baa. Mfie beberee bɛtwaamu na wɔnnya
+ɛba. Ɛno nti anɔpa, awia, anyumerɛ ne anadwo nyinaa na wɔn mpaeε a ne sε wɔbenya
+ɛba.
+
+Dakorobi deε awerεhosεm bi siiɛ. Ɛnam sε na Aku papa de εnam ne aduane pii agu
+pata soכ no nti nkura hyεε aseε sε wɔreba fie hכ. Ɛno nti εmaa Aku papa summ
+nkura fidie wכ baabi beberee seneɛ ɛbεyε oabeyi nkura no. Dakoro bi aku kככ εdan
+a nnuane wכmuu no mu sε כrekosisie hכ na ne nsa kכhyεɛ nkurafidie no baako mu.
+Ɔhyεε aseε sε כreteatea mu sε "obi mmεgye meoo,obi mmεgye me oo. Me nsa akכhyε
+nkurafidie mu."
+
+Sɛ ɔyε basin, εnɛ afahyɛ εwɔ sɛɔ ɔsi aburoo ma obiara hunu sɛ ɔyε basin anaa sɛ
+ɔnyɛ basin ɛne neɛ εkeka hoo. Oninin no dwodwoo ne bo, kyekyerεε ne were
+kakyerɛɛ no sɛ obɛboa no ɛno nti εmma ɔnsuro koraa.
+
+Onini no buee n'anum, Aku nyaa akokoduro de ne nsa sin no hyεε n'anum. Onini no
+kaa nano too mu bεyɛ sima kakra na ɔsan buee n'anum. Aku yii ne nsa firii onini
+no anum.
+
+
+
