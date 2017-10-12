@@ -11,14 +11,14 @@ Text Categorization.
 We've extended this paper to support unicode and asian languages including
 Farsi, Arabic, Chinese, Korean, Chinese, and Japanese.
 
-== How does it work? ==
+## How does it work? 
 
 The library bootstraps itself with a set of known profiles.  These are then
 encoded internally and then developers call Categorizer.match() which returns a
 Profile.  The name of this profile is then an ISO639 language code (en, es, pt,
 sv, etc).
 
-== Comparison to other languages ==
+## Comparison to other languages 
 
 Langcat is superior to many (all) known language classification libraries in that it:
 
@@ -27,12 +27,12 @@ Langcat is superior to many (all) known language classification libraries in tha
  - is extremely fast
  - handles out of memory issues, etc.
 
-== How do you handle Korean, Chinese, and Japanese? ==
+## How do you handle Korean, Chinese, and Japanese?
 
 Korean, Chinese, and Japanese use 1 char words.  We encode these as 1 char
 ngrams which our categorizer is able to handle without a problem.
 
-== Performance ==
+## Performance 
 
 The system is fairly quick.  On a Pentium 4M 1.7Ghz machine its able to process
 1 100 char profile every 4ms.  If you have millions of documents though this
@@ -41,7 +41,7 @@ might take a long time though.
 Memory use is also pretty small.  It takes about 10M of system memory to index
 all profiles.
 
-== Accuracy ==
+## Accuracy 
 
 The classifier is very accurate.  It also won't return false positives.  If its
 not able to categorize a document without a shadow of a doubt it will throw a

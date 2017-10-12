@@ -2,12 +2,14 @@ package com.spinn3r.artemis.lang.ngramcat;
 
 import com.google.common.io.ByteStreams;
 import com.spinn3r.artemis.lang.ngramcat.matchers.Match;
+import org.hamcrest.Matchers;
 import org.junit.Before;
 import org.junit.Test;
 
 import java.io.IOException;
 import java.io.InputStream;
 
+import static org.hamcrest.Matchers.greaterThan;
 import static org.junit.Assert.*;
 
 public class NGramLangClassifierRegressionTest {
@@ -23,10 +25,13 @@ public class NGramLangClassifierRegressionTest {
     }
 
     @Test
+    public void test50() throws Exception {
+        assertThat(regress(50), greaterThan(96.0));
+    }
+
+    @Test
     public void test100() throws Exception {
-
-        assertTrue( regress( 100 ) > 96 );
-
+        assertThat(regress(100), greaterThan(96.0));
     }
 
     @Test
@@ -72,6 +77,8 @@ public class NGramLangClassifierRegressionTest {
         RegressResult regressResult = new RegressResult();
 
         boolean useStdout = true;
+
+        assertThat(nGramLangClassifier.getProfiles().size(), greaterThan(0));
 
         for (Profile profile : nGramLangClassifier.getProfiles()) {
 
