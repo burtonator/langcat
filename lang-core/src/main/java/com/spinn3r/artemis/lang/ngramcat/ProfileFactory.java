@@ -37,7 +37,7 @@ public class ProfileFactory {
 
     public static int DEFAULT_NGRAM_LIMIT = 1_000;
 
-    public static int MAX_PROFILE_LENGTH = 120000;
+    public static int MAX_PROFILE_LENGTH = 2_000_000;
 
     public static ImmutableSet<NGramType> NGRAM_TYPES = ImmutableSet.of(BIGRAM, TRIGRAM);
 

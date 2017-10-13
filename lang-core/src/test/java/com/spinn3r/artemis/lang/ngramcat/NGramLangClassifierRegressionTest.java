@@ -20,7 +20,10 @@ public class NGramLangClassifierRegressionTest {
     public void setUp() throws Exception {
 
         nGramLangClassifier = new NGramLangClassifier();
+
+        System.out.printf("initializing...\n");
         nGramLangClassifier.init();
+        System.out.printf("initializing...done\n");
 
     }
 

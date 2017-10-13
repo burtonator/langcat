@@ -48,7 +48,7 @@ public class NGramLangClassifier implements LangClassifier {
 
     public NGramLangClassifier() {
         //FIXME: make this use modern profiles as the default.
-        this(ProfileDataReferences.create(ProfileDataReferences.Type.LEGACY));
+        this(ProfileDataReferences.create(ProfileDataReferences.Type.MODERN));
     }
 
     public NGramLangClassifier(ImmutableMap<Lang, ProfileDataReference> profileDataReferences) {

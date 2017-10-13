@@ -1,4 +1,11 @@
 
+- Public code:
+    
+    - tests don't actually work now that I moved it into the burtonator repo
+    - move the packages
+    - get stats posted on per language accuracy based on classification length
+
+
 - Migrate to using a TLongIntHashMap as it's a 5x memory savings.  The
   difficulty here is that I need to have this
 
