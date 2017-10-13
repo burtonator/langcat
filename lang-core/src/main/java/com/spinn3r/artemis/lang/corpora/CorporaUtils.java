@@ -85,7 +85,7 @@ public class CorporaUtils {
 
     public static String fitToType(String text, CorporaType corporaType) {
 
-        // FIXME there is a bug here as we're using the TEXT length not the
+        // there may be an issue here as we're using the TEXT length not the
         // raw byte length..
 
         if(TRAIN.equals(corporaType)) {

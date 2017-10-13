@@ -3,17 +3,18 @@ package com.spinn3r.artemis.lang.codepage;
 import com.google.common.collect.ImmutableList;
 import com.google.common.collect.ImmutableSet;
 import com.google.common.collect.Sets;
-import com.spinn3r.artemis.lang.*;
+import com.spinn3r.artemis.lang.Lang;
+import com.spinn3r.artemis.lang.LangClassification;
+import com.spinn3r.artemis.lang.LangClassificationException;
+import com.spinn3r.artemis.lang.LangClassifier;
 
 import java.util.*;
-
-import static com.spinn3r.artemis.lang.Lang.*;
 
 /**
  * A language categorizer that uses the unicode range of the text when classifying
  * the content.
-
- * @Deprecated This is now deprecated as the ngram classifier is much much better
+ *
+ * @Deprecated This is now deprecated as the ngram classifier is far superior.
  */
 @Deprecated
 public class CodepageLangClassifier implements LangClassifier {
@@ -30,8 +31,6 @@ public class CodepageLangClassifier implements LangClassifier {
     private final ImmutableList<CodepageReference> codepageReferences;
 
     public CodepageLangClassifier() {
-        // FIXME: we should use ALL languages in the future as this removes some
-        // of the key languages like Russian
         this(CodepageReferences.createDefault());
     }
 

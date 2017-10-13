@@ -5,6 +5,8 @@
     - move the packages
     - get stats posted on per language accuracy based on classification length
 
+- pre-build the language models and save their serialized form on disk for much 
+  faster loading.
 
 - Migrate to using a TLongIntHashMap as it's a 5x memory savings.  The
   difficulty here is that I need to have this
