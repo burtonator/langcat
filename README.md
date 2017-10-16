@@ -1,7 +1,7 @@
 Overview
 ========
 
-Langcat is a document langauge classifier based on ngram document distribution.  It
+Langcat is a document language classifier based on ngram document distribution.  It
 takes a given set of documents, parses them into profiles/categories, and then
 allows the developer to classify language based on the input text.
 
